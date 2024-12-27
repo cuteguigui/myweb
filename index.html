@@ -103,11 +103,12 @@
                   border-radius: 4px;
                   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
                   background-color: #f3f3f3; /* 设置背景色 */
-                  display: block; /* 确保图片占据正确的布局空间 */
-                  object-fit: cover; /* 图片填充方式 */
-                  opacity: 0;
-                  transition: opacity 0.5s ease;
+                  display: block;
+                  object-fit: cover;
+                  opacity: 0; /* 初始隐藏 */
+                  transition: opacity 0.5s ease; /* 添加淡入效果 */
               }
+
               .swiper-main img[data-src=""]:not([src=""]) {
                   opacity: 1;
               }
@@ -16579,7 +16580,7 @@
 <script>
        // 设置占位符图片
        document.querySelectorAll('img[data-src]').forEach(img => {
-           img.src = 'placeholder.webp'; // 替换为占位符图片的实际路径
+           img.src = './placeholder.webp'; // 替换为占位符图片的实际路径
        });
    
        document.addEventListener('DOMContentLoaded', () => {
@@ -16609,9 +16610,29 @@
                });
            }, observerOptions);
    
-           lazyImages.forEach(img => {
-               console.debug(`[Lazy Load] Adding observer for: ${img.dataset.src}`);
-               imageObserver.observe(img);
+           // 检查动态生成的图片是否已插入到 DOM
+           const checkAndObserve = () => {
+               lazyImages.forEach(img => {
+                   if (document.contains(img)) {
+                       console.debug(`[Lazy Load] Adding observer for: ${img.dataset.src}`);
+                       imageObserver.observe(img);
+                   } else {
+                       console.warn(`[Lazy Load] Skipped unmounted image: ${img.dataset.src}`);
+                   }
+               });
+           };
+   
+           // 初始观察
+           checkAndObserve();
+   
+           // 动态监听新生成的节点
+           const observer = new MutationObserver(() => {
+               checkAndObserve();
+           });
+   
+           observer.observe(document.body, {
+               childList: true,
+               subtree: true,
            });
        });
    </script>   

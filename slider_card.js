@@ -40,19 +40,46 @@
   		this.clsSuffix = obj.clsSuffix
 	}
  
-	Swiper.prototype = {
-		init: function() {
-			this.eventBind();
-
-			let resImgArr;
-			if (this.imgArr.length >2) {
-				resImgArr = [this.imgArr[this.imgArr.length-2], this.imgArr[this.imgArr.length-1], ...this.imgArr, this.imgArr[0], this.imgArr[1]];
-				this.mainDom.style.left = `${-(2 * this.imgWidth + this.gap - this.diffLen)}px`;
-				this.mainDom.style.width = `${(this.imgArr.length+2) * (this.imgWidth + (this.gap / 2))}px`;
-			} else {
-				this.nowIndex = 0;
-				resImgArr = [...this.imgArr];
-			}
+	Swiper.prototype.init = function () {
+		this.eventBind();
+	
+		// 确保轮播图数据已经加载
+		if (!this.imgArr || this.imgArr.length === 0) {
+			console.error('轮播图数据为空，无法初始化！');
+			return;
+		}
+	
+		let resImgArr;
+		if (this.imgArr.length > 2) {
+			resImgArr = [this.imgArr[this.imgArr.length - 2], this.imgArr[this.imgArr.length - 1], ...this.imgArr, this.imgArr[0], this.imgArr[1]];
+			this.mainDom.style.left = `${-(2 * this.imgWidth + this.gap - this.diffLen)}px`;
+			this.mainDom.style.width = `${(this.imgArr.length + 2) * (this.imgWidth + (this.gap / 2))}px`;
+		} else {
+			this.nowIndex = 0;
+			resImgArr = [...this.imgArr];
+		}
+	
+		// 动态生成图片 HTML
+		let str = '';
+		resImgArr.forEach((item, index) => {
+			str += `
+				<a href="${item.url}" target="_blank">
+					<img class="swiper-slide${this.clsSuffix}" style="width: ${this.imgWidth}px;" src="${item.imgPath}" alt="Video Thumbnail"/>
+				</a>
+			`;
+		});
+	
+		// 插入到轮播图容器
+		this.mainDom.innerHTML = str;
+	
+		this.setScale();
+		if (this.autoplay) {
+			this.timer = setInterval(this.nextSlider.bind(this, this.aniTime), this.intervalTime);
+		}
+	
+		console.log('轮播图初始化完成');
+	};
+	
 			let str = '';
 			resImgArr.forEach((item, index) => {
 				str += `
@@ -286,3 +313,53 @@ function filterThumbnails() {
         }
     });
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    const container = document.getElementById('swiper-container');
+    if (!container) {
+        console.error('轮播图容器未找到');
+        return;
+    }
+
+    // 轮播图数据
+    const imgArr = [
+        { url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9', imgPath: 'ii1.webp' },
+        { url: 'https://www.youtube.com/watch?v=OZy89jnBgs8', imgPath: 'https://img.youtube.com/vi/OZy89jnBgs8/hqdefault.jpg' },
+        { url: 'https://www.youtube.com/watch?v=9r9GriQ294o', imgPath: 'https://img.youtube.com/vi/9r9GriQ294o/hqdefault.jpg' },
+        { url: 'https://www.youtube.com/watch?v=Fxf5VOikNF0', imgPath: 'https://img.youtube.com/vi/Fxf5VOikNF0/hqdefault.jpg' },
+        { url: 'https://short.kalostv.com/api/short/jump/675c8297121ed', imgPath: 'ii5.webp' },
+        { url: 'https://short.kalostv.com/api/short/jump/675c52b1b2dd8', imgPath: 'ii6.webp' },
+    ];
+
+    // 动态插入图片到 DOM
+    imgArr.forEach(({ url, imgPath }) => {
+        const link = document.createElement('a');
+        link.href = url;
+        link.target = '_blank';
+
+        const img = document.createElement('img');
+        img.setAttribute('data-src', imgPath); // 设置懒加载
+        img.alt = 'Carousel Image';
+        img.style.opacity = 0; // 初始透明
+
+        link.appendChild(img);
+        container.appendChild(link);
+    });
+
+    console.log('轮播图数据已插入');
+
+    // 实例化 Swiper
+    const mySwiper = new Swiper({
+        imgArr: imgArr,
+        imgWidth: 200,
+        aniTime: 500,
+        intervalTime: 2000,
+        scale: 0.8,
+        autoplay: true,
+        gap: 10,
+        clsSuffix: '', // 样式后缀，如无则留空
+    });
+
+    // 初始化轮播图
+    mySwiper.init();
+});
