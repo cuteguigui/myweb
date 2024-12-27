@@ -18,10 +18,15 @@
 		if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
 		   this.containerWidth = document.body.clientWidth; // 轮播图盒子宽度
 		}else{
-			// PC端
-		   this.containerWidth = 600; // 轮播图盒子宽度
+			// PC端：动态调整宽度
+            if (window.innerWidth > 1200) {
+                this.containerWidth = window.innerWidth * 0.8; // 占屏幕宽度80%
+            } else {
+                this.containerWidth = 800; // 平板及普通桌面端宽度
+            }
+
 		}
-		this.imgWidth = obj.imgWidth; // 图片宽度
+		this.imgWidth = window.innerWidth > 768 ? 300 : 200; // 桌面端图片宽度300px，移动端200px
 		this.aniTime = obj.aniTime || 500;
 		this.intervalTime = this.aniTime + obj.intervalTime || 2000;
 		this.nowIndex =3;
