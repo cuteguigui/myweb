@@ -173,7 +173,11 @@
             padding: 0;
             text-align: center;
        }
-    </style>    
+    </style> 
+    <link
+    rel="stylesheet"
+    href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />   
 </head>
 <body>
        <!-- Google Tag Manager (noscript) -->
@@ -188,14 +192,17 @@
    </div>
 <div class="gradient-box">
 </div>
-<!-- 渐变色块 -->
-<div class="swiper-list-card swiper-list">
-       <!-- 轮播图内容由 JavaScript 动态生成 -->
-       <div class="swiper-main-card swiper-main" id="swiper-container"></div>
-       <!-- 左右按钮 -->
-       <img alt="Previous" class="btn leftBtn" id="prev-card" src="left.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
-       <img alt="Next" class="btn rightBtn" id="next-card" src="right.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
-</div>    
+<!-- Swiper -->
+<div class="swiper-container">
+       <div class="swiper-wrapper" id="swiper-wrapper">
+           <!-- 轮播图内容将由 JavaScript 动态生成 -->
+       </div>
+       <!-- 添加导航按钮 -->
+       <div class="swiper-button-prev"></div>
+       <div class="swiper-button-next"></div>
+       <!-- 如果需要分页器，可以添加以下代码 -->
+       <!-- <div class="swiper-pagination"></div> -->
+   </div>    
 <!-- 调整后的“搜索更多”部分 -->
 <div class="subtitle">
        <img alt="Icon" src="search.webp" style="margin-right: 8px; height: 24px; width: auto;"/>
@@ -16465,8 +16472,6 @@
 </div> <!-- 如果有嵌套 container 内层，确保逻辑清晰 -->
 
 <!-- 在 </body> 前正确引用你的脚本文件 -->
-<script src="slider_card.js"></script> <!-- slider_card.js 引用 -->
-
 <script>
        // 设置占位符图片
        document.querySelectorAll('img[data-src]').forEach(img => {
@@ -16525,7 +16530,11 @@
                subtree: true,
            });
        });
-   </script>   
+   </script> 
+       <!-- Swiper JS -->
+       <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+       <!-- 您的自定义 JS 文件 -->
+       <script src="slider_card.js"></script>  
    </body>
    </html>
    

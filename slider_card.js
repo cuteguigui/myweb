@@ -320,51 +320,119 @@ function filterThumbnails() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    const container = document.getElementById('swiper-container');
-    if (!container) {
-        console.error('轮播图容器未找到');
-        return;
-    }
-
-    // 轮播图数据
-    const imgArr = [
-        { url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9', imgPath: 'ii1.webp' },
-        { url: 'https://www.youtube.com/watch?v=OZy89jnBgs8', imgPath: 'https://img.youtube.com/vi/OZy89jnBgs8/hqdefault.jpg' },
-        { url: 'https://www.youtube.com/watch?v=9r9GriQ294o', imgPath: 'https://img.youtube.com/vi/9r9GriQ294o/hqdefault.jpg' },
-        { url: 'https://www.youtube.com/watch?v=Fxf5VOikNF0', imgPath: 'https://img.youtube.com/vi/Fxf5VOikNF0/hqdefault.jpg' },
-        { url: 'https://short.kalostv.com/api/short/jump/675c8297121ed', imgPath: 'ii5.webp' },
-        { url: 'https://short.kalostv.com/api/short/jump/675c52b1b2dd8', imgPath: 'ii6.webp' },
+    const swiperData = [
+        { 
+            type: 'image', 
+            url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9', 
+            imgPath: 'ii1.webp', 
+            title: '示例图片1' 
+        },
+        { 
+            type: 'video', 
+            url: 'https://www.youtube.com/embed/OZy89jnBgs8', 
+            thumbnail: 'https://img.youtube.com/vi/OZy89jnBgs8/hqdefault.jpg', 
+            title: '示例视频1' 
+        },
+        { 
+            type: 'video', 
+            url: 'https://www.youtube.com/embed/9r9GriQ294o', 
+            thumbnail: 'https://img.youtube.com/vi/9r9GriQ294o/hqdefault.jpg', 
+            title: '示例视频2' 
+        },
+        { 
+            type: 'video', 
+            url: 'https://www.youtube.com/embed/Fxf5VOikNF0', 
+            thumbnail: 'https://img.youtube.com/vi/Fxf5VOikNF0/hqdefault.jpg', 
+            title: '示例视频3' 
+        },
+        { 
+            type: 'image', 
+            url: 'https://short.kalostv.com/api/short/jump/675c8297121ed', 
+            imgPath: 'ii5.webp', 
+            title: '示例图片2' 
+        },
+        { 
+            type: 'image', 
+            url: 'https://short.kalostv.com/api/short/jump/675c52b1b2dd8', 
+            imgPath: 'ii6.webp', 
+            title: '示例图片3' 
+        },
     ];
 
-    // 动态插入图片到 DOM
-    imgArr.forEach(({ url, imgPath }) => {
-        const link = document.createElement('a');
-        link.href = url;
-        link.target = '_blank';
-
-        const img = document.createElement('img');
-        img.setAttribute('data-src', imgPath); // 设置懒加载
-        img.alt = 'Carousel Image';
-        img.style.opacity = 0; // 初始透明
-
-        link.appendChild(img);
-        container.appendChild(link);
+    // 初始化 Swiper
+    const swiper = new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        // 如果需要分页器，可以启用以下选项
+        // pagination: {
+        //     el: '.swiper-pagination',
+        //     clickable: true,
+        // },
+        lazy: {
+            loadPrevNext: true,
+        },
     });
 
-    console.log('轮播图数据已插入');
+    // 动态生成轮播图内容
+    const swiperWrapper = document.getElementById('swiper-wrapper');
 
-    // 实例化 Swiper
-    const mySwiper = new Swiper({
-        imgArr: imgArr,
-        imgWidth: 200,
-        aniTime: 500,
-        intervalTime: 2000,
-        scale: 0.8,
-        autoplay: true,
-        gap: 10,
-        clsSuffix: '', // 样式后缀，如无则留空
+    swiperData.forEach(item => {
+        const slide = document.createElement('div');
+        slide.classList.add('swiper-slide');
+
+        if (item.type === 'video') {
+            // 使用自定义图片作为视频的封面，点击后弹出 YouTube 视频
+            slide.innerHTML = `
+                <a href="${item.url}" class="video-link" target="_blank">
+                    <img data-src="${item.thumbnail}" class="swiper-lazy" alt="${item.title}">
+                    <div class="swiper-lazy-preloader"></div>
+                </a>
+            `;
+        } else if (item.type === 'image') {
+            // 普通图片轮播项
+            slide.innerHTML = `
+                <a href="${item.url}" target="_blank">
+                    <img data-src="${item.imgPath}" class="swiper-lazy" alt="${item.title}">
+                    <div class="swiper-lazy-preloader"></div>
+                </a>
+            `;
+        }
+
+        swiperWrapper.appendChild(slide);
     });
 
-    // 初始化轮播图
-    mySwiper.init();
+    // 启用 Swiper 的懒加载功能
+    swiper.lazy.load();
+
+    // 点击视频封面后替换为嵌入的视频
+    swiperWrapper.addEventListener('click', function(event) {
+        const target = event.target;
+        if (target.tagName.toLowerCase() === 'img' && target.parentElement.classList.contains('video-link')) {
+            const parentLink = target.parentElement;
+            const href = parentLink.getAttribute('href');
+
+            // 检查是否是 YouTube 视频嵌入链接
+            if (href.includes('youtube.com/embed/')) {
+                // 创建 iframe 元素
+                const iframe = document.createElement('iframe');
+                iframe.setAttribute('src', href + '?autoplay=1');
+                iframe.setAttribute('frameborder', '0');
+                iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+                iframe.setAttribute('allowfullscreen', 'true');
+                iframe.style.width = '100%';
+                iframe.style.height = '100%';
+
+                // 替换图片为视频
+                parentLink.innerHTML = '';
+                parentLink.appendChild(iframe);
+            }
+        }
+    });
 });
