@@ -55,8 +55,12 @@
 			}
 			let str = '';
 			resImgArr.forEach((item, index) => {
-				str += `<a href="${resImgArr[index].url}"><img class="swiper-slide${this.clsSuffix}" style="width: ${this.imgWidth}px;" src="${resImgArr[index].imgPath}" /></a>`;
-			});
+				str += `
+					<a href="${item.url}" target="_blank">
+						<img class="swiper-slide${this.clsSuffix}" style="width: ${this.imgWidth}px;" src="${item.imgPath}" alt="Video Thumbnail"/>
+					</a>
+				`;
+			});			
 			this.mainDom.innerHTML = str;
 			this.setScale();
 			if (this.autoplay) {
