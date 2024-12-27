@@ -16563,36 +16563,50 @@
             });
         }
     </script>
-</div></div></div></body>
-<!-- 保证没有多余的 </div> -->
-<script src="./slider_card.js">
-</script>
+</div> <!-- 确保正确关闭 container 或其他父级标签 -->
+</div> <!-- 如果有嵌套 container 内层，确保逻辑清晰 -->
+</div> <!-- 检查是否有误闭合的嵌套 div -->
+
+<!-- 在 </body> 前正确引用你的脚本文件 -->
+<script src="./slider_card.js"></script> <!-- slider_card.js 引用 -->
+
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-    // 获取所有需要懒加载的图片
-    const lazyImages = document.querySelectorAll('img[data-src]');
+    document.addEventListener('DOMContentLoaded', () => {
+        // 懒加载图片逻辑
+        const lazyImages = document.querySelectorAll('img[data-src]');
+        const observerOptions = {
+            root: null,
+            rootMargin: '100px',
+            threshold: 0.1,
+        };
 
-    // 设置 Intersection Observer 的配置
-    const observerOptions = {
-        root: null, // 使用视口作为根元素
-        rootMargin: '100px', // 提前 100px 预加载图片
-        threshold: 0.1 // 只有图片至少显示 10% 时才触发加载
-    };
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.getAttribute('data-src');
+                    img.removeAttribute('data-src');
+                    observer.unobserve(img);
+                }
+            });
+        }, observerOptions);
 
-    // 创建 Intersection Observer
-    const imageObserver = new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const img = entry.target;
-                img.src = img.getAttribute('data-src'); // 设置真实图片路径
-                img.removeAttribute('data-src'); // 移除 data-src 属性
-                observer.unobserve(img); // 停止观察已加载的图片
-            }
+        lazyImages.forEach(img => imageObserver.observe(img));
+    });
+
+    function changeTab(selectedValue) {
+        // 切换语言类别的逻辑
+        const allThumbnails = document.querySelectorAll('.thumbnail');
+        allThumbnails.forEach(thumbnail => {
+            thumbnail.style.display = 'none';
         });
-    }, observerOptions);
 
-    // 开始观察所有懒加载图片
-    lazyImages.forEach(img => imageObserver.observe(img));
-});
- </script>
+        const selectedTabClass = `.tab${selectedValue}`;
+        const selectedThumbnails = document.querySelectorAll(selectedTabClass);
+        selectedThumbnails.forEach(thumbnail => {
+            thumbnail.style.display = 'flex'; // 显示所选语言类别的缩略图
+        });
+    }
+</script>
+</body>
 </html>
