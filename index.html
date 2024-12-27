@@ -30,6 +30,22 @@
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <style>
+       .search-icon {
+           width: 100px;
+           height: auto;
+           margin: 0 auto;
+           display: block;
+           object-fit: contain;
+       }
+
+       .search-bar .tab-select,
+       .search-bar .search-input {
+           max-width: 250px;
+           width: 100%;
+           font-size: 16px;
+           margin: 0 5px;
+       }
+
        .container {
             text-align: center; /* 让标题居中 */
        }
@@ -179,11 +195,11 @@
        <!-- 左右按钮 -->
        <img alt="Previous" class="btn leftBtn" id="prev-card" src="left.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
        <img alt="Next" class="btn rightBtn" id="next-card" src="right.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
-</div>   
-   
+</div>    
 <!-- 新的内容区域 -->
 <div class="subtitle">
-<img alt="Icon" src="search.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
+       <img alt="Icon" src="search.webp" loading="lazy" class="search-icon" />
+   </div>   
 <!-- 在标题前添加图标 -->
     Search More Drama
    </div>
