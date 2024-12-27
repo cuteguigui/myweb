@@ -271,4 +271,18 @@ function trackPageView() {
   window.addEventListener('locationchange', () => {
 	trackPageView();
   });
-  
+
+// 搜索筛选功能
+function filterThumbnails() {
+    const input = document.getElementById("searchInput").value.toLowerCase(); // 获取输入框的值并转为小写
+    const thumbnails = document.querySelectorAll(".thumbnail"); // 获取所有缩略图
+
+    thumbnails.forEach(thumbnail => {
+        const title = thumbnail.getAttribute("data-title").toLowerCase(); // 获取 data-title 属性并转为小写
+        if (title.includes(input)) {
+            thumbnail.style.display = ""; // 显示匹配的项
+        } else {
+            thumbnail.style.display = "none"; // 隐藏不匹配的项
+        }
+    });
+}
