@@ -11,7 +11,7 @@
 <!-- 预加载字体 -->
 <link rel="preload" href="fonts/yourfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <!-- 预加载 JS 文件 -->
-<link rel="preload" href="path/to/critical-script.js" as="script">
+<link rel="preload" href="path/to/slider_card.js" as="script">
               
 <!-- 添加 Meta 标签优化 -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -102,7 +102,14 @@
                   max-height: 400px;
                   border-radius: 4px;
                   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-                  display: block;
+                  background-color: #f3f3f3; /* 设置背景色 */
+                  display: block; /* 确保图片占据正确的布局空间 */
+                  object-fit: cover; /* 图片填充方式 */
+                  opacity: 0;
+                  transition: opacity 0.5s ease;
+              }
+              .swiper-main img[data-src=""]:not([src=""]) {
+                  opacity: 1;
               }
 
 		.btn {
@@ -16570,56 +16577,44 @@
 <script src="./slider_card.js"></script> <!-- slider_card.js 引用 -->
 
 <script>
-       document.addEventListener('DOMContentLoaded', () => {
-           // 懒加载图片逻辑
-           const lazyImages = document.querySelectorAll('img[data-src]');
+       // 设置占位符图片
+       document.querySelectorAll('img[data-src]').forEach(img => {
+           img.src = 'placeholder.webp'; // 替换为占位符图片的实际路径
+       });
    
-           // Intersection Observer 配置
+       document.addEventListener('DOMContentLoaded', () => {
+           const lazyImages = document.querySelectorAll('img[data-src]');
            const observerOptions = {
-               root: null,           // 以视口为根
-               rootMargin: '100px',  // 提前 100px 加载图片
-               threshold: 0.1        // 图片进入视口 10% 时触发
+               root: null,
+               rootMargin: '300px', // 提前加载 300px
+               threshold: 0.1,      // 图片进入视口 10% 时触发加载
            };
    
-           // 初始化 Intersection Observer
            const imageObserver = new IntersectionObserver((entries, observer) => {
                entries.forEach(entry => {
-                   console.log('Observed entry:', entry); // 输出调试信息
-   
                    if (entry.isIntersecting) {
-                       console.log('Image is visible:', entry.target); // 图片进入视口
-   
                        const img = entry.target;
-                       img.src = img.getAttribute('data-src'); // 替换为真实图片
-                       img.removeAttribute('data-src');        // 删除 data-src 属性
-                       observer.unobserve(img);                // 停止观察
+                       console.log(`[Lazy Load] Loading image: ${img.dataset.src}`);
+                       img.src = img.getAttribute('data-src');
+                       img.removeAttribute('data-src');
+   
+                       img.addEventListener('load', () => {
+                           img.style.opacity = 1; // 图片加载完成后淡入
+                       });
+   
+                       observer.unobserve(img);
                    } else {
-                       console.log('Image is not visible:', entry.target); // 图片未进入视口
+                       console.debug(`[Lazy Load] Observing image: ${entry.target.dataset.src}`);
                    }
                });
            }, observerOptions);
    
-           // 将 Observer 应用到所有懒加载图片
            lazyImages.forEach(img => {
-               console.log('Observing image:', img); // 确认 Observer 是否绑定
+               console.debug(`[Lazy Load] Adding observer for: ${img.dataset.src}`);
                imageObserver.observe(img);
            });
        });
-   
-       function changeTab(selectedValue) {
-           // 切换语言类别的逻辑
-           const allThumbnails = document.querySelectorAll('.thumbnail');
-           allThumbnails.forEach(thumbnail => {
-               thumbnail.style.display = 'none';
-           });
-   
-           const selectedTabClass = `.tab${selectedValue}`;
-           const selectedThumbnails = document.querySelectorAll(selectedTabClass);
-           selectedThumbnails.forEach(thumbnail => {
-               thumbnail.style.display = 'flex'; // 显示所选语言类别的缩略图
-           });
-       }
-   </script>
+   </script>   
    </body>
    </html>
    
