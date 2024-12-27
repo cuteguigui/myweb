@@ -196,49 +196,28 @@
        <img alt="Previous" class="btn leftBtn" id="prev-card" src="left.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
        <img alt="Next" class="btn rightBtn" id="next-card" src="right.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
 </div>    
-<!-- 新的内容区域 -->
+<!-- 调整后的“搜索更多”部分 -->
 <div class="subtitle">
-       <img alt="Icon" src="search.webp" loading="lazy" class="search-icon" />
-   </div>   
-<!-- 在标题前添加图标 -->
-    Search More Drama
+       <img alt="Icon" src="search.webp" style="margin-right: 8px; height: 24px; width: auto;"/>
+       Search More Drama
    </div>
-<div class="gradient-box">
-</div>
-<!-- 渐变色块 -->
-<div class="content-section">
-<div class="search-bar">
-<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
-<option value="0">
-       English
-      </option>
-<option value="1">
-       Indonesian
-      </option>
-<option value="2">
-       Spanish
-      </option>
-<option value="3">
-       French
-      </option>
-<option value="4">
-       Korean
-      </option>
-<option value="5">
-       Japanese
-      </option>
-<option value="6">
-       German
-      </option>
-<option value="7">
-       Thai
-      </option>
-<option value="8">
-       Traditional Chinese
-      </option>
-</select>
-<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama" type="text"/>
-</div>
+   <div class="gradient-box"></div>
+   <div class="content-section">
+       <div class="search-bar">
+           <select class="tab-select" id="tabSelect" onchange="changeTab(this.value)" style="max-width: 180px; width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 20px; margin: 0 5px;">
+               <option value="0">English</option>
+               <option value="1">Indonesian</option>
+               <option value="2">Spanish</option>
+               <option value="3">French</option>
+               <option value="4">Korean</option>
+               <option value="5">Japanese</option>
+               <option value="6">German</option>
+               <option value="7">Thai</option>
+               <option value="8">Traditional Chinese</option>
+           </select>
+           <input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama" type="text" style="max-width: 180px; width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 20px; margin: 0 5px;">
+       </div>
+   </div>   
 <div class="thumbnail-container" id="thumbnailContainer">
 <div class="thumbnail tab1" data-index="1" data-title="Direktur, pengawalnya adalah wanita itu.">
 <a href="https://short.kalostv.com/api/short/jump/675c2d7ee0b6f" target="_blank">
