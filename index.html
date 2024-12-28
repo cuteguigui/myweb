@@ -17,236 +17,295 @@
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <style>
-   .container {
-			text-align: center;
-			/* 让标题居中 */
-		}
+              body {
+              font-family: Arial, sans-serif;
+              margin: 0;
+              padding: 0;
+              text-align: center;
+              }
 
-		.title {
-			color: red;
-			/* 修改为红色字体 */
-			padding: 10px;
-			/* 内边距 */
-			border-radius: 4px;
-			/* 圆角 */
-			font-size: 54px;
-			/* 字体大小 */
-			margin-bottom: 5px;
-			/* 标题与渐变块之间的距离 */
-			display: flex;
-			/* 使用 Flexbox 布局 */
-			align-items: center;
-			/* 垂直居中对齐 */
-			justify-content: center;
-			/* 水平居中对齐 */
-		}
+              .container {
+              text-align: center;
+              /* 让标题居中 */
+              }
 
-		.title img {
-			margin-right: 10px;
-			/* 图标与标题之间的间隔 */
-			height: 24px;
-			/* 设置图标高度 */
-			width: auto;
-			/* 保持宽高比 */
-		}
+              /* 标题样式 */
+              .title {
+              color: red;
+              /* 修改为红色字体 */
+              padding: 10px;
+              /* 内边距 */
+              border-radius: 4px;
+              /* 圆角 */
+              font-size: 54px;
+              /* 字体大小 */
+              margin-bottom: 5px;
+              /* 标题与渐变块之间的距离 */
+              display: flex;
+              /* 使用 Flexbox 布局 */
+              align-items: center;
+              /* 垂直居中对齐 */
+              justify-content: center;
+              /* 水平居中对齐 */
+              }
 
-		.gradient-box {
-			background: linear-gradient(to right, #ff7e5f, #feb47b);
-			/* 设置渐变颜色 */
-			height: 10px;
-			/* 设置高度 */
-			margin-bottom: 10px;
-			/* 渐变块与轮播图之间的距离 */
-		}
+              .title img {
+              margin-right: 10px;
+              /* 图标与标题之间的间隔 */
+              height: 24px;
+              /* 设置图标高度 */
+              width: auto;
+              /* 保持宽高比 */
+              }
 
-		.swiper-list {
-			height: 400px;
-			/* 设定固定高度 */
-			position: relative;
-			overflow: hidden;
-			padding: 10px 0;
-			margin: 0 auto;
-			/* 添加此行使容器居中 */
-			max-width: 800px;
-			/* 可根据需要设置最大宽度 */
-		}
+              .gradient-box {
+              background: linear-gradient(to right, #ff7e5f, #feb47b);
+              /* 设置渐变颜色 */
+              height: 10px;
+              /* 设置高度 */
+              margin-bottom: 10px;
+              /* 渐变块与轮播图之间的距离 */
+              }
 
+              .swiper-list {
+              height: 400px;
+              /* 设定固定高度 */
+              position: relative;
+              overflow: hidden;
+              padding: 10px 0;
+              margin: 0 auto;
+              /* 添加此行使容器居中 */
+              max-width: 800px;
+              /* 可根据需要设置最大宽度 */
+              }
 
-		.swiper-main {
-			height: 100%;
-			position: relative;
-		}
+              .swiper-main {
+              height: 100%;
+              position: relative;
+              }
 
-		.swiper-main a {
-			height: 100%;
-			/* 链接区域与图片高度一致 */
-			display: block;
-			/* 链接为块元素 */
-		}
+              .swiper-main a {
+              height: 100%;
+              /* 链接区域与图片高度一致 */
+              display: block;
+              /* 链接为块元素 */
+              }
 
-		.swiper-main img {
-			height: auto;
-			/* 高度自适应保持比例 */
-			width: 100%;
-			/* 宽度为100%以适应屏幕 */
-			max-height: 400px;
-			/* 最大高度 */
-			display: block;
-			position: absolute;
-			top: 0px;
-			border-radius: 4px;
-			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-		}
+              .swiper-main img {
+              height: auto;
+              /* 高度自适应保持比例 */
+              width: 100%;
+              /* 宽度为100%以适应屏幕 */
+              max-height: 400px;
+              /* 最大高度 */
+              display: block;
+              position: absolute;
+              top: 0px;
+              border-radius: 4px;
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+              }
 
-		.btn {
-			position: absolute;
-			top: 50%;
-			transform: translateY(-50%);
-			width: 30px;
-			height: 30px;
-			z-index: 1002;
-		}
+              .btn {
+              position: absolute;
+              top: 50%;
+              transform: translateY(-50%);
+              width: 30px;
+              height: 30px;
+              z-index: 1002;
+              }
 
-		.leftBtn {
-			left: 10px;
-		}
+              .leftBtn {
+              left: 10px;
+              }
 
-		.rightBtn {
-			right: 10px;
-		}
+              .rightBtn {
+              right: 10px;
+              }
 
-		@media (max-width: 600px) {
-			.swiper-list {
-				height: 300px;
-				/* 在移动设备上可适当降低高度 */
-			}
+              @media (max-width: 600px) {
+              .swiper-list {
+                     height: 300px;
+                     /* 在移动设备上可适当降低高度 */
+              }
 
-			.btn {
-				width: 25px;
-				height: 25px;
-			}
+              .btn {
+                     width: 25px;
+                     height: 25px;
+              }
 
-			.title {
-				font-size: 18px;
-				/* 在小屏幕上调整字体大小 */
-			}
-		}
+              .title {
+                     font-size: 18px;
+                     /* 在小屏幕上调整字体大小 */
+              }
+              }
 
-		.content-section {
-			margin: 20px 0;
-			/* 内容区的上下边距 */
-			text-align: left;
-			/* 左对齐 */
-			padding: 0 15px;
-			/* 内容区内边距 */
-		}
+              .content-section {
+              margin: 20px 0;
+              /* 内容区的上下边距 */
+              text-align: left;
+              /* 左对齐 */
+              padding: 0 15px;
+              /* 内容区内边距 */
+              }
 
-		.content-section h2 {
-			color: #333;
-			/* 主标题颜色 */
-		}
+              .content-section h2 {
+              color: #333;
+              /* 主标题颜色 */
+              }
 
-		.content-section p {
-			color: #666;
-			/* 正文颜色 */
-			line-height: 1.5;
-			/* 行高 */
-		}
+              .content-section p {
+              color: #666;
+              /* 正文颜色 */
+              line-height: 1.5;
+              /* 行高 */
+              }
 
-		body {
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-			text-align: center;
-		}
+              .header {
+              margin: 20px 0;
+              }
 
-		.header {
-			margin: 20px 0;
-		}
+              .search-bar {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin-bottom: 20px;
+              }
 
-		.search-bar {
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			margin-bottom: 20px;
-		}
+              .tab-select,
+              .search-input {
+              padding: 8px;
+              cursor: pointer;
+              border: 1px solid #ccc;
+              margin: 0 5px;
+              width: 100%;
+              max-width: 180px;
+              font-size: 16px;
+              border-radius: 20px;
+              }
 
-		.tab-select,
-		.search-input {
-			padding: 8px;
-			cursor: pointer;
-			border: 1px solid #ccc;
-			margin: 0 5px;
-			width: 100%;
-			max-width: 180px;
-			font-size: 16px;
-			border-radius: 20px;
-		}
+              /* 缩略图容器样式 */
+              .thumbnail-container {
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              gap: 10px;
+              /* 保持水平间距 */
+              }
 
-		.thumbnail-container {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-			gap: 10px;
-			/* 保持水平间距 */
-		}
+              /* 缩略图样式 */
+              .thumbnail {
+              width: 150px;
+              /* 固定宽度 */
+              aspect-ratio: 3 / 4;
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+              cursor: pointer;
+              background-color: transparent;
+              border: none;
+              border-radius: 10px;
+              overflow: hidden;
+              margin-bottom: 15px;
+              /* 增加行之间的间距 */
+              position: relative; /* 为定位模态框 */
+              }
 
-		.thumbnail {
-			width: 30%;
-			aspect-ratio: 3 / 4;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			align-items: center;
-			cursor: pointer;
-			background-color: transparent;
-			border: none;
-			border-radius: 10px;
-			overflow: hidden;
-			margin-bottom: 15px;
-			/* 增加行之间的间距 */
-		}
+              .thumbnail-title {
+              margin-top: 5px;
+              font-size: 14px;
+              /* 调整字体大小 */
+              color: #333;
+              }
 
-		.thumbnail-title {
-			margin-top: 5px;
-			font-size: 10px;
-		}
+              .thumbnail img {
+              max-width: 100%;
+              max-height: 100%;
+              border-radius: 10px;
+              }
 
-		.thumbnail img {
-			max-width: 90%;
-			max-height: 90%;
-			border-radius: 10px;
-		}
+              /* 副标题样式 */
+              .subtitle {
+              color: #e21111;
+              /* 字体颜色 */
+              padding: 10px;
+              
+              /* 内边距 */
+              font-size: 20px;
+              /* 字体大小 */
+              display: flex;
+              /* 使用Flexbox居中 */
+              align-items: center;
+              /* 垂直居中对齐 */
+              justify-content: center;
+              /* 水平居中对齐 */
+              margin: 0px 0;
+              /* 上下外边距 */
+              }
 
-		.subtitle {
-			color: #e21111;
-			/* 字体颜色 */
-			padding: 10px;
-			
-			/* 内边距 */
-			font-size: 20px;
-			/* 字体大小 */
-			display: flex;
-			/* 使用Flexbox居中 */
-			align-items: center;
-			/* 垂直居中对齐 */
-			justify-content: center;
-			/* 水平居中对齐 */
-			margin: 0px 0;
-			/* 上下外边距 */
-		}
+              .subtitle img {
+              margin-right: 8px;
+              /* 图标与文本之间的间隔 */
+              height: 24px;
+              /* 图标高度 */
+              width: auto;
+              /* 保持宽高比 */
+              }
 
-		.subtitle img {
-			margin-right: 8px;
-			/* 图标与文本之间的间隔 */
-			height: 24px;
-			/* 图标高度 */
-			width: auto;
-			/* 保持宽高比 */
-        }
-        .hidden {
-            display: none;
-        }
+              .hidden {
+              display: none;
+              }
+
+              /* 模态框样式 */
+              .modal {
+              display: none; /* 默认隐藏 */
+              position: fixed;
+              z-index: 1000;
+              left: 0;
+              top: 0;
+              width: 100%;
+              height: 100%;
+              overflow: auto;
+              background-color: rgba(0,0,0,0.8); /* 半透明黑色背景 */
+              justify-content: center;
+              align-items: center;
+              }
+
+              .modal-content {
+              position: relative;
+              width: 80%;
+              max-width: 800px;
+              background-color: #000;
+              border-radius: 10px;
+              overflow: hidden;
+              }
+
+              .close {
+              position: absolute;
+              top: 10px;
+              right: 20px;
+              color: #fff;
+              font-size: 35px;
+              font-weight: bold;
+              cursor: pointer;
+              }
+
+              .video-container {
+              position: relative;
+              padding-bottom: 56.25%; /* 16:9 比例 */
+              padding-top: 25px;
+              height: 0;
+              }
+
+              .video-container iframe {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              border: none;
+              }
+        
   </style>
 </head>
 <body>
@@ -330,22 +389,27 @@
 <input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama" type="text"/>
 </div>
 <div class="thumbnail-container" id="thumbnailContainer">
-<div class="thumbnail tab1" data-index="1" data-title="Direktur, pengawalnya adalah wanita itu.">
-<a href="https://short.kalostv.com/api/short/jump/675c2d7ee0b6f" target="_blank">
-<img alt="Direktur, pengawalnya adalah wanita itu." src="1/A1.webp"/>
-<div class="thumbnail-title">
-        Direktur, pengawalnya adalah wanita itu.
-       </div>
-</a>
-</div>
-<div class="thumbnail tab1" data-index="2" data-title="Perjuangan Miss">
-<a href="https://short.kalostv.com/api/short/jump/675c2fbba5fba" target="_blank">
-<img alt="Perjuangan Miss" src="1/A2.webp"/>
-<div class="thumbnail-title">
-        Perjuangan Miss
-       </div>
-</a>
-</div>
+       <div class="thumbnail-container" id="thumbnailContainer">
+              <!-- 缩略图 1 -->
+              <div class="thumbnail tab1" data-index="1" data-title="Direktur, pengawalnya adalah wanita itu." data-video-url="https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c">
+                <a href="#" class="thumbnail-link">
+                  <img alt="Direktur, pengawalnya adalah wanita itu." src="1/A1.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
+                  <div class="thumbnail-title">
+                    Direktur, pengawalnya adalah wanita itu.
+                  </div>
+                </a>
+              </div>
+            
+              <!-- 缩略图 2 -->
+              <div class="thumbnail tab1" data-index="2" data-title="Perjuangan Miss" data-video-url="https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c">
+                <a href="#" class="thumbnail-link">
+                  <img alt="Perjuangan Miss" src="1/A2.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
+                  <div class="thumbnail-title">
+                    Perjuangan Miss
+                  </div>
+                </a>
+              </div>
+            </div>            
 <div class="thumbnail tab1" data-index="3" data-title="Melawan Setelah Ditinggalkan">
 <a href="https://short.kalostv.com/api/short/jump/675c2fc0e1517" target="_blank">
 <img alt="Melawan Setelah Ditinggalkan" src="1/A3.webp"/>
@@ -16572,10 +16636,18 @@
             });
         }
     </script>
-</div></div></div></body>
+    <!-- 模态框结构 -->
+    <div id="videoModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="video-container">
+                <!-- 嵌入视频将动态插入这里 -->
+            </div>
+        </div>
+    </div>
+</div></div></body>
 <!-- 保证没有多余的 </div> -->
-<script src="./slider_card.js">
-</script>
+<script src="./slider_card.js"></script>
 <script>
   let imgArr = [{
 		url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9',
@@ -16625,4 +16697,179 @@
 		clsSuffix: '-stack'
 	}).init();
  </script>
+ !-- 视频模态框的 JavaScript 功能 -->
+<script>
+       // 获取模态框元素
+       var modal = document.getElementById("videoModal");
+
+       // 获取关闭按钮
+       var span = document.getElementsByClassName("close")[0];
+
+       // 获取所有缩略图链接
+       var thumbnails = document.querySelectorAll(".thumbnail-link");
+
+       thumbnails.forEach(function (thumbnail) {
+              thumbnail.addEventListener("click", function (event) {
+                     event.preventDefault(); // 阻止默认链接行为
+
+                     // 获取视频 URL
+                     var videoUrl = this.parentElement.getAttribute("data-video-url");
+
+                     // 插入嵌入视频
+                     var videoContainer = document.querySelector(".video-container");
+                     videoContainer.innerHTML = '<iframe src="' + videoUrl + '" frameborder="0" allowfullscreen></iframe>';
+
+                     // 显示模态框
+                     modal.style.display = "flex";
+              });
+       });
+
+       // 当用户点击关闭按钮时，关闭模态框并移除嵌入视频
+       span.onclick = function () {
+              modal.style.display = "none";
+              var videoContainer = document.querySelector(".video-container");
+              videoContainer.innerHTML = '';
+       }
+
+       // 当用户点击模态框背景时，关闭模态框并移除嵌入视频
+       window.onclick = function (event) {
+              if (event.target == modal) {
+                     modal.style.display = "none";
+                     var videoContainer = document.querySelector(".video-container");
+                     videoContainer.innerHTML = '';
+              }
+       }
+</script>
+
+<!-- 其他脚本，如分析等 -->
+<script>
+       /**
+       * 函数：记录页面视图
+       */
+       function trackPageView() {
+              if (typeof gtag === 'function') {
+                     gtag('event', 'page_view', {
+                            page_path: window.location.pathname + window.location.search
+                     });
+              }
+       }
+
+       // 在页面加载时记录初始页面视图
+       window.addEventListener('load', () => {
+              trackPageView();
+       });
+
+       // 监听URL变化（使用History API）
+       (function () {
+              const originalPushState = history.pushState;
+              const originalReplaceState = history.replaceState;
+
+              history.pushState = function (...args) {
+                     originalPushState.apply(history, args);
+                     window.dispatchEvent(new Event('locationchange'));
+              };
+
+              history.replaceState = function (...args) {
+                     originalReplaceState.apply(history, args);
+                     window.dispatchEvent(new Event('locationchange'));
+              };
+
+              window.addEventListener('popstate', () => {
+                     window.dispatchEvent(new Event('locationchange'));
+              });
+       })();
+
+       // 在URL变化时记录页面视图
+       window.addEventListener('locationchange', () => {
+              trackPageView();
+       });
+</script>
+       <!-- 视频模态框的 JavaScript 功能 -->
+    <script>
+       // 获取模态框元素
+       var modal = document.getElementById("videoModal");
+
+       // 获取关闭按钮
+       var span = document.getElementsByClassName("close")[0];
+
+       // 获取所有缩略图链接
+       var thumbnails = document.querySelectorAll(".thumbnail-link");
+
+       thumbnails.forEach(function(thumbnail) {
+           thumbnail.addEventListener("click", function(event) {
+               event.preventDefault(); // 阻止默认链接行为
+
+               // 获取视频 URL
+               var videoUrl = this.parentElement.getAttribute("data-video-url");
+
+               // 插入嵌入视频
+               var videoContainer = document.querySelector(".video-container");
+               videoContainer.innerHTML = '<iframe src="' + videoUrl + '" frameborder="0" allowfullscreen></iframe>';
+
+               // 显示模态框
+               modal.style.display = "flex";
+           });
+       });
+
+       // 当用户点击关闭按钮时，关闭模态框并移除嵌入视频
+       span.onclick = function() {
+           modal.style.display = "none";
+           var videoContainer = document.querySelector(".video-container");
+           videoContainer.innerHTML = '';
+       }
+
+       // 当用户点击模态框背景时，关闭模态框并移除嵌入视频
+       window.onclick = function(event) {
+           if (event.target == modal) {
+               modal.style.display = "none";
+               var videoContainer = document.querySelector(".video-container");
+               videoContainer.innerHTML = '';
+           }
+       }
+   </script>
+
+   <!-- 其他脚本，如分析等 -->
+   <script>
+       /**
+       * 函数：记录页面视图
+       */
+       function trackPageView() {
+           if (typeof gtag === 'function') {
+               gtag('event', 'page_view', {
+                   page_path: window.location.pathname + window.location.search
+               });
+           }
+       }
+
+       // 在页面加载时记录初始页面视图
+       window.addEventListener('load', () => {
+           trackPageView();
+       });
+
+       // 监听URL变化（使用History API）
+       (function() {
+           const originalPushState = history.pushState;
+           const originalReplaceState = history.replaceState;
+
+           history.pushState = function(...args) {
+               originalPushState.apply(history, args);
+               window.dispatchEvent(new Event('locationchange'));
+           };
+
+           history.replaceState = function(...args) {
+               originalReplaceState.apply(history, args);
+               window.dispatchEvent(new Event('locationchange'));
+           };
+
+           window.addEventListener('popstate', () => {
+               window.dispatchEvent(new Event('locationchange'));
+           });
+       })();
+
+       // 在URL变化时记录页面视图
+       window.addEventListener('locationchange', () => {
+           trackPageView();
+       });
+   </script>
+</body>
 </html>
