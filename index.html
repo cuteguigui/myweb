@@ -450,25 +450,31 @@
 </div>
        <div class="thumbnail-container" id="thumbnailContainer">
               <!-- 缩略图 1 -->
-              <div class="thumbnail tab1" data-index="1" data-title="Direktur, pengawalnya adalah wanita itu." data-video-url="https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c">
-                <a href="#" class="thumbnail-link">
-                  <img alt="Direktur, pengawalnya adalah wanita itu." src="1/A1.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
-                  <div class="thumbnail-title">
-                    Direktur, pengawalnya adalah wanita itu.
-                  </div>
-                </a>
+              <div class="thumbnail tab1" data-index="1" data-title="Direktur, pengawalnya adalah wanita itu."
+                     data-video-url="https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c">
+                     <a href="#" class="thumbnail-link"
+                            onclick="openModal('https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c')">
+                            <img alt="Direktur, pengawalnya adalah wanita itu." src="1/A1.webp" loading="lazy" width="150"
+                                   height="200" style="object-fit: cover;" />
+                            <div class="thumbnail-title">
+                                   Direktur, pengawalnya adalah wanita itu.
+                            </div>
+                     </a>
               </div>
-            
+              
               <!-- 缩略图 2 -->
-              <div class="thumbnail tab1" data-index="2" data-title="Perjuangan Miss" data-video-url="https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c">
-                <a href="#" class="thumbnail-link">
-                  <img alt="Perjuangan Miss" src="1/A2.webp" loading="lazy" width="150" height="200" style="object-fit: cover;"/>
-                  <div class="thumbnail-title">
-                    Perjuangan Miss
-                  </div>
-                </a>
+              <div class="thumbnail tab1" data-index="2" data-title="Perjuangan Miss"
+                     data-video-url="https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c">
+                     <a href="#" class="thumbnail-link"
+                            onclick="openModal('https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c')">
+                            <img alt="Perjuangan Miss" src="1/A2.webp" loading="lazy" width="150" height="200"
+                                   style="object-fit: cover;" />
+                            <div class="thumbnail-title">
+                                   Perjuangan Miss
+                            </div>
+                     </a>
               </div>
-            </div>            
+
 <div class="thumbnail tab1" data-index="3" data-title="Melawan Setelah Ditinggalkan">
 <a href="https://short.kalostv.com/api/short/jump/675c2fc0e1517" target="_blank">
 <img alt="Melawan Setelah Ditinggalkan" src="1/A3.webp"/>
@@ -16930,5 +16936,32 @@
            trackPageView();
        });
    </script>
+<script>
+       // 打开模态框并加载视频
+       function openModal(videoUrl) {
+              const modal = document.getElementById('videoModal');
+              const modalVideo = document.getElementById('modalVideo');
+              modalVideo.src = videoUrl;
+              modal.style.display = 'flex';
+       }
+
+       // 关闭模态框
+       function closeModal() {
+              const modal = document.getElementById('videoModal');
+              const modalVideo = document.getElementById('modalVideo');
+              modal.style.display = 'none';
+              modalVideo.src = ''; // 停止播放视频
+       }
+
+       // 为模态框关闭按钮绑定事件
+       document.getElementById('closeModal').onclick = closeModal;
+
+       // 点击模态框背景关闭
+       document.getElementById('videoModal').onclick = function (e) {
+              if (e.target === this) {
+                     closeModal();
+              }
+       };
+</script>
 </body>
 </html>
