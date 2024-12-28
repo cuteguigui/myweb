@@ -267,4 +267,34 @@ function trackPageView() {
   window.addEventListener('locationchange', () => {
 	trackPageView();
   });
-  
+
+// 获取模态框和相关元素
+const modal = document.getElementById("videoModal");
+const modalVideo = document.getElementById("modalVideo");
+const closeModal = document.getElementById("closeModal");
+
+// 为每个缩略图添加点击事件
+document.querySelectorAll(".thumbnail").forEach(thumbnail => {
+	thumbnail.addEventListener("click", (e) => {
+		e.preventDefault(); // 阻止默认点击行为
+		const videoUrl = thumbnail.getAttribute("data-video-url");
+		if (videoUrl) {
+			modalVideo.src = videoUrl;
+			modal.style.display = "flex"; // 显示模态框
+		}
+	});
+});
+
+// 关闭模态框
+closeModal.addEventListener("click", () => {
+	modal.style.display = "none";
+	modalVideo.src = ""; // 停止视频播放
+});
+
+// 点击模态框外部关闭
+modal.addEventListener("click", (e) => {
+	if (e.target === modal) {
+		modal.style.display = "none";
+		modalVideo.src = ""; // 停止视频播放
+	}
+});
