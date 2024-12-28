@@ -237,12 +237,27 @@
               .thumbnail-container {
                 display: grid;
                 gap: 10px; /* 缩略图间距 */
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 自动调整每行缩略图数量 */
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 默认自适应 */
               }
 
               @media (max-width: 600px) {
+                /* 移动端一行显示 2 张 */
                 .thumbnail-container {
-                  grid-template-columns: repeat(2, 1fr); /* 移动端一行显示 2 个缩略图 */
+                grid-template-columns: repeat(2, 1fr);
+                }
+              }
+
+              @media (min-width: 601px) and (max-width: 1024px) {
+                /* iPad 一行显示 4 张 */
+                .thumbnail-container {
+                grid-template-columns: repeat(4, 1fr);
+                }
+              }
+
+              @media (min-width: 1025px) {
+                /* PC 一行显示 4 张 */
+                .thumbnail-container {
+                grid-template-columns: repeat(4, 1fr);
                 }
               }
 
