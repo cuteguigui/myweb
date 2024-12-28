@@ -235,11 +235,15 @@
 
               /* 缩略图容器样式 */
               .thumbnail-container {
-              display: flex;
-              flex-wrap: wrap;
-              justify-content: center;
-              gap: 10px;
-              /* 保持水平间距 */
+                display: grid;
+                gap: 10px; /* 缩略图间距 */
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 自动调整每行缩略图数量 */
+              }
+
+              @media (max-width: 600px) {
+                .thumbnail-container {
+                  grid-template-columns: repeat(2, 1fr); /* 移动端一行显示 2 个缩略图 */
+                }
               }
 
               /* 缩略图样式 */
