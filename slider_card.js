@@ -268,33 +268,36 @@ function trackPageView() {
 	trackPageView();
   });
 
-// 获取模态框和相关元素
-const modal = document.getElementById("videoModal");
-const modalVideo = document.getElementById("modalVideo");
-const closeModal = document.getElementById("closeModal");
+document.addEventListener("DOMContentLoaded", function () {
+	const videoModal = document.getElementById("videoModal");
+	const videoFrame = document.getElementById("videoFrame");
+	const closeModal = document.getElementById("closeModal");
 
-// 为每个缩略图添加点击事件
-document.querySelectorAll(".thumbnail").forEach(thumbnail => {
-	thumbnail.addEventListener("click", (e) => {
-		e.preventDefault(); // 阻止默认点击行为
-		const videoUrl = thumbnail.getAttribute("data-video-url");
-		if (videoUrl) {
-			modalVideo.src = videoUrl;
-			modal.style.display = "flex"; // 显示模态框
+	// 缩略图绑定点击事件
+	document.querySelectorAll(".thumbnail").forEach((thumbnail, index) => {
+		thumbnail.addEventListener("click", function () {
+			const videos = [
+				"https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c",
+				"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
+			];
+			if (videos[index]) {
+				videoFrame.src = videos[index];
+				videoModal.classList.remove("hidden");
+			}
+		});
+	});
+
+	// 关闭弹窗
+	closeModal.addEventListener("click", function () {
+		videoFrame.src = "";
+		videoModal.classList.add("hidden");
+	});
+
+	// 点击弹窗外部关闭弹窗
+	videoModal.addEventListener("click", function (event) {
+		if (event.target === videoModal) {
+			videoFrame.src = "";
+			videoModal.classList.add("hidden");
 		}
 	});
-});
-
-// 关闭模态框
-closeModal.addEventListener("click", () => {
-	modal.style.display = "none";
-	modalVideo.src = ""; // 停止视频播放
-});
-
-// 点击模态框外部关闭
-modal.addEventListener("click", (e) => {
-	if (e.target === modal) {
-		modal.style.display = "none";
-		modalVideo.src = ""; // 停止视频播放
-	}
 });
