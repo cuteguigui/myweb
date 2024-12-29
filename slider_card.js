@@ -271,47 +271,65 @@ function trackPageView() {
 document.addEventListener("DOMContentLoaded", function () {
 	// 定义每个缩略图对应的视频 URL
 	const videoURLs = [
-		"https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c",
-		"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
+		"https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c", // 对应 1/A1.webp
+		"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"  // 对应 1/A2.webp
 	];
 
 	// 为每个缩略图绑定点击事件
 	document.querySelectorAll(".thumbnail").forEach((thumbnail) => {
 		thumbnail.addEventListener("click", function (event) {
-			event.preventDefault(); // 阻止默认行为
+			event.preventDefault(); // 阻止默认链接跳转
 
-			const index = thumbnail.getAttribute("data-index"); // 获取缩略图索引
-			const link = thumbnail.querySelector("a").getAttribute("href"); // 获取佣金链接
+			// 获取缩略图的 data-index 属性
+			const index = thumbnail.getAttribute("data-index");
 
+			// 判断是否存在嵌入视频的 URL
 			if (videoURLs[index]) {
-				// 弹出视频逻辑
+				// 动态创建弹窗内容
 				const modalHTML = `
-                <div id="videoModal">
-                    <div id="videoContent">
-                        <button id="closeModal">×</button>
-                        <iframe 
-                            src="${videoURLs[index]}" 
-                            frameborder="0" 
-                            allowfullscreen 
-                            style="width: 100%; height: 400px;">
-                        </iframe>
-                    </div>
-                </div>`;
+                    <div id="videoModal">
+                        <div id="videoContent">
+                            <button id="closeModal">×</button>
+                            <iframe 
+                                src="${videoURLs[index]}" 
+                                frameborder="0" 
+                                allowfullscreen 
+                                sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                                style="width: 100%; height: 400px;">
+                            </iframe>
+                        </div>
+                    </div>`;
+
+				// 插入弹窗到页面
 				document.body.insertAdjacentHTML("beforeend", modalHTML);
 
+				// 显示弹窗
 				const videoModal = document.getElementById("videoModal");
 				videoModal.style.display = "flex";
 
-				document.getElementById("closeModal").addEventListener("click", () => videoModal.remove());
-				videoModal.addEventListener("click", (e) => { if (e.target === videoModal) videoModal.remove(); });
-			} else if (link && link !== "#") {
-				// 跳转到佣金链接
-				window.open(link, "_blank");
+				// 绑定关闭事件
+				document.getElementById("closeModal").addEventListener("click", function () {
+					videoModal.remove(); // 移除弹窗
+				});
+
+				// 点击弹窗外部关闭
+				videoModal.addEventListener("click", function (event) {
+					if (event.target === videoModal) {
+						videoModal.remove();
+					}
+				});
 			} else {
-				console.error("No video or link found for index:", index);
+				// 如果没有嵌入视频的 URL，直接跳转链接
+				const link = thumbnail.querySelector("a");
+				if (link) {
+					window.location.href = link.href;
+				} else {
+					console.error("No link found for thumbnail:", thumbnail);
+				}
 			}
 		});
 	});
+});
 
 // 搜索筛选功能
 function filterThumbnails() {
