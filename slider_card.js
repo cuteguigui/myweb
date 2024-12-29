@@ -324,3 +324,19 @@ document.addEventListener("DOMContentLoaded", function () {
 		});
 	});
 });
+
+function filterThumbnails() {
+	const searchInput = document.getElementById("searchInput").value.toLowerCase();
+	const selectedTabValue = document.getElementById("tabSelect").value;
+	const selectedClass = `.tab${selectedTabValue}`;
+	const thumbnails = document.querySelectorAll(selectedClass);
+
+	thumbnails.forEach(thumbnail => {
+		const title = thumbnail.getAttribute("data-title").toLowerCase();
+		if (title.includes(searchInput)) {
+			thumbnail.style.display = "flex";
+		} else {
+			thumbnail.style.display = "none";
+		}
+	});
+}
