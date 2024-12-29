@@ -14,17 +14,17 @@
 		this.scale = obj.scale || 0.8; // 图片缩放值
 		this.gap = obj.gap; // 图片未缩放状态下图片之间的间隔
 
-		// 动态调整轮播图宽度
-		if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile)/i))) {
-			this.containerWidth = document.body.clientWidth; // 设置为设备宽度
-		} else {
-			this.containerWidth = document.body.clientWidth > 1024 ? 1024 : 600; // PC端宽度限制
+		// 移动端
+		if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+		   this.containerWidth = document.body.clientWidth; // 轮播图盒子宽度
+		}else{
+			// PC端
+		   this.containerWidth = 600; // 轮播图盒子宽度
 		}
-
 		this.imgWidth = obj.imgWidth; // 图片宽度
 		this.aniTime = obj.aniTime || 500;
 		this.intervalTime = this.aniTime + obj.intervalTime || 2000;
-		this.nowIndex = 3;
+		this.nowIndex =3;
 		this.imgDoms = document.getElementsByClassName('swiper-slide' + obj.clsSuffix);
 		this.mainDom = document.getElementsByClassName('swiper-main' + obj.clsSuffix)[0];
 		this.listDoms = document.getElementsByClassName('swiper-list' + obj.clsSuffix)[0];
@@ -37,7 +37,7 @@
 		this.prev = Date.now();
 
 		this.diffLen = (this.containerWidth - this.imgWidth - (this.gap * 2)) / 2;
-		this.clsSuffix = obj.clsSuffix;
+  		this.clsSuffix = obj.clsSuffix
 	}
  
 	Swiper.prototype = {
