@@ -275,22 +275,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
 	];
 
-	// 创建隐藏的 iframe 容器
-	const iframes = videoURLs.map((url, index) => {
-		const iframe = document.createElement("iframe");
-		iframe.src = url;
-		iframe.style.display = "none"; // 默认隐藏
-		iframe.id = `iframe-${index}`; // 给每个 iframe 唯一 ID
-		iframe.width = "560";
-		iframe.height = "315";
-		iframe.frameBorder = "0";
-		iframe.allowFullscreen = true;
-		iframe.sandbox = "allow-same-origin allow-scripts allow-popups allow-forms";
-		document.body.appendChild(iframe);
-		return iframe;
-	});
-
-	// 绑定缩略图点击事件
+	// 为每个缩略图绑定点击事件
 	document.querySelectorAll(".thumbnail").forEach((thumbnail) => {
 		thumbnail.addEventListener("click", function (event) {
 			event.preventDefault(); // 阻止默认链接跳转
@@ -298,30 +283,31 @@ document.addEventListener("DOMContentLoaded", function () {
 			// 获取缩略图的 data-index 属性
 			const index = thumbnail.getAttribute("data-index");
 
-			// 如果 iframe 存在
-			if (iframes[index]) {
+			// 如果视频链接存在
+			if (videoURLs[index]) {
 				// 动态创建弹窗内容
 				const modalHTML = `
                     <div id="videoModal">
                         <div id="videoContent">
                             <button id="closeModal">×</button>
+                            <iframe 
+                                src="${videoURLs[index]}" 
+                                frameborder="0" 
+                                allowfullscreen 
+                                sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                                style="width: 100%; height: 400px;">
+                            </iframe>
                         </div>
                     </div>`;
 
 				// 插入弹窗到页面
 				document.body.insertAdjacentHTML("beforeend", modalHTML);
 
+				// 显示弹窗
 				const videoModal = document.getElementById("videoModal");
-				const videoContent = document.getElementById("videoContent");
-
-				// 将对应的 iframe 插入到弹窗中
-				const iframeClone = iframes[index].cloneNode(true);
-				iframeClone.style.display = "block"; // 显示 iframe
-				videoContent.appendChild(iframeClone);
-
 				videoModal.style.display = "flex";
 
-				// 关闭弹窗事件
+				// 绑定关闭事件
 				document.getElementById("closeModal").addEventListener("click", function () {
 					videoModal.remove(); // 移除弹窗
 				});
@@ -333,24 +319,23 @@ document.addEventListener("DOMContentLoaded", function () {
 					}
 				});
 			} else {
-				console.error("Iframe not found for index:", index);
+				console.error("Video URL not found for index:", index);
 			}
 		});
 	});
 });
 
+// 搜索筛选功能
 function filterThumbnails() {
-	const searchInput = document.getElementById("searchInput").value.toLowerCase();
-	const selectedTabValue = document.getElementById("tabSelect").value;
-	const selectedClass = `.tab${selectedTabValue}`;
-	const thumbnails = document.querySelectorAll(selectedClass);
+	const input = document.getElementById("searchInput").value.toLowerCase(); // 获取输入框的值并转为小写
+	const thumbnails = document.querySelectorAll(".thumbnail"); // 获取所有缩略图
 
 	thumbnails.forEach(thumbnail => {
-		const title = thumbnail.getAttribute("data-title").toLowerCase();
-		if (title.includes(searchInput)) {
-			thumbnail.style.display = "flex";
+		const title = thumbnail.getAttribute("data-title").toLowerCase(); // 获取 data-title 属性并转为小写
+		if (title.includes(input)) {
+			thumbnail.style.display = ""; // 显示匹配的项
 		} else {
-			thumbnail.style.display = "none";
+			thumbnail.style.display = "none"; // 隐藏不匹配的项
 		}
 	});
 }
