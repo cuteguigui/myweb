@@ -234,27 +234,29 @@
               }
 
               /* 缩略图容器样式 */
-              .thumbnail-container {
+               .thumbnail-container {
                   display: grid;
-                  gap: 15px; /* 缩略图间距 */
+                  gap: 15px; /* 缩略图之间的间距 */
+                  justify-content: center; /* 让缩略图居中 */
+                  align-items: start; /* 垂直方向对齐 */
                }
 
                @media (max-width: 600px) {
-                   .thumbnail-container {
-                       grid-template-columns: repeat(2, 1fr); /* 手机端一行 2 个 */
-                   }
+                  .thumbnail-container {
+                     grid-template-columns: repeat(2, 1fr); /* 手机端一行2个 */
+                  }
                }
 
                @media (min-width: 601px) and (max-width: 1024px) {
-                   .thumbnail-container {
-                       grid-template-columns: repeat(4, 1fr); /* iPad 一行 4 个 */
-                   }
+                  .thumbnail-container {
+                     grid-template-columns: repeat(3, 1fr); /* 平板端一行3个 */
+                  }
                }
 
                @media (min-width: 1025px) {
-                   .thumbnail-container {
-                       grid-template-columns: repeat(4, 1fr); /* PC 一行 4 个 */
-                   }
+                  .thumbnail-container {
+                     grid-template-columns: repeat(4, 1fr); /* PC端一行4个 */
+                  }
                }
 
               /* 缩略图样式 */
