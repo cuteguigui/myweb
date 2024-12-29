@@ -275,44 +275,52 @@ document.addEventListener("DOMContentLoaded", function () {
 		"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
 	];
 
-	// 绑定缩略图点击事件
-	document.querySelectorAll(".thumbnail").forEach((thumbnail, index) => {
+	// 为每个缩略图绑定点击事件
+	document.querySelectorAll(".thumbnail").forEach((thumbnail) => {
 		thumbnail.addEventListener("click", function (event) {
 			event.preventDefault(); // 阻止默认链接跳转
 
-			// 动态生成弹窗内容
-			const modalHTML = `
-                <div id="videoModal">
-                    <div id="videoContent">
-                        <button id="closeModal">×</button>
-                        <iframe 
-                            src="${videoURLs[index]}" 
-                            frameborder="0" 
-                            allowfullscreen 
-                            sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
-                            style="width: 100%; height: 400px;">
-                        </iframe>
-                    </div>
-                </div>`;
+			// 获取缩略图的 data-index 属性
+			const index = thumbnail.getAttribute("data-index");
 
-			// 插入弹窗到页面
-			document.body.insertAdjacentHTML("beforeend", modalHTML);
+			// 如果视频链接存在
+			if (videoURLs[index]) {
+				// 动态创建弹窗内容
+				const modalHTML = `
+                    <div id="videoModal">
+                        <div id="videoContent">
+                            <button id="closeModal">×</button>
+                            <iframe 
+                                src="${videoURLs[index]}" 
+                                frameborder="0" 
+                                allowfullscreen 
+                                sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                                style="width: 100%; height: 400px;">
+                            </iframe>
+                        </div>
+                    </div>`;
 
-			// 显示弹窗
-			const videoModal = document.getElementById("videoModal");
-			videoModal.style.display = "flex";
+				// 插入弹窗到页面
+				document.body.insertAdjacentHTML("beforeend", modalHTML);
 
-			// 关闭弹窗事件
-			document.getElementById("closeModal").addEventListener("click", function () {
-				videoModal.remove(); // 移除弹窗
-			});
+				// 显示弹窗
+				const videoModal = document.getElementById("videoModal");
+				videoModal.style.display = "flex";
 
-			// 点击弹窗外部关闭弹窗
-			videoModal.addEventListener("click", function (event) {
-				if (event.target === videoModal) {
-					videoModal.remove();
-				}
-			});
+				// 绑定关闭事件
+				document.getElementById("closeModal").addEventListener("click", function () {
+					videoModal.remove(); // 移除弹窗
+				});
+
+				// 点击弹窗外部关闭
+				videoModal.addEventListener("click", function (event) {
+					if (event.target === videoModal) {
+						videoModal.remove();
+					}
+				});
+			} else {
+				console.error("Video URL not found for index:", index);
+			}
 		});
 	});
 });
