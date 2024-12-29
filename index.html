@@ -237,7 +237,7 @@
               .thumbnail-container {
                 display: grid;
                 gap: 10px; /* 缩略图间距 */
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 默认自适应 */
+                grid-template-columns: repeat(4, 1fr); /* 默认PC端显示4列 */
               }
 
               @media (max-width: 600px) {
@@ -283,7 +283,7 @@
               }
 
               .thumbnail-title {
-              margin-top: 5px;
+              margin-top: 10px;
               font-size: 14px;
               /* 调整字体大小 */
               color: #333;

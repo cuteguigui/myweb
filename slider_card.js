@@ -298,3 +298,15 @@ modal.addEventListener("click", (e) => {
 		modalVideo.src = ""; // 停止视频播放
 	}
 });
+
+// 根据屏幕宽度调整缩略图显示列数
+function updateThumbnailGrid() {
+	const container = document.getElementById('thumbnailContainer');
+	if (window.innerWidth <= 600) {
+		container.style.gridTemplateColumns = 'repeat(2, 1fr)';
+	} else {
+		container.style.gridTemplateColumns = 'repeat(4, 1fr)';
+	}
+}
+window.addEventListener('resize', updateThumbnailGrid);
+updateThumbnailGrid();
