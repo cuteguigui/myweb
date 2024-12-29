@@ -269,35 +269,50 @@ function trackPageView() {
   });
 
 document.addEventListener("DOMContentLoaded", function () {
-	const videoModal = document.getElementById("videoModal");
-	const videoFrame = document.getElementById("videoFrame");
-	const closeModal = document.getElementById("closeModal");
+	// 定义每个缩略图对应的视频 URL
+	const videoURLs = [
+		"https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c",
+		"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
+	];
 
-	// 缩略图绑定点击事件
+	// 绑定缩略图点击事件
 	document.querySelectorAll(".thumbnail").forEach((thumbnail, index) => {
-		thumbnail.addEventListener("click", function () {
-			const videos = [
-				"https://peertube.mesnumeriques.fr/videos/embed/c8ea2cb1-a919-45b8-b3b5-678a02795e9c",
-				"https://peertube.mesnumeriques.fr/videos/embed/80f4dab7-30a4-4f4c-a4ba-3a698596e95c"
-			];
-			if (videos[index]) {
-				videoFrame.src = videos[index];
-				videoModal.classList.remove("hidden");
-			}
+		thumbnail.addEventListener("click", function (event) {
+			event.preventDefault(); // 阻止默认链接跳转
+
+			// 动态生成弹窗内容
+			const modalHTML = `
+                <div id="videoModal">
+                    <div id="videoContent">
+                        <button id="closeModal">×</button>
+                        <iframe 
+                            src="${videoURLs[index]}" 
+                            frameborder="0" 
+                            allowfullscreen 
+                            sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                            style="width: 100%; height: 400px;">
+                        </iframe>
+                    </div>
+                </div>`;
+
+			// 插入弹窗到页面
+			document.body.insertAdjacentHTML("beforeend", modalHTML);
+
+			// 显示弹窗
+			const videoModal = document.getElementById("videoModal");
+			videoModal.style.display = "flex";
+
+			// 关闭弹窗事件
+			document.getElementById("closeModal").addEventListener("click", function () {
+				videoModal.remove(); // 移除弹窗
+			});
+
+			// 点击弹窗外部关闭弹窗
+			videoModal.addEventListener("click", function (event) {
+				if (event.target === videoModal) {
+					videoModal.remove();
+				}
+			});
 		});
-	});
-
-	// 关闭弹窗
-	closeModal.addEventListener("click", function () {
-		videoFrame.src = "";
-		videoModal.classList.add("hidden");
-	});
-
-	// 点击弹窗外部关闭弹窗
-	videoModal.addEventListener("click", function (event) {
-		if (event.target === videoModal) {
-			videoFrame.src = "";
-			videoModal.classList.add("hidden");
-		}
 	});
 });

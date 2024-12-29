@@ -17,223 +17,278 @@
 
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <style>
-       /* 容器和标题样式 */
-       .container {
-              text-align: center;
-       }
+   .container {
+			text-align: center;
+			/* 让标题居中 */
+		}
 
-       .title {
-              color: red;
-              /* 修改为红色字体 */
-              padding: 10px;
-              /* 内边距 */
-              border-radius: 4px;
-              /* 圆角 */
-              font-size: 54px;
-              /* 字体大小 */
-              margin-bottom: 5px;
-              /* 标题与渐变块之间的距离 */
-              display: flex;
-              /* 使用 Flexbox 布局 */
-              align-items: center;
-              /* 垂直居中对齐 */
-              justify-content: center;
-              /* 水平居中对齐 */
-       }
+		.title {
+			color: red;
+			/* 修改为红色字体 */
+			padding: 10px;
+			/* 内边距 */
+			border-radius: 4px;
+			/* 圆角 */
+			font-size: 54px;
+			/* 字体大小 */
+			margin-bottom: 5px;
+			/* 标题与渐变块之间的距离 */
+			display: flex;
+			/* 使用 Flexbox 布局 */
+			align-items: center;
+			/* 垂直居中对齐 */
+			justify-content: center;
+			/* 水平居中对齐 */
+		}
 
-       .title img {
-              margin-right: 10px;
-              /* 图标与标题之间的间隔 */
-              height: 24px;
-              /* 设置图标高度 */
-              width: auto;
-              /* 保持宽高比 */
-       }
+		.title img {
+			margin-right: 10px;
+			/* 图标与标题之间的间隔 */
+			height: 24px;
+			/* 设置图标高度 */
+			width: auto;
+			/* 保持宽高比 */
+		}
 
-       /* 渐变块样式 */
-       .gradient-box {
-              background: linear-gradient(to right, #ff7e5f, #feb47b);
-              /* 设置渐变颜色 */
-              height: 10px;
-              /* 设置高度 */
-              margin-bottom: 10px;
-              /* 渐变块与其他内容之间的距离 */
-       }
+		.gradient-box {
+			background: linear-gradient(to right, #ff7e5f, #feb47b);
+			/* 设置渐变颜色 */
+			height: 10px;
+			/* 设置高度 */
+			margin-bottom: 10px;
+			/* 渐变块与轮播图之间的距离 */
+		}
 
-       /* Swiper 相关样式 */
-       .swiper-list {
-              height: 400px;
-              /* 设定固定高度 */
-              position: relative;
-              overflow: hidden;
-              padding: 10px 0;
-              margin: 0 auto;
-              /* 使容器居中 */
-              max-width: 800px;
-              /* 最大宽度 */
-       }
+		.swiper-list {
+			height: 400px;
+			/* 设定固定高度 */
+			position: relative;
+			overflow: hidden;
+			padding: 10px 0;
+			margin: 0 auto;
+			/* 添加此行使容器居中 */
+			max-width: 800px;
+			/* 可根据需要设置最大宽度 */
+		}
 
-       .swiper-main {
-              height: 100%;
-              position: relative;
-       }
 
-       .swiper-main a {
-              height: 100%;
-              /* 链接区域与图片高度一致 */
-              display: block;
-              /* 链接为块元素 */
-       }
+		.swiper-main {
+			height: 100%;
+			position: relative;
+		}
 
-       .swiper-main img {
-              height: auto;
-              /* 高度自适应保持比例 */
-              width: 100%;
-              /* 宽度为100%以适应屏幕 */
-              max-height: 400px;
-              /* 最大高度 */
-              display: block;
-              position: absolute;
-              top: 0;
-              border-radius: 4px;
-              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-       }
+		.swiper-main a {
+			height: 100%;
+			/* 链接区域与图片高度一致 */
+			display: block;
+			/* 链接为块元素 */
+		}
 
-       /* 按钮样式 */
-       .btn {
-              position: absolute;
-              top: 50%;
-              transform: translateY(-50%);
-              width: 30px;
-              height: 30px;
-              z-index: 1002;
-       }
+		.swiper-main img {
+			height: auto;
+			/* 高度自适应保持比例 */
+			width: 100%;
+			/* 宽度为100%以适应屏幕 */
+			max-height: 400px;
+			/* 最大高度 */
+			display: block;
+			position: absolute;
+			top: 0px;
+			border-radius: 4px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		}
 
-       .leftBtn {
-              left: 10px;
-       }
+		.btn {
+			position: absolute;
+			top: 50%;
+			transform: translateY(-50%);
+			width: 30px;
+			height: 30px;
+			z-index: 1002;
+		}
 
-       .rightBtn {
-              right: 10px;
-       }
+		.leftBtn {
+			left: 10px;
+		}
 
-       /* 响应式设计 */
-       @media (max-width: 600px) {
-              .swiper-list {
-                     height: 300px;
-                     /* 移动设备高度调整 */
-              }
+		.rightBtn {
+			right: 10px;
+		}
 
-              .btn {
-                     width: 25px;
-                     height: 25px;
-              }
+		@media (max-width: 600px) {
+			.swiper-list {
+				height: 300px;
+				/* 在移动设备上可适当降低高度 */
+			}
 
-              .title {
-                     font-size: 18px;
-                     /* 调整字体大小 */
-              }
-       }
+			.btn {
+				width: 25px;
+				height: 25px;
+			}
 
-       /* 内容区样式 */
-       .content-section {
-              margin: 20px 0;
-              /* 内容区的上下边距 */
-              text-align: left;
-              /* 左对齐 */
-              padding: 0 15px;
-              /* 内容区内边距 */
-       }
+			.title {
+				font-size: 18px;
+				/* 在小屏幕上调整字体大小 */
+			}
+		}
 
-       .content-section h2 {
-              color: #333;
-              /* 主标题颜色 */
-       }
+		.content-section {
+			margin: 20px 0;
+			/* 内容区的上下边距 */
+			text-align: left;
+			/* 左对齐 */
+			padding: 0 15px;
+			/* 内容区内边距 */
+		}
 
-       .content-section p {
-              color: #666;
-              /* 正文颜色 */
-              line-height: 1.5;
-              /* 行高 */
-       }
+		.content-section h2 {
+			color: #333;
+			/* 主标题颜色 */
+		}
 
-       /* 缩略图样式 */
-       .thumbnail-container {
-              display: flex;
-              flex-wrap: wrap;
-              justify-content: center;
-              gap: 10px;
-              /* 保持水平间距 */
-       }
+		.content-section p {
+			color: #666;
+			/* 正文颜色 */
+			line-height: 1.5;
+			/* 行高 */
+		}
 
-       .thumbnail {
-              width: 30%;
-              aspect-ratio: 3 / 4;
-              display: flex;
-              flex-direction: column;
-              justify-content: center;
-              align-items: center;
-              cursor: pointer;
-              background-color: transparent;
-              border: none;
-              border-radius: 10px;
-              overflow: hidden;
-              margin-bottom: 15px;
-              /* 增加行之间的间距 */
-       }
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+		}
 
-       .thumbnail-title {
-              margin-top: 5px;
-              font-size: 10px;
-       }
+		.header {
+			margin: 20px 0;
+		}
 
-       .thumbnail img {
-              max-width: 90%;
-              max-height: 90%;
-              border-radius: 10px;
-       }
+		.search-bar {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-bottom: 20px;
+		}
 
-       /* 视频弹窗样式 */
+		.tab-select,
+		.search-input {
+			padding: 8px;
+			cursor: pointer;
+			border: 1px solid #ccc;
+			margin: 0 5px;
+			width: 100%;
+			max-width: 180px;
+			font-size: 16px;
+			border-radius: 20px;
+		}
+
+		.thumbnail-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 10px;
+			/* 保持水平间距 */
+		}
+
+		.thumbnail {
+			width: 30%;
+			aspect-ratio: 3 / 4;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			cursor: pointer;
+			background-color: transparent;
+			border: none;
+			border-radius: 10px;
+			overflow: hidden;
+			margin-bottom: 15px;
+			/* 增加行之间的间距 */
+		}
+
+		.thumbnail-title {
+			margin-top: 5px;
+			font-size: 10px;
+		}
+
+		.thumbnail img {
+			max-width: 90%;
+			max-height: 90%;
+			border-radius: 10px;
+		}
+
+		.subtitle {
+			color: #e21111;
+			/* 字体颜色 */
+			padding: 10px;
+			
+			/* 内边距 */
+			font-size: 20px;
+			/* 字体大小 */
+			display: flex;
+			/* 使用Flexbox居中 */
+			align-items: center;
+			/* 垂直居中对齐 */
+			justify-content: center;
+			/* 水平居中对齐 */
+			margin: 0px 0;
+			/* 上下外边距 */
+		}
+
+		.subtitle img {
+			margin-right: 8px;
+			/* 图标与文本之间的间隔 */
+			height: 24px;
+			/* 图标高度 */
+			width: auto;
+			/* 保持宽高比 */
+        }
+        .hidden {
+            display: none;
+        }
+
        #videoModal {
-              position: fixed;
-              top: 0;
-              left: 0;
-              width: 100%;
-              height: 100%;
-              background: rgba(0, 0, 0, 0.8);
-              display: flex;
-              justify-content: center;
-              align-items: center;
-              z-index: 1000;
+            display: none; /* 默认隐藏 */
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
        }
-
        #videoContent {
-              position: relative;
-              width: 60%;
-              max-width: 800px;
-              background: #fff;
-              border-radius: 8px;
-              overflow: hidden;
+           position: relative;
+           width: 90%;
+           max-width: 800px;
+           background: #fff;
+           border-radius: 8px;
+           overflow: hidden;
        }
-
        #closeModal {
-              position: absolute;
-              top: 10px;
-              right: 10px;
-              background: #ff5c5c;
-              color: #fff;
-              border: none;
-              border-radius: 50%;
-              cursor: pointer;
-              width: 30px;
-              height: 30px;
+           position: absolute;
+           top: 10px;
+           right: 10px;
+           background: #ff5c5c;
+           color: #fff;
+           border: none;
+           border-radius: 50%;
+           cursor: pointer;
+           width: 30px;
+           height: 30px;
+           font-size: 16px;
+           text-align: center;
+           line-height: 30px;
        }
-
-       /* 通用隐藏类 */
-       .hidden {
-              display: none;
+       iframe {
+           width: 100%;
+           height: 100%;
+           border: none;
        }
-</style>
+  </style>
 </head>
 <body>
        <!-- Google Tag Manager (noscript) -->
@@ -16558,13 +16613,7 @@
             });
         }
     </script>
-</div></div></body>
-<div id="videoModal" class="hidden">
-       <div id="videoContent">
-              <button id="closeModal">Close</button>
-              <iframe id="videoFrame" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-       </div>
-</div>
+</div></div></div></body>
 <!-- 保证没有多余的 </div> -->
 <script src="./slider_card.js">
 </script>
