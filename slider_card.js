@@ -278,52 +278,40 @@ document.addEventListener("DOMContentLoaded", function () {
 	// 为每个缩略图绑定点击事件
 	document.querySelectorAll(".thumbnail").forEach((thumbnail) => {
 		thumbnail.addEventListener("click", function (event) {
-			event.preventDefault(); // 阻止默认链接跳转
+			event.preventDefault(); // 阻止默认行为
 
-			// 获取缩略图的 data-index 属性
-			const index = thumbnail.getAttribute("data-index");
+			const index = thumbnail.getAttribute("data-index"); // 获取缩略图索引
+			const link = thumbnail.querySelector("a").getAttribute("href"); // 获取佣金链接
 
-			// 如果视频链接存在
 			if (videoURLs[index]) {
-				// 动态创建弹窗内容
+				// 弹出视频逻辑
 				const modalHTML = `
-                    <div id="videoModal">
-                        <div id="videoContent">
-                            <button id="closeModal">×</button>
-                            <iframe 
-                                src="${videoURLs[index]}" 
-                                frameborder="0" 
-                                allowfullscreen 
-                                sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
-                                style="width: 100%; height: 400px;">
-                            </iframe>
-                        </div>
-                    </div>`;
-
-				// 插入弹窗到页面
+                <div id="videoModal">
+                    <div id="videoContent">
+                        <button id="closeModal">×</button>
+                        <iframe 
+                            src="${videoURLs[index]}" 
+                            frameborder="0" 
+                            allowfullscreen 
+                            style="width: 100%; height: 400px;">
+                        </iframe>
+                    </div>
+                </div>`;
 				document.body.insertAdjacentHTML("beforeend", modalHTML);
 
-				// 显示弹窗
 				const videoModal = document.getElementById("videoModal");
 				videoModal.style.display = "flex";
 
-				// 绑定关闭事件
-				document.getElementById("closeModal").addEventListener("click", function () {
-					videoModal.remove(); // 移除弹窗
-				});
-
-				// 点击弹窗外部关闭
-				videoModal.addEventListener("click", function (event) {
-					if (event.target === videoModal) {
-						videoModal.remove();
-					}
-				});
+				document.getElementById("closeModal").addEventListener("click", () => videoModal.remove());
+				videoModal.addEventListener("click", (e) => { if (e.target === videoModal) videoModal.remove(); });
+			} else if (link && link !== "#") {
+				// 跳转到佣金链接
+				window.open(link, "_blank");
 			} else {
-				console.error("Video URL not found for index:", index);
+				console.error("No video or link found for index:", index);
 			}
 		});
 	});
-});
 
 // 搜索筛选功能
 function filterThumbnails() {
