@@ -4,10 +4,27 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Welcome</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+	<!-- 引入 Swiper 样式 -->
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<!-- 对于不依赖 DOM 顺序的脚本使用 async -->
 	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
 		async></script>
+	<!-- Google Tag Manager -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
+	</script>
+	<!-- End Google Tag Manager -->
+
 	<style>
 		body {
 			font-family: Arial, sans-serif;
@@ -45,9 +62,7 @@
 
 		/* 轮播图样式 */
 		.swiper-container {
-			width: 100%;
-			max-width: 800px;
-			/* 保持PC端最大宽度 */
+			width: 800px;
 			height: 400px;
 			margin: 0 auto;
 			position: relative;
@@ -76,7 +91,6 @@
 			background: #fff;
 		}
 
-		/* 内容区 */
 		.content-section {
 			margin: 20px 0;
 			text-align: left;
@@ -146,6 +160,7 @@
 			max-width: 90%;
 			max-height: 90%;
 			border-radius: 10px;
+			object-fit: cover;
 		}
 
 		.subtitle {
@@ -155,7 +170,7 @@
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			margin: 0;
+			margin: 0px 0;
 		}
 
 		.subtitle img {
@@ -188,8 +203,6 @@
 			background: #fff;
 			padding: 20px;
 			border-radius: 8px;
-			width: 800px;
-			max-width: 90%;
 		}
 
 		.close {
@@ -200,47 +213,70 @@
 			cursor: pointer;
 		}
 
-		/* 响应式调整 */
+		/* PC 端已有的媒体查询 */
 		@media (max-width: 600px) {
+
+			/* 轮播图：宽度自适应屏幕、采用固定高宽比（例如16:9） */
 			.swiper-container {
-				height: 300px;
-			}
-
-			.title {
-				font-size: 18px;
-			}
-
-			/* 缩略图调整：手机端可以显示更大或者单列 */
-			.thumbnail {
-				width: 45%;
-				/* 如需要单列，则可设置为100% */
-			}
-
-			/* 视频弹窗自适应 */
-			.modal-content {
-				width: 90%;
-				height: auto;
-			}
-
-			#videoPlayer {
 				width: 100%;
 				height: auto;
+				aspect-ratio: 16/9;
 			}
+
+			/* 缩略图两列展示，宽度调整为接近 50% */
+			.thumbnail {
+				width: calc(50% - 10px);
+				aspect-ratio: 3 / 4;
+				/* 保持原有比例 */
+			}
+
+			.thumbnail img {
+				max-width: 100%;
+				max-height: 100%;
+			}
+
+			/* 视频弹窗内容调整 */
+			.modal-content {
+				width: 95%;
+				max-width: 400px;
+				padding: 10px;
+			}
+
+			/* 视频自适应屏幕，最大高度不超过屏幕 */
+			#videoPlayer {
+				width: 100% !important;
+				height: auto !important;
+				max-height: 90vh;
+			}
+
+			/* 标题和副标题字体减小 */
+			.title {
+				font-size: 24px;
+			}
+
+			.subtitle {
+				font-size: 16px;
+			}
+
+			/* 搜索框、Tab 下拉框字体减小 */
+			.tab-select,
+			.search-input {
+				font-size: 14px;
+				max-width: 140px;
+				padding: 6px;
+			}
+
+			/* Swiper 导航按钮尺寸缩小 */
+			.swiper-button-prev,
+			.swiper-button-next {
+				width: 30px;
+				height: 30px;
+			}
+
+			/* 若需要图标整体缩放，也可添加 transform 缩放 */
+			/* 例如：.title img, .subtitle img { transform: scale(0.8); } */
 		}
 	</style>
-	<!-- Google Tag Manager -->
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
-	</script>
-	<!-- End Google Tag Manager -->
 </head>
 
 <body>
@@ -254,6 +290,7 @@
 		});
 	</script>
 	<!-- End Google Tag Manager (noscript) -->
+
 	<div class="container">
 		<div class="title">
 			<img alt="Icon" src="hot.webp" />
@@ -294,18 +331,19 @@
 					</a>
 				</div>
 			</div>
-			<!-- 导航按钮 -->
+			<!-- 左右导航按钮 -->
 			<div class="swiper-button-prev"></div>
 			<div class="swiper-button-next"></div>
 			<!-- 分页器 -->
 			<div class="swiper-pagination"></div>
 		</div>
+
+		<!-- 新内容区域 -->
 		<div class="subtitle">
 			<img alt="Icon" src="search.webp" />
 			Search More Drama
 		</div>
 		<div class="gradient-box"></div>
-		<!-- 内容区 -->
 		<div class="content-section">
 			<div class="search-bar">
 				<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
@@ -322,7 +360,8 @@
 				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
 					type="text" />
 			</div>
-			<div class="thumbnail-container" id="thumbnailContainer"></div>
+			<div class="thumbnail-container" id="thumbnailContainer">
+			</div>
 			<div style="text-align:center; margin: 20px;">
 				<button id="loadMoreBtn">Load More</button>
 			</div>
@@ -337,23 +376,29 @@
 			</script>
 		</div>
 	</div>
+
 	<!-- 视频弹窗 -->
 	<div class="modal" id="videoModal">
 		<div class="modal-content">
 			<span class="close">×</span>
-			<video controls height="450" id="videoPlayer" width="800">
+			<video controls id="videoPlayer">
 				<source id="videoSource" src="" type="video/mp4" />
 				您的浏览器不支持 video 标签。
 			</video>
 		</div>
 	</div>
+
 	<!-- 引入剧集数据 -->
 	<script src="thumbnailsData.js"></script>
+
+	<!-- 全局变量定义 -->
 	<script>
 		let currentTab = "1";
 		const batchSize = 50;
 		const loadedCounts = {};
 	</script>
+
+	<!-- 按批次加载函数 -->
 	<script>
 		function loadThumbnails(tab) {
 			const container = document.getElementById("thumbnailContainer");
@@ -363,24 +408,37 @@
 			const startIndex = loadedCounts[tab];
 			const thumbnailsArray = thumbnailsData[tab] || [];
 			const endIndex = Math.min(startIndex + batchSize, thumbnailsArray.length);
-
 			for (let i = startIndex; i < endIndex; i++) {
 				const tempDiv = document.createElement("div");
 				tempDiv.innerHTML = thumbnailsArray[i];
 				container.appendChild(tempDiv.firstElementChild);
 			}
-
 			loadedCounts[tab] = endIndex;
 			const loadMoreBtn = document.getElementById("loadMoreBtn");
 			loadMoreBtn.style.display = loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
 		}
 	</script>
+
+	<!-- 改进后的语言切换函数 -->
+	<script>
+		function changeTab(selectedValue) {
+			currentTab = selectedValue;
+			const container = document.getElementById("thumbnailContainer");
+			container.innerHTML = "";
+			loadedCounts[selectedValue] = 0;
+			loadThumbnails(selectedValue);
+		}
+	</script>
+
 	<script>
 		document.addEventListener("DOMContentLoaded", function () {
+			// 加载默认语言的第一批剧集数据
 			loadThumbnails(currentTab);
+			// “Load More” 按钮点击事件
 			document.getElementById("loadMoreBtn").addEventListener("click", function () {
 				loadThumbnails(currentTab);
 			});
+			// 事件委托：处理缩略图点击（视频弹窗）
 			document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
 				const link = event.target.closest(".thumbnail a");
 				if (link) {
@@ -397,8 +455,24 @@
 					}
 				}
 			});
+			// 关闭视频弹窗（点击关闭按钮）
+			document.querySelector(".close").addEventListener("click", function () {
+				document.getElementById("videoModal").style.display = "none";
+				document.getElementById("videoPlayer").pause();
+				document.getElementById("videoSource").src = "";
+			});
+			// 点击弹窗背景关闭弹窗
+			document.getElementById("videoModal").addEventListener("click", function (event) {
+				if (event.target === this) {
+					this.style.display = "none";
+					document.getElementById("videoPlayer").pause();
+					document.getElementById("videoSource").src = "";
+				}
+			});
 		});
 	</script>
+
+	<!-- 引入 Swiper 脚本 -->
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script>
 		var mySwiper = new Swiper('.swiper-container', {
@@ -416,23 +490,6 @@
 				clickable: true,
 			},
 			speed: 1000,
-		});
-	</script>
-	<!-- 视频弹窗交互 -->
-	<script>
-		document.addEventListener("DOMContentLoaded", function () {
-			document.querySelector(".close").addEventListener("click", function () {
-				document.getElementById("videoModal").style.display = "none";
-				document.getElementById("videoPlayer").pause();
-				document.getElementById("videoSource").src = "";
-			});
-			document.getElementById("videoModal").addEventListener("click", function (event) {
-				if (event.target === this) {
-					this.style.display = "none";
-					document.getElementById("videoPlayer").pause();
-					document.getElementById("videoSource").src = "";
-				}
-			});
 		});
 	</script>
 </body>
