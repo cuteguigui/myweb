@@ -7,7 +7,7 @@
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 	<!-- 引入 Swiper 样式 -->
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-	<!-- 对于不依赖 DOM 顺序的脚本使用 async -->
+	<!-- 异步加载广告脚本 -->
 	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
 		async></script>
 	<!-- Google Tag Manager -->
@@ -60,7 +60,7 @@
 			margin-bottom: 10px;
 		}
 
-		/* 轮播图样式 */
+		/* 轮播图样式（PC 版） */
 		.swiper-container {
 			width: 800px;
 			height: 400px;
@@ -136,6 +136,7 @@
 			gap: 10px;
 		}
 
+		/* PC端缩略图：使用固定宽高比 */
 		.thumbnail {
 			width: 30%;
 			aspect-ratio: 3 / 4;
@@ -154,6 +155,7 @@
 		.thumbnail-title {
 			margin-top: 5px;
 			font-size: 18px;
+			color: #333;
 		}
 
 		.thumbnail img {
@@ -213,40 +215,73 @@
 			cursor: pointer;
 		}
 
-		/* PC 端已有的媒体查询 */
+		/* 手机端调整：仅在屏幕宽度 ≤600px 时生效 */
 		@media (max-width: 600px) {
 
-			/* 轮播图：宽度自适应屏幕、采用固定高宽比（例如16:9） */
+			/* 轮播图：宽度 100%，采用 aspect-ratio 保证图片完整显示 */
 			.swiper-container {
 				width: 100%;
 				height: auto;
 				aspect-ratio: 16/9;
 			}
 
-			/* 缩略图两列展示，宽度调整为接近 50% */
+			/* 缩略图改为双列展示 */
+			/* 取消 PC 版 .thumbnail 中的 aspect-ratio，改为：
+         上部为图片区域（保持3:4比例），下方显示剧集名称 */
 			.thumbnail {
 				width: calc(50% - 10px);
-				aspect-ratio: 3 / 4;
-				/* 保持原有比例 */
+				/* 去掉固定的 aspect-ratio，让容器自适应内容高度 */
+				display: inline-block;
+				vertical-align: top;
+				margin-bottom: 15px;
+				text-align: center;
 			}
 
-			.thumbnail img {
-				max-width: 100%;
-				max-height: 100%;
+			/* 为缩略图中的链接设置固定高宽比 */
+			.thumbnail a {
+				display: block;
+				position: relative;
+				width: 100%;
+				padding-top: 133.33%;
+				/* 4/3比例：即高度为宽度的 133.33% */
+				overflow: hidden;
+				border-radius: 10px;
 			}
 
-			/* 视频弹窗内容调整 */
+			/* 图片绝对定位，保持不变形 */
+			.thumbnail a img {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+
+			/* 确保剧集名称在缩略图下方显示 */
+			.thumbnail-title {
+				display: block;
+				font-size: 16px;
+				margin-top: 5px;
+				padding: 0 5px;
+				word-break: break-all;
+			}
+
+			/* 视频弹窗内容调整：宽度 95%，最大高度 90vh，并居中显示 */
 			.modal-content {
 				width: 95%;
 				max-width: 400px;
+				height: auto;
+				max-height: 90vh;
+				overflow-y: auto;
 				padding: 10px;
 			}
 
-			/* 视频自适应屏幕，最大高度不超过屏幕 */
+			/* 视频自适应屏幕 */
 			#videoPlayer {
 				width: 100% !important;
 				height: auto !important;
-				max-height: 90vh;
+				max-height: 70vh;
 			}
 
 			/* 标题和副标题字体减小 */
@@ -258,7 +293,7 @@
 				font-size: 16px;
 			}
 
-			/* 搜索框、Tab 下拉框字体减小 */
+			/* 搜索框、Tab 下拉框字体及尺寸减小 */
 			.tab-select,
 			.search-input {
 				font-size: 14px;
@@ -272,9 +307,6 @@
 				width: 30px;
 				height: 30px;
 			}
-
-			/* 若需要图标整体缩放，也可添加 transform 缩放 */
-			/* 例如：.title img, .subtitle img { transform: scale(0.8); } */
 		}
 	</style>
 </head>
