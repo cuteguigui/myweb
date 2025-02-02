@@ -136,7 +136,7 @@
 			gap: 10px;
 		}
 
-		/* PC端缩略图：使用固定宽高比 */
+		/* PC端缩略图：固定宽高比 */
 		.thumbnail {
 			width: 30%;
 			aspect-ratio: 3 / 4;
@@ -218,37 +218,33 @@
 		/* 手机端调整：仅在屏幕宽度 ≤600px 时生效 */
 		@media (max-width: 600px) {
 
-			/* 轮播图：宽度 100%，采用 aspect-ratio 保证图片完整显示 */
+			/* 轮播图：宽度 100%，使用 aspect-ratio 保证完整显示 */
 			.swiper-container {
 				width: 100%;
 				height: auto;
 				aspect-ratio: 16/9;
 			}
 
-			/* 缩略图改为双列展示 */
-			/* 取消 PC 版 .thumbnail 中的 aspect-ratio，改为：
-         上部为图片区域（保持3:4比例），下方显示剧集名称 */
+			/* 缩略图双列展示：
+         外层 .thumbnail 取消固定宽高比，采用 block 布局，
+         内部 <a> 设置固定比例（padding-top: 133.33%）保证图片区域不变形 */
 			.thumbnail {
 				width: calc(50% - 10px);
-				/* 去掉固定的 aspect-ratio，让容器自适应内容高度 */
-				display: inline-block;
-				vertical-align: top;
-				margin-bottom: 15px;
+				display: block;
 				text-align: center;
+				margin-bottom: 15px;
 			}
 
-			/* 为缩略图中的链接设置固定高宽比 */
 			.thumbnail a {
 				display: block;
 				position: relative;
 				width: 100%;
 				padding-top: 133.33%;
-				/* 4/3比例：即高度为宽度的 133.33% */
+				/* 4/3 比例 */
 				overflow: hidden;
 				border-radius: 10px;
 			}
 
-			/* 图片绝对定位，保持不变形 */
 			.thumbnail a img {
 				position: absolute;
 				top: 0;
@@ -258,7 +254,6 @@
 				object-fit: cover;
 			}
 
-			/* 确保剧集名称在缩略图下方显示 */
 			.thumbnail-title {
 				display: block;
 				font-size: 16px;
@@ -267,24 +262,28 @@
 				word-break: break-all;
 			}
 
-			/* 视频弹窗内容调整：宽度 95%，最大高度 90vh，并居中显示 */
+			/* 视频弹窗：将 .modal-content 定位改为 fixed，确保始终居中 */
 			.modal-content {
+				position: fixed;
 				width: 95%;
 				max-width: 400px;
-				height: auto;
 				max-height: 90vh;
 				overflow-y: auto;
 				padding: 10px;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
 			}
 
-			/* 视频自适应屏幕 */
+			/* 视频自适应屏幕，使用 object-fit: contain 避免重排 */
 			#videoPlayer {
 				width: 100% !important;
 				height: auto !important;
 				max-height: 70vh;
+				object-fit: contain;
 			}
 
-			/* 标题和副标题字体减小 */
+			/* 标题和副标题字体缩小 */
 			.title {
 				font-size: 24px;
 			}
@@ -293,7 +292,7 @@
 				font-size: 16px;
 			}
 
-			/* 搜索框、Tab 下拉框字体及尺寸减小 */
+			/* 搜索框、下拉框字体及尺寸减小 */
 			.tab-select,
 			.search-input {
 				font-size: 14px;
