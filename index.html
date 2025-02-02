@@ -256,30 +256,34 @@
 		</div>
 		<div class="swiper-slide">
 			<a href="https://short.kalostv.com/api/short/jump/675c534ac599d" target="_blank">
-				<img alt="Image 2" src="ii2.webp" />
+				<img alt="Image 2" data-src="ii2.webp" class="swiper-lazy">
+				<div class="swiper-lazy-preloader"></div>
 			</a>
 		</div>
 		<div class="swiper-slide">
 			<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
-				<img alt="Image 3" src="ii3.webp" />
+				<img alt="Image 3" data-src="ii3.webp" class="swiper-lazy">
+				<div class="swiper-lazy-preloader"></div>
 			</a>
 		</div>
 		<div class="swiper-slide">
 			<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
-				<img alt="Image 4" src="ii4.webp" />
+				<img alt="Image 4" data-src="ii4.webp" class="swiper-lazy">
+				<div class="swiper-lazy-preloader"></div>
 			</a>
 		</div>
 		<div class="swiper-slide">
 			<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
-				<img alt="Image 5" src="ii5.webp" />
+				<img alt="Image 5" data-src="ii5.webp" class="swiper-lazy">
+				<div class="swiper-lazy-preloader"></div>
 			</a>
 		</div>
 		<div class="swiper-slide">
 			<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
-				<img alt="Image 6" src="ii6.webp" />
+				<img alt="Image 6" data-src="ii6.webp" class="swiper-lazy">
+				<div class="swiper-lazy-preloader"></div>
 			</a>
 		</div>
-	</div>
 	<!-- 添加左右导航按钮 -->
 	<div class="swiper-button-prev"></div>
 	<div class="swiper-button-next"></div>
@@ -502,20 +506,24 @@
 <!-- 保证没有多余的 </div> -->
 <script>
 	var mySwiper = new Swiper('.swiper-container', {
-		loop: true, // 开启无限循环模式
-		autoplay: {
-			delay: 1500,             // 每1500毫秒切换一次
-			disableOnInteraction: true, // 用户操作后，继续自动播放
-		},
-		navigation: {
-			nextEl: '.swiper-button-next', // 右箭头按钮
-			prevEl: '.swiper-button-prev', // 左箭头按钮
-		},
-		pagination: {
-			el: '.swiper-pagination', // 分页器容器
-			clickable: true,          // 分页器可点击
-		},
-		speed: 1000, // 切换动画时长
-	});
+	  loop: true,
+	  autoplay: {
+		delay: 1500,
+		disableOnInteraction: true,
+	  },
+	  navigation: {
+	    nextEl: '.swiper-button-next',
+	    prevEl: '.swiper-button-prev',
+	  },
+	  pagination: {
+	    el: '.swiper-pagination',
+	    clickable: true,
+	  },
+	  speed: 1000,
+	  // 启用懒加载，并提前加载相邻图片
+	  lazy: {
+	    loadPrevNext: true,
+	  },
+    });
 </script>
 </html>
