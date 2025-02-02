@@ -1,132 +1,95 @@
 <!DOCTYPE html>
-
 <html lang="en">
+
 <head>
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-<!-- 对于不依赖 DOM 顺序的脚本使用 async -->
-<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
-	async></script>
-<meta charset="utf-8"/>
-<title>
-   Welcome
-  </title>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<style>
-   .container {
-			text-align: center;
-			/* 让标题居中 */
-		}
-
-		.title {
-			color: red;
-			/* 修改为红色字体 */
-			padding: 10px;
-			/* 内边距 */
-			border-radius: 4px;
-			/* 圆角 */
-			font-size: 54px;
-			/* 字体大小 */
-			margin-bottom: 5px;
-			/* 标题与渐变块之间的距离 */
-			display: flex;
-			/* 使用 Flexbox 布局 */
-			align-items: center;
-			/* 垂直居中对齐 */
-			justify-content: center;
-			/* 水平居中对齐 */
-		}
-
-		.title img {
-			margin-right: 10px;
-			/* 图标与标题之间的间隔 */
-			height: 24px;
-			/* 设置图标高度 */
-			width: auto;
-			/* 保持宽高比 */
-		}
-
-		.gradient-box {
-			background: linear-gradient(to right, #ff7e5f, #feb47b);
-			/* 设置渐变颜色 */
-			height: 10px;
-			/* 设置高度 */
-			margin-bottom: 10px;
-			/* 渐变块与轮播图之间的距离 */
-		}
-
-		/* 针对新的 Swiper 容器 */
-		.swiper-container {
-		  width: 800px;      /* 与原来最大宽度一致 */
-		  height: 400px;     /* 保持轮播图高度 */
-		  margin: 0 auto;    /* 居中显示 */
-		  position: relative;
-		}
-
-		/* 针对每个轮播图项 */
-		.swiper-slide {
-		  text-align: center;
-		/* 如果需要背景色或者其他装饰效果，可在此设置 */
-		}
-
-		/* 图片适应容器 */
-		.swiper-slide img {
-		  width: 100%;
-		  height: 100%;
-		  object-fit: cover; /* 保持图片比例，剪裁多余部分 */
-		}
-
-		/* 如有需要，可以自定义导航按钮样式 */
-		.swiper-button-prev,
-		.swiper-button-next {
-		  color: #fff; /* 修改箭头颜色 */
-		/* 其他定制样式，例如尺寸、背景等 */
-		}
-
-		/* 分页器也可以自定义 */
-		.swiper-pagination-bullet {
-		  background: rgba(0, 0, 0, 0.5);
-		}
-		.swiper-pagination-bullet-active {
-		  background: #fff;
-		}
-
-		@media (max-width: 600px) {
-            /* 如果不再使用 .swiper-list，则改为 .swiper-container */
-		    .swiper-container {
-			    height: 300px; /* 根据需要调整高度 */
-		    }
-		    /* .btn 等旧样式可直接移除 */
-		    .title {
-			    font-size: 18px;
-		    }
-	    }
-
-		.content-section {
-			margin: 20px 0;
-			/* 内容区的上下边距 */
-			text-align: left;
-			/* 左对齐 */
-			padding: 0 15px;
-			/* 内容区内边距 */
-		}
-
-		.content-section h2 {
-			color: #333;
-			/* 主标题颜色 */
-		}
-
-		.content-section p {
-			color: #666;
-			/* 正文颜色 */
-			line-height: 1.5;
-			/* 行高 */
-		}
-
+	<meta charset="utf-8" />
+	<title>Welcome</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
+		async></script>
+	<style>
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
 			padding: 0;
 			text-align: center;
+		}
+
+		.container {
+			text-align: center;
+		}
+
+		.title {
+			color: red;
+			padding: 10px;
+			border-radius: 4px;
+			font-size: 54px;
+			margin-bottom: 5px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.title img {
+			margin-right: 10px;
+			height: 24px;
+			width: auto;
+		}
+
+		.gradient-box {
+			background: linear-gradient(to right, #ff7e5f, #feb47b);
+			height: 10px;
+			margin-bottom: 10px;
+		}
+
+		/* 轮播图样式 */
+		.swiper-container {
+			width: 100%;
+			max-width: 800px;
+			/* 保持PC端最大宽度 */
+			height: 400px;
+			margin: 0 auto;
+			position: relative;
+		}
+
+		.swiper-slide {
+			text-align: center;
+		}
+
+		.swiper-slide img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+
+		.swiper-button-prev,
+		.swiper-button-next {
+			color: #fff;
+		}
+
+		.swiper-pagination-bullet {
+			background: rgba(0, 0, 0, 0.5);
+		}
+
+		.swiper-pagination-bullet-active {
+			background: #fff;
+		}
+
+		/* 内容区 */
+		.content-section {
+			margin: 20px 0;
+			text-align: left;
+			padding: 0 15px;
+		}
+
+		.content-section h2 {
+			color: #333;
+		}
+
+		.content-section p {
+			color: #666;
+			line-height: 1.5;
 		}
 
 		.header {
@@ -157,7 +120,6 @@
 			flex-wrap: wrap;
 			justify-content: center;
 			gap: 10px;
-			/* 保持水平间距 */
 		}
 
 		.thumbnail {
@@ -173,7 +135,6 @@
 			border-radius: 10px;
 			overflow: hidden;
 			margin-bottom: 15px;
-			/* 增加行之间的间距 */
 		}
 
 		.thumbnail-title {
@@ -189,333 +150,291 @@
 
 		.subtitle {
 			color: #e21111;
-			/* 字体颜色 */
 			padding: 10px;
-			
-			/* 内边距 */
 			font-size: 20px;
-			/* 字体大小 */
 			display: flex;
-			/* 使用Flexbox居中 */
 			align-items: center;
-			/* 垂直居中对齐 */
 			justify-content: center;
-			/* 水平居中对齐 */
-			margin: 0px 0;
-			/* 上下外边距 */
+			margin: 0;
 		}
 
 		.subtitle img {
 			margin-right: 8px;
-			/* 图标与文本之间的间隔 */
 			height: 24px;
-			/* 图标高度 */
 			width: auto;
-			/* 保持宽高比 */
-        }
-        .hidden {
-            display: none;
-        }
-  </style>
-<!-- Google Tag Manager -->
-<script>
-    (function (w, d, s, l, i) {w[l] = w[l] || []; w[l].push({'gtm.start':
-    new Date().getTime(), event: 'gtm.js'}); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
-  </script>
-<!-- End Google Tag Manager -->
+		}
+
+		.hidden {
+			display: none;
+		}
+
+		/* 视频弹窗样式 */
+		.modal {
+			display: none;
+			position: fixed;
+			z-index: 1000;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(0, 0, 0, 0.7);
+		}
+
+		.modal-content {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			background: #fff;
+			padding: 20px;
+			border-radius: 8px;
+			width: 800px;
+			max-width: 90%;
+		}
+
+		.close {
+			position: absolute;
+			top: 10px;
+			right: 20px;
+			font-size: 24px;
+			cursor: pointer;
+		}
+
+		/* 响应式调整 */
+		@media (max-width: 600px) {
+			.swiper-container {
+				height: 300px;
+			}
+
+			.title {
+				font-size: 18px;
+			}
+
+			/* 缩略图调整：手机端可以显示更大或者单列 */
+			.thumbnail {
+				width: 45%;
+				/* 如需要单列，则可设置为100% */
+			}
+
+			/* 视频弹窗自适应 */
+			.modal-content {
+				width: 90%;
+				height: auto;
+			}
+
+			#videoPlayer {
+				width: 100%;
+				height: auto;
+			}
+		}
+	</style>
+	<!-- Google Tag Manager -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
+	</script>
+	<!-- End Google Tag Manager -->
 </head>
+
 <body>
-<!-- Google Tag Manager (noscript) -->
-<script>
-	window.addEventListener('load', function () {
-		var gtm = document.createElement('script');
-		gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF';
-		gtm.async = true;
-		document.body.appendChild(gtm);
-	});
-</script>
-<!-- End Google Tag Manager (noscript) -->
-<div class="container">
-<div class="title">
-<img alt="Icon" src="hot.webp"/>
-<!-- 在标题前添加图标 -->
-    Hot Drama
-   </div>
-<div class="gradient-box">
-</div>
-<!-- 渐变色块 -->
-<div class="swiper-container">
-	<div class="swiper-wrapper">
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
-				<img alt="Image 1" src="ii1.webp" />
-			</a>
+	<!-- Google Tag Manager (noscript) -->
+	<script>
+		window.addEventListener('load', function () {
+			var gtm = document.createElement('script');
+			gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF';
+			gtm.async = true;
+			document.body.appendChild(gtm);
+		});
+	</script>
+	<!-- End Google Tag Manager (noscript) -->
+	<div class="container">
+		<div class="title">
+			<img alt="Icon" src="hot.webp" />
+			Hot Drama
 		</div>
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c534ac599d" target="_blank">
-				<img alt="Image 2" src="ii2.webp" />
-			</a>
+		<div class="gradient-box"></div>
+		<!-- 轮播图 -->
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
+						<img alt="Image 1" src="ii1.webp" />
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c534ac599d" target="_blank">
+						<img alt="Image 2" src="ii2.webp" />
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
+						<img alt="Image 3" src="ii3.webp" />
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
+						<img alt="Image 4" src="ii4.webp" />
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
+						<img alt="Image 5" src="ii5.webp" />
+					</a>
+				</div>
+				<div class="swiper-slide">
+					<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
+						<img alt="Image 6" src="ii6.webp" />
+					</a>
+				</div>
+			</div>
+			<!-- 导航按钮 -->
+			<div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div>
+			<!-- 分页器 -->
+			<div class="swiper-pagination"></div>
 		</div>
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
-				<img alt="Image 3" src="ii3.webp" />
-			</a>
+		<div class="subtitle">
+			<img alt="Icon" src="search.webp" />
+			Search More Drama
 		</div>
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
-				<img alt="Image 4" src="ii4.webp" />
-			</a>
-		</div>
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
-				<img alt="Image 5" src="ii5.webp" />
-			</a>
-		</div>
-		<div class="swiper-slide">
-			<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
-				<img alt="Image 6" src="ii6.webp" />
-			</a>
+		<div class="gradient-box"></div>
+		<!-- 内容区 -->
+		<div class="content-section">
+			<div class="search-bar">
+				<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
+					<option value="0">English</option>
+					<option value="1">Indonesian</option>
+					<option value="2">Spanish</option>
+					<option value="3">French</option>
+					<option value="4">Korean</option>
+					<option value="5">Japanese</option>
+					<option value="6">German</option>
+					<option value="7">Thai</option>
+					<option value="8">Traditional Chinese</option>
+				</select>
+				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
+					type="text" />
+			</div>
+			<div class="thumbnail-container" id="thumbnailContainer"></div>
+			<div style="text-align:center; margin: 20px;">
+				<button id="loadMoreBtn">Load More</button>
+			</div>
+			<script>
+				function changeTab(selectedValue) {
+					currentTab = selectedValue;
+					const container = document.getElementById("thumbnailContainer");
+					container.innerHTML = "";
+					loadedCounts[selectedValue] = 0;
+					loadThumbnails(selectedValue);
+				}
+			</script>
 		</div>
 	</div>
-	<!-- 添加左右导航按钮 -->
-	<div class="swiper-button-prev"></div>
-	<div class="swiper-button-next"></div>
-	<!-- 如果需要分页器 -->
-	<div class="swiper-pagination"></div>
-</div>
-<!-- 新的内容区域 -->
-<div class="subtitle">
-<img alt="Icon" src="search.webp"/>
-<!-- 在标题前添加图标 -->
-    Search More Drama
-   </div>
-<div class="gradient-box">
-</div>
-<!-- 渐变色块 -->
-<div class="content-section">
-<div class="search-bar">
-<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
-       <option value="0">English</option>
-       <option value="1">Indonesian</option>
-       <option value="2">Spanish</option>
-       <option value="3">French</option>
-       <option value="4">Korean</option>
-       <option value="5">Japanese</option>
-       <option value="6">German</option>
-       <option value="7">Thai</option>
-       <option value="8">Traditional Chinese</option>
-</select>
-<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama" type="text"/>
-</div>
-<div class="thumbnail-container" id="thumbnailContainer">
-</div>
-<div style="text-align:center; margin: 20px;">
-<button id="loadMoreBtn">
-       Load More
-      </button>
-</div>
-<script>
-        function changeTab(selectedValue) {
-            // 1. 隐藏所有的 thumbnail 元素
-            const allThumbnails = document.querySelectorAll('.thumbnail');
-            allThumbnails.forEach(thumbnail => {
-                thumbnail.style.display = 'none';
-            });
-        
-            // 2. 显示当前语言类别的 thumbnail
-            const selectedTabClass = `.tab${selectedValue}`;
-            const selectedThumbnails = document.querySelectorAll(selectedTabClass);
-            selectedThumbnails.forEach(thumbnail => {
-                thumbnail.style.display = 'flex'; // 恢复显示
-            });
-        }
-    </script>
-</div></div>
-<!-- 视频弹窗（修改为 video 标签） -->
-<div class="modal" id="videoModal">
-<div class="modal-content">
-<span class="close">×</span>
-<video controls="" height="450" id="videoPlayer" width="800">
-<source id="videoSource" src="" type="video/mp4"/>
-                     您的浏览器不支持 video 标签。
-              </video>
-</div>
-</div>
-<style>
-       /* 视频弹窗样式 */
-       .modal {
-              display: none;
-              position: fixed;
-              z-index: 1000;
-              left: 0;
-              top: 0;
-              width: 100%;
-              height: 100%;
-              background-color: rgba(0, 0, 0, 0.7);
-       }
+	<!-- 视频弹窗 -->
+	<div class="modal" id="videoModal">
+		<div class="modal-content">
+			<span class="close">×</span>
+			<video controls height="450" id="videoPlayer" width="800">
+				<source id="videoSource" src="" type="video/mp4" />
+				您的浏览器不支持 video 标签。
+			</video>
+		</div>
+	</div>
+	<!-- 引入剧集数据 -->
+	<script src="thumbnailsData.js"></script>
+	<script>
+		let currentTab = "1";
+		const batchSize = 50;
+		const loadedCounts = {};
+	</script>
+	<script>
+		function loadThumbnails(tab) {
+			const container = document.getElementById("thumbnailContainer");
+			if (!loadedCounts[tab]) {
+				loadedCounts[tab] = 0;
+			}
+			const startIndex = loadedCounts[tab];
+			const thumbnailsArray = thumbnailsData[tab] || [];
+			const endIndex = Math.min(startIndex + batchSize, thumbnailsArray.length);
 
-       .modal-content {
-              position: absolute;
-              top: 50%;
-              left: 50%;
-              transform: translate(-50%, -50%);
-              background: #fff;
-              padding: 20px;
-              border-radius: 8px;
-       }
+			for (let i = startIndex; i < endIndex; i++) {
+				const tempDiv = document.createElement("div");
+				tempDiv.innerHTML = thumbnailsArray[i];
+				container.appendChild(tempDiv.firstElementChild);
+			}
 
-       .close {
-              position: absolute;
-              top: 10px;
-              right: 20px;
-              font-size: 24px;
-              cursor: pointer;
-       }
-</style>
-<script>
-       document.addEventListener("DOMContentLoaded", function () {
-              // 为所有缩略图链接绑定点击事件
-              document.querySelectorAll(".thumbnail a").forEach(link => {
-                     link.addEventListener("click", function (event) {
-                            // 判断如果点击目标在剧集名称区域内，则直接采用默认链接跳转
-                            if (event.target.closest('.thumbnail-title')) {
-                                   // 不做拦截，允许浏览器默认行为（链接跳转）
-                                   return;
-                            }
-
-                            // 获取当前缩略图元素（包含 data-video 属性）
-                            const thumbnailEl = this.closest('.thumbnail');
-                            const videoUrl = thumbnailEl.getAttribute('data-video');
-                            if (videoUrl) {
-                                   // 如果存在 data-video 属性，则阻止默认跳转，弹出视频
-                                   event.preventDefault();
-                                   document.getElementById("videoSource").src = videoUrl;
-                                   document.getElementById("videoPlayer").load();
-                                   document.getElementById("videoModal").style.display = "block";
-                            }
-                            // 如果不存在 data-video 属性，则不做处理，默认链接行为生效
-                     });
-              });
-
-              // 关闭视频弹窗（点击关闭按钮）
-              document.querySelector(".close").addEventListener("click", function () {
-                     document.getElementById("videoModal").style.display = "none";
-                     document.getElementById("videoPlayer").pause();
-                     document.getElementById("videoSource").src = "";
-              });
-
-              // 点击弹窗背景关闭弹窗
-              document.getElementById("videoModal").addEventListener("click", function (event) {
-                     if (event.target === this) {
-                            this.style.display = "none";
-                            document.getElementById("videoPlayer").pause();
-                            document.getElementById("videoSource").src = "";
-                     }
-              });
-       });
-</script>
-</div>
-<!-- 引入剧集数据 -->
-<script src="thumbnailsData.js"></script>
-
-<!-- 全局变量定义 -->
-<script>
-       let currentTab = "1";
-       const batchSize = 50;
-       const loadedCounts = {};
-</script>
-
-<!-- 按批次加载函数 -->
-<script>
-       function loadThumbnails(tab) {
-              const container = document.getElementById("thumbnailContainer");
-              if (!loadedCounts[tab]) {
-                     loadedCounts[tab] = 0;
-              }
-              const startIndex = loadedCounts[tab];
-              const thumbnailsArray = thumbnailsData[tab] || [];
-              const endIndex = Math.min(startIndex + batchSize, thumbnailsArray.length);
-
-              for (let i = startIndex; i < endIndex; i++) {
-                     const tempDiv = document.createElement("div");
-                     tempDiv.innerHTML = thumbnailsArray[i];
-                     container.appendChild(tempDiv.firstElementChild);
-              }
-
-              loadedCounts[tab] = endIndex;
-              const loadMoreBtn = document.getElementById("loadMoreBtn");
-              if (loadedCounts[tab] >= thumbnailsArray.length) {
-                     loadMoreBtn.style.display = "none";
-              } else {
-                     loadMoreBtn.style.display = "block";
-              }
-       }
-</script>
-
-<!-- 修改后的语言切换函数 -->
-<script>
-       function changeTab(selectedValue) {
-              currentTab = selectedValue;
-              const container = document.getElementById("thumbnailContainer");
-              container.innerHTML = "";
-              loadedCounts[selectedValue] = 0;
-              loadThumbnails(selectedValue);
-       }
-</script>
-<script>
-       document.addEventListener("DOMContentLoaded", function () {
-              // 1. 加载默认语言（currentTab）的第一批剧集数据
-              loadThumbnails(currentTab);
-
-              // 2. 为“Load More”按钮绑定点击事件
-              document.getElementById("loadMoreBtn").addEventListener("click", function () {
-                     loadThumbnails(currentTab);
-              });
-
-              // 3. 使用事件委托为剧集容器绑定点击事件（针对视频弹窗功能）
-              document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
-                     // 检查是否点击了一个剧集链接（.thumbnail a）
-                     const link = event.target.closest(".thumbnail a");
-                     if (link) {
-                            // 如果点击的是剧集名称区域（.thumbnail-title），则允许默认跳转
-                            if (event.target.closest(".thumbnail-title")) {
-                                   return;
-                            }
-                            // 否则阻止默认链接行为，并执行视频弹窗逻辑
-                            event.preventDefault();
-                            const thumbnailEl = link.closest(".thumbnail");
-                            const videoUrl = thumbnailEl.getAttribute("data-video");
-                            if (videoUrl) {
-                                   document.getElementById("videoSource").src = videoUrl;
-                                   document.getElementById("videoPlayer").load();
-                                   document.getElementById("videoModal").style.display = "block";
-                            }
-                     }
-              });
-       });
-</script>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+			loadedCounts[tab] = endIndex;
+			const loadMoreBtn = document.getElementById("loadMoreBtn");
+			loadMoreBtn.style.display = loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
+		}
+	</script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			loadThumbnails(currentTab);
+			document.getElementById("loadMoreBtn").addEventListener("click", function () {
+				loadThumbnails(currentTab);
+			});
+			document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
+				const link = event.target.closest(".thumbnail a");
+				if (link) {
+					if (event.target.closest(".thumbnail-title")) {
+						return;
+					}
+					event.preventDefault();
+					const thumbnailEl = link.closest(".thumbnail");
+					const videoUrl = thumbnailEl.getAttribute("data-video");
+					if (videoUrl) {
+						document.getElementById("videoSource").src = videoUrl;
+						document.getElementById("videoPlayer").load();
+						document.getElementById("videoModal").style.display = "block";
+					}
+				}
+			});
+		});
+	</script>
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<script>
+		var mySwiper = new Swiper('.swiper-container', {
+			loop: true,
+			autoplay: {
+				delay: 1500,
+				disableOnInteraction: true,
+			},
+			navigation: {
+				nextEl: '.swiper-button-next',
+				prevEl: '.swiper-button-prev',
+			},
+			pagination: {
+				el: '.swiper-pagination',
+				clickable: true,
+			},
+			speed: 1000,
+		});
+	</script>
+	<!-- 视频弹窗交互 -->
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.querySelector(".close").addEventListener("click", function () {
+				document.getElementById("videoModal").style.display = "none";
+				document.getElementById("videoPlayer").pause();
+				document.getElementById("videoSource").src = "";
+			});
+			document.getElementById("videoModal").addEventListener("click", function (event) {
+				if (event.target === this) {
+					this.style.display = "none";
+					document.getElementById("videoPlayer").pause();
+					document.getElementById("videoSource").src = "";
+				}
+			});
+		});
+	</script>
 </body>
-<!-- 保证没有多余的 </div> -->
-<script>
-	var mySwiper = new Swiper('.swiper-container', {
-		loop: true, // 开启无限循环模式
-		autoplay: {
-			delay: 1500,             // 每1500毫秒切换一次
-			disableOnInteraction: true, // 用户操作后，继续自动播放
-		},
-		navigation: {
-			nextEl: '.swiper-button-next', // 右箭头按钮
-			prevEl: '.swiper-button-prev', // 左箭头按钮
-		},
-		pagination: {
-			el: '.swiper-pagination', // 分页器容器
-			clickable: true,          // 分页器可点击
-		},
-		speed: 1000, // 切换动画时长
-	});
-</script>
+
 </html>
