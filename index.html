@@ -2,6 +2,7 @@
 
 <html lang="en">
 <head>
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"></script>
 <meta charset="utf-8"/>
 <title>
@@ -51,78 +52,52 @@
 			/* 渐变块与轮播图之间的距离 */
 		}
 
-		.swiper-list {
-			height: 400px;
-			/* 设定固定高度 */
-			position: relative;
-			overflow: hidden;
-			padding: 10px 0;
-			margin: 0 auto;
-			/* 添加此行使容器居中 */
-			max-width: 800px;
-			/* 可根据需要设置最大宽度 */
+		/* 针对新的 Swiper 容器 */
+		.swiper-container {
+		  width: 800px;      /* 与原来最大宽度一致 */
+		  height: 400px;     /* 保持轮播图高度 */
+		  margin: 0 auto;    /* 居中显示 */
+		  position: relative;
 		}
 
-
-		.swiper-main {
-			height: 100%;
-			position: relative;
+		/* 针对每个轮播图项 */
+		.swiper-slide {
+		  text-align: center;
+		/* 如果需要背景色或者其他装饰效果，可在此设置 */
 		}
 
-		.swiper-main a {
-			height: 100%;
-			/* 链接区域与图片高度一致 */
-			display: block;
-			/* 链接为块元素 */
+		/* 图片适应容器 */
+		.swiper-slide img {
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover; /* 保持图片比例，剪裁多余部分 */
 		}
 
-		.swiper-main img {
-			height: auto;
-			/* 高度自适应保持比例 */
-			width: 100%;
-			/* 宽度为100%以适应屏幕 */
-			max-height: 400px;
-			/* 最大高度 */
-			display: block;
-			position: absolute;
-			top: 0px;
-			border-radius: 4px;
-			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		/* 如有需要，可以自定义导航按钮样式 */
+		.swiper-button-prev,
+		.swiper-button-next {
+		  color: #fff; /* 修改箭头颜色 */
+		/* 其他定制样式，例如尺寸、背景等 */
 		}
 
-		.btn {
-			position: absolute;
-			top: 50%;
-			transform: translateY(-50%);
-			width: 30px;
-			height: 30px;
-			z-index: 1002;
+		/* 分页器也可以自定义 */
+		.swiper-pagination-bullet {
+		  background: rgba(0, 0, 0, 0.5);
 		}
-
-		.leftBtn {
-			left: 10px;
-		}
-
-		.rightBtn {
-			right: 10px;
+		.swiper-pagination-bullet-active {
+		  background: #fff;
 		}
 
 		@media (max-width: 600px) {
-			.swiper-list {
-				height: 300px;
-				/* 在移动设备上可适当降低高度 */
-			}
-
-			.btn {
-				width: 25px;
-				height: 25px;
-			}
-
-			.title {
-				font-size: 18px;
-				/* 在小屏幕上调整字体大小 */
-			}
-		}
+            /* 如果不再使用 .swiper-list，则改为 .swiper-container */
+		    .swiper-container {
+			    height: 300px; /* 根据需要调整高度 */
+		    }
+		    /* .btn 等旧样式可直接移除 */
+		    .title {
+			    font-size: 18px;
+		    }
+	    }
 
 		.content-section {
 			margin: 20px 0;
@@ -263,29 +238,44 @@
 <div class="gradient-box">
 </div>
 <!-- 渐变色块 -->
-<div class="swiper-list-card swiper-list">
-<div class="swiper-main-card swiper-main">
-<a href="https://website.kalostv.com/share/middle/1ips3cse4ddt3d35r4c4ikkq" target="_blank">
-<img alt="Image 1" src="ii1.webp"/>
-</a>
-<a href="https://website.kalostv.com/share/middle/t5yh1k0mrczekrqtlrcqzini" target="_blank">
-<img alt="Image 2" src="ii2.webp"/>
-</a>
-<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
-<img alt="Image 3" src="ii3.webp"/>
-</a>
-<a href="https://short.kalostv.com/api/short/jump/675c52fe66fec" target="_blank">
-<img alt="Image 4" src="ii4.webp"/>
-</a>
-<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
-<img alt="Image 5" src="ii5.webp"/>
-</a>
-<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
-<img alt="Image 6" src="ii6.webp"/>
-</a>
-</div>
-<img alt="Previous" class="btn leftBtn" id="prev-card" src="left.webp"/>
-<img alt="Next" class="btn rightBtn" id="next-card" src="right.webp"/>
+<div class="swiper-container">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
+				<img alt="Image 1" src="ii1.webp" />
+			</a>
+		</div>
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c534ac599d" target="_blank">
+				<img alt="Image 2" src="ii2.webp" />
+			</a>
+		</div>
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
+				<img alt="Image 3" src="ii3.webp" />
+			</a>
+		</div>
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
+				<img alt="Image 4" src="ii4.webp" />
+			</a>
+		</div>
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
+				<img alt="Image 5" src="ii5.webp" />
+			</a>
+		</div>
+		<div class="swiper-slide">
+			<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
+				<img alt="Image 6" src="ii6.webp" />
+			</a>
+		</div>
+	</div>
+	<!-- 添加左右导航按钮 -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+	<!-- 如果需要分页器 -->
+	<div class="swiper-pagination"></div>
 </div>
 <!-- 新的内容区域 -->
 <div class="subtitle">
@@ -498,58 +488,25 @@
               });
        });
 </script>
-
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 </body>
 <!-- 保证没有多余的 </div> -->
-<script src="./slider_card.js" defer>
-</script>
 <script>
-  let imgArr = [{
-		url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9',
-		imgPath: 'ii1.webp'
-	},
-	{
-		url: 'https://short.kalostv.com/api/short/jump/675c534ac599d',
-		imgPath: 'ii2.webp'
-	},
-	{
-		url: 'https://short.kalostv.com/api/short/jump/675c531156f4f',
-		imgPath: 'ii3.webp',
-	},
-	{
-		url: 'https://short.kalostv.com/api/short/jump/675c53f73a3c9',
-		imgPath: 'ii4.webp',
-	},
-	{
-		url: 'https://short.kalostv.com/api/short/jump/675c8297121ed',
-		imgPath: 'ii5.webp',
-	},
-	{
-		url: 'https://short.kalostv.com/api/short/jump/675c52b1b2dd8',
-		imgPath: 'ii6.webp',
-	}
-	];
-
-	new Swiper({
-		imgArr: imgArr,
-		imgWidth: 220,
-		aniTime: 1000,
-		intervalTime: 1500,
-		scale: 0.8,
-		autoplay: false,
-		gap: 0,
-		clsSuffix: '-card'
-	}).init();
-
-	new Swiper({
-		imgArr: imgArr,
-		imgWidth: 220,
-		aniTime: 1000,
-		intervalTime: 1500,
-		scale: 0.8,
-		autoplay: false,
-		gap: -200,
-		clsSuffix: '-stack'
-	}).init();
- </script>
+	var mySwiper = new Swiper('.swiper-container', {
+		loop: true, // 开启无限循环模式
+		autoplay: {
+			delay: 1500,             // 每1500毫秒切换一次
+			disableOnInteraction: false, // 用户操作后，继续自动播放
+		},
+		navigation: {
+			nextEl: '.swiper-button-next', // 右箭头按钮
+			prevEl: '.swiper-button-prev', // 左箭头按钮
+		},
+		pagination: {
+			el: '.swiper-pagination', // 分页器容器
+			clickable: true,          // 分页器可点击
+		},
+		speed: 1000, // 切换动画时长
+	});
+</script>
 </html>
