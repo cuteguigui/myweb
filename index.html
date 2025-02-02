@@ -3,7 +3,9 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"></script>
+<!-- 对于不依赖 DOM 顺序的脚本使用 async -->
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
+	async></script>
 <meta charset="utf-8"/>
 <title>
    Welcome
@@ -227,7 +229,14 @@
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TS48XJVF" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>
+	window.addEventListener('load', function () {
+		var gtm = document.createElement('script');
+		gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF';
+		gtm.async = true;
+		document.body.appendChild(gtm);
+	});
+</script>
 <!-- End Google Tag Manager (noscript) -->
 <div class="container">
 <div class="title">
@@ -496,7 +505,7 @@
 		loop: true, // 开启无限循环模式
 		autoplay: {
 			delay: 1500,             // 每1500毫秒切换一次
-			disableOnInteraction: false, // 用户操作后，继续自动播放
+			disableOnInteraction: true, // 用户操作后，继续自动播放
 		},
 		navigation: {
 			nextEl: '.swiper-button-next', // 右箭头按钮
