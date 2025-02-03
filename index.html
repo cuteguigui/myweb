@@ -26,6 +26,8 @@
 	<!-- End Google Tag Manager -->
 
 	<style>
+/* ------------- 保持其他样式不变 ------------- */
+
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -136,35 +138,6 @@
 			gap: 10px;
 		}
 
-		/* PC端缩略图：固定宽高比 */
-		.thumbnail {
-			width: 30%;
-			aspect-ratio: 3 / 4;
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			align-items: center;
-			cursor: pointer;
-			background-color: transparent;
-			border: none;
-			border-radius: 10px;
-			overflow: hidden;
-			margin-bottom: 15px;
-		}
-
-		.thumbnail-title {
-			margin-top: 5px;
-			font-size: 18px;
-			color: #333;
-		}
-
-		.thumbnail img {
-			max-width: 90%;
-			max-height: 90%;
-			border-radius: 10px;
-			object-fit: cover;
-		}
-
 		.subtitle {
 			color: #e21111;
 			padding: 10px;
@@ -172,7 +145,7 @@
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			margin: 0px 0;
+			margin: 0;
 		}
 
 		.subtitle img {
@@ -187,25 +160,28 @@
 
 		/* 视频弹窗样式 */
 		.modal {
-			display: none;
+			display: none; /* 默认隐藏 */
 			position: fixed;
 			z-index: 1000;
-			left: 0;
 			top: 0;
+			left: 0;
 			width: 100%;
 			height: 100%;
 			background-color: rgba(0, 0, 0, 0.7);
+			/* 使用 flex 居中 */
+			justify-content: center;
+			align-items: center;
 		}
 
 		.modal-content {
-			position: fixed !important;   /* 关键：覆盖默认的 absolute */
-            top: 50% !important;         /* 保持在屏幕中央 */
-            left: 50% !important;
-            transform: translate(-50%, -50%) !important;
-            width: 95% !important;
-            max-width: none !important;
-            max-height: 80vh;
-            padding: 10px;
+			position: fixed !important;   /* 修改：覆盖默认 absolute */
+			top: 50% !important;          /* 修改：居中显示 */
+			left: 50% !important;
+			transform: translate(-50%, -50%) !important;
+			width: 95% !important;
+			max-width: none !important;
+			max-height: 80vh;
+			padding: 10px;
 			background: #fff;
 			border-radius: 8px;
 		}
@@ -218,90 +194,86 @@
 			cursor: pointer;
 		}
 
-		/* MODIFIED: 以下是手机端专用修改 */
+		/* ------------- 以下为缩略图及新结构的样式（修改后的部分） ------------- */
+		.thumbnail {
+			/* 新代码：采用边框、圆角、内外边距，宽度可由父容器控制 */
+			border: 1px solid #ddd;
+			border-radius: 8px;
+			overflow: hidden;
+			margin: 10px;
+			/* 使用弹性盒子排列内部信息 */
+			display: flex;
+			flex-direction: column;
+			background: #fff;
+			/* 可根据需要设置宽度（例如PC端3列，手机端占满宽度） */
+			width: 30%;
+		}
+
+		.thumb-image {
+			cursor: pointer;
+			width: 100%;
+			overflow: hidden;
+		}
+
+		.thumb-image img {
+			width: 100%;
+			height: auto;
+			display: block;
+		}
+
+		.episode-info {
+			padding: 10px;
+			text-align: center;
+			background: #f9f9f9;
+		}
+
+		.episode-info .episode-title {
+			font-size: 16px;
+			font-weight: bold;
+			color: #333;
+			cursor: pointer;
+			display: block;
+			margin-bottom: 8px;
+		}
+
+		.episode-info .preview-btn {
+			padding: 8px 16px;
+			font-size: 14px;
+			border: none;
+			background: #ff7e5f;
+			color: #fff;
+			border-radius: 4px;
+			cursor: pointer;
+			transition: background 0.3s ease;
+		}
+
+		.episode-info .preview-btn:hover {
+			background: #feb47b;
+		}
+
+		/* ------------- 响应式调整 ------------- */
 		@media (max-width: 600px) {
-
-			/* 轮播图调整 */
-			.swiper-container {
-				width: 100%;
-				height: auto;
-				aspect-ratio: 16/9;
-			}
-
-			/* 缩略图布局修正 */
+			/* 缩略图在手机端采用2列布局 */
 			.thumbnail {
 				width: calc(50% - 10px);
-				margin-bottom: 25px;
-				/* 增加底部间距 */
+				margin: 5px;
 			}
-
-			.thumbnail a {
-				padding-top: 133.33%;
-			}
-
-			/* MODIFIED: 修复剧集名称显示 */
-			.thumbnail-title {
-				display: block;
+			.episode-info .episode-title {
 				font-size: 14px;
-				line-height: 1.3;
-				margin-top: 8px;
-				padding: 0 5px;
-				white-space: normal;
-				/* 允许换行 */
-				word-break: break-word;
-				/* 强制单词断行 */
-				height: auto !important;
-				/* 高度自适应 */
-				-webkit-line-clamp: unset !important;
-				/* 移除行数限制 */
 			}
-
-			/* MODIFIED: 视频弹窗修正 */
-			.modal-content {
-				width: 95% !important;
-				max-width: none !important;
-				max-height: 80vh;
-				padding: 10px;
-			}
-
-			#videoPlayer {
-				width: 100% !important;
-				height: auto !important;
-				max-height: 60vh;
-				object-fit: contain;
-				/* 保持视频比例 */
-			}
-
-			.close {
-				right: 10px;
-				top: 5px;
-				color: #fff;
-				/* 提高可见性 */
-				z-index: 1;
-			}
-
-			/* 其他原有手机端样式保持不变 */
-			.title {
-				font-size: 24px;
-			}
-
-			.subtitle {
-				font-size: 16px;
-			}
-
-			.tab-select,
-			.search-input {
-				font-size: 14px;
-				max-width: 140px;
-				padding: 6px;
-			}
-
-			.swiper-button-prev,
-			.swiper-button-next {
-				width: 30px;
-				height: 30px;
+			.episode-info .preview-btn {
+				font-size: 12px;
+				padding: 6px 12px;
 			}
 		}
+
+		/*（可选）在平板设备上可适当调整宽度，如果需要可以添加另外的媒体查询 */
+		@media (min-width: 601px) and (max-width: 1024px) {
+			.thumbnail {
+				width: calc(33.33% - 10px);
+			}
+		}
+
 	</style>
 </head>
 
@@ -419,13 +391,12 @@
 
 	<!-- 全局变量定义 -->
 	<script>
-		let currentTab = "1";
+		// 全局变量定义
+		let currentTab = "0";   // 默认英语类别（与下拉框第一个选项一致）
 		const batchSize = 50;
 		const loadedCounts = {};
-	</script>
 
-	<!-- 按批次加载函数 -->
-	<script>
+		// 按批次加载函数（保持原有逻辑）
 		function loadThumbnails(tab) {
 			const container = document.getElementById("thumbnailContainer");
 			if (!loadedCounts[tab]) {
@@ -443,47 +414,66 @@
 			const loadMoreBtn = document.getElementById("loadMoreBtn");
 			loadMoreBtn.style.display = loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
 		}
-	</script>
 
-	<script>
-		document.addEventListener("DOMContentLoaded", function () {
-			// 加载默认语言的第一批剧集数据
-			loadThumbnails(currentTab);
-			// “Load More” 按钮点击事件
-			document.getElementById("loadMoreBtn").addEventListener("click", function () {
-				loadThumbnails(currentTab);
-			});
-			// 事件委托：处理缩略图点击（视频弹窗）
-			document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
-				const link = event.target.closest(".thumbnail a");
-				if (link) {
-					if (event.target.closest(".thumbnail-title")) {
-						return;
-					}
-					event.preventDefault();
-					const thumbnailEl = link.closest(".thumbnail");
-					const videoUrl = thumbnailEl.getAttribute("data-video");
-					if (videoUrl) {
-						document.getElementById("videoSource").src = videoUrl;
-						document.getElementById("videoPlayer").load();
-						document.getElementById("videoModal").style.display = "block";
-					}
+		// 绑定点击事件，增加 event.isTrusted 检查，确保只响应用户操作
+		document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
+			// 如果不是用户主动触发，则退出
+			if (!event.isTrusted) return;
+
+			// 如果点击的是“点击预览”按钮，则打开视频弹窗
+			if (event.target.closest(".preview-btn")) {
+				console.log("点击预览按钮", event.target);
+				const thumbnailEl = event.target.closest(".thumbnail");
+				const videoUrl = thumbnailEl.getAttribute("data-video");
+				if (videoUrl) {
+					openVideoModal(videoUrl);
 				}
-			});
-			// 关闭视频弹窗（点击关闭按钮）
-			document.querySelector(".close").addEventListener("click", function () {
-				document.getElementById("videoModal").style.display = "none";
+				event.stopPropagation();
+				return;
+			}
+
+			// 如果点击的是缩略图区域或剧集标题，则跳转佣金链接
+			if (event.target.closest(".thumb-image") || event.target.closest(".episode-title")) {
+				const thumbnailEl = event.target.closest(".thumbnail");
+				const commissionUrl = thumbnailEl.getAttribute("data-commission");
+				if (commissionUrl) {
+					window.open(commissionUrl, '_blank');
+				}
+				event.stopPropagation();
+				return;
+			}
+		});
+
+		// 打开视频弹窗的函数
+		function openVideoModal(videoUrl) {
+			console.log("打开视频弹窗，视频链接：", videoUrl);
+			document.getElementById("videoSource").src = videoUrl;
+			document.getElementById("videoPlayer").load();
+			document.getElementById("videoModal").style.display = "block";
+		}
+
+		// 关闭视频弹窗（点击关闭按钮）
+		document.querySelector(".close").addEventListener("click", function () {
+			document.getElementById("videoModal").style.display = "none";
+			document.getElementById("videoPlayer").pause();
+			document.getElementById("videoSource").src = "";
+		});
+
+		// 点击弹窗背景关闭弹窗
+		document.getElementById("videoModal").addEventListener("click", function (event) {
+			if (event.target === this) {
+				this.style.display = "none";
 				document.getElementById("videoPlayer").pause();
 				document.getElementById("videoSource").src = "";
-			});
-			// 点击弹窗背景关闭弹窗
-			document.getElementById("videoModal").addEventListener("click", function (event) {
-				if (event.target === this) {
-					this.style.display = "none";
-					document.getElementById("videoPlayer").pause();
-					document.getElementById("videoSource").src = "";
-				}
-			});
+			}
+		});
+
+		// 页面加载后延时加载剧集数据，确保页面渲染稳定
+		document.addEventListener("DOMContentLoaded", function () {
+			// 延时100毫秒加载数据，避免加载过程中产生意外的事件触发
+			setTimeout(function () {
+				loadThumbnails(currentTab);
+			}, 100);
 		});
 	</script>
 
