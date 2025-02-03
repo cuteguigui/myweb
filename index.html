@@ -458,6 +458,19 @@
 			document.getElementById("loadMoreBtn").style.display = "none";
 		}
 	</script>
+<!-- 页面加载后延时加载剧集数据 -->
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		setTimeout(function () {
+			loadThumbnails(currentTab);
+		}, 100);
+
+		// 为 "Load More" 按钮绑定点击事件
+		document.getElementById("loadMoreBtn").addEventListener("click", function () {
+			loadThumbnails(currentTab);
+		});
+	});
+</script>
 </body>
 
 </html>
