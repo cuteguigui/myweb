@@ -26,8 +26,7 @@
 	<!-- End Google Tag Manager -->
 
 	<style>
-		/* ------------- 保持其他样式不变 ------------- */
-
+		/* ----------------------- 基本样式 ----------------------- */
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -37,6 +36,7 @@
 
 		.container {
 			text-align: center;
+			padding: 0 10px;
 		}
 
 		.title {
@@ -62,16 +62,31 @@
 			margin-bottom: 10px;
 		}
 
-		/* 轮播图样式（PC 版） */
+		/* ----------------------- 轮播图样式 ----------------------- */
+		/* 采用百分比宽度并使用内填充比例保证宽高比 */
 		.swiper-container {
-			width: 800px;
-			height: 400px;
-			margin: 0 auto;
+			width: 100%;
+			max-width: 800px;
 			position: relative;
+			margin: 0 auto 20px auto;
+			/* 16:9 纵横比：9/16=56.25% */
+			height: 0;
+			padding-bottom: 56.25%;
+		}
+
+		.swiper-wrapper {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
 		}
 
 		.swiper-slide {
 			text-align: center;
+			position: relative;
+			width: 100%;
+			height: 100%;
 		}
 
 		.swiper-slide img {
@@ -93,6 +108,7 @@
 			background: #fff;
 		}
 
+		/* ----------------------- 内容区域 ----------------------- */
 		.content-section {
 			margin: 20px 0;
 			text-align: left;
@@ -117,17 +133,7 @@
 			justify-content: center;
 			align-items: center;
 			margin-bottom: 20px;
-		}
-
-		/* 在.subtitle样式区块后添加 */
-		.subtitle img {
-			margin-right: 8px;
-			height: 24px;
-			width: auto;
-			/* 新增限制 */
-			max-width: 120px;
-			/* 根据实际图片比例调整 */
-			object-fit: contain;
+			flex-wrap: wrap;
 		}
 
 		.tab-select,
@@ -135,83 +141,67 @@
 			padding: 8px;
 			cursor: pointer;
 			border: 1px solid #ccc;
-			margin: 0 5px;
+			margin: 5px;
 			width: 100%;
 			max-width: 180px;
 			font-size: 16px;
 			border-radius: 20px;
 		}
 
-		/* ▼▼▼ 需要新增/替换的代码 ▼▼▼ */
 		.thumbnail-container {
-			display: grid;
-			grid-template-columns: repeat(2, 1fr);
-			gap: 15px;
-			padding: 10px;
-		}
-
-		.thumbnail {
-			width: 100%;
-			margin: 0;
-			border: 1px solid #ddd;
-			border-radius: 8px;
-			overflow: hidden;
 			display: flex;
-			flex-direction: column;
-			background: #fff;
-			box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-			transition: transform 0.2s;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 10px;
 		}
 
+		.subtitle {
+			color: #e21111;
+			padding: 10px;
+			font-size: 20px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin: 0;
+		}
+
+		.subtitle img {
+			margin-right: 8px;
+			height: 24px;
+			width: auto;
+		}
+
+		.hidden {
+			display: none;
+		}
+
+		/* ----------------------- 视频弹窗样式 ----------------------- */
 		.modal {
 			display: none;
+			/* 默认隐藏 */
 			position: fixed;
+			z-index: 1000;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background: rgba(0, 0, 0, 0.95);
-			z-index: 9999;
-			overflow-y: auto;
+			background-color: rgba(0, 0, 0, 0.7);
+			/* 使用 flex 居中 */
+			justify-content: center;
+			align-items: center;
 		}
 
 		.modal-content {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-			width: 90vw;
-			max-width: 400px;
-			padding: 15px;
-			border-radius: 12px;
+			position: fixed !important;
+			top: 50% !important;
+			left: 50% !important;
+			transform: translate(-50%, -50%) !important;
+			width: 95% !important;
+			max-width: 600px;
+			max-height: 80vh;
+			padding: 10px;
 			background: #fff;
-		}
-
-		/* 响应式调整（替换原有媒体查询） */
-		@media (max-width: 600px) {
-
-			/* 新增手机端图片调整 */
-			.subtitle img {
-				height: 20px;
-				max-width: 100px;
-			}
-		}
-
-		.episode-info .preview-btn {
-			padding: 10px 20px;
-			font-size: 14px;
-		}
-
-		@media (min-width: 601px) and (max-width: 1024px) {
-			.thumbnail-container {
-				grid-template-columns: repeat(2, 1fr);
-			}
-		}
-
-		@media (min-width: 1025px) {
-			.thumbnail-container {
-				grid-template-columns: repeat(3, 1fr);
-			}
+			border-radius: 8px;
 		}
 
 		.close {
@@ -220,6 +210,18 @@
 			right: 20px;
 			font-size: 24px;
 			cursor: pointer;
+		}
+
+		/* ----------------------- 缩略图及新结构样式 ----------------------- */
+		.thumbnail {
+			border: 1px solid #ddd;
+			border-radius: 8px;
+			overflow: hidden;
+			margin: 10px;
+			display: flex;
+			flex-direction: column;
+			background: #fff;
+			width: 30%;
 		}
 
 		.thumb-image {
@@ -264,21 +266,18 @@
 			background: #feb47b;
 		}
 
-		/* ------------- 响应式调整 ------------- */
-		@media (max-width: 600px) {
-			.thumbnail-container {
-				grid-template-columns: repeat(2, 1fr);
-				/* 强制双列 */
-			}
-
-			/* 如果有必要，也可以取消对 .thumbnail 的宽度控制，依靠 grid 自动控制宽度 */
+		/* ----------------------- 响应式调整 ----------------------- */
+		@media (max-width: 1024px) {
 			.thumbnail {
-				margin: 5px;
-				/* 可选：移除固定宽度 */
-				width: auto;
+				width: calc(33.33% - 10px);
 			}
+		}
 
-			/* 缩略图在手机端采用2列布局 */
+		@media (max-width: 600px) {
+			.thumbnail {
+				width: calc(50% - 10px);
+				margin: 5px;
+			}
 
 			.episode-info .episode-title {
 				font-size: 14px;
@@ -290,10 +289,11 @@
 			}
 		}
 
-		/*（可选）在平板设备上可适当调整宽度，如果需要可以添加另外的媒体查询 */
-		@media (min-width: 601px) and (max-width: 1024px) {
+		/* 针对更小屏幕，如手机极小屏，采用单列布局 */
+		@media (max-width: 400px) {
 			.thumbnail {
-				width: calc(33.33% - 10px);
+				width: calc(100% - 10px);
+				margin: 5px;
 			}
 		}
 	</style>
@@ -398,12 +398,12 @@
 	</div>
 
 	<!-- 视频弹窗 -->
-	<!-- 替换原有视频弹窗 -->
 	<div class="modal" id="videoModal">
 		<div class="modal-content">
-			<span class="close">&times;</span>
-			<video controls id="videoPlayer" playsinline>
-				<source id="videoSource" src="" type="video/mp4">
+			<span class="close">×</span>
+			<video controls id="videoPlayer">
+				<source id="videoSource" src="" type="video/mp4" />
+				您的浏览器不支持 video 标签。
 			</video>
 		</div>
 	</div>
@@ -414,7 +414,7 @@
 	<!-- 全局变量定义 -->
 	<script>
 		// 全局变量定义
-		let currentTab = "0";   // 默认英语类别（与下拉框第一个选项一致）
+		let currentTab = "0"; // 默认英语类别（与下拉框第一个选项一致）
 		const batchSize = 50;
 		const loadedCounts = {};
 
@@ -467,47 +467,18 @@
 		});
 
 		// 打开视频弹窗的函数
-		// 替换原有视频相关代码
 		function openVideoModal(videoUrl) {
-			const videoPlayer = document.getElementById("videoPlayer");
-			const modal = document.getElementById("videoModal");
-
-			// 重置视频源
-			videoPlayer.pause();
-			videoPlayer.src = videoUrl;
-
-			// 自适应处理
-			videoPlayer.onloadedmetadata = function () {
-				const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-				if (isMobile) {
-					const viewportHeight = window.innerHeight;
-					const maxVideoHeight = viewportHeight * 0.8;
-					videoPlayer.style.maxHeight = ${ maxVideoHeight } px;
-				}
-				modal.style.display = "block";
-			};
+			console.log("打开视频弹窗，视频链接：", videoUrl);
+			document.getElementById("videoSource").src = videoUrl;
+			document.getElementById("videoPlayer").load();
+			document.getElementById("videoModal").style.display = "block";
 		}
 
-		// 关闭弹窗（优化版）
-		function closeVideoModal() {
-			const videoPlayer = document.getElementById("videoPlayer");
-			videoPlayer.pause();
-			videoPlayer.removeAttribute('src');
+		// 关闭视频弹窗（点击关闭按钮）
+		document.querySelector(".close").addEventListener("click", function () {
 			document.getElementById("videoModal").style.display = "none";
-		}
-
-		// 绑定事件
-		document.querySelector('.close').addEventListener('click', closeVideoModal);
-		document.getElementById("videoModal").addEventListener('click', function (e) {
-			if (e.target === this) closeVideoModal();
-		});
-
-		// 窗口大小变化处理
-		window.addEventListener('resize', function () {
-			if (document.getElementById("videoModal").style.display === "block") {
-				const videoPlayer = document.getElementById("videoPlayer");
-				videoPlayer.style.maxHeight = window.innerHeight * 0.8 + 'px';
-			}
+			document.getElementById("videoPlayer").pause();
+			document.getElementById("videoSource").src = "";
 		});
 
 		// 点击弹窗背景关闭弹窗
@@ -528,7 +499,7 @@
 		});
 	</script>
 
-	<!-- 引入 Swiper 脚本 -->
+	<!-- 引入 Swiper 脚本（只引入一次） -->
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script>
 		var mySwiper = new Swiper('.swiper-container', {
@@ -549,33 +520,12 @@
 		});
 	</script>
 
-	<!-- 引入 Swiper 脚本 -->
-	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-	<script>
-		var mySwiper = new Swiper('.swiper-container', {
-			loop: true,
-			autoplay: {
-				delay: 1500,
-				disableOnInteraction: true,
-			},
-			navigation: {
-				nextEl: '.swiper-button-next',
-				prevEl: '.swiper-button-prev',
-			},
-			pagination: {
-				el: '.swiper-pagination',
-				clickable: true,
-			},
-			speed: 1000,
-		});
-	</script>
 	<script>
 		function filterThumbnails() {
 			// 1. 获取当前用户输入的搜索词，并转小写用于匹配
 			const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
 
 			// 2. 获取当前选中的语言 tab（你在 changeTab 中使用了 currentTab 作标记）
-			//    确保你的全局变量 currentTab 已声明并存储了当前选项卡值
 			const tab = currentTab;
 
 			// 3. 先清空容器
@@ -600,7 +550,7 @@
 
 			// 6. 如果有搜索词，则在当前 tab 里做过滤
 			//    这里简单处理：只要 HTML 片段中包含搜索词(不区分大小写)，就算匹配
-			const allItems = thumbnailsData[tab];   // 所有HTML片段数组
+			const allItems = thumbnailsData[tab]; // 所有HTML片段数组
 			let filteredItems = allItems.filter(item => {
 				// 转小写，与 searchTerm 作 includes 判断
 				const lowerItem = item.toLowerCase();
