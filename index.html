@@ -193,18 +193,45 @@
 		/* 新的弹窗容器样式：自适应手机 */
 		/* 弹窗容器样式 */
 		.modal-content {
-		  position: fixed !important;
-		  top: 50% !important;
-		  left: 50% !important;
-		  transform: translate(-50%, -50%) !important;
-		  /* 不再固定宽度，而是由 JS 动态设置 */
+		  position: fixed;
+		  top: 50%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		  width: 90%; /* 默认宽度 */
+		  max-width: 800px; /* 桌面端最大宽度 */
+		  height: auto;
+		  max-height: 80vh;
 		  overflow: hidden;
-		  padding: 10px;
 		  background: #fff;
 		  border-radius: 8px;
-		  display: flex;
-		  flex-direction: column;
-		  box-sizing: border-box;
+		}
+
+		/* 手机端适配 */
+		@media (max-width: 600px) {
+		  .modal-content {
+			top: 10% !important; /* 距离顶部10% */
+			left: 5px !important;
+			right: 5px !important;
+			transform: none !important;
+			width: calc(100% - 10px) !important; /* 与缩略图一致 */
+			max-width: none;
+			height: auto;
+			max-height: 80vh;
+		  }
+
+		.modal-content video {
+			max-height: 60vh; /* 控制视频高度 */
+		  }
+		}
+
+		/* 关闭按钮适配 */
+		.close {
+		  position: absolute;
+		  top: 5px;
+		  right: 10px;
+		  color: #fff;
+		  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+		  z-index: 1001;
 		}
 
 		/* 视频元素充满容器 */
@@ -477,24 +504,14 @@
 		});
 
 
-		// 打开视频弹窗的函数
-		function openVideoModal(videoUrl, thumbnailEl) {
-		  // 获取被点击剧集项的尺寸
-		  const rect = thumbnailEl.getBoundingClientRect();
-		  const modalContent = document.querySelector(".modal-content");
 
-		  // 设置弹窗容器的宽度和高度与剧集项相同
-		  modalContent.style.width = rect.width + "px";
-		  modalContent.style.height = rect.height + "px";
-
-		  // 更新视频源并加载视频
+	    // 修改后的打开视频弹窗函数
+	    function openVideoModal(videoUrl) {
+		// 移除动态尺寸设置
 		  document.getElementById("videoSource").src = videoUrl;
 		  document.getElementById("videoPlayer").load();
-
-		  // 显示视频弹窗
-		  document.getElementById("videoModal").style.display = "flex"; // 使用 flex 布局，确保居中
-	}
-
+		  document.getElementById("videoModal").style.display = "flex";
+	    }
 
 		// 关闭视频弹窗（点击关闭按钮）
 		document.querySelector(".close").addEventListener("click", function () {
