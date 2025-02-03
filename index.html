@@ -24,7 +24,6 @@
 		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
 	</script>
 	<!-- End Google Tag Manager -->
-
 	<style>
 		/* ----------------------- 基本样式 ----------------------- */
 		body {
@@ -63,13 +62,12 @@
 		}
 
 		/* ----------------------- 轮播图样式 ----------------------- */
-		/* 采用百分比宽度并使用内填充比例保证宽高比 */
 		.swiper-container {
 			width: 100%;
 			max-width: 800px;
 			position: relative;
 			margin: 0 auto 20px auto;
-			/* 16:9 纵横比：9/16=56.25% */
+			/* 16:9 纵横比 */
 			height: 0;
 			padding-bottom: 56.25%;
 		}
@@ -175,82 +173,6 @@
 			display: none;
 		}
 
-		/* ----------------------- 视频弹窗样式 ----------------------- */
-		/* 视频弹窗整体背景不变 */
-		.modal {
-		  display: none;
-		  position: fixed;
-		  z-index: 1000;
-		  top: 0;
-		  left: 0;
-		  width: 100%;
-		  height: 100%;
-		  background-color: rgba(0, 0, 0, 0.7);
-		  justify-content: center;
-		  align-items: center;
-		}
-
-		/* 新的弹窗容器样式：自适应手机 */
-		/* 弹窗容器样式 */
-		.modal-content {
-		  position: fixed;
-		  top: 50%;
-		  left: 50%;
-		  transform: translate(-50%, -50%);
-		  width: 90%; /* 默认宽度 */
-		  max-width: 800px; /* 桌面端最大宽度 */
-		  height: auto;
-		  max-height: 80vh;
-		  overflow: hidden;
-		  background: #fff;
-		  border-radius: 8px;
-		}
-
-		/* 手机端适配 */
-		@media (max-width: 600px) {
-		  .modal-content {
-			top: 10% !important; /* 距离顶部10% */
-			left: 5px !important;
-			right: 5px !important;
-			transform: none !important;
-			width: calc(100% - 10px) !important; /* 与缩略图一致 */
-			max-width: none;
-			height: auto;
-			max-height: 80vh;
-		  }
-
-		.modal-content video {
-			max-height: 60vh; /* 控制视频高度 */
-		  }
-		}
-
-		/* 关闭按钮适配 */
-		.close {
-		  position: absolute;
-		  top: 5px;
-		  right: 10px;
-		  color: #fff;
-		  text-shadow: 0 0 5px rgba(0,0,0,0.5);
-		  z-index: 1001;
-		}
-
-		/* 视频元素充满容器 */
-		.modal-content video {
-		  width: 100%;
-		  height: 100%;
-		  object-fit: contain;
-		  display: block;
-		}
-
-		/* 关闭按钮样式保持不变 */
-		.close {
-		  position: absolute;
-		  top: 10px;
-		  right: 20px;
-		  font-size: 24px;
-		  cursor: pointer;
-		}
-
 		/* ----------------------- 缩略图及新结构样式 ----------------------- */
 		.thumbnail {
 			border: 1px solid #ddd;
@@ -328,7 +250,6 @@
 			}
 		}
 
-		/* 针对更小屏幕，如手机极小屏，采用单列布局 */
 		@media (max-width: 400px) {
 			.thumbnail {
 				width: calc(100% - 10px);
@@ -349,7 +270,6 @@
 		});
 	</script>
 	<!-- End Google Tag Manager (noscript) -->
-
 	<div class="container">
 		<div class="title">
 			<img alt="Icon" src="hot.webp" />
@@ -396,7 +316,6 @@
 			<!-- 分页器 -->
 			<div class="swiper-pagination"></div>
 		</div>
-
 		<!-- 新内容区域 -->
 		<div class="subtitle">
 			<img alt="Icon" src="search.webp" />
@@ -419,8 +338,7 @@
 				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
 					type="text" />
 			</div>
-			<div class="thumbnail-container" id="thumbnailContainer">
-			</div>
+			<div class="thumbnail-container" id="thumbnailContainer"></div>
 			<div style="text-align:center; margin: 20px;">
 				<button id="loadMoreBtn">Load More</button>
 			</div>
@@ -435,28 +353,14 @@
 			</script>
 		</div>
 	</div>
-
-	<!-- 视频弹窗 -->
-	<div class="modal" id="videoModal">
-		<div class="modal-content">
-			<span class="close">×</span>
-			<video controls id="videoPlayer">
-				<source id="videoSource" src="" type="video/mp4" />
-				您的浏览器不支持 video 标签。
-			</video>
-		</div>
-	</div>
-
 	<!-- 引入剧集数据 -->
 	<script src="thumbnailsData.js"></script>
-
 	<!-- 全局变量定义 -->
 	<script>
 		// 全局变量定义
-		let currentTab = "0"; // 默认英语类别（与下拉框第一个选项一致）
+		let currentTab = "0"; // 默认英语类别
 		const batchSize = 50;
 		const loadedCounts = {};
-
 		// 按批次加载函数（保持原有逻辑）
 		function loadThumbnails(tab) {
 			const container = document.getElementById("thumbnailContainer");
@@ -475,69 +379,38 @@
 			const loadMoreBtn = document.getElementById("loadMoreBtn");
 			loadMoreBtn.style.display = loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
 		}
-
-		// 绑定点击事件，增加 event.isTrusted 检查，确保只响应用户操作
+		// 绑定点击事件，确保只响应用户操作
 		document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
-		  if (!event.isTrusted) return;
-
-		  // 点击“点击预览”按钮时
-		  if (event.target.closest(".preview-btn")) {
-			const thumbnailEl = event.target.closest(".thumbnail");
-			const videoUrl = thumbnailEl.getAttribute("data-video");
-			if (videoUrl) {
-			  openVideoModal(videoUrl, thumbnailEl); // 传入剧集项元素
+			if (!event.isTrusted) return;
+			// 点击“点击预览”按钮时，跳转到新页面播放视频
+			if (event.target.closest(".preview-btn")) {
+				const thumbnailEl = event.target.closest(".thumbnail");
+				const videoUrl = thumbnailEl.getAttribute("data-video");
+				if (videoUrl) {
+					// 跳转到 videoPlayer.html 页面，并传递视频链接参数
+					window.location.href = 'videoPlayer.html?videoUrl=' + encodeURIComponent(videoUrl);
+				}
+				event.stopPropagation();
+				return;
 			}
-			event.stopPropagation();
-			return;
-		  }
-
-		// 其他点击处理...
-		  if (event.target.closest(".thumb-image") || event.target.closest(".episode-title")) {
-			const thumbnailEl = event.target.closest(".thumbnail");
-			const commissionUrl = thumbnailEl.getAttribute("data-commission");
-			if (commissionUrl) {
-			  window.open(commissionUrl, '_blank');
-			}
-			event.stopPropagation();
-			return;
-		  }
-		});
-
-
-
-	    // 修改后的打开视频弹窗函数
-	    function openVideoModal(videoUrl) {
-		// 移除动态尺寸设置
-		  document.getElementById("videoSource").src = videoUrl;
-		  document.getElementById("videoPlayer").load();
-		  document.getElementById("videoModal").style.display = "flex";
-	    }
-
-		// 关闭视频弹窗（点击关闭按钮）
-		document.querySelector(".close").addEventListener("click", function () {
-			document.getElementById("videoModal").style.display = "none";
-			document.getElementById("videoPlayer").pause();
-			document.getElementById("videoSource").src = "";
-		});
-
-		// 点击弹窗背景关闭弹窗
-		document.getElementById("videoModal").addEventListener("click", function (event) {
-			if (event.target === this) {
-				this.style.display = "none";
-				document.getElementById("videoPlayer").pause();
-				document.getElementById("videoSource").src = "";
+			// 点击缩略图区域或剧集标题跳转佣金链接
+			if (event.target.closest(".thumb-image") || event.target.closest(".episode-title")) {
+				const thumbnailEl = event.target.closest(".thumbnail");
+				const commissionUrl = thumbnailEl.getAttribute("data-commission");
+				if (commissionUrl) {
+					window.open(commissionUrl, '_blank');
+				}
+				event.stopPropagation();
+				return;
 			}
 		});
-
 		// 页面加载后延时加载剧集数据，确保页面渲染稳定
 		document.addEventListener("DOMContentLoaded", function () {
-			// 延时100毫秒加载数据，避免加载过程中产生意外的事件触发
 			setTimeout(function () {
 				loadThumbnails(currentTab);
 			}, 100);
 		});
 	</script>
-
 	<!-- 引入 Swiper 脚本（只引入一次） -->
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script>
@@ -558,52 +431,30 @@
 			speed: 1000,
 		});
 	</script>
-
 	<script>
 		function filterThumbnails() {
-			// 1. 获取当前用户输入的搜索词，并转小写用于匹配
 			const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
-
-			// 2. 获取当前选中的语言 tab（你在 changeTab 中使用了 currentTab 作标记）
 			const tab = currentTab;
-
-			// 3. 先清空容器
 			const container = document.getElementById("thumbnailContainer");
 			container.innerHTML = "";
-
-			// 4. 如果当前 tab 无数据，或者 thumbnailsData[tab] 不存在，直接返回
 			if (!thumbnailsData[tab]) {
 				return;
 			}
-
-			// 5. 如果搜索词为空，则“恢复”原始全部结果
 			if (searchTerm === "") {
-				// 重置已加载计数
 				loadedCounts[tab] = 0;
-				// 重新调用原先的加载逻辑
 				loadThumbnails(tab);
-				// 显示“Load More”按钮
 				document.getElementById("loadMoreBtn").style.display = "block";
 				return;
 			}
-
-			// 6. 如果有搜索词，则在当前 tab 里做过滤
-			//    这里简单处理：只要 HTML 片段中包含搜索词(不区分大小写)，就算匹配
-			const allItems = thumbnailsData[tab]; // 所有HTML片段数组
+			const allItems = thumbnailsData[tab];
 			let filteredItems = allItems.filter(item => {
-				// 转小写，与 searchTerm 作 includes 判断
-				const lowerItem = item.toLowerCase();
-				return lowerItem.includes(searchTerm);
+				return item.toLowerCase().includes(searchTerm);
 			});
-
-			// 7. 将搜索结果一次性加载到容器
 			filteredItems.forEach(htmlSnippet => {
 				let tempDiv = document.createElement("div");
 				tempDiv.innerHTML = htmlSnippet;
 				container.appendChild(tempDiv.firstElementChild);
 			});
-
-			// 8. 隐藏“Load More”按钮（因为此时是一次性显示所有匹配内容）
 			document.getElementById("loadMoreBtn").style.display = "none";
 		}
 	</script>
