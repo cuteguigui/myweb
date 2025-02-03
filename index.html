@@ -162,6 +162,7 @@
 			transition: transform 0.2s;
 		}
 
+		/* 默认 PC 端样式保持不变 */
 		.modal {
 		  display: none;
 		  position: fixed;
@@ -174,6 +175,7 @@
 		  overflow-y: auto;
 		}
 
+		/* PC端默认弹窗内容，若需要可自行调整 */
 		.modal-content {
 		  position: absolute;
 		  top: 50%;
@@ -186,6 +188,32 @@
 		  background: #fff;
 		}
 
+		/* 手机端样式：使用 flex 居中，弹窗内容占手机屏幕80% */
+		@media (max-width: 600px) {
+		  .modal {
+			display: flex !important;
+			justify-content: center;
+			align-items: center;
+			padding: 10px; /* 避免内容贴边 */
+		  }
+		  .modal-content {
+			position: relative; /* 取消绝对定位 */
+			width: 80vw;         /* 占屏幕80%宽度 */
+			max-width: 80vw;
+			max-height: 80vh;    /* 占屏幕80%高度 */
+			padding: 0;          /* 如需要可增加内边距 */
+			border-radius: 12px;
+			background: #fff;
+			overflow: hidden;    /* 防止视频溢出 */
+		  }
+		  /* 让视频在弹窗中自适应 */
+		  #videoPlayer {
+			width: 100%;
+			height: 100%;
+			object-fit: contain; /* 保持视频宽高比 */
+		  }
+		}
+
 		/* 响应式调整（替换原有媒体查询） */
 		@media (max-width: 600px) {
             /* 新增手机端图片调整 */
@@ -195,15 +223,10 @@
 			}
 		}
 
-		@media (max-width: 600px) {
-		  .thumbnail-container {
-			grid-template-columns: 1fr;
-		}
 		  .episode-info .preview-btn {
 			padding: 10px 20px;
 			font-size: 14px;
 		  }
-		}
 
 		@media (min-width: 601px) and (max-width: 1024px) {
 		  .thumbnail-container {
@@ -269,12 +292,17 @@
 	
 		/* ------------- 响应式调整 ------------- */
 		@media (max-width: 600px) {
-	
+		  .thumbnail-container {
+			grid-template-columns: repeat(2, 1fr); /* 强制双列 */
+		  }
+		  /* 如果有必要，也可以取消对 .thumbnail 的宽度控制，依靠 grid 自动控制宽度 */
+		  .thumbnail {
+			margin: 5px;
+			/* 可选：移除固定宽度 */
+			width: auto;
+		  }
+
 			/* 缩略图在手机端采用2列布局 */
-			.thumbnail {
-				width: calc(50% - 10px);
-				margin: 5px;
-			}
 	
 			.episode-info .episode-title {
 				font-size: 14px;
@@ -465,23 +493,15 @@
 			// 打开视频弹窗的函数
 			// 替换原有视频相关代码
 				function openVideoModal(videoUrl) {
-					const videoPlayer = document.getElementById("videoPlayer");
-					const modal = document.getElementById("videoModal");
+				  const videoPlayer = document.getElementById("videoPlayer");
+				  const modal = document.getElementById("videoModal");
 
-					// 重置视频源
-					videoPlayer.pause();
-					videoPlayer.src = videoUrl;
+			      // 重置视频源
+				  videoPlayer.pause();
+				  videoPlayer.src = videoUrl;
 
-					// 自适应处理
-					videoPlayer.onloadedmetadata = function () {
-						const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-						if (isMobile) {
-							const viewportHeight = window.innerHeight;
-							const maxVideoHeight = viewportHeight * 0.8;
-							videoPlayer.style.maxHeight = `${maxVideoHeight}px`;
-						}
-						modal.style.display = "block";
-					};
+				  // 直接显示弹窗，由 CSS 控制样式
+				  modal.style.display = "block";
 				}
 
 			// 关闭弹窗（优化版）
