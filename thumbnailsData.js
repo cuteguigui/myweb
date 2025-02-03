@@ -11,7 +11,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Beyond Doubt</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Hero Uncovered.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bf06832bf5">
@@ -24,7 +24,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Hero Uncovered</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Cupid Kid.mp4" data-commission="https://short.kalostv.com/api/short/jump/675be88f7b775">
@@ -37,7 +37,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO's Cupid Kid</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Vampire's Remedy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ba42f7d5b9">
@@ -50,7 +50,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Vampire's Remedy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Love Chase.mp4" data-commission="https://short.kalostv.com/api/short/jump/675b9b100d503">
@@ -63,7 +63,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO's Love Chase</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Family Rescue Gone Wrong.mp4" data-commission="https://short.kalostv.com/api/short/jump/675b9b28293a7">
@@ -76,7 +76,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Family Rescue Gone Wrong</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secretly Wed To a Tycoon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675b9b3da493a">
@@ -89,7 +89,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secretly Wed To a Tycoon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Jasmines Bloom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675b9b4febf96">
@@ -102,7 +102,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Jasmines Bloom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Quit Job, Married Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bbfbcee66f">
@@ -115,7 +115,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Quit Job, Married Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorce Does Me Good.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bbfd65e185">
@@ -128,7 +128,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Divorce Does Me Good</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Swap Life With The Tycoon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bc00b37985">
@@ -141,7 +141,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Swap Life With The Tycoon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/King of Dragon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51d0c2f6c">
@@ -154,7 +154,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">King of Dragon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Eternal Battle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51dd7ca03">
@@ -167,7 +167,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Eternal Battle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of the Master Breaking Off Nine Engagements.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51e46d3eb">
@@ -180,7 +180,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of the Master Breaking Off Nine Engagements</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Shine On Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51eebd355">
@@ -193,7 +193,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Shine On Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rising Above with Pig Farming.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51f7e6038">
@@ -206,7 +206,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rising Above with Pig Farming</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Returned, I Healed, I Conquered.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5202ec39b">
@@ -219,7 +219,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Returned, I Healed, I Conquered</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Once More, In Bloom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c520c06873">
@@ -232,7 +232,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Once More, In Bloom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Know What the Future Holds.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5216ace2f">
@@ -245,7 +245,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Know What the Future Holds</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Starting with Nine Fairy Masters.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c521f628c3">
@@ -258,7 +258,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Starting with Nine Fairy Masters</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Maestro's Second Symphony.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5228e2bdc">
@@ -271,7 +271,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Maestro's Second Symphony</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Ass-kisser System.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5233183c3">
@@ -284,7 +284,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Ass-kisser System</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lady Luck and Her Doting Suitor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c523cb12fe">
@@ -297,7 +297,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lady Luck and Her Doting Suitor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'll Protect You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52466a41d">
@@ -310,7 +310,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'll Protect You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Master of Medicine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c524f76091">
@@ -323,7 +323,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Master of Medicine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bless Me, Love Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c525997fcb">
@@ -336,7 +336,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bless Me, Love Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Crafted Wukong Mech in Ancient Times.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5263308bf">
@@ -349,7 +349,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Crafted Wukong Mech in Ancient Times</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Noble's Grudge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c526cbea0b">
@@ -362,7 +362,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Noble's Grudge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Prince Wants a Promotion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52765aa20">
@@ -375,7 +375,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Prince Wants a Promotion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/County Governor's Road to Success.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c527f9b415">
@@ -388,7 +388,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">County Governor's Road to Success</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Rise of a Dumb Son-in-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c528a4a95d">
@@ -401,7 +401,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Rise of a Dumb Son-in-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fated Eternity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5292c7d22">
@@ -414,7 +414,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fated Eternity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Billions-Induced Madness.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c529c72a7b">
@@ -427,7 +427,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Billions-Induced Madness</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ice Queen's Regret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52a70cf85">
@@ -440,7 +440,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ice Queen's Regret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secretly Married To My Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52b1b2dd8">
@@ -453,7 +453,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secretly Married To My Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Epic Vet Mastery.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52bad4b3e">
@@ -466,7 +466,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Epic Vet Mastery</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Supreme Young Master.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52c62efca">
@@ -479,7 +479,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Supreme Young Master</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Golden Years, Old Flames.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52cf20516">
@@ -492,7 +492,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Golden Years, Old Flames</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Divorce, I Become a Legend.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52d73a4cb">
@@ -505,7 +505,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Divorce, I Become a Legend</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Have Money and Three Brothers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52e16b85f">
@@ -518,7 +518,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Have Money and Three Brothers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ambitious Father and Unbeatable Son.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52eb17796">
@@ -531,7 +531,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ambitious Father and Unbeatable Son</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Forced Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52f512de7">
@@ -544,7 +544,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Forced Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Lucky Child.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c52fe66fec">
@@ -557,7 +557,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Lucky Child</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Shh, It's a Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5307b835f">
@@ -570,7 +570,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Shh, It's a Secret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love at 30000 Feet.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c531156f4f">
@@ -583,7 +583,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secret Love at 30000 Feet</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Betrayed by Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c531b52c54">
@@ -596,7 +596,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Betrayed by Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Stoic Pilot, Warm Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53247bd5e">
@@ -609,7 +609,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Stoic Pilot, Warm Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Chasing Tears.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c532e237ea">
@@ -622,7 +622,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Chasing Tears</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO, Your Bodyguard is Your Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5337a63c0">
@@ -635,7 +635,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO, Your Bodyguard is Your Lady</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Sherar's Struggle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c534136c80">
@@ -648,7 +648,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Sherar's Struggle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Divorce, Comes Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c534ac599d">
@@ -661,7 +661,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Divorce, Comes Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Uncle's Endless Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53559ba4e">
@@ -674,7 +674,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Uncle's Endless Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Loser to Genius.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c535e08973">
@@ -687,7 +687,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Loser to Genius</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Useless Dad Is a Hero.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c536807c67">
@@ -700,7 +700,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Useless Dad Is a Hero</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Super Guardian of the Kingdom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53712e42a">
@@ -713,7 +713,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Super Guardian of the Kingdom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Senior Sisters.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c537ac7a62">
@@ -726,7 +726,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Senior Sisters</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Prince Charming and His Evil Family.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c538de46ef">
@@ -739,7 +739,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Prince Charming and His Evil Family</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Princess Imperial Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53977541c">
@@ -752,7 +752,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Princess Imperial Strikes Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trust Stolen, Empire Risen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53a1232a2">
@@ -765,7 +765,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trust Stolen, Empire Risen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hidden Twin Heirs.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53aa9031d">
@@ -778,7 +778,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hidden Twin Heirs</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/One Day Before the Big Shot Dies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53b42eec5">
@@ -791,7 +791,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">One Day Before the Big Shot Dies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Not An Academic Prodigy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53bf3d747">
@@ -804,7 +804,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'm Not An Academic Prodigy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost in Vice-business.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53c767661">
@@ -817,7 +817,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lost in Vice-business</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Let's divorce! I'm not a Toad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53d170976">
@@ -830,7 +830,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Let's divorce! I'm not a Toad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Snow-buried Truth.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53da7ee1e">
@@ -843,7 +843,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Snow-buried Truth</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Galactic Empire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53e4c78c7">
@@ -856,7 +856,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Galactic Empire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Vengeance of the Medical King.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53ed9e445">
@@ -869,7 +869,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Vengeance of the Medical King</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mess With the Wrong Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c53f73a3c9">
@@ -882,7 +882,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mess With the Wrong Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Starts From a Honey Trap.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5400d98de">
@@ -895,7 +895,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Starts From a Honey Trap</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Moves in Mysterious Ways.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c540a6134e">
@@ -908,7 +908,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Moves in Mysterious Ways</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO Daddy of Four Babies Realized His Mistakes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c541400f12">
@@ -921,7 +921,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO Daddy of Four Babies Realized His Mistakes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Dragon Commander.mp4" data-commission="https://short.kalostv.com/api/short/jump/6749d641b959f">
@@ -934,7 +934,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Dragon Commander</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise of the Dragonlord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c542736ab9">
@@ -947,7 +947,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rise of the Dragonlord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Only I Can Save Your Son.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c543101453">
@@ -960,7 +960,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Only I Can Save Your Son</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Tricky Lady Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c543a45685">
@@ -973,7 +973,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Tricky Lady Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Strikes the Stoic Mogul.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5443e17bb">
@@ -986,7 +986,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Strikes the Stoic Mogul</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reign of the Lord Frost.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5456f14df">
@@ -999,7 +999,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reign of the Lord Frost</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Boxing Champion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c546246dd8">
@@ -1012,7 +1012,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Boxing Champion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Eternal Dominion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c546a85b95">
@@ -1025,7 +1025,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Eternal Dominion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Sisters Regret Kicking Me Out.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5473b3a00">
@@ -1038,7 +1038,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Sisters Regret Kicking Me Out</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flames of Passion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c547d53579">
@@ -1051,7 +1051,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flames of Passion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Guardian War God.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5486e517c">
@@ -1064,7 +1064,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Guardian War God</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Road to Wealth.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5490776ab">
@@ -1077,7 +1077,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Road to Wealth</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dreamed My Way to Heavenly Master.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c549a0de33">
@@ -1090,7 +1090,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dreamed My Way to Heavenly Master</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fortune's Second Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54a426382">
@@ -1103,7 +1103,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fortune's Second Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Overlord of Asura.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54ae29a4c">
@@ -1116,7 +1116,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Overlord of Asura</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Supreme Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54b6bea5e">
@@ -1129,7 +1129,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge of the Supreme Lord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of the Grandmaster.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54c062d5a">
@@ -1142,7 +1142,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of the Grandmaster</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Genius Healer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54c9ef30b">
@@ -1155,7 +1155,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Genius Healer</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unyielding Son-In-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54d38b347">
@@ -1168,7 +1168,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unyielding Son-In-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Where Love Lost Its Way.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54e507fe0">
@@ -1181,7 +1181,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Where Love Lost Its Way</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Sweetheart Strides Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54f260461">
@@ -1194,7 +1194,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Sweetheart Strides Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Office Pushover Is The Real Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54f38dc01">
@@ -1207,7 +1207,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Office Pushover Is The Real Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mamma Mia.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c54fd08969">
@@ -1220,7 +1220,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mamma Mia</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Wife's Rising Road.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5506be8a8">
@@ -1233,7 +1233,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Wife's Rising Road</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destined Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5510acc27">
@@ -1246,7 +1246,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destined Hearts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/It's Meant To Be.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c551a49928">
@@ -1259,7 +1259,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">It's Meant To Be</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Glory Returns.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5523822bd">
@@ -1272,7 +1272,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Glory Returns</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Evan Wood's Rise from Rags to Riches.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c552d138f2">
@@ -1285,7 +1285,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Evan Wood's Rise from Rags to Riches</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Best Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55369e5ae">
@@ -1298,7 +1298,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Best Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Commercial Turbulence, Son-in-Law's Rise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c554030c09">
@@ -1311,7 +1311,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Commercial Turbulence, Son-in-Law's Rise</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Presence Rules All.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5549c1f66">
@@ -1324,7 +1324,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Presence Rules All</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/General of Miracle and His Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55536a2fa">
@@ -1337,7 +1337,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">General of Miracle and His Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cute Son Sweet Mummy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c555d1936f">
@@ -1350,7 +1350,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cute Son Sweet Mummy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dragon Emperor War God.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55667127c">
@@ -1363,7 +1363,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dragon Emperor War God</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Charming Stepmother.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c557016b6b">
@@ -1376,7 +1376,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Charming Stepmother</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Goodbye, Mr. Clark.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5579a1b0d">
@@ -1389,7 +1389,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Goodbye, Mr. Clark</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sir, Madam has a New Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55966433f">
@@ -1402,7 +1402,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sir, Madam has a New Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He is back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55aad76d7">
@@ -1415,7 +1415,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He is back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Schemes in Palace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55b306799">
@@ -1428,7 +1428,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Schemes in Palace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Deceptive Husband, Behave Yourself!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55bca789f">
@@ -1441,7 +1441,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Deceptive Husband, Behave Yourself!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Best Day for Prosperity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55c68d80b">
@@ -1454,7 +1454,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Best Day for Prosperity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Chasing Her All Along.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55cfb0af6">
@@ -1467,7 +1467,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Chasing Her All Along</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Countdown to Vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55d952792">
@@ -1480,7 +1480,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Countdown to Vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Hidden Heir of a Zillionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55e2eb694">
@@ -1493,7 +1493,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Hidden Heir of a Zillionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Love, My Future.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55ec7c9c2">
@@ -1506,7 +1506,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Love, My Future</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise from the Ashes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55f625587">
@@ -1519,7 +1519,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rise from the Ashes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reunite With My Long-Lost Children.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55ffa90e7">
@@ -1532,7 +1532,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reunite With My Long-Lost Children</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beautiful Moments, Fleeting Times.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5609a730a">
@@ -1545,7 +1545,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beautiful Moments, Fleeting Times</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Healing Enchantress, From Modern Surgeon to Imperial Favor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5612d1daf">
@@ -1558,7 +1558,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Healing Enchantress, From Modern Surgeon to Imperial Favor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Princess's Struggle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c561c6972c">
@@ -1571,7 +1571,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Princess's Struggle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Oh My Sickly Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c562601325">
@@ -1584,7 +1584,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Oh My Sickly Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet and Sassy Diva Mommy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c562f808b2">
@@ -1597,7 +1597,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet and Sassy Diva Mommy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Across the Stars to You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c563931904">
@@ -1610,7 +1610,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Across the Stars to You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Stepmom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5642b473b">
@@ -1623,7 +1623,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge of the Stepmom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Arranged Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c564c49169">
@@ -1636,7 +1636,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Arranged Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Billionaire Queen's Resurgence.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5655dc15e">
@@ -1649,7 +1649,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Billionaire Queen's Resurgence</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Supreme Dragon Guardian.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c565fe17f8">
@@ -1662,7 +1662,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Supreme Dragon Guardian</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Boss Daddy, You Spoiled the Wrong Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56690e8b1">
@@ -1675,7 +1675,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Boss Daddy, You Spoiled the Wrong Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fightback After Being Abandoned.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c567c40177">
@@ -1688,7 +1688,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fightback After Being Abandoned</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/First Love Found.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5685d399b">
@@ -1701,7 +1701,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">First Love Found</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Being Rich is Meaningless.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c568fc9260">
@@ -1714,7 +1714,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Being Rich is Meaningless</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Stealing Beauty.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c569a13904">
@@ -1727,7 +1727,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Stealing Beauty</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Kung Fu Soccer The Soccer Queen Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56a2af028">
@@ -1740,7 +1740,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Kung Fu Soccer The Soccer Queen Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Farming in the Palace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56ac4056e">
@@ -1753,7 +1753,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Farming in the Palace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Through the Eyes of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56b5ce281">
@@ -1766,7 +1766,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Through the Eyes of Fate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rising from the Ashes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56bf6c7f6">
@@ -1779,7 +1779,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rising from the Ashes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You Look Like a Good Kisser.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56c9c14d2">
@@ -1792,7 +1792,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You Look Like a Good Kisser</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Billion Dollars in My Account.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56d347304">
@@ -1805,7 +1805,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Billion Dollars in My Account</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Remembered I Am Rich.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56dcccb0b">
@@ -1818,7 +1818,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Remembered I Am Rich</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Soaring from Shadows.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56e6654a2">
@@ -1831,7 +1831,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Soaring from Shadows</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Prosperous Path from Catching Crabs.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56f00b27e">
@@ -1844,7 +1844,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Prosperous Path from Catching Crabs</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Ultimate Shadow Strategist.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56f99a7da">
@@ -1857,7 +1857,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Ultimate Shadow Strategist</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wrath of Commander North.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5703a09ce">
@@ -1870,7 +1870,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wrath of Commander North</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Avenging My Twin Brother.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c570d44a23">
@@ -1883,7 +1883,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Avenging My Twin Brother</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Unseen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5716d058d">
@@ -1896,7 +1896,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Unseen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Top dog's Comeback.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5720a8a29">
@@ -1909,7 +1909,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Top dog's Comeback</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Delivery Boy's Challenges.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5729d2670">
@@ -1922,7 +1922,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Delivery Boy's Challenges</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible Mechanic.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c573366ca6">
@@ -1935,7 +1935,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Invincible Mechanic</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cajoled by the Marshal A Wedding Night Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c573ced076">
@@ -1948,7 +1948,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cajoled by the Marshal A Wedding Night Story</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Heiress's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57468edae">
@@ -1961,7 +1961,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Heiress's Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Across Era.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c575021405">
@@ -1974,7 +1974,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Across Era</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Loaded Date.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5759b09f6">
@@ -1987,7 +1987,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Loaded Date</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Soldier King in Town.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5763587a3">
@@ -2000,7 +2000,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Soldier King in Town</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Inheriting Billions After Bride Price Drama.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c576d46760">
@@ -2013,7 +2013,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Inheriting Billions After Bride Price Drama</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/True Hearts Behind the Deal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57767263c">
@@ -2026,7 +2026,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">True Hearts Behind the Deal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Retiree's Encore.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5780183d0">
@@ -2039,7 +2039,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Retiree's Encore</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Counterattack of Yosef Wood.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c578b059da">
@@ -2052,7 +2052,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Counterattack of Yosef Wood</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Road to My Lovely Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c579309f51">
@@ -2065,7 +2065,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Road to My Lovely Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Forgotten Love, Forgotten Lies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c579ce2da3">
@@ -2078,7 +2078,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Forgotten Love, Forgotten Lies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sword Master.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57a6bf7ff">
@@ -2091,7 +2091,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sword Master</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Loss Echoes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57b05fad0">
@@ -2104,7 +2104,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Loss Echoes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hidden Flame of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57b9dabf6">
@@ -2117,7 +2117,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hidden Flame of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Ungrateful Children.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57c37c1a9">
@@ -2130,7 +2130,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Ungrateful Children</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Addicted to Her.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57cd00c86">
@@ -2143,7 +2143,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Addicted to Her</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beneath His Charm.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d985ef10e2">
@@ -2156,7 +2156,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beneath His Charm</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Forgive Me, I Love You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57e0136db">
@@ -2169,7 +2169,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Forgive Me, I Love You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tycoon's Test.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57ea26bfb">
@@ -2182,7 +2182,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tycoon's Test</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Like Father, Like Son.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57f4b48ec">
@@ -2195,7 +2195,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Like Father, Like Son</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Exchanged Lives.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c57fea1eaa">
@@ -2208,7 +2208,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Exchanged Lives</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Step-by-step Guide To Love You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c580c15486">
@@ -2221,7 +2221,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Step-by-step Guide To Love You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Misdiagnosis and Rebellion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58115c830">
@@ -2234,7 +2234,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Misdiagnosis and Rebellion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Found You All Along.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c581aead56">
@@ -2247,7 +2247,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Found You All Along</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Pulse of Our Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5824881b4">
@@ -2260,7 +2260,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Pulse of Our Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Beyond Age.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5837f3ecb">
@@ -2273,7 +2273,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Beyond Age</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wronged in Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c584140964">
@@ -2286,7 +2286,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wronged in Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He Is My Son.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c584ad3b5b">
@@ -2299,7 +2299,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He Is My Son</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Kiss of Power, Endless Desire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58547df52">
@@ -2312,7 +2312,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Kiss of Power, Endless Desire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Secret Online Boyfriend Is My Ceo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c585e230b6">
@@ -2325,7 +2325,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Secret Online Boyfriend Is My Ceo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Despair After Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5867bf073">
@@ -2338,7 +2338,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Despair After Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Young Avenger's War.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58714c048">
@@ -2351,7 +2351,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Young Avenger's War</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Post Divorce Obsession.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c587c138a2">
@@ -2364,7 +2364,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Post Divorce Obsession</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Loved by the Emperor After Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5884c501d">
@@ -2377,7 +2377,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Loved by the Emperor After Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You Are Synonymous With Tenderness.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c588e66697">
@@ -2390,7 +2390,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You Are Synonymous With Tenderness</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hello My CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c589890c04">
@@ -2403,7 +2403,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hello My CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Thorny Rose.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58a23c47e">
@@ -2416,7 +2416,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Thorny Rose</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unexpected Retirement Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58abcee73">
@@ -2429,7 +2429,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unexpected Retirement Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Burning Skies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58b5651a8">
@@ -2442,7 +2442,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Burning Skies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Groom to Heir.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58bf0826b">
@@ -2455,7 +2455,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Groom to Heir</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The 6 year old precious child.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58c893c91">
@@ -2468,7 +2468,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The 6 year old precious child</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Back to Pre-divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58d24949e">
@@ -2481,7 +2481,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Back to Pre-divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Chronicles of the Divine Ruler.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58dbd9b19">
@@ -2494,7 +2494,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Chronicles of the Divine Ruler</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After He Disappeared.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58e593837">
@@ -2507,7 +2507,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After He Disappeared</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Lost Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58ef2d4ea">
@@ -2520,7 +2520,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Lost Lover</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rising Road.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c58f9d60d4">
@@ -2533,7 +2533,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rising Road</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Glory of Lady Su.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5903d9d13">
@@ -2546,7 +2546,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Glory of Lady Su</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Foolish Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c590d59fb9">
@@ -2559,7 +2559,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Foolish Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marry Tycoon with Dad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5916f1494">
@@ -2572,7 +2572,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marry Tycoon with Dad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Whispers of Fate, Shadow Lord's Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5920ab8ed">
@@ -2585,7 +2585,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Whispers of Fate, Shadow Lord's Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Daughter of the Richest Family.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c592acd250">
@@ -2598,7 +2598,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Daughter of the Richest Family</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Phoenix Reborn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59346104c">
@@ -2611,7 +2611,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Phoenix Reborn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Johnson.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c593e04175">
@@ -2624,7 +2624,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Johnson</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Healer's Rise from the Village.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5947a7284">
@@ -2637,7 +2637,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Healer's Rise from the Village</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/If Love Remembers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59514e756">
@@ -2650,7 +2650,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">If Love Remembers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Sisters Beg Me Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c595b10672">
@@ -2663,7 +2663,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Sisters Beg Me Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Counterattack of Ms. Grant.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5964a4ae3">
@@ -2676,7 +2676,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Counterattack of Ms. Grant</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/We're Meant to Be.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c596f99433">
@@ -2689,7 +2689,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">We're Meant to Be</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Nine Powerful Sisters.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5977f053d">
@@ -2702,7 +2702,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Nine Powerful Sisters</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love you too much.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59817ef1e">
@@ -2715,7 +2715,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love you too much</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Big Surprise After College Entrance Examination.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c598b3727f">
@@ -2728,7 +2728,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Big Surprise After College Entrance Examination</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of the Wealthy Master.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5994bcf8d">
@@ -2741,7 +2741,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of the Wealthy Master</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Clearance of Misunderstandings.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c599e5853e">
@@ -2754,7 +2754,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Clearance of Misunderstandings</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Abandoned Son Makes Them Regret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59a7e60d2">
@@ -2767,7 +2767,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Abandoned Son Makes Them Regret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Not the God.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59b194466">
@@ -2780,7 +2780,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'm Not the God</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mistake from the Beginning.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59bb34971">
@@ -2793,7 +2793,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mistake from the Beginning</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash but Sweet Marriage with CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59c4de4af">
@@ -2806,7 +2806,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flash but Sweet Marriage with CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Store.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59ce6d591">
@@ -2819,7 +2819,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lucky Store</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/In The House.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59d82213b">
@@ -2832,7 +2832,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">In The House</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Body Swap, Same Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59e23f2c4">
@@ -2845,7 +2845,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Body Swap, Same Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Lloyd's Ex-wife Is the Real Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59ebd6d57">
@@ -2858,7 +2858,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Lloyd's Ex-wife Is the Real Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Long Courtship.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59f6146e0">
@@ -2871,7 +2871,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Long Courtship</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Rebirth, I'm Still His Favorite.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c59ffaf623">
@@ -2884,7 +2884,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Rebirth, I'm Still His Favorite</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Love, Don't Escape.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a0949c3e">
@@ -2897,7 +2897,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Love, Don't Escape</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Shattered Trust, Abandoned Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a13266b0">
@@ -2910,7 +2910,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Shattered Trust, Abandoned Hearts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beauty and Power.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a1c9067f">
@@ -2923,7 +2923,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beauty and Power</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Sullivan, your wife comes to buy your freedom again..mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a262b9ca">
@@ -2936,7 +2936,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Sullivan, your wife comes to buy your freedom again.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Full-Power Girl You Shouldn't Have Provoked.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a2fc2803">
@@ -2949,7 +2949,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Full-Power Girl You Shouldn't Have Provoked</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs.Kile lost her cover again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a395ac0c">
@@ -2962,7 +2962,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs.Kile lost her cover again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rising from Ruin.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a430848c">
@@ -2975,7 +2975,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rising from Ruin</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Matchless Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a4c9dc48">
@@ -2988,7 +2988,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Matchless Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The belated love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a5685201">
@@ -3001,7 +3001,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The belated love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Double of Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a60c6d38">
@@ -3014,7 +3014,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Double of Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Crush on the CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a695cf86">
@@ -3027,7 +3027,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Crush on the CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dark Glory.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a73721ac">
@@ -3040,7 +3040,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dark Glory</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Come into Callie's Kingdom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a7d0db88">
@@ -3053,7 +3053,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Come into Callie's Kingdom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Pearl and Her Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a8688f85">
@@ -3066,7 +3066,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs. Pearl and Her Beloved</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sparks of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a8fd57fd">
@@ -3079,7 +3079,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sparks of Fate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Addicted to Flirting with Him.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a9b0e59f">
@@ -3092,7 +3092,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Addicted to Flirting with Him</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Hans and Her Three Bigwig Brothers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5aa314f90">
@@ -3105,7 +3105,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs. Hans and Her Three Bigwig Brothers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tie the Knot My Wife is too Tempting.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5aaca8259">
@@ -3118,7 +3118,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tie the Knot My Wife is too Tempting</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Miss You in the Wind.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5ab6ed724">
@@ -3131,7 +3131,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Miss You in the Wind</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Tycoon, My Pet.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5ac0a5f3d">
@@ -3144,7 +3144,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Tycoon, My Pet</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Drowned in Tonight.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80b022a3a">
@@ -3157,7 +3157,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Drowned in Tonight</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beg for Another Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80b8692ea">
@@ -3170,7 +3170,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beg for Another Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Way to Home.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80c1f28c5">
@@ -3183,7 +3183,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Way to Home</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Louis Regrets After Mrs. Louis's Death.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80cb880dd">
@@ -3196,7 +3196,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Louis Regrets After Mrs. Louis's Death</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Distant Her.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80d52bde4">
@@ -3209,7 +3209,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Distant Her</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fated to Love Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80de9a140">
@@ -3222,7 +3222,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fated to Love Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Gosling, Your Identity Is Exposed.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80e84340f">
@@ -3235,7 +3235,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs. Gosling, Your Identity Is Exposed</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Not Really That Into You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80f1c2197">
@@ -3248,7 +3248,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Not Really That Into You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Star-Crossed Past to a Modern Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c80fb61e2f">
@@ -3261,7 +3261,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Star-Crossed Past to a Modern Fate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Jewel Jenny.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8104e4741">
@@ -3274,7 +3274,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Jewel Jenny</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Moore, Your Wife Went Clubbing Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c810e87044">
@@ -3287,7 +3287,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Moore, Your Wife Went Clubbing Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Transaction.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c811807e0d">
@@ -3300,7 +3300,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Transaction</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bound by Vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8121960e5">
@@ -3313,7 +3313,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bound by Vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Forbidden Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c812b45d1d">
@@ -3326,7 +3326,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO's Forbidden Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Drama Queen Goes Viral on Dating Show.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8134e79fb">
@@ -3339,7 +3339,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Drama Queen Goes Viral on Dating Show</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Substitute, Kiss Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c813e5767c">
@@ -3352,7 +3352,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Substitute, Kiss Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Keep A Billionaire CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8147ebc2e">
@@ -3365,7 +3365,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Keep A Billionaire CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Me, Dear.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c815182309">
@@ -3378,7 +3378,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Me, Dear</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Time Lag Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c815b27a0f">
@@ -3391,7 +3391,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Time Lag Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash Marriage, Sweet Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8164a01c4">
@@ -3404,7 +3404,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flash Marriage, Sweet Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hidden in Plain Sight.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c816e3615a">
@@ -3417,7 +3417,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hidden in Plain Sight</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/10 Billion Dollar Baby Madam Is A Genius.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8177be231">
@@ -3430,7 +3430,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">10 Billion Dollar Baby Madam Is A Genius</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Groom from the Past.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8181736c1">
@@ -3443,7 +3443,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Groom from the Past</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Silence, Ms. Freya!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c818ae7071">
@@ -3456,7 +3456,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Silence, Ms. Freya!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Amnesiac Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c819478be2">
@@ -3469,7 +3469,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Amnesiac Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet and Poisonous Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c819f1d0e7">
@@ -3482,7 +3482,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet and Poisonous Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn and Spoiled by a CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81a7aa265">
@@ -3495,7 +3495,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn and Spoiled by a CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Life after Break-up.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81b14a174">
@@ -3508,7 +3508,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Life after Break-up</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Vengeful Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81bac8ea4">
@@ -3521,7 +3521,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Vengeful Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Life as a Hidden Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81c474d27">
@@ -3534,7 +3534,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Life as a Hidden Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He Doesn't Want A Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81cdee479">
@@ -3547,7 +3547,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He Doesn't Want A Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Quick Quirk of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81d77b19e">
@@ -3560,7 +3560,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Quick Quirk of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Heart's Game.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81e12d138">
@@ -3573,7 +3573,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Heart's Game</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dad, Love Me Again..mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81eab9c88">
@@ -3586,7 +3586,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dad, Love Me Again.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Husband's Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81f45a558">
@@ -3599,7 +3599,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Her Husband's Secret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Prince's Silent Wait.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c81fdd453c">
@@ -3612,7 +3612,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Prince's Silent Wait</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Behind the Glory.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c820773967">
@@ -3625,7 +3625,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Behind the Glory</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Super Hero.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c821aad2d5">
@@ -3638,7 +3638,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Super Hero</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Never too late to love you.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82245edbb">
@@ -3651,7 +3651,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Never too late to love you</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amazing Eyes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c822db4291">
@@ -3664,7 +3664,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amazing Eyes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bloodlines and Brotherhood.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82376179c">
@@ -3677,7 +3677,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bloodlines and Brotherhood</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Second Chance in the 90s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8240f32c3">
@@ -3690,7 +3690,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Second Chance in the 90s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hell Lord's Token.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c824a82332">
@@ -3703,7 +3703,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hell Lord's Token</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Newborn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82540f448">
@@ -3716,7 +3716,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Newborn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Merchant's Daughter.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c825db300a">
@@ -3729,7 +3729,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Merchant's Daughter</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Ultimate Favor Is Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8267434c3">
@@ -3742,7 +3742,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Ultimate Favor Is Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Sober.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8270be87c">
@@ -3755,7 +3755,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Sober</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Poker Face Darling is Actually Loving.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c827a5a56a">
@@ -3768,7 +3768,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Poker Face Darling is Actually Loving</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Step by Step, I Unveiled Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8283ed405">
@@ -3781,7 +3781,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Step by Step, I Unveiled Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Mother's Vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d98b29d2b8">
@@ -3794,7 +3794,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Mother's Vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When I Met You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8297121ed">
@@ -3807,7 +3807,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When I Met You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Waiting for You in the Ashes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82a0a2436">
@@ -3820,7 +3820,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Waiting for You in the Ashes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Disguised Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82aa443a9">
@@ -3833,7 +3833,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Disguised Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Make'em Simp for Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82b3d3bb5">
@@ -3846,7 +3846,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Make'em Simp for Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Meet My Mr. Right.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82bd676bd">
@@ -3859,7 +3859,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Meet My Mr. Right</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Foreseen Fortunes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82c6da33b">
@@ -3872,7 +3872,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Foreseen Fortunes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lord Waylon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82d07b3b9">
@@ -3885,7 +3885,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lord Waylon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/More than a Security Staff.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82da0e860">
@@ -3898,7 +3898,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">More than a Security Staff</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reveal My Power After Flash Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82e3a208d">
@@ -3911,7 +3911,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reveal My Power After Flash Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Eye That Knows.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82ed3a929">
@@ -3924,7 +3924,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Eye That Knows</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Meme Queen’s Novel Adventure.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82f6c9e3d">
@@ -3937,7 +3937,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Meme Queen’s Novel Adventure</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Echoes of a Tender Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8300424b7">
@@ -3950,7 +3950,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Echoes of a Tender Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Husband Overnight.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8309cfb9e">
@@ -3963,7 +3963,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Husband Overnight</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn to Start A New Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c831373072">
@@ -3976,7 +3976,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn to Start A New Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Space and Healing, The Royal Redemption.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c831cf0795">
@@ -3989,7 +3989,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Space and Healing, The Royal Redemption</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Captive to His Obsession.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c832688e8f">
@@ -4002,7 +4002,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Captive to His Obsession</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unbending She.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8330178cd">
@@ -4015,7 +4015,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unbending She</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rising Above The Heft of Deceit.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8339d0dbd">
@@ -4028,7 +4028,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rising Above The Heft of Deceit</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Living with a Runaway Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83434279a">
@@ -4041,7 +4041,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Living with a Runaway Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Everything.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c834cc605b">
@@ -4054,7 +4054,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You're My Everything</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wedding Day.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83569a42f">
@@ -4067,7 +4067,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wedding Day</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret In Silence.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c835fe38fa">
@@ -4080,7 +4080,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secret In Silence</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/She Comes Back!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8369969b7">
@@ -4093,7 +4093,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">She Comes Back!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twins' Love Trap for Billionaire Dad.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d970856d42">
@@ -4106,7 +4106,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twins' Love Trap for Billionaire Dad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fall in Love with My Blind Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c837d63d3e">
@@ -4119,7 +4119,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fall in Love with My Blind Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Good Deeds.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c838629a0f">
@@ -4132,7 +4132,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Good Deeds</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Lost Promises.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c838fb22c0">
@@ -4145,7 +4145,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Lost Promises</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Return of the Cherished Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83994dd76">
@@ -4158,7 +4158,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Return of the Cherished Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Family Forever.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83a2d0ede">
@@ -4171,7 +4171,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Family Forever</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Back to 2000 My Boiling Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83ac65b0d">
@@ -4184,7 +4184,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Back to 2000 My Boiling Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wrongly Married My Mr. Right.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83b604e8f">
@@ -4197,7 +4197,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wrongly Married My Mr. Right</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Web of Love, Lies, Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83bfa05fe">
@@ -4210,7 +4210,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Web of Love, Lies, Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The 10,000th Rebirth.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83c92026c">
@@ -4223,7 +4223,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The 10,000th Rebirth</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Supreme Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83d2b612e">
@@ -4236,7 +4236,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Supreme Lord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge in the Velvet Night.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83dc520fa">
@@ -4249,7 +4249,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge in the Velvet Night</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Became an Immortal After Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83e5f2af8">
@@ -4262,7 +4262,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Became an Immortal After Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Empress's Eternal Love for Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83ef7ad42">
@@ -4275,7 +4275,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Empress's Eternal Love for Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Spending Spree.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c83f914538">
@@ -4288,7 +4288,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Spending Spree</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)You Are My Eternal Moon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8402ad2fe">
@@ -4301,7 +4301,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)You Are My Eternal Moon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)The Dawn's Embrace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c840c3aef3">
@@ -4314,7 +4314,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)The Dawn's Embrace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Favored By My Rich Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8415c474e">
@@ -4327,7 +4327,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Favored By My Rich Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Has Gone.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c841f5da40">
@@ -4340,7 +4340,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Has Gone</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Pryne Sect's Elder Disciple.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8428d8680">
@@ -4353,7 +4353,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Pryne Sect's Elder Disciple</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom, Please Forgive Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84328e054">
@@ -4366,7 +4366,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mom, Please Forgive Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn as His Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c843c344dd">
@@ -4379,7 +4379,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn as His Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Deathbed to Destiny.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8445a8531">
@@ -4392,7 +4392,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Deathbed to Destiny</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Cleaner Father is a Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c844f3a00e">
@@ -4405,7 +4405,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Cleaner Father is a Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ascending to the Throne.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8458bc990">
@@ -4418,7 +4418,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ascending to the Throne</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twilight Reborn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84625dfcd">
@@ -4431,7 +4431,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twilight Reborn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Anna's Love Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c846d4e274">
@@ -4444,7 +4444,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Anna's Love Story</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love at First Bite.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84759ab0f">
@@ -4457,7 +4457,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love at First Bite</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Top Student.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c847f29c63">
@@ -4470,7 +4470,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Top Student</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)Blind Date Turned Out to Be the Big Cheese.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8488a6de1">
@@ -4483,7 +4483,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)Blind Date Turned Out to Be the Big Cheese</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Quintuplets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8492388cd">
@@ -4496,7 +4496,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Quintuplets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Go Away, You Lying Jerk!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c849be28bf">
@@ -4509,7 +4509,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Go Away, You Lying Jerk!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn as A Concubine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84a5682f1">
@@ -4522,7 +4522,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn as A Concubine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He Married a Single Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84af01b2d">
@@ -4535,7 +4535,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He Married a Single Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ava's Silent Struggles.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84b88badd">
@@ -4548,7 +4548,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ava's Silent Struggles</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Hidden Betrayal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84c27211e">
@@ -4561,7 +4561,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Hidden Betrayal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Dragon Emperor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84cb9a8ff">
@@ -4574,7 +4574,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Dragon Emperor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Next Pop Diva.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84d530bdc">
@@ -4587,7 +4587,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Next Pop Diva</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Mountain Caresses.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84decad3b">
@@ -4600,7 +4600,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Mountain Caresses</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mommy's Precious Trio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84e864f3e">
@@ -4613,7 +4613,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mommy's Precious Trio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Father in the Trap.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84f1e2d53">
@@ -4626,7 +4626,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Father in the Trap</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love’s Secret Possession.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c84fb6b3f4">
@@ -4639,7 +4639,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love’s Secret Possession</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Back Home as Richest Woman.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c850504288">
@@ -4652,7 +4652,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Back Home as Richest Woman</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Maid for the General.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c850e832ed">
@@ -4665,7 +4665,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Maid for the General</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Catch the Love Train Early.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85182336b">
@@ -4678,7 +4678,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Catch the Love Train Early</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Yes General.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8521b8cc1">
@@ -4691,7 +4691,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Yes General</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love by Destiny.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c852b3e7a5">
@@ -4704,7 +4704,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love by Destiny</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Brother in a Father's Shoes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8534c6919">
@@ -4717,7 +4717,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Brother in a Father's Shoes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Being, Little Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c853e639de">
@@ -4730,7 +4730,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lucky Being, Little Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hopeless Miss Mafia.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8547eff6b">
@@ -4743,7 +4743,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hopeless Miss Mafia</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Wife who Sees.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85517022f">
@@ -4756,7 +4756,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Wife who Sees</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marry My Bestie's Brother.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c855bd0b08">
@@ -4769,7 +4769,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marry My Bestie's Brother</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sunshine Through the Shadows.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c856488abc">
@@ -4782,7 +4782,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sunshine Through the Shadows</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Falling for My Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c856e13924">
@@ -4795,7 +4795,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Falling for My Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When the Phoenix Soars.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85779fcea">
@@ -4808,7 +4808,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When the Phoenix Soars</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Enchanting Ms. Angel.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c858141196">
@@ -4821,7 +4821,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Enchanting Ms. Angel</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Pregnancy Switcheroo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c858ad4778">
@@ -4834,7 +4834,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Pregnancy Switcheroo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Lady's Escape from a Boss's Chains.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c859481229">
@@ -4847,7 +4847,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Lady's Escape from a Boss's Chains</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Peerless Bloom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c859de237e">
@@ -4860,7 +4860,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Peerless Bloom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fated Beyond Worlds.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85a7981b7">
@@ -4873,7 +4873,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fated Beyond Worlds</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/For the Love We Seek.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85b11ef9e">
@@ -4886,7 +4886,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">For the Love We Seek</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Give Me Another Chance, Honey!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85baa8db8">
@@ -4899,7 +4899,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Give Me Another Chance, Honey!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Switched From First Lady to First Fortune.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85c426dbc">
@@ -4912,7 +4912,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Switched From First Lady to First Fortune</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweetheart Tycoon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85cdc4571">
@@ -4925,7 +4925,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweetheart Tycoon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/King of Kings.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85d75bac5">
@@ -4938,7 +4938,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">King of Kings</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Genius Babies and Scheming Daddy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85e0d2858">
@@ -4951,7 +4951,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Genius Babies and Scheming Daddy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Please Restrain, My Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85ea6faa2">
@@ -4964,7 +4964,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Please Restrain, My Lord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Desperate Housewife's Counterattack.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85f41c092">
@@ -4977,7 +4977,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Desperate Housewife's Counterattack</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blazing Love Bond.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c85fd94dfb">
@@ -4990,7 +4990,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blazing Love Bond</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Unspoken.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86073cbd1">
@@ -5003,7 +5003,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Unspoken</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Undercover Bride's Mission.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8610c89f0">
@@ -5016,7 +5016,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Undercover Bride's Mission</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Life after Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c861a59ff9">
@@ -5029,7 +5029,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Life after Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Mighty Ruler.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8623de9ee">
@@ -5042,7 +5042,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Mighty Ruler</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hello, 1980!.mp4" data-commission="https://short.kalostv.com/api/short/jump/6752568912738">
@@ -5055,7 +5055,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hello, 1980!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Missing Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c863591812">
@@ -5068,7 +5068,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Missing Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Heartbreak to Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86408fc65">
@@ -5081,7 +5081,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Heartbreak to Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Eternal Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c864b7e884">
@@ -5094,7 +5094,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Eternal Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Runaway Couple Drops Their Disguises Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8653a7a65">
@@ -5107,7 +5107,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Runaway Couple Drops Their Disguises Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Charms of Assistant Lee.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c865d38852">
@@ -5120,7 +5120,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Charms of Assistant Lee</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Million-dollar Substitute.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8666cbbaf">
@@ -5133,7 +5133,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Million-dollar Substitute</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Win Her Heart Through Baby.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86705ada0">
@@ -5146,7 +5146,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Win Her Heart Through Baby</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Revengeful Maid.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c867a0276b">
@@ -5159,7 +5159,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Revengeful Maid</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He Kisses Me with His Pain.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8683798fd">
@@ -5172,7 +5172,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He Kisses Me with His Pain</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unexpected Mr. Right.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c868d2cb90">
@@ -5185,7 +5185,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unexpected Mr. Right</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Step-Mom in the '80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8696ac6ee">
@@ -5198,7 +5198,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Step-Mom in the '80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Lee, You've Got the Wrong Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86a0266c3">
@@ -5211,7 +5211,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Lee, You've Got the Wrong Lady</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Taming the Dollar in Times of Devaluation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86a9afe3b">
@@ -5224,7 +5224,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Taming the Dollar in Times of Devaluation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Go Where You Are.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86b34b842">
@@ -5237,7 +5237,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Go Where You Are</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Boundless Affection, a New Family.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86bb7bb7b">
@@ -5250,7 +5250,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Boundless Affection, a New Family</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Most-favored's Counterattack.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86c677b9b">
@@ -5263,7 +5263,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Most-favored's Counterattack</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)The Secret Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86d000362">
@@ -5276,7 +5276,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)The Secret Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Magical Echo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86d836daa">
@@ -5289,7 +5289,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Magical Echo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Contract Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86e328663">
@@ -5302,7 +5302,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Contract Lover</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Queen's Reborn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86eca863b">
@@ -5315,7 +5315,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Queen's Reborn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Devotion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86f642633">
@@ -5328,7 +5328,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Devotion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Housewife to Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86ffd9acf">
@@ -5341,7 +5341,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Housewife to Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Through Time.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87081149c">
@@ -5354,7 +5354,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Through Time</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A One-Year Marriage Agreement.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8712f3032">
@@ -5367,7 +5367,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A One-Year Marriage Agreement</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Protector's Sword.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c871c881d9">
@@ -5380,7 +5380,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Protector's Sword</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Blood Relation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87260cf02">
@@ -5393,7 +5393,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Blood Relation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Random Happiness Event.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c872f9325b">
@@ -5406,7 +5406,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Random Happiness Event</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rich and Noble Myself.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c873a358f5">
@@ -5419,7 +5419,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rich and Noble Myself</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The One and Only.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8742c442f">
@@ -5432,7 +5432,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The One and Only</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Maid Turns Out to be a Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c874c6ff6c">
@@ -5445,7 +5445,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Maid Turns Out to be a Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Three Big Shots Want to Marry Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c875481e42">
@@ -5458,7 +5458,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Three Big Shots Want to Marry Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Romance Starts at the Altar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c875f848f7">
@@ -5471,7 +5471,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Romance Starts at the Altar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Come to My Side.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87679f278">
@@ -5484,7 +5484,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Come to My Side</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Softer World with You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87729c274">
@@ -5497,7 +5497,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Softer World with You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hit on My Abstinent Ex-husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c877c2bfbb">
@@ -5510,7 +5510,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hit on My Abstinent Ex-husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marry My Ex's Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8785ae1e4">
@@ -5523,7 +5523,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marry My Ex's Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Burning Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c878f30bd9">
@@ -5536,7 +5536,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Burning Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Secretary Who Obsessed the CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8798c25ef">
@@ -5549,7 +5549,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Secretary Who Obsessed the CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Aim to Win Over the Tycoon Hubby.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87a263933">
@@ -5562,7 +5562,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Aim to Win Over the Tycoon Hubby</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Instant Wedding with a Lady Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87abe1540">
@@ -5575,7 +5575,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Instant Wedding with a Lady Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dreams in the Sunlight.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87b575b71">
@@ -5588,7 +5588,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dreams in the Sunlight</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Ex-wife Rises Me Up.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87bf0a497">
@@ -5601,7 +5601,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Ex-wife Rises Me Up</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Always There for You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87c89025e">
@@ -5614,7 +5614,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'm Always There for You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Treasure of My Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87d221c4f">
@@ -5627,7 +5627,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Treasure of My Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Stunning Stepmom in the 80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87dbc40d2">
@@ -5640,7 +5640,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Stunning Stepmom in the 80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Overdue Confession.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87e55286c">
@@ -5653,7 +5653,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Overdue Confession</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Promise of a Summer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87ef174f4">
@@ -5666,7 +5666,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Promise of a Summer</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love at First Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c87f87165f">
@@ -5679,7 +5679,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love at First Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Brighter Than Stars.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88021a8bf">
@@ -5692,7 +5692,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Brighter Than Stars</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/99 Times Rejected.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c880bbbe59">
@@ -5705,7 +5705,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">99 Times Rejected</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He Cried So Hard at Her Tombstone.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c881561b8e">
@@ -5718,7 +5718,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He Cried So Hard at Her Tombstone</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Second Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c881eb8d72">
@@ -5731,7 +5731,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Second Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Long Road, Deep Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88296eee2">
@@ -5744,7 +5744,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Long Road, Deep Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Falling into Kindness.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8831cb9d9">
@@ -5757,7 +5757,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Falling into Kindness</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Marriage of Souls.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c883b7d3ba">
@@ -5770,7 +5770,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Marriage of Souls</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Nightfall's Starlit Return.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88451172e">
@@ -5783,7 +5783,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Nightfall's Starlit Return</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Accidentally Married A Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c884e9a047">
@@ -5796,7 +5796,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Accidentally Married A Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Leave it to Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8858479eb">
@@ -5809,7 +5809,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Leave it to Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Where Flowers Bloom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8861d3ad9">
@@ -5822,7 +5822,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Where Flowers Bloom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Bride Without a Groom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c886b6658e">
@@ -5835,7 +5835,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Bride Without a Groom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Feast of Feuds.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c887510f73">
@@ -5848,7 +5848,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Feast of Feuds</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Grand Standoff.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c887e96069">
@@ -5861,7 +5861,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Grand Standoff</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/One Night's Ripple.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c888844a03">
@@ -5874,7 +5874,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">One Night's Ripple</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Thirty Days of Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8891c44bf">
@@ -5887,7 +5887,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Thirty Days of Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Honor Trial.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c889b65c40">
@@ -5900,7 +5900,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Honor Trial</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Billionaire's Intern Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88a500cf5">
@@ -5913,7 +5913,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Billionaire's Intern Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Sweet Trap.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88ae8e06b">
@@ -5926,7 +5926,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Sweet Trap</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Three Bad Guys.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88b8182d6">
@@ -5939,7 +5939,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Three Bad Guys</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Journey Back to the Top.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88c1b37ef">
@@ -5952,7 +5952,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Journey Back to the Top</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lights, Camera, Time Travel!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88cb504ba">
@@ -5965,7 +5965,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lights, Camera, Time Travel!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destined Hearts Misadventures of Love and Secrets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88d4e13a2">
@@ -5978,7 +5978,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destined Hearts Misadventures of Love and Secrets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Truth's Ordeal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88de788d7">
@@ -5991,7 +5991,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Truth's Ordeal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Lord, Marry Her Please.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88e82390b">
@@ -6004,7 +6004,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Lord, Marry Her Please</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Shining Battle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88f1a8d4c">
@@ -6017,7 +6017,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Shining Battle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Greetings to Mother Lyla.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88fb50ec3">
@@ -6030,7 +6030,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Greetings to Mother Lyla</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The General's Sweetheart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8904ca9d2">
@@ -6043,7 +6043,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The General's Sweetheart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rose in Blood.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c890e6edfe">
@@ -6056,7 +6056,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rose in Blood</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Nash's Playing With Fire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c891963a83">
@@ -6069,7 +6069,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Nash's Playing With Fire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Poison Genius in Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8921b82df">
@@ -6082,7 +6082,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Poison Genius in Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beneath the Surface.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c892b682f1">
@@ -6095,7 +6095,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beneath the Surface</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Tribulation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c893516076">
@@ -6108,7 +6108,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Tribulation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beauty and Lord of Elixir.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c893e98ae7">
@@ -6121,7 +6121,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beauty and Lord of Elixir</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Party Like There's No Tomorrow.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c894828e9b">
@@ -6134,7 +6134,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Party Like There's No Tomorrow</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise to Power.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8951ba259">
@@ -6147,7 +6147,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rise to Power</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Stardom Conspiracy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c895b671cd">
@@ -6160,7 +6160,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Stardom Conspiracy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Lord of the Underworld.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8964ea9df">
@@ -6173,7 +6173,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Lord of the Underworld</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Urban Young Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c896e84bd8">
@@ -6186,7 +6186,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Urban Young Lord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Not an Immortal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c897823166">
@@ -6199,7 +6199,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Not an Immortal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lifetime of Absurdity with You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8981b0859">
@@ -6212,7 +6212,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lifetime of Absurdity with You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ex-Husband's Unrequited Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c898b5f421">
@@ -6225,7 +6225,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ex-Husband's Unrequited Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Intense Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8994e647f">
@@ -6238,7 +6238,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Intense Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rebirth of a Fallen Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c899e7236b">
@@ -6251,7 +6251,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rebirth of a Fallen Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lonely yet Brilliant Us.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89a815341">
@@ -6264,7 +6264,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lonely yet Brilliant Us</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love and Thorns.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89b1b9d39">
@@ -6277,7 +6277,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love and Thorns</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Pretty President.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89bb403dc">
@@ -6290,7 +6290,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Pretty President</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible Cultivator.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89c4cbd9f">
@@ -6303,7 +6303,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Invincible Cultivator</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Online Boyfriend is a Big Shot.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89ce7bb08">
@@ -6316,7 +6316,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Online Boyfriend is a Big Shot</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rescue the Fictional Prince Charming.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89d810e06">
@@ -6329,7 +6329,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rescue the Fictional Prince Charming</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dumb Stock Sage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89e19bc4e">
@@ -6342,7 +6342,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dumb Stock Sage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/First in Heart, Last in Line.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89eb2b932">
@@ -6355,7 +6355,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">First in Heart, Last in Line</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Raising Kids in the 80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89f4cfc06">
@@ -6368,7 +6368,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Raising Kids in the 80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of the Legend Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c89fe7b235">
@@ -6381,7 +6381,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of the Legend Lord</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Ex-Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a0986431">
@@ -6394,7 +6394,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge of the Ex-Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Passionate Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a11b590c">
@@ -6407,7 +6407,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Passionate Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love After a One-Night Stand.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a1b42feb">
@@ -6420,7 +6420,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love After a One-Night Stand</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fake Poor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a24e4f09">
@@ -6433,7 +6433,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fake Poor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Beloved Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a2e87a6b">
@@ -6446,7 +6446,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Beloved Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hands Off Im Just a Gold Digger.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a381e1db">
@@ -6459,7 +6459,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hands Off Im Just a Gold Digger</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fat Girl's Makeover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a41a99bb">
@@ -6472,7 +6472,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fat Girl's Makeover</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Incredible Employee.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a4b7d9ed">
@@ -6485,7 +6485,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Incredible Employee</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Millionaire Princess Returns.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a5e79190">
@@ -6498,7 +6498,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Millionaire Princess Returns</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beauties and Desire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a680a65e">
@@ -6511,7 +6511,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beauties and Desire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bewitching the Heavens The Indomitable Medical Consort.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a71e6828">
@@ -6524,7 +6524,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bewitching the Heavens The Indomitable Medical Consort</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Coy Daddy in Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a7b562ae">
@@ -6537,7 +6537,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Coy Daddy in Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Mute Girl's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a84c519a">
@@ -6550,7 +6550,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Mute Girl's Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Life, Brother's Medicine?.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a8e7201a">
@@ -6563,7 +6563,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Life, Brother's Medicine?</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/June's World.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a980f3bb">
@@ -6576,7 +6576,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">June's World</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Baby at Six.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8aa1bd379">
@@ -6589,7 +6589,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lucky Baby at Six</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Stoic Hunk's Intense Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8aab5a270">
@@ -6602,7 +6602,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Stoic Hunk's Intense Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Is in the Air.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ab4ee01a">
@@ -6615,7 +6615,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Is in the Air</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8abe8d400">
@@ -6628,7 +6628,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Forsaking Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Make Richer in the 80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ac830f91">
@@ -6641,7 +6641,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Make Richer in the 80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash Marriage With Mr. President.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ad1a6353">
@@ -6654,7 +6654,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flash Marriage With Mr. President</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Respect the mother.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8adb5215d">
@@ -6667,7 +6667,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Respect the mother</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After the Split, I'm Everyone's Darling.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ae5049c9">
@@ -6680,7 +6680,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After the Split, I'm Everyone's Darling</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Mrs. Playing Dress Up.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8aee907d3">
@@ -6693,7 +6693,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Mrs. Playing Dress Up</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beat the Odds.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8af919751">
@@ -6706,7 +6706,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beat the Odds</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Beggar Husband is CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b01bca94">
@@ -6719,7 +6719,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Beggar Husband is CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Summit of Perfection.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b0b5b48d">
@@ -6732,7 +6732,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Summit of Perfection</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Cybernetic Eye.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b14eae3f">
@@ -6745,7 +6745,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Cybernetic Eye</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Nine Fates in Weyden.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b1e8c332">
@@ -6758,7 +6758,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Nine Fates in Weyden</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Oh My Ladies!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b2830f7d">
@@ -6771,7 +6771,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Oh My Ladies!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Empress' March.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b31c08a8">
@@ -6784,7 +6784,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Empress' March</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Guardian Students.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b3b5ddfd">
@@ -6797,7 +6797,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Guardian Students</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Legend of Zu.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b45109c0">
@@ -6810,7 +6810,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Legend of Zu</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom, Please Love Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b4e89137">
@@ -6823,7 +6823,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mom, Please Love Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I've Got a Hot Nemesis.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b582ee96">
@@ -6836,7 +6836,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I've Got a Hot Nemesis</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Irresistible Her.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b61bf690">
@@ -6849,7 +6849,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Irresistible Her</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Redemption Chronicles.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b6b44d49">
@@ -6862,7 +6862,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Redemption Chronicles</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Father, the Ultimate Legend.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b74eed2a">
@@ -6875,7 +6875,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Father, the Ultimate Legend</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dad, Surrender to Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b7e83689">
@@ -6888,7 +6888,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dad, Surrender to Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Silent No More.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b882a28d">
@@ -6901,7 +6901,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Silent No More</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Got a Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b919e120">
@@ -6914,7 +6914,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Got a Boss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Nemesis Has Always Loved Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8b9b4e222">
@@ -6927,7 +6927,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Nemesis Has Always Loved Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sorry, I'm a Princess.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ba4e7a08">
@@ -6940,7 +6940,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sorry, I'm a Princess</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mind-Reading My Way Through the Heart of a Dark Prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bae782b6">
@@ -6953,7 +6953,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mind-Reading My Way Through the Heart of a Dark Prince</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sudden vows, Living with the CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bb80c8a1">
@@ -6966,7 +6966,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sudden vows, Living with the CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Medical Consort from The Interstellar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bc1a73c3">
@@ -6979,7 +6979,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Medical Consort from The Interstellar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twin Sisters Fight Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bcb4989a">
@@ -6992,7 +6992,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twin Sisters Fight Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Will Find You, Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bd4c9266">
@@ -7005,7 +7005,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Will Find You, Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Supermarket Is a Time Machine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bde6648f">
@@ -7018,7 +7018,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Supermarket Is a Time Machine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Top Dog Living the High Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8be9382ef">
@@ -7031,7 +7031,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Top Dog Living the High Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Through Thorns and Thistles.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bf16a9d3">
@@ -7044,7 +7044,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Through Thorns and Thistles</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/In a League by Herself.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8bfb14c27">
@@ -7057,7 +7057,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">In a League by Herself</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Iceberg CEO's Kiss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c049c2dd">
@@ -7070,7 +7070,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Iceberg CEO's Kiss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lady's Backing.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c0e3112d">
@@ -7083,7 +7083,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lady's Backing</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fake It Till We Make It.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c17b8e7d">
@@ -7096,7 +7096,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fake It Till We Make It</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Spoiled By My Blind Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c2153cd1">
@@ -7109,7 +7109,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Spoiled By My Blind Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm not an Ordinary Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c2ad88f9">
@@ -7122,7 +7122,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'm not an Ordinary Man</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rewriting 1975 Family Over Duty.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c34665eb">
@@ -7135,7 +7135,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rewriting 1975 Family Over Duty</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorcee's Pampered Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c3dde84a">
@@ -7148,7 +7148,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Divorcee's Pampered Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lord Dongun.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c4781094">
@@ -7161,7 +7161,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lord Dongun</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Metropolis Divine Healer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c5101981">
@@ -7174,7 +7174,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Metropolis Divine Healer</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Picked up by My Sisters After Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c5a9ddab">
@@ -7187,7 +7187,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Picked up by My Sisters After Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Baby Girl, Don't Run.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c6424df8">
@@ -7200,7 +7200,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Baby Girl, Don't Run</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom in Silence.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c6dc14d7">
@@ -7213,7 +7213,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mom in Silence</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blossoms 2003.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c7740fcc">
@@ -7226,7 +7226,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blossoms 2003</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Two-Faced Scion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c80c414f">
@@ -7239,7 +7239,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Two-Faced Scion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Panacea.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c8a730b2">
@@ -7252,7 +7252,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Panacea</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Variety Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c941011f">
@@ -7265,7 +7265,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Variety Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dating a Hot Young Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8c9d912f2">
@@ -7278,7 +7278,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dating a Hot Young Man</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Never Mess With Boss's Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ca72a9a0">
@@ -7291,7 +7291,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Never Mess With Boss's Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/He begs for me after I have a kid.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cb0ba0ac">
@@ -7304,7 +7304,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">He begs for me after I have a kid</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Queen's Nature.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cba55a04">
@@ -7317,7 +7317,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Queen's Nature</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fake Heiress Rewrites the Script.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cc3e10a0">
@@ -7330,7 +7330,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fake Heiress Rewrites the Script</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn The Legend Luna Awakening.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ccd6261b">
@@ -7343,7 +7343,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn The Legend Luna Awakening</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Countdown to Death.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cd81edf8">
@@ -7356,7 +7356,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Countdown to Death</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Honey, I'm not Commander Dragon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ce096f06">
@@ -7369,7 +7369,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Honey, I'm not Commander Dragon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unrivaled Son-in-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cea1d329">
@@ -7382,7 +7382,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unrivaled Son-in-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Collapse of Image.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d98c8e7aae">
@@ -7395,7 +7395,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Collapse of Image</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hear Her Heart Sing.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8cfd34d55">
@@ -7408,7 +7408,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hear Her Heart Sing</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Luna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d1049783">
@@ -7421,7 +7421,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Luna</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Date with Wealth.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d19c0b75">
@@ -7434,7 +7434,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Date with Wealth</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dawn's Whisper.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d2cea567">
@@ -7447,7 +7447,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dawn's Whisper</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Well Pampered by Him.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d36619f3">
@@ -7460,7 +7460,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Well Pampered by Him</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unspoken Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d3ff3d4f">
@@ -7473,7 +7473,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unspoken Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn Princess Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d533070b">
@@ -7486,7 +7486,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn Princess Strikes Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Life Reversal 1988.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d5caf76d">
@@ -7499,7 +7499,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Life Reversal 1988</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Princess's Time-Travel Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d6651766">
@@ -7512,7 +7512,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Princess's Time-Travel Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Baby Strategy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d6fe687d">
@@ -7525,7 +7525,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Baby Strategy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/New love, Same CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d79708b6">
@@ -7538,7 +7538,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">New love, Same CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Quadruplets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d82e6fb0">
@@ -7551,7 +7551,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Quadruplets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Perfect Plan.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d8c776f7">
@@ -7564,7 +7564,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Perfect Plan</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. President Comes to Work.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d9628489">
@@ -7577,7 +7577,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs. President Comes to Work</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cute Babies Challenge President Daddy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d9f9c568">
@@ -7590,7 +7590,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cute Babies Challenge President Daddy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Three Genius Babies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8da91da15">
@@ -7603,7 +7603,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Three Genius Babies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Like a Ray of Sunshine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8db2c2f5f">
@@ -7616,7 +7616,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Like a Ray of Sunshine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The 20 Years Taken Away.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dbc48709">
@@ -7629,7 +7629,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The 20 Years Taken Away</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Husband Is a Billionaire-!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dc7454bb">
@@ -7642,7 +7642,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Husband Is a Billionaire-!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Sacrifice.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dcf7b7eb">
@@ -7655,7 +7655,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love's Sacrifice</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Vengeful Journey.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dd903dab">
@@ -7668,7 +7668,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Vengeful Journey</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secrets of the Wealthy Matriarch.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8de28a125">
@@ -7681,7 +7681,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secrets of the Wealthy Matriarch</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Highness Knows Everything.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dec142eb">
@@ -7694,7 +7694,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Her Highness Knows Everything</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Real Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8df59043b">
@@ -7707,7 +7707,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Real Lady</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Annie Semour's Day of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8dff3d72c">
@@ -7720,7 +7720,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Annie Semour's Day of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Being Dumped to Romance with a Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e08b076d">
@@ -7733,7 +7733,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Being Dumped to Romance with a Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Undercover in the Fraud Factory.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e1250768">
@@ -7746,7 +7746,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Undercover in the Fraud Factory</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Divorced Rich Ms. Paige.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e1bda6d0">
@@ -7759,7 +7759,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I'm Divorced Rich Ms. Paige</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You're In My Dream.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e2562edb">
@@ -7772,7 +7772,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You're In My Dream</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Bride to Prisoner.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e2f0f23f">
@@ -7785,7 +7785,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Bride to Prisoner</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marry a Billionaire With My Babies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e388945b">
@@ -7798,7 +7798,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marry a Billionaire With My Babies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Freeze! My Wanted Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e421e102">
@@ -7811,7 +7811,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Freeze! My Wanted Lover</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love You Again After Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e4bacf14">
@@ -7824,7 +7824,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love You Again After Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Madam's Reign.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e5547938">
@@ -7837,7 +7837,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Madam's Reign</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Boss Babies Five.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e5eced67">
@@ -7850,7 +7850,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Boss Babies Five</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Missy's School Day.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e6840516">
@@ -7863,7 +7863,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Missy's School Day</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blossoming Post-Breakup.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e71e36ab">
@@ -7876,7 +7876,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blossoming Post-Breakup</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom vs. Ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e7b6e580">
@@ -7889,7 +7889,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mom vs. Ex</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Wrong Fiancé.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e84f4048">
@@ -7902,7 +7902,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Wrong Fiancé</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Empress of Tears.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e8e89098">
@@ -7915,7 +7915,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Empress of Tears</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I Will Win the Villain Over.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8e981edfc">
@@ -7928,7 +7928,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I Will Win the Villain Over</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lured by My Charming Wife on Purpose.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ea1a991f">
@@ -7941,7 +7941,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lured by My Charming Wife on Purpose</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/To Be Spoiled Mrs. Foster in A Flash Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8eab32db6">
@@ -7954,7 +7954,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">To Be Spoiled Mrs. Foster in A Flash Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Double Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8eb5b46d5">
@@ -7967,7 +7967,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Double Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Young Marshal’s Charming Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ebe53010">
@@ -7980,7 +7980,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Young Marshal’s Charming Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Post-Divorce Drama.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ec7e7652">
@@ -7993,7 +7993,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Post-Divorce Drama</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Feisty Wife in the '80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ed15e528">
@@ -8006,7 +8006,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Feisty Wife in the '80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Masquerading Sister.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8edaf39a2">
@@ -8019,7 +8019,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Masquerading Sister</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Narcisa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ee4a5f80">
@@ -8032,7 +8032,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Narcisa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Journey to Reclaim Love and Identity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8eee2178f">
@@ -8045,7 +8045,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Journey to Reclaim Love and Identity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love, the Timeless Companion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ef7a7437">
@@ -8058,7 +8058,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love, the Timeless Companion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO’s 4 Kids Are Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f012835a">
@@ -8071,7 +8071,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO’s 4 Kids Are Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/God of War Battling with Faux Naif Girls.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f0aa3489">
@@ -8084,7 +8084,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">God of War Battling with Faux Naif Girls</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn to Marry My True Love in Last Days.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f143d750">
@@ -8097,7 +8097,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn to Marry My True Love in Last Days</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Gala Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f1dc371d">
@@ -8110,7 +8110,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Gala Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Knocked Up by My Ex's Billionaire Uncle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f274b33f">
@@ -8123,7 +8123,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Knocked Up by My Ex's Billionaire Uncle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Spoil Me Please.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f30e5a0e">
@@ -8136,7 +8136,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Spoil Me Please</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Midsummer's Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f3a6c08f">
@@ -8149,7 +8149,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Midsummer's Secret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mommy Runs, Daddy Chases.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f4409ccc">
@@ -8162,7 +8162,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mommy Runs, Daddy Chases</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Love Strikes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f4d8bb14">
@@ -8175,7 +8175,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Love Strikes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Surrender.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f571d570">
@@ -8188,7 +8188,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Surrender</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Surrender, Billionaire Dad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f60c3610">
@@ -8201,7 +8201,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Surrender, Billionaire Dad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sunlit Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f6a48251">
@@ -8214,7 +8214,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sunlit Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Ruthless Prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f73c2968">
@@ -8227,7 +8227,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Ruthless Prince</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Power's Pamper.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f7bf1637">
@@ -8240,7 +8240,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Power's Pamper</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Mom Is a Big Shot.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f86f1e17">
@@ -8253,7 +8253,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Mom Is a Big Shot</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/99 Days of Us.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f907e5e4">
@@ -8266,7 +8266,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">99 Days of Us</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Favor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8f9a1be00">
@@ -8279,7 +8279,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Favor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn And Fell for the Ruthless Mr. Stewart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fa50fc83">
@@ -8292,7 +8292,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn And Fell for the Ruthless Mr. Stewart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Five Brothers Are All Bosses.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fad3971e">
@@ -8305,7 +8305,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Five Brothers Are All Bosses</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)CEO's Sinful Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fb5636f9">
@@ -8318,7 +8318,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)CEO's Sinful Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tough Cierra in the Sizzling 80s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fc05ab60">
@@ -8331,7 +8331,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tough Cierra in the Sizzling 80s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Always On Call.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fc9f3860">
@@ -8344,7 +8344,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Always On Call</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Grant me a lifetime of love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fd380d95">
@@ -8357,7 +8357,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Grant me a lifetime of love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mighty Girl, Annie Serenity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fdd1b156">
@@ -8370,7 +8370,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mighty Girl, Annie Serenity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fall for You Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8fe6959b2">
@@ -8383,7 +8383,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fall for You Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Return of the Banished Daughter with Her Four Children.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ff045408">
@@ -8396,7 +8396,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Return of the Banished Daughter with Her Four Children</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Sweet Flash Marriage with the Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8ff9cc418">
@@ -8409,7 +8409,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Sweet Flash Marriage with the Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fall in Love with My Flash Marriage Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c900371723">
@@ -8422,7 +8422,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fall in Love with My Flash Marriage Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unveiling Beauty.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c900cea31e">
@@ -8435,7 +8435,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unveiling Beauty</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Oops! Expecting Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90168cd67">
@@ -8448,7 +8448,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Oops! Expecting Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Stepmother's Redemption.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d975c12e47">
@@ -8461,7 +8461,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Stepmother's Redemption</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Villain's Irresistible Charm.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90299c6f1">
@@ -8474,7 +8474,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Villain's Irresistible Charm</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)Love's Second Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c903335362">
@@ -8487,7 +8487,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)Love's Second Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Contract Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c903cb7b7a">
@@ -8500,7 +8500,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Contract Lover</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Serendipitous Alliance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90465c07e">
@@ -8513,7 +8513,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Serendipitous Alliance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dear Miss Selwyn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c904fe1b81">
@@ -8526,7 +8526,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dear Miss Selwyn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Affectionate Billionaire and the Twins.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c905976334">
@@ -8539,7 +8539,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Affectionate Billionaire and the Twins</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Sunshine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c906ca4111">
@@ -8552,7 +8552,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You're My Sunshine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heiress Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c907638aea">
@@ -8565,7 +8565,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heiress Strikes Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twin Sons of an Unfaithful Tycoon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c908951c5d">
@@ -8578,7 +8578,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twin Sons of an Unfaithful Tycoon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Loving Replacement Groom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9093c49fc">
@@ -8591,7 +8591,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Loving Replacement Groom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Starlight Accompanies and Understands.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c909c73857">
@@ -8604,7 +8604,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Starlight Accompanies and Understands</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Cultivator's Urban Legend.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90a5f3383">
@@ -8617,7 +8617,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Cultivator's Urban Legend</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The President is My Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90af93c50">
@@ -8630,7 +8630,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The President is My Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Luna's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90b931042">
@@ -8643,7 +8643,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Luna's Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Celestial Goddess.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90c2b8de5">
@@ -8656,7 +8656,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Celestial Goddess</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hidden Millionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90cc3dbd9">
@@ -8669,7 +8669,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hidden Millionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Rise of the Loser Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90d5c5149">
@@ -8682,7 +8682,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Rise of the Loser Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Grows with Time.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90ddf111c">
@@ -8695,7 +8695,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Grows with Time</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marriage before love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90e9078c0">
@@ -8708,7 +8708,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marriage before love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Pursuit of My Lost Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90f28ac1b">
@@ -8721,7 +8721,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Pursuit of My Lost Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Layla's Awakening.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c90fc1d3af">
@@ -8734,7 +8734,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Layla's Awakening</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fallen Spy in Uniform.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9105aeb9e">
@@ -8747,7 +8747,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fallen Spy in Uniform</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hello, My Man from Ancient Times.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c910f41ead">
@@ -8760,7 +8760,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hello, My Man from Ancient Times</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bride in Command.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9118eb8de">
@@ -8773,7 +8773,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bride in Command</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)Lost Girl Is Found.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c912277193">
@@ -8786,7 +8786,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)Lost Girl Is Found</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Bargain to Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c912aaa334">
@@ -8799,7 +8799,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Bargain to Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Blushing Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9135a7ad9">
@@ -8812,7 +8812,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Blushing Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Vows Uncharted.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c913f3c956">
@@ -8825,7 +8825,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Vows Uncharted</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Sweet Stepmother.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9148c4b35">
@@ -8838,7 +8838,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Sweet Stepmother</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Adorable Quintuplets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91525dd6f">
@@ -8851,7 +8851,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Adorable Quintuplets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tyrone' Enigmatic Sweetie.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c915aae85f">
@@ -8864,7 +8864,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tyrone' Enigmatic Sweetie</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reclaimed Roots She Is Mrs. Scott!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c916579abc">
@@ -8877,7 +8877,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reclaimed Roots She Is Mrs. Scott!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You Are My Eternal Moon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c916f18b51">
@@ -8890,7 +8890,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You Are My Eternal Moon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Symphony of Self.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9178ab492">
@@ -8903,7 +8903,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Symphony of Self</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love’s Intricate Web.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c918351102">
@@ -8916,7 +8916,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love’s Intricate Web</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Kid Matchmaker.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c918bb0537">
@@ -8929,7 +8929,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Kid Matchmaker</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wedding Night Miracle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c919539e72">
@@ -8942,7 +8942,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wedding Night Miracle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Breeze in My Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c919ed1744">
@@ -8955,7 +8955,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Breeze in My Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secrets of an Ex-Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91a866c2b">
@@ -8968,7 +8968,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secrets of an Ex-Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/True Love Behind Thick Fogs.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91b20212d">
@@ -8981,7 +8981,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">True Love Behind Thick Fogs</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tycoon Twins.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91c526f4b">
@@ -8994,7 +8994,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tycoon Twins</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Fate Unites.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91cea9413">
@@ -9007,7 +9007,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Fate Unites</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Genius Quadruplets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91d838c4a">
@@ -9020,7 +9020,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Genius Quadruplets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Housewife's Rise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91e1d7187">
@@ -9033,7 +9033,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Housewife's Rise</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fiery Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91eb6224d">
@@ -9046,7 +9046,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fiery Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible Dark Emperor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91f502344">
@@ -9059,7 +9059,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Invincible Dark Emperor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heart’s Missing Piece.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91fe9859d">
@@ -9072,7 +9072,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heart’s Missing Piece</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Female CEO's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92082db28">
@@ -9085,7 +9085,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Female CEO's Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Poisonous Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9211a6b67">
@@ -9098,7 +9098,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Poisonous Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Braun's Eccentric Stand-in Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c921b4bc91">
@@ -9111,7 +9111,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Braun's Eccentric Stand-in Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love in the Lease.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9224d5dd5">
@@ -9124,7 +9124,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love in the Lease</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Twins' President Daddy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c922e6a453">
@@ -9137,7 +9137,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Twins' President Daddy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Comatose Husband Awakens.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9237f0893">
@@ -9150,7 +9150,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Comatose Husband Awakens</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Exchanged Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c924187e31">
@@ -9163,7 +9163,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Exchanged Life</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reign of the Phoenix.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c924b39e58">
@@ -9176,7 +9176,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reign of the Phoenix</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beauty Reborn The Ex's Regret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9254b45af">
@@ -9189,7 +9189,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beauty Reborn The Ex's Regret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Divorce, I Married A Tycoon Magnate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c925e47ac2">
@@ -9202,7 +9202,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Divorce, I Married A Tycoon Magnate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/MY CHAEBOL SISTER.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9267d59ee">
@@ -9215,7 +9215,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">MY CHAEBOL SISTER</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wedded to Wealth.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c927267f86">
@@ -9228,7 +9228,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wedded to Wealth</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Pregnant By My Sister's Fiancé.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c927b1609e">
@@ -9241,7 +9241,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Pregnant By My Sister's Fiancé</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Dawn's Embrace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92849f286">
@@ -9254,7 +9254,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Dawn's Embrace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blindly Wed.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c928e39f18">
@@ -9267,7 +9267,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blindly Wed</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Top Floor, Ground Reality.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9297d88f4">
@@ -9280,7 +9280,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Top Floor, Ground Reality</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)My Man Is Actually a Big Shot.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92a17024d">
@@ -9293,7 +9293,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)My Man Is Actually a Big Shot</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Lowe And His Ambitious Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92a98d59b">
@@ -9306,7 +9306,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Lowe And His Ambitious Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A New Life of Glory and Power.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92b483fbf">
@@ -9319,7 +9319,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A New Life of Glory and Power</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Out of Control.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92be320a4">
@@ -9332,7 +9332,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Out of Control</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed) The World Treats Me Kindly.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92c7b45b5">
@@ -9345,7 +9345,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed) The World Treats Me Kindly</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heiress Among Us.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92d14cf51">
@@ -9358,7 +9358,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heiress Among Us</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Between Suits and Silk.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92dacdf5b">
@@ -9371,7 +9371,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Between Suits and Silk</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hearts Unbound, Love Unchained.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92e477610">
@@ -9384,7 +9384,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hearts Unbound, Love Unchained</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Little Lucky Three.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92edf2840">
@@ -9397,7 +9397,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Little Lucky Three</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Riches and Romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c92f79647d">
@@ -9410,7 +9410,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Riches and Romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heiress' Debts of Honor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93012e525">
@@ -9423,7 +9423,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heiress' Debts of Honor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Housewife Vigilante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c930ac48e2">
@@ -9436,7 +9436,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Housewife Vigilante</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Triangle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c931466865">
@@ -9449,7 +9449,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Triangle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Billionaire Queen's Obsessive Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c931de5b66">
@@ -9462,7 +9462,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Billionaire Queen's Obsessive Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Award-winning Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c932787f6c">
@@ -9475,7 +9475,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Award-winning Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Always You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93312249a">
@@ -9488,7 +9488,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Always You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Scott, She Isn't Your First Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93394b41a">
@@ -9501,7 +9501,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Scott, She Isn't Your First Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Don't Annoy Lady Charlotte.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93443bf1f">
@@ -9514,7 +9514,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Don't Annoy Lady Charlotte</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Missing Princess.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c934ddbdfc">
@@ -9527,7 +9527,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Missing Princess</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Flash of Forever.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9357646f2">
@@ -9540,7 +9540,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Flash of Forever</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Billionaire Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93625e4e3">
@@ -9553,7 +9553,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Billionaire Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Rise of Goddess Flora.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c936aaf0cd">
@@ -9566,7 +9566,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Rise of Goddess Flora</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Real Lady Exposes Lies.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9372efd8f">
@@ -9579,7 +9579,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Real Lady Exposes Lies</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tit For Tat.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c937e0ebe0">
@@ -9592,7 +9592,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tit For Tat</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Jewel of Romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93878ce6a">
@@ -9605,7 +9605,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Jewel of Romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Contract of Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9391251df">
@@ -9618,7 +9618,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Contract of Hearts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Timeless Devotion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c939ac1d05">
@@ -9631,7 +9631,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Timeless Devotion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Missing Radiance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93a450737">
@@ -9644,7 +9644,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Missing Radiance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hands Up, Daddy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93addebec">
@@ -9657,7 +9657,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hands Up, Daddy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rags to Richest Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93b78910a">
@@ -9670,7 +9670,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rags to Richest Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Transmigration, She Was the Empress.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d97d39d0de">
@@ -9683,7 +9683,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Transmigration, She Was the Empress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Cute Sidekick.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93caaf4cd">
@@ -9696,7 +9696,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Cute Sidekick</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/She Cleans, She's Rich.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93de0665d">
@@ -9709,7 +9709,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">She Cleans, She's Rich</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/False Love Becomes True.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93e7a0355">
@@ -9722,7 +9722,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">False Love Becomes True</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Miller's Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93f1413d4">
@@ -9735,7 +9735,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Miller's Beloved</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/True the Heroine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93fac0362">
@@ -9748,7 +9748,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">True the Heroine</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO Married the True Miss Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9404675f6">
@@ -9761,7 +9761,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO Married the True Miss Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Wife In Embrace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94178d896">
@@ -9774,7 +9774,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Wife In Embrace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mix-Up Serendipity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9421416fd">
@@ -9787,7 +9787,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mix-Up Serendipity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fallen Glory, Rising Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c942ac39dd">
@@ -9800,7 +9800,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fallen Glory, Rising Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trials and Triumphs of the Stand-In Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94346703c">
@@ -9813,7 +9813,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trials and Triumphs of the Stand-In Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEOs' Cute Twins.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c943e04b83">
@@ -9826,7 +9826,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEOs' Cute Twins</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Heiress Gambit.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94478e3b8">
@@ -9839,7 +9839,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Heiress Gambit</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Final Call for Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c945239af0">
@@ -9852,7 +9852,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Final Call for Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Wife's Mask.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c945ac6867">
@@ -9865,7 +9865,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Wife's Mask</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Checkmate of Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c946e14945">
@@ -9878,7 +9878,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Checkmate of Hearts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Beautiful Mistake.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94779f69d">
@@ -9891,7 +9891,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Beautiful Mistake</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Surrounded by Snobs.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c948132a9a">
@@ -9904,7 +9904,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Surrounded by Snobs</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Noble Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c948abab46">
@@ -9917,7 +9917,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Noble Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Pretty CEO's Fightback.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c949452ee2">
@@ -9930,7 +9930,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Pretty CEO's Fightback</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Valor in Kindergarten.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c949e11dd8">
@@ -9943,7 +9943,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Valor in Kindergarten</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Absolute Top.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94a79b043">
@@ -9956,7 +9956,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Absolute Top</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blind Date Turned Out to Be the Big Cheese.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94b1344c6">
@@ -9969,7 +9969,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blind Date Turned Out to Be the Big Cheese</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/One Million Reasons to Love a Prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94bab77bf">
@@ -9982,7 +9982,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">One Million Reasons to Love a Prince</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Understated Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94cdeb151">
@@ -9995,7 +9995,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Understated Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Riches Realness.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94d7b1c5f">
@@ -10008,7 +10008,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Riches Realness</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Married the Tycoon CEO on the Blind Date.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94e13c33f">
@@ -10021,7 +10021,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Married the Tycoon CEO on the Blind Date</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His Legend.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94ead5388">
@@ -10034,7 +10034,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His Legend</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heartstrings of Regrets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94f4755e1">
@@ -10047,7 +10047,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heartstrings of Regrets</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fall and Rise of the Northern King.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c94fe0904e">
@@ -10060,7 +10060,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fall and Rise of the Northern King</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash Marriage My Tycoon Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95079f602">
@@ -10073,7 +10073,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flash Marriage My Tycoon Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Dumped, I Proposed to the CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95112724b">
@@ -10086,7 +10086,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Dumped, I Proposed to the CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Brooks' Ardent Devotion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c951ac5fc7">
@@ -10099,7 +10099,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Brooks' Ardent Devotion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Tyrant's Fiery Passion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95245948a">
@@ -10112,7 +10112,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Tyrant's Fiery Passion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost Sister Spoiled Silly.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c952e13c7a">
@@ -10125,7 +10125,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lost Sister Spoiled Silly</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Godsend Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95427e805">
@@ -10138,7 +10138,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Godsend Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Superme Doctor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c954acd417">
@@ -10151,7 +10151,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Superme Doctor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Guardians of the Secret Jewel.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c955435797">
@@ -10164,7 +10164,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Guardians of the Secret Jewel</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Triumvirate Brothers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95676ba06">
@@ -10177,7 +10177,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Triumvirate Brothers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destiny's Tender Touch.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c957114d28">
@@ -10190,7 +10190,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destiny's Tender Touch</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Queen as I.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c957aa394e">
@@ -10203,7 +10203,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Queen as I</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Temptation of the Vengeful Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c958443a9a">
@@ -10216,7 +10216,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Temptation of the Vengeful Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost in Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c958dd6a16">
@@ -10229,7 +10229,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lost in Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95a109df8">
@@ -10242,7 +10242,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marriage of Misunderstanding.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95aa9ca23">
@@ -10255,7 +10255,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marriage of Misunderstanding</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Contract From Strangers to Soulmates.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95b42d8d6">
@@ -10268,7 +10268,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Contract From Strangers to Soulmates</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Billionaire's Bold Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95bdcbf89">
@@ -10281,7 +10281,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Billionaire's Bold Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Love Flashes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95c779359">
@@ -10294,7 +10294,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Love Flashes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Call Me Princess.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95d119cf5">
@@ -10307,7 +10307,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Call Me Princess</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of the Unparalleled God of War.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95daae1ee">
@@ -10320,7 +10320,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of the Unparalleled God of War</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/One Night Surprise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95e43bb33">
@@ -10333,7 +10333,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">One Night Surprise</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Jordan's Exclusive Sweet Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95edd4c2a">
@@ -10346,7 +10346,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Jordan's Exclusive Sweet Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Secret With Country Boys.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95f76de0e">
@@ -10359,7 +10359,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Secret With Country Boys</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After the Divorce, I Made Him Lose Everything.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96012bb56">
@@ -10372,7 +10372,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After the Divorce, I Made Him Lose Everything</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c960a97392">
@@ -10385,7 +10385,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Invincible</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Abandoned Billionaire Ex-wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c961426227">
@@ -10398,7 +10398,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge of the Abandoned Billionaire Ex-wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Ash is Daughter of The Richest Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c961dcae2a">
@@ -10411,7 +10411,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mrs. Ash is Daughter of The Richest Man</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Strike of the Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c962770103">
@@ -10424,7 +10424,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Strike of the Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's First Heartbeat.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96320a390">
@@ -10437,7 +10437,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's First Heartbeat</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Dear Daughters.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96444bb46">
@@ -10450,7 +10450,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Dear Daughters</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Little Cub.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c964dd933e">
@@ -10463,7 +10463,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Her Little Cub</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Princess in Distress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c965762bec">
@@ -10476,7 +10476,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Princess in Distress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Foster, She's Not Your Sister.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96610560c">
@@ -10489,7 +10489,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Foster, She's Not Your Sister</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/All-Out Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c966a93896">
@@ -10502,7 +10502,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">All-Out Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Unlucky Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c967dc75b5">
@@ -10515,7 +10515,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lucky Unlucky Heiress</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Beneath the Ice.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96877b288">
@@ -10528,7 +10528,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Beneath the Ice</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorced with Kid, But I Got Rich.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c969125645">
@@ -10541,7 +10541,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Divorced with Kid, But I Got Rich</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Ex, My New Flame.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c969aa194d">
@@ -10554,7 +10554,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Ex, My New Flame</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Formidable Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96a43c4ca">
@@ -10567,7 +10567,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Formidable Man</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Crushing On You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96add2d70">
@@ -10580,7 +10580,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Crushing On You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hot-headed Right Hand.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96b779c23">
@@ -10593,7 +10593,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hot-headed Right Hand</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/They Call Me Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96c12d1ef">
@@ -10606,7 +10606,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">They Call Me Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Melody of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96caa2bb4">
@@ -10619,7 +10619,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Melody of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/How to Train an Alpha.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96ddd1621">
@@ -10632,7 +10632,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">How to Train an Alpha</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Modern Day Majesty.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96e77de59">
@@ -10645,7 +10645,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Modern Day Majesty</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bewildered Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96f1258d8">
@@ -10658,7 +10658,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bewildered Hearts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Us Under the Stars.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96fabad96">
@@ -10671,7 +10671,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Us Under the Stars</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Colette's Comeback After Her Ordeal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97044d096">
@@ -10684,7 +10684,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Colette's Comeback After Her Ordeal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love from My Men.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c970dd0043">
@@ -10697,7 +10697,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love from My Men</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mistress of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c971777187">
@@ -10710,7 +10710,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mistress of Fate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Falling for Niamh.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c972219147">
@@ -10723,7 +10723,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Falling for Niamh</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Loving My Rival.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c972a7ddd5">
@@ -10736,7 +10736,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Loving My Rival</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Dark Captivity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97340e513">
@@ -10749,7 +10749,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love's Dark Captivity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fate's Second Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c973d920c3">
@@ -10762,7 +10762,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fate's Second Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Last Resort.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97471f802">
@@ -10775,7 +10775,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love's Last Resort</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After the Divorce, We Fall in Love Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9750ba9c8">
@@ -10788,7 +10788,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After the Divorce, We Fall in Love Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c975a59082">
@@ -10801,7 +10801,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sweet Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Confessions of a Jealous Crush.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9763e04c4">
@@ -10814,7 +10814,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Confessions of a Jealous Crush</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Remembers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c976d7ea29">
@@ -10827,7 +10827,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Remembers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Enduring Love of Destiny.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c977705333">
@@ -10840,7 +10840,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Enduring Love of Destiny</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ever since We Met.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97808903f">
@@ -10853,7 +10853,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ever since We Met</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Million-Dollar Love Bargain.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c978a225e1">
@@ -10866,7 +10866,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Million-Dollar Love Bargain</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Once again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9793c5c08">
@@ -10879,7 +10879,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Once again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twists of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c979d51d1a">
@@ -10892,7 +10892,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twists of Fate</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fleeing Beauty, Striking Sass.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97a6dfa3f">
@@ -10905,7 +10905,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fleeing Beauty, Striking Sass</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Live or Die.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97b074cc6">
@@ -10918,7 +10918,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Live or Die</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ferreous Fists of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97ba136fe">
@@ -10931,7 +10931,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ferreous Fists of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Heart & Strings.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97c39da8a">
@@ -10944,7 +10944,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Heart & Strings</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Very Royal Romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97cd3489b">
@@ -10957,7 +10957,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Very Royal Romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Past Monarch, Present Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97d6d6755">
@@ -10970,7 +10970,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Past Monarch, Present Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reunion of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97e04d280">
@@ -10983,7 +10983,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reunion of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/From Revenge to Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97f387813">
@@ -10996,7 +10996,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">From Revenge to Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97fd26ccf">
@@ -11009,7 +11009,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secret Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Weight Loss Wonders.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9806ab691">
@@ -11022,7 +11022,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Weight Loss Wonders</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lawyer Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9811455f5">
@@ -11035,7 +11035,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lawyer Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A-List Servant.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9819e9daa">
@@ -11048,7 +11048,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A-List Servant</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Timeless Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c982d08f09">
@@ -11061,7 +11061,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Timeless Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorce Pending, He Fell in Love With Her.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98369537c">
@@ -11074,7 +11074,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Divorce Pending, He Fell in Love With Her</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/At Thirty, I'm Unexpectedly in Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c984040430">
@@ -11087,7 +11087,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">At Thirty, I'm Unexpectedly in Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Who Knows My Dumb Hubby Is a Big Shot.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9849b2f5a">
@@ -11100,7 +11100,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Who Knows My Dumb Hubby Is a Big Shot</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Token Twist.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c985347eee">
@@ -11113,7 +11113,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Token Twist</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lingering Affection.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c985cd3832">
@@ -11126,7 +11126,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lingering Affection</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tied the Knot with the Hot Daddy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98667ac97">
@@ -11139,7 +11139,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tied the Knot with the Hot Daddy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Deal of a Lifetime.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c986ff003f">
@@ -11152,7 +11152,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Deal of a Lifetime</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love in Chains.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98799e14f">
@@ -11165,7 +11165,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love in Chains</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Love as Warm as the Wind.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98831f771">
@@ -11178,7 +11178,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Love as Warm as the Wind</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost and Found.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c988cd0d31">
@@ -11191,7 +11191,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lost and Found</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Ex-husband Just Can't Seem to Get Over Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98965309f">
@@ -11204,7 +11204,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Ex-husband Just Can't Seem to Get Over Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn from Snatching a Billionaire as Her Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c989fccb77">
@@ -11217,7 +11217,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn from Snatching a Billionaire as Her Husband</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/High-Rich Mom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98a9865ba">
@@ -11230,7 +11230,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">High-Rich Mom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Speedy Vows, Passionate Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98b30c79f">
@@ -11243,7 +11243,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Speedy Vows, Passionate Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wind Brings My Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98bc8be3e">
@@ -11256,7 +11256,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wind Brings My Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Murphy's Criminal Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98c6249e7">
@@ -11269,7 +11269,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Murphy's Criminal Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Abandoned Bride's Vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98cfbf5f6">
@@ -11282,7 +11282,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Abandoned Bride's Vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After Reborn, Dandiacal Darling Spoils Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98d952606">
@@ -11295,7 +11295,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After Reborn, Dandiacal Darling Spoils Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn of a Noble Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98ec7e461">
@@ -11308,7 +11308,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn of a Noble Lady</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Alpha’s Innocent Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9900d7535">
@@ -11321,7 +11321,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Alpha’s Innocent Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Passionate Love to Him.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99092ee94">
@@ -11334,7 +11334,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Passionate Love to Him</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Masterful Medic.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9912bfae1">
@@ -11347,7 +11347,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Masterful Medic</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bankrupt Bride's CEO Sidekick.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c991c61753">
@@ -11360,7 +11360,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bankrupt Bride's CEO Sidekick</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Disguised Romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9925eb233">
@@ -11373,7 +11373,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Disguised Romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Behind the Marriage Meltdown.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c992f773a3">
@@ -11386,7 +11386,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Behind the Marriage Meltdown</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Tycoon's Reluctant Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c993922c91">
@@ -11399,7 +11399,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Tycoon's Reluctant Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Twilight's End.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9942a454d">
@@ -11412,7 +11412,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Twilight's End</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Charming a Billionaire Post-Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c994c64a82">
@@ -11425,7 +11425,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Charming a Billionaire Post-Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Hoyce and the Twins.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9955dfe27">
@@ -11438,7 +11438,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Hoyce and the Twins</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Wealthy by Chance, Loved by Choice.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c995f62b73">
@@ -11451,7 +11451,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Wealthy by Chance, Loved by Choice</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trapped with the CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c996902681">
@@ -11464,7 +11464,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trapped with the CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Last Revelry.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99729d348">
@@ -11477,7 +11477,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Last Revelry</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Kick-Ass Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c997c2faa2">
@@ -11490,7 +11490,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Kick-Ass Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Daddy, You Got the Wrong Baby!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9985ca23a">
@@ -11503,7 +11503,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Daddy, You Got the Wrong Baby!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Slay Dragon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c998f6745e">
@@ -11516,7 +11516,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Slay Dragon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Perfect Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99a26d1d0">
@@ -11529,7 +11529,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Perfect Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Back off, My Son-in-Law!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99b5a8b06">
@@ -11542,7 +11542,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Back off, My Son-in-Law!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Recognized as a Heiress After Starting Over.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99bf4a75d">
@@ -11555,7 +11555,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Recognized as a Heiress After Starting Over</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Pregnant Wife Escape.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99c8c1919">
@@ -11568,7 +11568,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Pregnant Wife Escape</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/She Becomes a Vision after Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99d2678da">
@@ -11581,7 +11581,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">She Becomes a Vision after Divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/She Got Pregnant When divorced.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99e58cf70">
@@ -11594,7 +11594,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">She Got Pregnant When divorced</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Finding My Way Home.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99f005522">
@@ -11607,7 +11607,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Finding My Way Home</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Yosef, Lily Has Secretly Given Birth to a Child.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99f8a1cd7">
@@ -11620,7 +11620,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Yosef, Lily Has Secretly Given Birth to a Child</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Become His Child's Mother After Divorced.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a022b773">
@@ -11633,7 +11633,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Become His Child's Mother After Divorced</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Fool's Embrace.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a0bc6201">
@@ -11646,7 +11646,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Fool's Embrace</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/With Boy-Girl Twins, Rich Girl Clara Is So Cool.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a1f0145a">
@@ -11659,7 +11659,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">With Boy-Girl Twins, Rich Girl Clara Is So Cool</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fool Me Once Revenge On You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a321f854">
@@ -11672,7 +11672,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fool Me Once Revenge On You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost Girl Is Found.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a3bad47f">
@@ -11685,7 +11685,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lost Girl Is Found</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Betrothed Hearts Untangled.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a4541d01">
@@ -11698,7 +11698,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Betrothed Hearts Untangled</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Captive Bride of Nightfall.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a4ec27c0">
@@ -11711,7 +11711,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Captive Bride of Nightfall</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Masked Groom.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a5867e60">
@@ -11724,7 +11724,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Masked Groom</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Brothers, Please Don't Spoil Me Too Much.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a61eca3a">
@@ -11737,7 +11737,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Brothers, Please Don't Spoil Me Too Much</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Bailey's Witch Sweetheart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a6b9315c">
@@ -11750,7 +11750,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Bailey's Witch Sweetheart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Dear Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a7516323">
@@ -11763,7 +11763,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Dear Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash Marriage, Endless Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a7eb4fd6">
@@ -11776,7 +11776,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Flash Marriage, Endless Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Daddy Chases, Baby Boosts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a883c21b">
@@ -11789,7 +11789,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Daddy Chases, Baby Boosts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Rise of Mr. & Mrs. Mafia（Re-edit）.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a91cbae0">
@@ -11802,7 +11802,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Rise of Mr. & Mrs. Mafia（Re-edit）</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ascension Above.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9aae95c6c">
@@ -11815,7 +11815,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ascension Above</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Cutie to the Rescue.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ab821a65">
@@ -11828,7 +11828,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Cutie to the Rescue</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Priceless Ex-wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ac1b9da2">
@@ -11841,7 +11841,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Priceless Ex-wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/That Cinderella.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9acb41c09">
@@ -11854,7 +11854,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">That Cinderella</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ad4d44ce">
@@ -11867,7 +11867,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revenge of the Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Husband Is from the Outer Space.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9adfcde28">
@@ -11880,7 +11880,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Husband Is from the Outer Space</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Rescue Turned Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ae83a5b2">
@@ -11893,7 +11893,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Rescue Turned Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Husband's Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9af19f749">
@@ -11906,7 +11906,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Husband's Secret</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fierce Brothers.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b0535609">
@@ -11919,7 +11919,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fierce Brothers</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Pretty Boys.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b18135f2">
@@ -11932,7 +11932,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Pretty Boys</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Blossoming Connection.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b2b28f94">
@@ -11945,7 +11945,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Blossoming Connection</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Riding into Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b3e48231">
@@ -11958,7 +11958,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Riding into Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love on the Fast Lane.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b5b124bb">
@@ -11971,7 +11971,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love on the Fast Lane</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Uncovering the CEO's Hidden Passion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b649885e">
@@ -11984,7 +11984,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Uncovering the CEO's Hidden Passion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Stunning Comeback with Vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b6e6c60f">
@@ -11997,7 +11997,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Her Stunning Comeback with Vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Genius is Reborn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b77d31ec">
@@ -12010,7 +12010,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Genius is Reborn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Beloved Stand-in Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b815e523">
@@ -12023,7 +12023,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Beloved Stand-in Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Oops! I Mate With My Forbidden Alpha.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b9e25ddb">
@@ -12036,7 +12036,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Oops! I Mate With My Forbidden Alpha</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/I shock my ex-husband with the twins after six years.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ba7b3052">
@@ -12049,7 +12049,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">I shock my ex-husband with the twins after six years</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Charming Ms. Reed.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bb13e98f">
@@ -12062,7 +12062,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Charming Ms. Reed</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Our Secret Identities.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bc471a17">
@@ -12075,7 +12075,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Our Secret Identities</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Second Life in the 90s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bcede70b">
@@ -12088,7 +12088,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Second Life in the 90s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Wedding Revelation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bd77da58">
@@ -12101,7 +12101,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Wedding Revelation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Whispers of the Wind.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9be122947">
@@ -12114,7 +12114,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Whispers of the Wind</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Chance at Redemption.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9beaad22c">
@@ -12127,7 +12127,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Chance at Redemption</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Love Untamed.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bf442c1f">
@@ -12140,7 +12140,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Love Untamed</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My First Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c1a7809e">
@@ -12153,7 +12153,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My First Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Second Chances.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c24207a4">
@@ -12166,7 +12166,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Second Chances</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Shining Promise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c2da911f">
@@ -12179,7 +12179,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Shining Promise</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beloved Innocence.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c3744a8d">
@@ -12192,7 +12192,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beloved Innocence</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Missus Strikes Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c40ed17e">
@@ -12205,7 +12205,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The CEO's Missus Strikes Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Whispers of Spring Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c4a8309f">
@@ -12218,7 +12218,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Whispers of Spring Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/One More Chance, My Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c5416d9d">
@@ -12231,7 +12231,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">One More Chance, My Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Whispers of Bliss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c5d9ca33">
@@ -12244,7 +12244,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Whispers of Bliss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Domineering Madam.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c674e134">
@@ -12257,7 +12257,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Domineering Madam</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rose Coronet.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c70d1110">
@@ -12270,7 +12270,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rose Coronet</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Don't You Run Away from Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c7a67645">
@@ -12283,7 +12283,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Don't You Run Away from Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Fire of Retaliation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c840b173">
@@ -12296,7 +12296,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Fire of Retaliation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Corporate Spy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c8d96eb7">
@@ -12309,7 +12309,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Corporate Spy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Jealousy and Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9c971c24a">
@@ -12322,7 +12322,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Jealousy and Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Love Melts the Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ca0a11e4">
@@ -12335,7 +12335,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Love Melts the Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Moonlit Alpha Prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9caa45a71">
@@ -12348,7 +12348,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Moonlit Alpha Prince</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cover Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cb3c6e5c">
@@ -12361,7 +12361,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cover Story</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Mischievous Blessings in Disguise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cbe82b31">
@@ -12374,7 +12374,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Mischievous Blessings in Disguise</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Shadows of Loss, Light of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cc6cbfb4">
@@ -12387,7 +12387,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Shadows of Loss, Light of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Possessive Tycoon's Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cd076535">
@@ -12400,7 +12400,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Possessive Tycoon's Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/A Mother's Sacrifice.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ce3a7f9d">
@@ -12413,7 +12413,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">A Mother's Sacrifice</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Riley, Your Wife Is Innocent.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cf6ccb11">
@@ -12426,7 +12426,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mr. Riley, Your Wife Is Innocent</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fated to be Spoiled.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d005e35d">
@@ -12439,7 +12439,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fated to be Spoiled</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unfulfilled Desires.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d09e2d04">
@@ -12452,7 +12452,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unfulfilled Desires</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Of Career Challenges and Family Rediscovery.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d13aff2c">
@@ -12465,7 +12465,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Of Career Challenges and Family Rediscovery</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Concealed Passion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d1d21a0b">
@@ -12478,7 +12478,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Concealed Passion</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Second Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d26ba075">
@@ -12491,7 +12491,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love's Second Chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Rise of Mr. & Mrs. Mafia.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d3041ac1">
@@ -12504,7 +12504,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Rise of Mr. & Mrs. Mafia</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Golden Bloom Era.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d39c6567">
@@ -12517,7 +12517,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Golden Bloom Era</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Youthful Bliss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d4352631">
@@ -12530,7 +12530,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You're My Youthful Bliss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fortunately, I Have You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d4ce1738">
@@ -12543,7 +12543,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fortunately, I Have You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Female Lead's Destruction.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d568eac4">
@@ -12556,7 +12556,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Female Lead's Destruction</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Timeless Dragon Monarch.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d601d79a">
@@ -12569,7 +12569,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Timeless Dragon Monarch</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Nine Fairy Mentors.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d69a2460">
@@ -12582,7 +12582,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Nine Fairy Mentors</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Yana's Worries.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d734563b">
@@ -12595,7 +12595,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Yana's Worries</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rose Aflame.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d8675b40">
@@ -12608,7 +12608,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rose Aflame</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love in a Flash.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d99ad12d">
@@ -12621,7 +12621,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love in a Flash</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Nice to Marry You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9da334ad4">
@@ -12634,7 +12634,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Nice to Marry You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Wrath Unveiled.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9db691e4e">
@@ -12647,7 +12647,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Her Wrath Unveiled</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/After the Whirlwind Wedding.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9dc0524cc">
@@ -12660,7 +12660,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">After the Whirlwind Wedding</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Saviour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9dc9c2800">
@@ -12673,7 +12673,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">You're My Saviour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Breath of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9dd37cd7e">
@@ -12686,7 +12686,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Breath of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Apocalyptic Retaliation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ddce6c36">
@@ -12699,7 +12699,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Apocalyptic Retaliation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Knows No Time.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9de688911">
@@ -12712,7 +12712,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Knows No Time</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Invincible Son-in-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9df02b917">
@@ -12725,7 +12725,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Invincible Son-in-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Return of a Matrilocal Son-in-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9df99c6a3">
@@ -12738,7 +12738,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Return of a Matrilocal Son-in-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Mystique Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e0349f1f">
@@ -12751,7 +12751,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Mystique Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dragon Chase.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e166fb03">
@@ -12764,7 +12764,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dragon Chase</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rumor Romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e1fe7c62">
@@ -12777,7 +12777,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rumor Romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Runaway Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e3327dbc">
@@ -12790,7 +12790,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Runaway Bride</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ms. Villa's Transformation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e3cbb754">
@@ -12803,7 +12803,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ms. Villa's Transformation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Missing You Like Crazy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e464da99">
@@ -12816,7 +12816,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Missing You Like Crazy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The World Treats Me Kindly.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e4fd35b0">
@@ -12829,7 +12829,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The World Treats Me Kindly</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Billionaire I Married by Mistake.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e5975496">
@@ -12842,7 +12842,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Billionaire I Married by Mistake</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beyond Compare.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e6329f70">
@@ -12855,7 +12855,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beyond Compare</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed)Mystic Intern's Love Adventure.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e6ca8a5c">
@@ -12868,7 +12868,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">(English-dubbed)Mystic Intern's Love Adventure</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dragon Transformation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e763dc68">
@@ -12881,7 +12881,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dragon Transformation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of The Dead Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e7fdf784">
@@ -12894,7 +12894,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Return of The Dead Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/His High-Profile Declaration of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e896ed4e">
@@ -12907,7 +12907,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">His High-Profile Declaration of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Susan Smith's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e93118f6">
@@ -12920,7 +12920,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Susan Smith's Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Madam, the CEO Is Doing Odd Jobs Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ea631062">
@@ -12933,7 +12933,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Madam, the CEO Is Doing Odd Jobs Again</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destitute Husband's CEO Identity Exposed.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9eafbd080">
@@ -12946,7 +12946,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destitute Husband's CEO Identity Exposed</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Art of Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/674165f5f3a61">
@@ -12959,7 +12959,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Art of Revenge</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unparalleled.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ec2d55eb">
@@ -12972,7 +12972,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unparalleled</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Alpha King Call Boy.mp4" data-commission="https://short.kalostv.com/api/short/jump/674165deae98b">
@@ -12985,7 +12985,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Alpha King Call Boy</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Charming and Fierce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ed60b42d">
@@ -12998,7 +12998,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miss Charming and Fierce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Single Mom Unveils Heiress Identity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9efc606c1">
@@ -13011,7 +13011,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Single Mom Unveils Heiress Identity</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ocean of Love, Just For You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f05df0b6">
@@ -13024,7 +13024,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ocean of Love, Just For You</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Free My Heart, Mr. CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f0f80724">
@@ -13037,7 +13037,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Free My Heart, Mr. CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destined to Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f19162ea">
@@ -13050,7 +13050,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destined to Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/In Extremity with My Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f229b4ee">
@@ -13063,7 +13063,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">In Extremity with My Girl</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Touch of Temptation.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f35aaa7b">
@@ -13076,7 +13076,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Touch of Temptation</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/（English-dubbed）Billionaire and His Miss Drama.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f3f4bd64">
@@ -13089,7 +13089,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">（English-dubbed）Billionaire and His Miss Drama</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/（English-dubbed）The Tycoon's Extravagant Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f48e8489">
@@ -13102,7 +13102,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">（English-dubbed）The Tycoon's Extravagant Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sorcerer Supreme.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f5273360">
@@ -13115,7 +13115,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sorcerer Supreme</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise of a New Regent.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f5c0c533">
@@ -13128,7 +13128,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rise of a New Regent</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Heiress Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f6f55b3e">
@@ -13141,7 +13141,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Heiress Strikes Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tycoon Delivery.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f8cd9bea">
@@ -13154,7 +13154,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tycoon Delivery</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Ex is a Secret Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f958012c">
@@ -13167,7 +13167,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Ex is a Secret Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Marry a Stranger.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fa8915ed">
@@ -13180,7 +13180,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Marry a Stranger</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Found by the Lycan King.mp4" data-commission="https://short.kalostv.com/api/short/jump/6741659565c48">
@@ -13193,7 +13193,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Found by the Lycan King</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mystic Intern's Love Adventure.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fbbba013">
@@ -13206,7 +13206,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mystic Intern's Love Adventure</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/（English-dubbed）Trio Tycoons Compete For My Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fc56365b">
@@ -13219,7 +13219,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">（English-dubbed）Trio Tycoons Compete For My Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Silken Web.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fcedb3d1">
@@ -13232,7 +13232,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love's Silken Web</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Tycoon's Extravagant Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fd867013">
@@ -13245,7 +13245,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Tycoon's Extravagant Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Billionaire and His Miss Drama.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9fe211710">
@@ -13258,7 +13258,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Billionaire and His Miss Drama</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Year We Loved Most.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ffebfa1f">
@@ -13271,7 +13271,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Year We Loved Most</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Born From A Contract.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca011c784a">
@@ -13284,7 +13284,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Born From A Contract</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tycoon's Prodigal Son.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca02e88ba7">
@@ -13297,7 +13297,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tycoon's Prodigal Son</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn to 2001.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0380ad02">
@@ -13310,7 +13310,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reborn to 2001</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trio Tycoons Compete For My Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca04194b8e">
@@ -13323,7 +13323,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trio Tycoons Compete For My Heart</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Starlet's Mystic Protector.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca04b2c584">
@@ -13336,7 +13336,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Starlet's Mystic Protector</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Jealousy Strikes the Charming Sickly Lead.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca05503f0d">
@@ -13349,7 +13349,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Jealousy Strikes the Charming Sickly Lead</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Your Echoes in My Tears.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca05e5c7c5">
@@ -13362,7 +13362,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Your Echoes in My Tears</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Caught in the Ex-Files.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca067deefd">
@@ -13375,7 +13375,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Caught in the Ex-Files</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Sinful Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca071822d7">
@@ -13388,7 +13388,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO's Sinful Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Longing for You Under the Moonlit Night.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca07c586c8">
@@ -13401,7 +13401,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Longing for You Under the Moonlit Night</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dancing on the Ashes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0848b64c">
@@ -13414,7 +13414,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dancing on the Ashes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/When Love Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca097c55cf">
@@ -13427,7 +13427,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">When Love Strikes Back</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Unyielding Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0a147a64">
@@ -13440,7 +13440,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Unyielding Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Falling for Gorgeous Business Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0b45e100">
@@ -13453,7 +13453,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Falling for Gorgeous Business Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ex-Husband Wants Badly to Resume Their Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0bded67c">
@@ -13466,7 +13466,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ex-Husband Wants Badly to Resume Their Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Master's Innocent Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0c79afba">
@@ -13479,7 +13479,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Master's Innocent Wife</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Wife Remarried.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0d11f40f">
@@ -13492,7 +13492,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">CEO's Wife Remarried</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Comeback of His Madam.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0da9d319">
@@ -13505,7 +13505,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Comeback of His Madam</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Back to the Golden Era.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0e434dd2">
@@ -13518,7 +13518,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Back to the Golden Era</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise from the Factory.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0edb69fe">
@@ -13531,7 +13531,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rise from the Factory</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Billionaire's Blind Son-In-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0f74a571">
@@ -13544,7 +13544,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Billionaire's Blind Son-In-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Bad Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca10a87dac">
@@ -13557,7 +13557,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Bad Lady</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Goodbye, My Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca11433433">
@@ -13570,7 +13570,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Goodbye, My Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love in the Turbulent Times.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca11da9048">
@@ -13583,7 +13583,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love in the Turbulent Times</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Way to Queen.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1274aaa2">
@@ -13596,7 +13596,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Way to Queen</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Palace Power Storm.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca13a5f698">
@@ -13609,7 +13609,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Palace Power Storm</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Silent Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1440061e">
@@ -13622,7 +13622,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Silent Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Life as a Superstar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca14d7da12">
@@ -13635,7 +13635,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Life as a Superstar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Merry Maestro, Savage Sylph.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca157044cf">
@@ -13648,7 +13648,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Merry Maestro, Savage Sylph</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secrets Under My Flash Marriage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca160968af">
@@ -13661,7 +13661,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secrets Under My Flash Marriage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/The Romance of Billionaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca16ae3631">
@@ -13674,7 +13674,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">The Romance of Billionaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Path of Glory.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1739287a">
@@ -13687,7 +13687,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Path of Glory</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Different Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca17d284a3">
@@ -13700,7 +13700,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Different Me</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Call me Master!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca186c74b1">
@@ -13713,7 +13713,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Call me Master!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dream in the 90s.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca19049119">
@@ -13726,7 +13726,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dream in the 90s</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Supreme Hero.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca199da43f">
@@ -13739,7 +13739,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Supreme Hero</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Afflication.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1a4ee6b7">
@@ -13752,7 +13752,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Love Afflication</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/As King's Son-in-law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1ad14c95">
@@ -13765,7 +13765,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">As King's Son-in-law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Aftermath of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1b9c74b1">
@@ -13778,7 +13778,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Aftermath of Love</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/She's Married, Sir!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1c38468f">
@@ -13791,7 +13791,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">She's Married, Sir!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Medical, Martial, Kingly Son-in-Law.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1cd25d38">
@@ -13804,7 +13804,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Medical, Martial, Kingly Son-in-Law</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/My Fortune Road.mp4" data-commission="https://short.kalostv.com/api/short/jump/67416611b6ab0">
@@ -13817,7 +13817,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">My Fortune Road</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -13832,7 +13832,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Direktur, pengawalnya adalah wanita itu.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Perjuangan Miss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fbba5fba">
@@ -13845,7 +13845,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Perjuangan Miss</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Melawan Setelah Ditinggalkan.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fc0e1517">
@@ -13858,7 +13858,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Melawan Setelah Ditinggalkan</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tangan Kanan Berkepala Panas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fc4902cf">
@@ -13871,7 +13871,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tangan Kanan Berkepala Panas</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Jatuh dan Bangkitnya Raja Utara.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fc83c482">
@@ -13884,7 +13884,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Jatuh dan Bangkitnya Raja Utara</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Pria yang Tangguh.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fcbbc8d1">
@@ -13897,7 +13897,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Pria yang Tangguh</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dokter Superme.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fd005576">
@@ -13910,7 +13910,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dokter Superme</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Puncak Mutlak.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fd3b53f5">
@@ -13923,7 +13923,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Puncak Mutlak</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Scarlett yang Tak Terkalahkan - Nyonya Jenderal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fd90e8f2">
@@ -13936,7 +13936,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Scarlett yang Tak Terkalahkan - Nyonya Jenderal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Aku Bukan Tuhan.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2fdb85f7b">
@@ -13949,7 +13949,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Aku Bukan Tuhan</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Topeng Tersembunyinya.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c32fbee73f">
@@ -13962,7 +13962,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Topeng Tersembunyinya</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Power's Pamper.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33007aae0">
@@ -13975,7 +13975,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Power's Pamper</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Pedang Pelindung.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33036b476">
@@ -13988,7 +13988,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Pedang Pelindung</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sekretaris yang Terobsesi dengan CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c330773fff">
@@ -14001,7 +14001,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sekretaris yang Terobsesi dengan CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Istri Magang Miliarder.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c330a4aabf">
@@ -14014,7 +14014,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Istri Magang Miliarder</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mawar dalam Darah.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c330e9d2bb">
@@ -14027,7 +14027,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mawar dalam Darah</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Makeover Gadis Gemuk.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33116e669">
@@ -14040,7 +14040,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Makeover Gadis Gemuk</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tiga Puluh Hari Perceraian.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3315ce563">
@@ -14053,7 +14053,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tiga Puluh Hari Perceraian</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tuhanku, Tolong Nikahi Dia.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3318723c4">
@@ -14066,7 +14066,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tuhanku, Tolong Nikahi Dia</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Perangkap Manisnya.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c331ce7852">
@@ -14079,7 +14079,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Perangkap Manisnya</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ayahku yang Pemalu Jatuh Cinta.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3320890da">
@@ -14092,7 +14092,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ayahku yang Pemalu Jatuh Cinta</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -14107,7 +14107,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">De perdedor a genio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Locura inducida por los millones.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1ea6ecc0">
@@ -14120,7 +14120,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Locura inducida por los millones</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El Amor Interminable del tío.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1f4b092c">
@@ -14133,7 +14133,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El Amor Interminable del tío</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Una vez más, florece.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca1fd81158">
@@ -14146,7 +14146,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Una vez más, florece</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dominio épico del veterinario.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca207190cc">
@@ -14159,7 +14159,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dominio épico del veterinario</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La dulce esposa embarazada del Capitán.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca210b2170">
@@ -14172,7 +14172,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La dulce esposa embarazada del Capitán</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Después del Divorcio, viene el Amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca21a40eb0">
@@ -14185,7 +14185,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Después del Divorcio, viene el Amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Director, su guardaespaldas es su dama.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca223c57df">
@@ -14198,7 +14198,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Director, su guardaespaldas es su dama</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La señora es difícil de calmar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca22d637b3">
@@ -14211,7 +14211,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La señora es difícil de calmar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La lucha de la Srta. Fuentes.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca237095a6">
@@ -14224,7 +14224,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La lucha de la Srta. Fuentes</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El camino ascendente de una esposa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca24a2fe03">
@@ -14237,7 +14237,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El camino ascendente de una esposa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Señor, la señora tiene un nuevo amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca253b0078">
@@ -14250,7 +14250,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Señor, la señora tiene un nuevo amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Donde el amor perdió el rumbo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca25eb9aca">
@@ -14263,7 +14263,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Donde el amor perdió el rumbo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sólo yo puedo salvar a tu hijo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2671b1b8">
@@ -14276,7 +14276,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sólo yo puedo salvar a tu hijo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El magnate cayó en la tentación.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca27a3734a">
@@ -14289,7 +14289,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El magnate cayó en la tentación</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su amada vuelve a toda prisa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca283dbeea">
@@ -14302,7 +14302,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su amada vuelve a toda prisa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Corazones predestinados.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca28d59fed">
@@ -14315,7 +14315,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Corazones predestinados</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El día N de acoger al director desamparado.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca296e2111">
@@ -14328,7 +14328,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El día N de acoger al director desamparado</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tienda de la suerte.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2a08701b">
@@ -14341,7 +14341,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tienda de la suerte</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucha tras ser abandonada.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2aa1e866">
@@ -14354,7 +14354,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lucha tras ser abandonada</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Belleza robada.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2b3e096f">
@@ -14367,7 +14367,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Belleza robada</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Adicto a ella.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2bd4434b">
@@ -14380,7 +14380,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Adicto a ella</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su amante perdida.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2c6e7b9d">
@@ -14393,7 +14393,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su amante perdida</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El pulso de nuestro amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2d08dfe7">
@@ -14406,7 +14406,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El pulso de nuestro amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tú eres mi todo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2da29ffd">
@@ -14419,7 +14419,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tú eres mi todo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su magnate, mi mascota.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2e3c1340">
@@ -14432,7 +14432,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su magnate, mi mascota</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Después de su desaparición.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2f704249">
@@ -14445,7 +14445,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Después de su desaparición</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Beso de poder, deseo sin fin.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3008321d">
@@ -14458,7 +14458,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Beso de poder, deseo sin fin</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mis hermanas me suplican que vuelva.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca30a44183">
@@ -14471,7 +14471,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mis hermanas me suplican que vuelva</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Conociendo a mi hombre ideal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca313ea689">
@@ -14484,7 +14484,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Conociendo a mi hombre ideal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/No soy el Dios.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca31d766a5">
@@ -14497,7 +14497,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">No soy el Dios</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El secreto de su marido.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca32725f2b">
@@ -14510,7 +14510,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El secreto de su marido</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Un rápido capricho de amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca330aa843">
@@ -14523,7 +14523,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Un rápido capricho de amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El romance del multimillonario.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca33a4c05e">
@@ -14536,7 +14536,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El romance del multimillonario</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rogar otra oportunidad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca343ea8bd">
@@ -14549,7 +14549,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rogar otra oportunidad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Volver a casa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca34e6150d">
@@ -14562,7 +14562,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Volver a casa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Manteniendo a un Director Millonario.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca356ebc94">
@@ -14575,7 +14575,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Manteniendo a un Director Millonario</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El amor nacido de un contrato.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3609bf30">
@@ -14588,7 +14588,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El amor nacido de un contrato</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La espera silenciosa de un príncipe.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca36a3aa30">
@@ -14601,7 +14601,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La espera silenciosa de un príncipe</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Día de la boda.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca373ce20f">
@@ -14614,7 +14614,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Día de la boda</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trampa de amor de gemelos para papá millonario.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca37d62693">
@@ -14627,7 +14627,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trampa de amor de gemelos para papá millonario</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La historia de amor de Lucía.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca390d1ccf">
@@ -14640,7 +14640,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La historia de amor de Lucía</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La salvadora de las montañas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca39a5a0cb">
@@ -14653,7 +14653,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La salvadora de las montañas</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La secretaria que obsesionó al Presidente.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3a3ebaf4">
@@ -14666,7 +14666,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La secretaria que obsesionó al Presidente</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mis tres bebés genios.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3ad87a9e">
@@ -14679,7 +14679,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mis tres bebés genios</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dulce rendición.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3b71c831">
@@ -14692,7 +14692,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dulce rendición</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Privatizando el amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3c0a6733">
@@ -14705,7 +14705,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Privatizando el amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La amante contractual del director.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3ca45f75">
@@ -14718,7 +14718,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La amante contractual del director</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/la emperatriz viaja al futuro.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3d3d4cda">
@@ -14731,7 +14731,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">la emperatriz viaja al futuro</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El jefe no puede controlar a su esposa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3dd8d95a">
@@ -14744,7 +14744,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El jefe no puede controlar a su esposa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Matrimonio flash con un rico.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3e72220b">
@@ -14757,7 +14757,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Matrimonio flash con un rico</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cuándo se volverán a ver los que se extrañan.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3f0a7252">
@@ -14770,7 +14770,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cuándo se volverán a ver los que se extrañan</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Reencuentro.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3fa44489">
@@ -14783,7 +14783,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Reencuentro</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Me casé de repente con mi ídolo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca403ec6c1">
@@ -14796,7 +14796,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Me casé de repente con mi ídolo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Qué haces metiendo con ella（Mi Novia Renacida es una Asesina）.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca40d6ff00">
@@ -14809,7 +14809,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Qué haces metiendo con ella（Mi Novia Renacida es una Asesina）</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/los gemelos de destino.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca415a399b">
@@ -14822,7 +14822,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">los gemelos de destino</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Azul.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4208f5e6">
@@ -14835,7 +14835,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Azul</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Novia al mando.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca42a39f30">
@@ -14848,7 +14848,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Novia al mando</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cita a ciegas con el CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca433d60d8">
@@ -14861,7 +14861,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cita a ciegas con el CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Fíngelo hasta que lo logremos.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca43ec69c3">
@@ -14874,7 +14874,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Fíngelo hasta que lo logremos</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Embarazada del tío billionario de mi ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca447174a7">
@@ -14887,7 +14887,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Embarazada del tío billionario de mi ex</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El amor reavivado.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca45094066">
@@ -14900,7 +14900,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El amor reavivado</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Milagro en la noche de bodas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca463bc720">
@@ -14913,7 +14913,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Milagro en la noche de bodas</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Brisa en mi corazón.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca46d540c2">
@@ -14926,7 +14926,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Brisa en mi corazón</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Entre trajes y seda.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca476de5a2">
@@ -14939,7 +14939,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Entre trajes y seda</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Los mimos del poder.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4808264e">
@@ -14952,7 +14952,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Los mimos del poder</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mamá muy rica.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca48a1ad01">
@@ -14965,7 +14965,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mamá muy rica</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El viento trae mi amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4939fe45">
@@ -14978,7 +14978,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El viento trae mi amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El fin del crepúsculo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca49d45f79">
@@ -14991,7 +14991,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El fin del crepúsculo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sin comparación.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4c3a573f">
@@ -15004,7 +15004,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sin comparación</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su espectacular declaración de amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4cd392d9">
@@ -15017,7 +15017,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su espectacular declaración de amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Susurros de amor primaveral.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4d6d467c">
@@ -15030,7 +15030,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Susurros de amor primaveral</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Incomparable.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4e22fbba">
@@ -15043,7 +15043,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Incomparable</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Día escolar de la Señorita.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4e9f042c">
@@ -15056,7 +15056,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Día escolar de la Señorita</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su luna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4f397a2d">
@@ -15069,7 +15069,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su luna</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Volver a quererte después del divorcio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca4f397a2d">
@@ -15082,7 +15082,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Volver a quererte después del divorcio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Revelar la pasión oculta del director ejecutivo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca506cdde5">
@@ -15095,7 +15095,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Revelar la pasión oculta del director ejecutivo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El amor aterriza antes del amanecer..mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5106ec59">
@@ -15108,7 +15108,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El amor aterriza antes del amanecer.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Señor Paz, esos gemelos se parecen mucho a ti.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca51c73531">
@@ -15121,7 +15121,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Señor Paz, esos gemelos se parecen mucho a ti</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Miles de pasiones por ti.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5261263c">
@@ -15134,7 +15134,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Miles de pasiones por ti</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Después del divorcio, mi exesposa es más bella y fuerte.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5314a7f9">
@@ -15147,7 +15147,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Después del divorcio, mi exesposa es más bella y fuerte</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El amor escondido.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5396acd8">
@@ -15160,7 +15160,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El amor escondido</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dos Aromas, Un Destino Reseña.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca543498e1">
@@ -15173,7 +15173,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dos Aromas, Un Destino Reseña</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Los cinco bebés del jefe.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca54cd44e1">
@@ -15186,7 +15186,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Los cinco bebés del jefe</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor ardiente.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5565f16e">
@@ -15199,7 +15199,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amor ardiente</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Florecimiento tras la ruptura.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5600afea">
@@ -15212,7 +15212,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Florecimiento tras la ruptura</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mamá vs. Mi ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca569964d2">
@@ -15225,7 +15225,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mamá vs. Mi ex</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Querida Srta. Santana.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5732c5da">
@@ -15238,7 +15238,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Querida Srta. Santana</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El matrimonio antes del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca57cc2677">
@@ -15251,7 +15251,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El matrimonio antes del amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi esposo pobre revela su verdadera identidad..mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca58fdeb9a">
@@ -15264,7 +15264,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mi esposo pobre revela su verdadera identidad.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La corona de rosas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca59978bf1">
@@ -15277,7 +15277,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La corona de rosas</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El Mejor Actor se casa conmigo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5a321051">
@@ -15290,7 +15290,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El Mejor Actor se casa conmigo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi exmarido siempre me importuna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5acaaa6f">
@@ -15303,7 +15303,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mi exmarido siempre me importuna</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Conocí a mi marido magnate por casualidad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5b64763d">
@@ -15316,7 +15316,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Conocí a mi marido magnate por casualidad</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Perdí un caradura y gané tres hermanos.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5bfc62ab">
@@ -15329,7 +15329,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Perdí un caradura y gané tres hermanos</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Arriba las manos, papá.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5c95f16c">
@@ -15342,7 +15342,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Arriba las manos, papá</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Los cuatro hermanos y yo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5d2e4a41">
@@ -15355,7 +15355,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Los cuatro hermanos y yo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El arte de la venganza.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5dc86dc1">
@@ -15368,7 +15368,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El arte de la venganza</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tras el divorcio, el CEO enloquece..mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5e625403">
@@ -15381,7 +15381,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tras el divorcio, el CEO enloquece.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Esposo tonto, abrázame fuerte.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5efc1fa5">
@@ -15394,7 +15394,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Esposo tonto, abrázame fuerte</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor a distintas horas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5f96be40">
@@ -15407,7 +15407,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amor a distintas horas</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La cruel esposa pecadora.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca60c9116f">
@@ -15420,7 +15420,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La cruel esposa pecadora</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Llamada final para el amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca61620532">
@@ -15433,7 +15433,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Llamada final para el amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La esposa fugitiva es guapa y atrevida.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca620ddca3">
@@ -15446,7 +15446,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La esposa fugitiva es guapa y atrevida</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor sin límites.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6293faea">
@@ -15459,7 +15459,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amor sin límites</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Papá malo siempre se roba a mi mamá.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca632cfda9">
@@ -15472,7 +15472,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Papá malo siempre se roba a mi mamá</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor después del matrimonio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca63c59342">
@@ -15485,7 +15485,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amor después del matrimonio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Los secretos del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca64f838fe">
@@ -15498,7 +15498,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Los secretos del amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cinco tíos y yo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6591c248">
@@ -15511,7 +15511,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cinco tíos y yo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Una promesa deslumbrante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca675e0356">
@@ -15524,7 +15524,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Una promesa deslumbrante</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Una fortuna difícil de ocultar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca67f6fd2c">
@@ -15537,7 +15537,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Una fortuna difícil de ocultar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Lo bien que me trata el mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6890ef9c">
@@ -15550,7 +15550,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Lo bien que me trata el mundo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ascensión.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6928cfd8">
@@ -15563,7 +15563,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ascensión</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hermanos fieros.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca69c1df5d">
@@ -15576,7 +15576,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hermanos fieros</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Transformación del dragón.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6a5b61da">
@@ -15589,7 +15589,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Transformación del dragón</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Gloria caída, venganza resurgente.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6af4f48d">
@@ -15602,7 +15602,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Gloria caída, venganza resurgente</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cómo Entrenar a un Alpha.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6c27ba31">
@@ -15615,7 +15615,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cómo Entrenar a un Alpha</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mimada Por Tres Hermanos Magnates.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6cc15aa7">
@@ -15628,7 +15628,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mimada Por Tres Hermanos Magnates</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El último recurso del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6df38112">
@@ -15641,7 +15641,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El último recurso del amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La divorciada que asombró al mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6e8d1a35">
@@ -15654,7 +15654,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La divorciada que asombró al mundo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La mujer del director ataca de nuevo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6f25ab7b">
@@ -15667,7 +15667,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La mujer del director ataca de nuevo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Un amor indomable.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6fbe8f89">
@@ -15680,7 +15680,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Un amor indomable</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El ascenso de un nuevo Regente.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7057b2f6">
@@ -15693,7 +15693,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El ascenso de un nuevo Regente</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Una oportunidad más, amor mío.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca71094202">
@@ -15706,7 +15706,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Una oportunidad más, amor mío</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Secretos bajo mi flash Matrimonio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca72bee1da">
@@ -15719,7 +15719,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Secretos bajo mi flash Matrimonio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Nueve hadas mentoras.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca73f0a16b">
@@ -15732,7 +15732,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Nueve hadas mentoras</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dragón Monarca Intemporal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca748aeab9">
@@ -15745,7 +15745,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dragón Monarca Intemporal</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Alegre Maestro, Sílfide Salvaje.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca75be645d">
@@ -15758,7 +15758,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Alegre Maestro, Sílfide Salvaje</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su ex marido desea desesperadamente reanudar su matrimonio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca76571158">
@@ -15771,7 +15771,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su ex marido desea desesperadamente reanudar su matrimonio</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor en tiempos turbulentos.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca76f02485">
@@ -15784,7 +15784,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amor en tiempos turbulentos</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi camino hacia la Reina.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca77884d1d">
@@ -15797,7 +15797,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mi camino hacia la Reina</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La red de seda del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca78218f72">
@@ -15810,7 +15810,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La red de seda del amor</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Época de floración dorada.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca78baee7b">
@@ -15823,7 +15823,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Época de floración dorada</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rosa encendida.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca79547f3d">
@@ -15836,7 +15836,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rosa encendida</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Su ira desveló.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca79ed7c2d">
@@ -15849,7 +15849,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Su ira desveló</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La Señorita Encantadora y Feroz.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7b200c7a">
@@ -15862,7 +15862,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La Señorita Encantadora y Feroz</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destinados a amar.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7bb9c58e">
@@ -15875,7 +15875,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destinados a amar</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/E-Sports Forma equipo con el Campeón del Mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7cea5936">
@@ -15888,7 +15888,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">E-Sports Forma equipo con el Campeón del Mundo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Persecución del dragón.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7d848d33">
@@ -15901,7 +15901,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Persecución del dragón</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rumor de romance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7e1cd036">
@@ -15914,7 +15914,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rumor de romance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Océano de Amor, sólo para ti.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7eb7e07d">
@@ -15927,7 +15927,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Océano de Amor, sólo para ti</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Al límite con mi chica.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7f4f2b5f">
@@ -15940,7 +15940,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Al límite con mi chica</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Toque de tentación.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca7ffbad7a">
@@ -15953,7 +15953,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Toque de tentación</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El retorno de la esposa muerta.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8081f808">
@@ -15966,7 +15966,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El retorno de la esposa muerta</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La madre soltera revela su imagen de heredera.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca824d87ef">
@@ -15979,7 +15979,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La madre soltera revela su imagen de heredera</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La heredera contraataca.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca837ebb4b">
@@ -15992,7 +15992,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La heredera contraataca</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Aflicción amorosa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca84b2eadf">
@@ -16005,7 +16005,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Aflicción amorosa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/¡Ella ya está casada, Señor!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca854a06f1">
@@ -16018,7 +16018,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">¡Ella ya está casada, Señor!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La aventura amorosa de una practicante mística.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca85e39224">
@@ -16031,7 +16031,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La aventura amorosa de una practicante mística</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/El trío de magnates compite por mi corazón.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca867ca56a">
@@ -16044,7 +16044,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">El trío de magnates compite por mi corazón</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Te amaré por siempre.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca87164c61">
@@ -16057,7 +16057,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Te amaré por siempre</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi rey alfa por accidente.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca87aed277">
@@ -16070,7 +16070,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mi rey alfa por accidente</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/En manos del rey licántropo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8849d6e2">
@@ -16083,7 +16083,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">En manos del rey licántropo</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi ex es un multimillonario en secreto.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca88e2d345">
@@ -16096,7 +16096,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mi ex es un multimillonario en secreto</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Casada con un extraño.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca897db681">
@@ -16109,7 +16109,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Casada con un extraño</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Déjame ir Sr. CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8a154b53">
@@ -16122,7 +16122,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Déjame ir Sr. CEO</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -16137,7 +16137,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Monsieur, votre garde du corps, c'est Madame</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La véritable héritière.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d25d1efe">
@@ -16150,7 +16150,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La véritable héritière</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’amour sans fin de l’oncle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d2f0ed74">
@@ -16163,7 +16163,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’amour sans fin de l’oncle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Après le divorce, l’amour arrive.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d3908a34">
@@ -16176,7 +16176,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Après le divorce, l’amour arrive</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Monsieur, Mademoiselle a un nouvel amant.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d4253410">
@@ -16189,7 +16189,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Monsieur, Mademoiselle a un nouvel amant</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mademoiselle ne revient plus.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d4c40d62">
@@ -16202,7 +16202,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mademoiselle ne revient plus</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La route montante d’une épouse.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d5567caf">
@@ -16215,7 +16215,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La route montante d’une épouse</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’amour délicat de la dame.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d5f28bbb">
@@ -16228,7 +16228,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’amour délicat de la dame</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Je suis le seul à pouvoir sauver mon neveu.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d68bdaec">
@@ -16241,7 +16241,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Je suis le seul à pouvoir sauver mon neveu</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le magnat obstiné tombe amoureux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d7c9712d">
@@ -16254,7 +16254,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le magnat obstiné tombe amoureux</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le retour de son amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d8595cd3">
@@ -16267,7 +16267,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le retour de son amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Là où l’amour s’est égaré.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d8f8cd75">
@@ -16280,7 +16280,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Là où l’amour s’est égaré</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cœurs destinés.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3da2b3b9e">
@@ -16293,7 +16293,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cœurs destinés</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Accro à elle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3dad232fe">
@@ -16306,7 +16306,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Accro à elle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Magasin de chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3db670456">
@@ -16319,7 +16319,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Magasin de chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Se défendre après avoir été abandonné.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3dc0b3bed">
@@ -16332,7 +16332,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Se défendre après avoir été abandonné</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Voler la beauté.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3dc940942">
@@ -16345,7 +16345,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Voler la beauté</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Son amant perdu.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3dd2ece67">
@@ -16358,7 +16358,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Son amant perdu</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tu es tout pour moi.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ddc677e0">
@@ -16371,7 +16371,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tu es tout pour moi</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le pouls de notre amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3de631964">
@@ -16384,7 +16384,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le pouls de notre amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Après sa disparition.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3defbb563">
@@ -16397,7 +16397,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Après sa disparition</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le magnat, c'est mon gigolo!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e02d9a8a">
@@ -16410,7 +16410,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le magnat, c'est mon gigolo!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rencontrer mon M. Right.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e0c7d3ec">
@@ -16423,7 +16423,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rencontrer mon M. Right</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Baiser de puissance, désir sans fin.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e16246a9">
@@ -16436,7 +16436,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Baiser de puissance, désir sans fin</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mes sœurs me supplient de revenir.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e1fb2d17">
@@ -16449,7 +16449,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mes sœurs me supplient de revenir</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le secret de son mari.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e2946af6">
@@ -16462,7 +16462,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le secret de son mari</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La romance du milliardaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e32d86c0">
@@ -16475,7 +16475,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La romance du milliardaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Une promesse éclatante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e3c7c197">
@@ -16488,7 +16488,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Une promesse éclatante</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mendier pour une autre chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e46021dc">
@@ -16501,7 +16501,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mendier pour une autre chance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Chemin vers la maison.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e4f8c69a">
@@ -16514,7 +16514,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Chemin vers la maison</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Garder un PDG milliardaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e596df7f">
@@ -16527,7 +16527,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Garder un PDG milliardaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’amour né d’un contrat.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e62e3751">
@@ -16540,7 +16540,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’amour né d’un contrat</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’attente silencieuse d’un prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e6c7338c">
@@ -16553,7 +16553,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’attente silencieuse d’un prince</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le jour du grand mariage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e76024ed">
@@ -16566,7 +16566,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le jour du grand mariage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Un voyage d'amour pour un père de jumeaux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e892ea95">
@@ -16579,7 +16579,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Un voyage d'amour pour un père de jumeaux</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’histoire d’amour d’Anna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e92c7f57">
@@ -16592,7 +16592,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’histoire d’amour d’Anna</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Écho magique.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e9c6ab66">
@@ -16605,7 +16605,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Écho magique</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La secrétaire qui obsédait le PDG.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ea84cdc2">
@@ -16618,7 +16618,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La secrétaire qui obsédait le PDG</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mes trois bébés géniaux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3eaf7daef">
@@ -16631,7 +16631,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mes trois bébés géniaux</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Chère Mlle Selwyn.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ec2c99a0">
@@ -16644,7 +16644,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Chère Mlle Selwyn</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sois gâté avec moi.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ecc6d235">
@@ -16657,7 +16657,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sois gâté avec moi</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/J'ai été calomniée.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ed60b143">
@@ -16670,7 +16670,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">J'ai été calomniée</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amour Avant L’Atterrissage.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3edf75374">
@@ -16683,7 +16683,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amour Avant L’Atterrissage</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Petite amie sous contrat.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ee91e6db">
@@ -16696,7 +16696,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Petite amie sous contrat</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Dis je t’aime à nouveau après le divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ef29fa88">
@@ -16709,7 +16709,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Dis je t’aime à nouveau après le divorce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Clair de lune sur les doigts.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3efc33252">
@@ -16722,7 +16722,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Clair de lune sur les doigts</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Rendez-vous avec un PDG.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f05e0442">
@@ -16735,7 +16735,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Rendez-vous avec un PDG</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’amour ardent.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f0f845c6">
@@ -16748,7 +16748,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’amour ardent</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/S’épanouir après la rupture.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f18f090a">
@@ -16761,7 +16761,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">S’épanouir après la rupture</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sa vie scolaire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f229174d">
@@ -16774,7 +16774,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sa vie scolaire</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Faisons semblant jusqu'à ce qu'on y arrive.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f2c24cea">
@@ -16787,7 +16787,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Faisons semblant jusqu'à ce qu'on y arrive</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Cinq bébés incroyables.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f35ad962">
@@ -16800,7 +16800,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Cinq bébés incroyables</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Enceinte par l'Oncle Milliardaire de mon Ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f3f589bd">
@@ -16813,7 +16813,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Enceinte par l'Oncle Milliardaire de mon Ex</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Torture à mon ex-marie.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f4906246">
@@ -16826,7 +16826,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Torture à mon ex-marie</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mon ex viré, 3 frères m'aiment.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f52895df">
@@ -16839,7 +16839,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mon ex viré, 3 frères m'aiment</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trois trésors et super maman.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f5c12c83">
@@ -16852,7 +16852,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trois trésors et super maman</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Deux âmes sœurs destinés.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f65aba1d">
@@ -16865,7 +16865,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Deux âmes sœurs destinés</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mlle charmante et féroce.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f6f630b7">
@@ -16878,7 +16878,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mlle charmante et féroce</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Épouse pécheresse de M. Fou..mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f78cf195">
@@ -16891,7 +16891,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Épouse pécheresse de M. Fou.</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Les secrets de l'amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f8280e98">
@@ -16904,7 +16904,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Les secrets de l'amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La vraie fausse mademoiselle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f8c3f029">
@@ -16917,7 +16917,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La vraie fausse mademoiselle</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Sa déclaration d’amour très médiatisée.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f9689337">
@@ -16930,7 +16930,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Sa déclaration d’amour très médiatisée</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mariage éclair, secret de Jacques.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3f9fedd23">
@@ -16943,7 +16943,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mariage éclair, secret de Jacques</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le décalage horaire de l'amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fa8c1bf7">
@@ -16956,7 +16956,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le décalage horaire de l'amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorcée, 3 frères m'aiment.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fb251e30">
@@ -16969,7 +16969,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Divorcée, 3 frères m'aiment</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Une dernière chance en amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fbc2af69">
@@ -16982,7 +16982,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Une dernière chance en amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mains en l’air, papa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fd8939cc">
@@ -16995,7 +16995,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mains en l’air, papa</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Une mère célibataire dévoile son identité d’héritière.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fe237827">
@@ -17008,7 +17008,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Une mère célibataire dévoile son identité d’héritière</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Hors pair.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ff65f106">
@@ -17021,7 +17021,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Hors pair</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Au-delà de la comparaison.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40010e3cd">
@@ -17034,7 +17034,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Au-delà de la comparaison</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le retour de la femme morte.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c400b47002">
@@ -17047,7 +17047,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le retour de la femme morte</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ma maman est très riche.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4014e4917">
@@ -17060,7 +17060,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ma maman est très riche</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Murmures de l’amour printanier.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4027db7bd">
@@ -17073,7 +17073,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Murmures de l’amour printanier</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Brise dans mon cœur.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4032abebc">
@@ -17086,7 +17086,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Brise dans mon cœur</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Tu es mon rayon de soleil.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c403b4bdf6">
@@ -17099,7 +17099,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Tu es mon rayon de soleil</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La fin du crépuscule.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40450114c">
@@ -17112,7 +17112,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La fin du crépuscule</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Ne pas surestimer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c404e8c396">
@@ -17125,7 +17125,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Ne pas surestimer</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Destiné à l’amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40583cfb2">
@@ -17138,7 +17138,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Destiné à l’amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Quand l’amour arrive.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c406c03b23">
@@ -17151,7 +17151,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Quand l’amour arrive</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Une femme en colère.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c407518f55">
@@ -17164,7 +17164,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Une femme en colère</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L'amour ne vous attend jamais.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c407518f55">
@@ -17177,7 +17177,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L'amour ne vous attend jamais</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/La rédemption d’une mère.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c407518f55">
@@ -17190,7 +17190,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">La rédemption d’une mère</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Gloire déchue, vengeance montante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c407518f55">
@@ -17203,7 +17203,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Gloire déchue, vengeance montante</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/D'une femme abandonnée à une héritière.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40aef2a83">
@@ -17216,7 +17216,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">D'une femme abandonnée à une héritière</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Amour excessif.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40b8a3240">
@@ -17229,7 +17229,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Amour excessif</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Trésor super mignon.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40c242f19">
@@ -17242,7 +17242,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Trésor super mignon</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le dernier recours de l’amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40cbdfdf9">
@@ -17255,7 +17255,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le dernier recours de l’amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Bébé adorable arrive, papa est PDG.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40d57755f">
@@ -17268,7 +17268,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Bébé adorable arrive, papa est PDG</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L’aventure amoureuse d’un stagiaire mystérieux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40d57755f">
@@ -17281,7 +17281,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L’aventure amoureuse d’un stagiaire mystérieux</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le mariage avant l''amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40d57755f">
@@ -17294,7 +17294,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le mariage avant l''amour</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Le monde me traite avec douceur.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40d57755f">
@@ -17307,7 +17307,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Le monde me traite avec douceur</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/L'art de la vengeance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40fc61d35">
@@ -17320,7 +17320,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">L'art de la vengeance</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -17335,7 +17335,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">시크 여신의 유감</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/갑부 딸의 분노.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8b4645d4">
@@ -17348,7 +17348,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">갑부 딸의 분노</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/다시 피어나다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8be0d7ca">
@@ -17361,7 +17361,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">다시 피어나다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/최고급의 수의사.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8c794561">
@@ -17374,7 +17374,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">최고급의 수의사</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/실패자에서 천재로.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8d13d52e">
@@ -17387,7 +17387,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">실패자에서 천재로</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/교활한 여자.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8dac69ba">
@@ -17400,7 +17400,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">교활한 여자</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/굴하지 않는 사위.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8e4ac8ce">
@@ -17413,7 +17413,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">굴하지 않는 사위</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/기장의 달콤한 아내.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8eecc8b8">
@@ -17426,7 +17426,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">기장의 달콤한 아내</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑을 잃어버린 곳.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8f78ea9b">
@@ -17439,7 +17439,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사랑을 잃어버린 곳</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그는 내 아들이다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca90113863">
@@ -17452,7 +17452,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그는 내 아들이다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/끝없는 아저씨의 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca90a9e6a9">
@@ -17465,7 +17465,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">끝없는 아저씨의 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/영광스럽게 돌아오다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca91425319">
@@ -17478,7 +17478,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">영광스럽게 돌아오다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 후, 사랑이 왔다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca91dbdcc5">
@@ -17491,7 +17491,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">이혼 후, 사랑이 왔다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사장님, 당신의 경호원이 바로 부인다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9274f442">
@@ -17504,7 +17504,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사장님, 당신의 경호원이 바로 부인다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/심아가씨의 몸부림.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca930d6e57">
@@ -17517,7 +17517,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">심아가씨의 몸부림</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/아내의 궐기의 길.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca93a7e181">
@@ -17530,7 +17530,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">아내의 궐기의 길</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/네 아들을 구할 수 있는 건 나뿐이야!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca943f3d80">
@@ -17543,7 +17543,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">네 아들을 구할 수 있는 건 나뿐이야!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그의 애인이 돌아왔다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca957367bd">
@@ -17556,7 +17556,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그의 애인이 돌아왔다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/엄마야.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca960d03df">
@@ -17569,7 +17569,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">엄마야</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/권투 챔피언.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca96a54406">
@@ -17582,7 +17582,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">권투 챔피언</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/궁전 계략.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca97d6bac3">
@@ -17595,7 +17595,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">궁전 계략</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사장님, 부인에게 새로운 사랑이 생겼다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9871d6db">
@@ -17608,7 +17608,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사장님, 부인에게 새로운 사랑이 생겼다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/여자도 세상를 바꾼다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca990a3673">
@@ -17621,7 +17621,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">여자도 세상를 바꾼다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/금욕 도련님이 빤진다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca99a1aeb2">
@@ -17634,7 +17634,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">금욕 도련님이 빤진다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그는 돌아왔다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9ad54269">
@@ -17647,7 +17647,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그는 돌아왔다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/재임용.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9b704ea3">
@@ -17660,7 +17660,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">재임용</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/줄곧 그녀를 쫓아가다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9c07d33f">
@@ -17673,7 +17673,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">줄곧 그녀를 쫓아가다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사장 아빠, 딸 잘못 봤어.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9ca04282">
@@ -17686,7 +17686,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사장 아빠, 딸 잘못 봤어</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나의 사랑, 나의 미래.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9d38de32">
@@ -17699,7 +17699,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나의 사랑, 나의 미래</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/운명의 마음.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9deda6d2">
@@ -17712,7 +17712,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">운명의 마음</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/딸이 죽은 후에 엄마는 후회했다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9e709c30">
@@ -17725,7 +17725,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">딸이 죽은 후에 엄마는 후회했다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/첫사랑을 찾다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9f09ecb1">
@@ -17738,7 +17738,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">첫사랑을 찾다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/검사.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9fa1c530">
@@ -17751,7 +17751,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">검사</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/버림받은 후의 반격.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa03b3c35">
@@ -17764,7 +17764,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">버림받은 후의 반격</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/궁전에서의 농업.mp4" data-commission="https://short.kalostv.com/api/short/jump/673d97412a2a4">
@@ -17777,7 +17777,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">궁전에서의 농업</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/아름다움을 훔치다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa2a127a6">
@@ -17790,7 +17790,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">아름다움을 훔치다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/우리 사랑의 맥박.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa336a464">
@@ -17803,7 +17803,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">우리 사랑의 맥박</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그녀에게 중독되다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa3d0f58c">
@@ -17816,7 +17816,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그녀에게 중독되다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/신랑은 후계자다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa469aed7">
@@ -17829,7 +17829,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">신랑은 후계자다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 후의 절망.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa503a98b">
@@ -17842,7 +17842,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">이혼 후의 절망</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나이를 초월한 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa59c9c54">
@@ -17855,7 +17855,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나이를 초월한 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/상승의 길.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa6362c4a">
@@ -17868,7 +17868,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">상승의 길</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑이 기억한다면.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa6d09677">
@@ -17881,7 +17881,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사랑이 기억한다면</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/내 번개 결혼의 비밀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa7699dc6">
@@ -17894,7 +17894,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">내 번개 결혼의 비밀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/잃어버린 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa80279c3">
@@ -17907,7 +17907,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">잃어버린 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/누나들 돌아오래.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa89bc8ec">
@@ -17920,7 +17920,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">누나들 돌아오래</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/난 신이 아냐.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa9348d31">
@@ -17933,7 +17933,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">난 신이 아냐</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/항복하라, 억만장자 아빠.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa9ce4659">
@@ -17946,7 +17946,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">항복하라, 억만장자 아빠</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/억만장자의 낭만.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caaa67566c">
@@ -17959,7 +17959,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">억만장자의 낭만</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/집안에서.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caab023032">
@@ -17972,7 +17972,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">집안에서</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/행운의 상점.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caab99cad3">
@@ -17985,7 +17985,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">행운의 상점</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/도련님은 내 강아지다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caac3316c2">
@@ -17998,7 +17998,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">도련님은 내 강아지다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/오늘 밤에 파묻히다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caacd93ea1">
@@ -18011,7 +18011,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">오늘 밤에 파묻히다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/집으로 가는 길.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caad6410d5">
@@ -18024,7 +18024,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">집으로 가는 길</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/다른 기회를 빌다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caadfd9ad7">
@@ -18037,7 +18037,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">다른 기회를 빌다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/애정 거래.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caae970dcc">
@@ -18050,7 +18050,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">애정 거래</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/억만 장자인 ceo를 붙잡아.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caaf32940c">
@@ -18063,7 +18063,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">억만 장자인 ceo를 붙잡아</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그는 이혼을 원하지 않는다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caafc98e3b">
@@ -18076,7 +18076,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그는 이혼을 원하지 않는다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑의 스피드 퀴즈.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab0628b20">
@@ -18089,7 +18089,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사랑의 스피드 퀴즈</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/아빠, 다시 날 사랑해.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab0fc17be">
@@ -18102,7 +18102,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">아빠, 다시 날 사랑해</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/남편의 비밀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab1948d54">
@@ -18115,7 +18115,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">남편의 비밀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/영광의 뒷면.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab22dab6f">
@@ -18128,7 +18128,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">영광의 뒷면</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/도련님의 침묵의 기다림.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab2c67a5f">
@@ -18141,7 +18141,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">도련님의 침묵의 기다림</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/프라이드 게임.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab3609706">
@@ -18154,7 +18154,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">프라이드 게임</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/슈퍼히어로.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab3f9397f">
@@ -18167,7 +18167,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">슈퍼히어로</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/숙명적인 만남.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab493515f">
@@ -18180,7 +18180,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">숙명적인 만남</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/당신은 나의 모든 것다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab52c5628">
@@ -18193,7 +18193,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">당신은 나의 모든 것다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/결혼식날.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab5c55b05">
@@ -18206,7 +18206,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">결혼식날</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/침묵 속의 비밀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab66140f5">
@@ -18219,7 +18219,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">침묵 속의 비밀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그녀가 돌아왔다!.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab6f8f0fa">
@@ -18232,7 +18232,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그녀가 돌아왔다!</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑할 운명.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab79197b8">
@@ -18245,7 +18245,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사랑할 운명</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/부자 남편의 사랑을 받았네.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab82a6265">
@@ -18258,7 +18258,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">부자 남편의 사랑을 받았네</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑은 이미 사라졌어.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab8c2b59d">
@@ -18271,7 +18271,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사랑은 이미 사라졌어</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/황혼에 다시 태어나다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab95cf978">
@@ -18284,7 +18284,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">황혼에 다시 태어나다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/황혼의 종말.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab9f70838">
@@ -18297,7 +18297,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">황혼의 종말</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/양복과 비단 사이.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caba8e5ec6">
@@ -18310,7 +18310,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">양복과 비단 사이</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/예진의 사랑 이야기.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabb291f75">
@@ -18323,7 +18323,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">예진의 사랑 이야기</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나와 절친의 오빠와 결혼했다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabbd837bf">
@@ -18336,7 +18336,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나와 절친의 오빠와 결혼했다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/달콤한 재벌.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabc5b1209">
@@ -18349,7 +18349,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">달콤한 재벌</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/도련님 자제하세요.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabcf577a1">
@@ -18362,7 +18362,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">도련님 자제하세요</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/여왕의 탄생.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabd8d4cae">
@@ -18375,7 +18375,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">여왕의 탄생</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/뜨거운 사랑의 유대.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabe284551">
@@ -18388,7 +18388,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">뜨거운 사랑의 유대</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/블링 블링.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabec1f7de">
@@ -18401,7 +18401,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">블링 블링</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/꽃피운 짝사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabf5982b1">
@@ -18414,7 +18414,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">꽃피운 짝사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/사장님을 꼼짝 못하게 한 아가씨.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cabff42e3c">
@@ -18427,7 +18427,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">사장님을 꼼짝 못하게 한 아가씨</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/세상에 하나뿐인 나.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac08b8dbc">
@@ -18440,7 +18440,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">세상에 하나뿐인 나</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/4년 후, 아내와의 재회.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac1260771">
@@ -18453,7 +18453,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">4년 후, 아내와의 재회</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/타임슬립 한 황후.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac1c04bf8">
@@ -18466,7 +18466,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">타임슬립 한 황후</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/별보다 더 밝아.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac2583c0e">
@@ -18479,7 +18479,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">별보다 더 밝아</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/금욕 남신과의 벼락 결혼.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac2f26562">
@@ -18492,7 +18492,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">금욕 남신과의 벼락 결혼</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/타임슬립 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac3748ec1">
@@ -18505,7 +18505,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">타임슬립 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/아이를 원하는 이 대표.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac4252fb9">
@@ -18518,7 +18518,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">아이를 원하는 이 대표</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/수산.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac4bd168c">
@@ -18531,7 +18531,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">수산</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/재회.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac5579a5f">
@@ -18544,7 +18544,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">재회</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/엄마의 복수.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac5f00ea0">
@@ -18557,7 +18557,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">엄마의 복수</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/엑스의 보스와 결혼했다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac688f409">
@@ -18570,7 +18570,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">엑스의 보스와 결혼했다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나의 세 천재 보배들.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac723074a">
@@ -18583,7 +18583,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나의 세 천재 보배들</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/내 금욕의 전남편.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac7bb4143">
@@ -18596,7 +18596,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">내 금욕의 전남편</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/야! 만렙을 왜 건드려(환생한 여친은 만렙 킬러).mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac854b478">
@@ -18609,7 +18609,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">야! 만렙을 왜 건드려(환생한 여친은 만렙 킬러)</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/다정한 너에 빠진다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac8ecda67">
@@ -18622,7 +18622,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">다정한 너에 빠진다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/전 부인이 절 진정시켰어.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cac987149e">
@@ -18635,7 +18635,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">전 부인이 절 진정시켰어</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/대결전.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caca2008ee">
@@ -18648,7 +18648,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">대결전</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/어쩌다 계약 결혼.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacac9ee8c">
@@ -18661,7 +18661,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">어쩌다 계약 결혼</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/하룻밤 의 잔물결.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacac9ee8c">
@@ -18674,7 +18674,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">하룻밤 의 잔물결</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/안녕하십니까, 부인.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacbecd6d0">
@@ -18687,7 +18687,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">안녕하십니까, 부인</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 30일.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caccac481a">
@@ -18700,7 +18700,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">이혼 30일</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그의 달콤한 함정.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caccac481a">
@@ -18713,7 +18713,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그의 달콤한 함정</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/훗날의 우리.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacde0da31">
@@ -18726,7 +18726,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">훗날의 우리</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나리, 그녀와 결혼해 주십시오.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cace78e8d0">
@@ -18739,7 +18739,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나리, 그녀와 결혼해 주십시오</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/혈중 장미.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacf2ecf4a">
@@ -18752,7 +18752,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">혈중 장미</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/나의 바보 남편.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cacfcb8ee1">
@@ -18765,7 +18765,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">나의 바보 남편</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/여섯살 행운의 아기.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad063e3e9">
@@ -18778,7 +18778,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">여섯살 행운의 아기</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/뚱뚱한 여자의 개조.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad0fc75f8">
@@ -18791,7 +18791,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">뚱뚱한 여자의 개조</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/그만의 달.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad1a123e6">
@@ -18804,7 +18804,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">그만의 달</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/아빠, 제발요.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad23b78ac">
@@ -18817,7 +18817,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">아빠, 제발요</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/80년대에 더 부자가 돼자.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad2d41ba5">
@@ -18830,7 +18830,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">80년대에 더 부자가 돼자</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/은하수 속의 시간.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad38712fe">
@@ -18843,7 +18843,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">은하수 속의 시간</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/깜짝 결혼후 가난한 사장님.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad41c3419">
@@ -18856,7 +18856,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">깜짝 결혼후 가난한 사장님</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/미친 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad4d01ccc">
@@ -18869,7 +18869,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">미친 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/비길 데 없음.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad54efbff">
@@ -18882,7 +18882,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">비길 데 없음</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/러브 스토리.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad5fbd2ac">
@@ -18895,7 +18895,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">러브 스토리</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/육 사장의 집착한 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad6a6de9e">
@@ -18908,7 +18908,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">육 사장의 집착한 사랑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/애기씨의 속말.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad740dec5">
@@ -18921,7 +18921,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">애기씨의 속말</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/깜짝 결혼 후 욕망적이고 거친 재벌남편.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad740dec5">
@@ -18934,7 +18934,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">깜짝 결혼 후 욕망적이고 거친 재벌남편</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/전남편이 이상해요.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad8777427">
@@ -18947,7 +18947,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">전남편이 이상해요</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/전처는 예쁘고 멋있어.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad8777427">
@@ -18960,7 +18960,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">전처는 예쁘고 멋있어</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/환생 후 오빠 4명 모두 날 너무 예뻐한다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cad8777427">
@@ -18973,7 +18973,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">환생 후 오빠 4명 모두 날 너무 예뻐한다</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/찌질남을 차버린 후, 세 오빠의 무한 총애.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cada53e492">
@@ -18986,7 +18986,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">찌질남을 차버린 후, 세 오빠의 무한 총애</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/매력적인 너에게.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cadaec0134">
@@ -18999,7 +18999,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">매력적인 너에게</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/장미관면.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cadb8e5556">
@@ -19012,7 +19012,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">장미관면</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/벼락 결혼 한 아저씨는 너무 다정해.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cadc240e59">
@@ -19025,7 +19025,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">벼락 결혼 한 아저씨는 너무 다정해</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -19040,7 +19040,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">扶搖を摶ちて上る妾</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/帰国した後、褚総裁の恋人の復讐.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33d0275a1">
@@ -19053,7 +19053,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">帰国した後、褚総裁の恋人の復讐</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/家族と縁を切った後、おじさんは私を非常に可愛がる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33d2d16d5">
@@ -19066,7 +19066,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">家族と縁を切った後、おじさんは私を非常に可愛がる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/協議離婚後、夫人は他人と再婚した.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33d7402a6">
@@ -19079,7 +19079,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">協議離婚後、夫人は他人と再婚した</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/妊娠後！泣腫らす！沈さんは振り返らない.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33da020a2">
@@ -19092,7 +19092,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">妊娠後！泣腫らす！沈さんは振り返らない</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/甥の白血球を救えるのは私だけ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33de5426f">
@@ -19105,7 +19105,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">甥の白血球を救えるのは私だけ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/朕の母后を傷つけた者は容赦なく殺す.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33e112fcb">
@@ -19118,7 +19118,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">朕の母后を傷つけた者は容赦なく殺す</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/目覚め.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33e572053">
@@ -19131,7 +19131,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">目覚め</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霍さん、虐げないで、池さんには新たな恋人がいる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33e83d557">
@@ -19144,7 +19144,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霍さん、虐げないで、池さんには新たな恋人がいる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/今夜清影は何れの処にか尋ねむ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33ecab805">
@@ -19157,7 +19157,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">今夜清影は何れの処にか尋ねむ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/禁欲的な大物はハマった.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33ef5e6b1">
@@ -19170,7 +19170,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">禁欲的な大物はハマった</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/無敵の庶子.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33f4b1cb4">
@@ -19183,7 +19183,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">無敵の庶子</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/幼なじみの恋は神のご意志.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33f6928ef">
@@ -19196,7 +19196,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">幼なじみの恋は神のご意志</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/家から追い出された後、3人の兄は後悔した.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33fb02020">
@@ -19209,7 +19209,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">家から追い出された後、3人の兄は後悔した</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後、夫も義母もとても後悔する.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33fdb9062">
@@ -19222,7 +19222,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後、夫も義母もとても後悔する</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/サレ妻が三人の婚約者に溺愛された.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34026917d">
@@ -19235,7 +19235,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">サレ妻が三人の婚約者に溺愛された</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/私は寂しい宮殿で農作業を忙しくしている.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3405c4674">
@@ -19248,7 +19248,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">私は寂しい宮殿で農作業を忙しくしている</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/浮気に誘う.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34091364b">
@@ -19261,7 +19261,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">浮気に誘う</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/生き戻った後クズ男のおじさんに可愛がられる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c340c1933a">
@@ -19274,7 +19274,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">生き戻った後クズ男のおじさんに可愛がられる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/燃えるような夜.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34105aa67">
@@ -19287,7 +19287,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">燃えるような夜</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/幸運商店.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34139a613">
@@ -19300,7 +19300,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">幸運商店</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/触れ難い愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c341756a6b">
@@ -19313,7 +19313,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">触れ難い愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/消えた彼氏.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c341a4d6c4">
@@ -19326,7 +19326,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">消えた彼氏</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/升堂入室.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3420acff0">
@@ -19339,7 +19339,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">升堂入室</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/家族と関係を断った後、姉は私に家に帰るよう懇願する.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34217039d">
@@ -19352,7 +19352,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">家族と関係を断った後、姉は私に家に帰るよう懇願する</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/今夜耽溺.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3425a4b70">
@@ -19365,7 +19365,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">今夜耽溺</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/無双.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c342890861">
@@ -19378,7 +19378,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">無双</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三拝九拝復活を祈る.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c342cce56a">
@@ -19391,7 +19391,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三拝九拝復活を祈る</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/名門の総裁は私のカナリアになった.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c342fdc859">
@@ -19404,7 +19404,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">名門の総裁は私のカナリアになった</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/家に帰る長い道.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3433ef6a3">
@@ -19417,7 +19417,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">家に帰る長い道</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/破天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3436dd61c">
@@ -19430,7 +19430,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">破天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/すべての心遣いは無駄になる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c343b0944d">
@@ -19443,7 +19443,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">すべての心遣いは無駄になる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/家族に捨てられたら社長旦那に溺愛される.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c343e1147d">
@@ -19456,7 +19456,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">家族に捨てられたら社長旦那に溺愛される</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/死んだ後分かる、私はなんと京市若様の高嶺の花.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34424d84b">
@@ -19469,7 +19469,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">死んだ後分かる、私はなんと京市若様の高嶺の花</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/結婚式当日.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c344540b47">
@@ -19482,7 +19482,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">結婚式当日</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三つ子連れ：かっこいいママ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3449a682f">
@@ -19495,7 +19495,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三つ子連れ：かっこいいママ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/恋愛至上主義の霍総裁.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c344c58dfe">
@@ -19508,7 +19508,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">恋愛至上主義の霍総裁</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/良辰総て相宜し.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34509c908">
@@ -19521,7 +19521,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">良辰総て相宜し</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/不霊不霊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34538b30a">
@@ -19534,7 +19534,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">不霊不霊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/顔を潰すのが上手い沈お嬢様.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3457c429e">
@@ -19547,7 +19547,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">顔を潰すのが上手い沈お嬢様</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三つ子はみんな大物.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c345aa1104">
@@ -19560,7 +19560,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三つ子はみんな大物</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/傅さんは妻を非常に可愛がってる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c345f0af6f">
@@ -19573,7 +19573,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">傅さんは妻を非常に可愛がってる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後私は子供を連れて元夫の家族に復讐する.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3461c7200">
@@ -19586,7 +19586,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後私は子供を連れて元夫の家族に復讐する</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/パパ、手を上げろ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3465f060a">
@@ -19599,7 +19599,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">パパ、手を上げろ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/俺の右目は神級コンピュータだ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3468d0e82">
@@ -19612,7 +19612,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">俺の右目は神級コンピュータだ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/転生薬師の復讐の誓い.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c346d23367">
@@ -19625,7 +19625,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">転生薬師の復讐の誓い</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/見逃した愛情は待たない.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c346fe2920">
@@ -19638,7 +19638,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">見逃した愛情は待たない</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/無敵の修行者.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34744acc6">
@@ -19651,7 +19651,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">無敵の修行者</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/美人社長にまとわりつく.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34771f4b2">
@@ -19664,7 +19664,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">美人社長にまとわりつく</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/バカ婿の逆襲.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c347b53e11">
@@ -19677,7 +19677,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">バカ婿の逆襲</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/本当の愛は運命の試練に乗り越えて.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c347e35a3a">
@@ -19690,7 +19690,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">本当の愛は運命の試練に乗り越えて</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/優しさに狂う.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34827db53">
@@ -19703,7 +19703,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">優しさに狂う</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三人の大物のお兄さんはシスコン.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c348554742">
@@ -19716,7 +19716,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三人の大物のお兄さんはシスコン</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/俺は龍帥じゃない.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c348983b6e">
@@ -19729,7 +19729,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">俺は龍帥じゃない</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ビューティー・モーメント.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c348c64fd0">
@@ -19742,7 +19742,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ビューティー・モーメント</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/至尊物乞い婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34909425a">
@@ -19755,7 +19755,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">至尊物乞い婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/僕は普通じゃない.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34909425a">
@@ -19768,7 +19768,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">僕は普通じゃない</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/片思いの俺彼女の心を独り占め（甘えて頂戴）.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3497a1626">
@@ -19781,7 +19781,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">片思いの俺彼女の心を独り占め（甘えて頂戴）</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/教えてあげよう、私の四人のお兄さんは大物.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c349a71696">
@@ -19794,7 +19794,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">教えてあげよう、私の四人のお兄さんは大物</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/皇后だった私が離婚されそう.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c349eb522d">
@@ -19807,7 +19807,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">皇后だった私が離婚されそう</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/クールなイケメンとまさかの電撃結婚.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34a197f92">
@@ -19820,7 +19820,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">クールなイケメンとまさかの電撃結婚</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/燃えるような愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34a60d8d6">
@@ -19833,7 +19833,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">燃えるような愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/逃れの妻は颯爽で美しい.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34a8af12c">
@@ -19846,7 +19846,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">逃れの妻は颯爽で美しい</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/電撃婚後　キチガイな旦那に妊娠を迫る毎日.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34acecce8">
@@ -19859,7 +19859,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">電撃婚後　キチガイな旦那に妊娠を迫る毎日</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/令嬢ママは世界一カッコいい！.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34acecce8">
@@ -19872,7 +19872,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">令嬢ママは世界一カッコいい！</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/蜀山.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34b4031b9">
@@ -19885,7 +19885,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">蜀山</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/財閥くんと支配されないチビちゃん.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34b6d7487">
@@ -19898,7 +19898,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">財閥くんと支配されないチビちゃん</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/捨てられた妻は大富豪の娘.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34bb1c0a0">
@@ -19911,7 +19911,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">捨てられた妻は大富豪の娘</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/五人のスーパー子供.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34bc796d4">
@@ -19924,7 +19924,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">五人のスーパー子供</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/運命の再会.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34bc796d4">
@@ -19937,7 +19937,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">運命の再会</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/あの子を怒らせてどうすんの（キラー紗瞳が転生したことについて）.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34bc796d4">
@@ -19950,7 +19950,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">あの子を怒らせてどうすんの（キラー紗瞳が転生したことについて）</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/お見合い相手は大ボス.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34bc796d4">
@@ -19963,7 +19963,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">お見合い相手は大ボス</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/親愛なる宋お嬢様.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34cc21294">
@@ -19976,7 +19976,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">親愛なる宋お嬢様</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/颯爽で美しいお嬢様.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34d077369">
@@ -19989,7 +19989,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">颯爽で美しいお嬢様</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/帰ってきたお嬢様：本物のお嬢様は颯爽で美しい.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34d3acaa4">
@@ -20002,7 +20002,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">帰ってきたお嬢様：本物のお嬢様は颯爽で美しい</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/子連れ離婚、大富豪の娘の身分がバレる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34d78bc94">
@@ -20015,7 +20015,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">子連れ離婚、大富豪の娘の身分がバレる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/未来の私たち.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34da61895">
@@ -20028,7 +20028,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">未来の私たち</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/幸運をもたらすスーパー子供.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34debb012">
@@ -20041,7 +20041,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">幸運をもたらすスーパー子供</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛に付ける薬なし.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34e168756">
@@ -20054,7 +20054,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛に付ける薬なし</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/同学、人を間違ったよ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34e5ccc32">
@@ -20067,7 +20067,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">同学、人を間違ったよ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後もう一度告白.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34e88663c">
@@ -20080,7 +20080,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後もう一度告白</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/指先の月.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34ece0288">
@@ -20093,7 +20093,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">指先の月</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/かわいい子登場、お父さんは大人物.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34efae21a">
@@ -20106,7 +20106,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">かわいい子登場、お父さんは大人物</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/実習生の奥様は大人物.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34f404438">
@@ -20119,7 +20119,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">実習生の奥様は大人物</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/私は女王.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34f6c82d8">
@@ -20132,7 +20132,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">私は女王</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/トップ俳優がいきなりプロポーズ！.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34fb314ee">
@@ -20145,7 +20145,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">トップ俳優がいきなりプロポーズ！</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/奥さんと離婚した後、社長が気が狂った.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34fe02a82">
@@ -20158,7 +20158,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">奥さんと離婚した後、社長が気が狂った</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛らしさはあなただけのもの.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c35025ca0b">
@@ -20171,7 +20171,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛らしさはあなただけのもの</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/独占欲.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c35062364d">
@@ -20184,7 +20184,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">独占欲</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚した元妻が美しくてカッコいい.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3509606dc">
@@ -20197,7 +20197,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚した元妻が美しくてカッコいい</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夢の匂い.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c350c2f27a">
@@ -20210,7 +20210,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夢の匂い</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/3人の兄に溺愛されて.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c351088cec">
@@ -20223,7 +20223,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">3人の兄に溺愛されて</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/転生したら四人の兄に寵愛される件.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c36b4c50">
@@ -20236,7 +20236,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">転生したら四人の兄に寵愛される件</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/新婚の夜、アホ旦那にぎゅっとされて.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c3f96d91">
@@ -20249,7 +20249,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">新婚の夜、アホ旦那にぎゅっとされて</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/秘めた愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c48ee94f">
@@ -20262,7 +20262,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">秘めた愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/電撃婚したら 財閥旦那がヤバすぎる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c528c101">
@@ -20275,7 +20275,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">電撃婚したら 財閥旦那がヤバすぎる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/父親失格がママを奪いたい.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c5c24cb8">
@@ -20288,7 +20288,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">父親失格がママを奪いたい</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/逃げて！ヤンデレ主人公が嫉妬した.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c65adb1b">
@@ -20301,7 +20301,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">逃げて！ヤンデレ主人公が嫉妬した</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/薔薇冠冕.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c6f4da3f">
@@ -20314,7 +20314,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">薔薇冠冕</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/かごめ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c7960f31">
@@ -20327,7 +20327,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">かごめ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ボス あの双子は君によく似ている.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c8279549">
@@ -20340,7 +20340,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ボス あの双子は君によく似ている</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/お嬢様が愛に狂う.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c8c1bbd3">
@@ -20353,7 +20353,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">お嬢様が愛に狂う</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛は夜明け前に降りてくる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c95aadb6">
@@ -20366,7 +20366,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛は夜明け前に降りてくる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛の時差.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3c9f40832">
@@ -20379,7 +20379,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛の時差</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後の元夫がよく絡んでくる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ca8d181b">
@@ -20392,7 +20392,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後の元夫がよく絡んでくる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/私の華麗なる変身.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cb279ca3">
@@ -20405,7 +20405,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">私の華麗なる変身</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/落ちぶれた夫が社長だった！？.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cbc33da5">
@@ -20418,7 +20418,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">落ちぶれた夫が社長だった！？</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/電撃婚してしまった～社長様との胸キュン恋.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cc8703de">
@@ -20431,7 +20431,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">電撃婚してしまった～社長様との胸キュン恋</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/5人の叔父と私.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ccf23a76">
@@ -20444,7 +20444,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">5人の叔父と私</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/結婚後の恋愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cd91fbed">
@@ -20457,7 +20457,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">結婚後の恋愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛の最後の迷走.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3ce24a243">
@@ -20470,7 +20470,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛の最後の迷走</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/秘密があるけど大丈夫.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cec471f2">
@@ -20483,7 +20483,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">秘密があるけど大丈夫</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/復讐の芸術.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cf57a0f0">
@@ -20496,7 +20496,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">復讐の芸術</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/電撃結婚したらうちの旦那が正体バレ！？.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3cff7c80d">
@@ -20509,7 +20509,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">電撃結婚したらうちの旦那が正体バレ！？</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/世界は優しくしてくれる.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d091a348">
@@ -20522,7 +20522,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">世界は優しくしてくれる</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚したら、三人の兄たちが溺愛し過ぎ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d124f583">
@@ -20535,7 +20535,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚したら、三人の兄たちが溺愛し過ぎ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -20550,7 +20550,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Letzter Aufruf für Liebe</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Die Sanft Welt.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33b63c110">
@@ -20563,7 +20563,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Die Sanft Welt</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Geheimnis & Liebe.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33bac2d1d">
@@ -20576,7 +20576,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Geheimnis & Liebe</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Mein superreicher Ehemann.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33bd67f3a">
@@ -20589,7 +20589,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Mein superreicher Ehemann</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Liebe mit zeitlichem Abstand.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33c180c2e">
@@ -20602,7 +20602,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Liebe mit zeitlichem Abstand</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Geschieden, aber Verwöhnt.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33c475eb9">
@@ -20615,7 +20615,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Geschieden, aber Verwöhnt</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/Die Kunst der Rache.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33c8a0636">
@@ -20628,7 +20628,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">Die Kunst der Rache</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -20643,7 +20643,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เพียงเธอวันนี้</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สะท้านฟ้า รักนี้เป็นของเธอ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40fc61d35">
@@ -20656,7 +20656,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สะท้านฟ้า รักนี้เป็นของเธอ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หย่าเสร็จแต่งต่อไม่รอช้า.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40fc61d35">
@@ -20669,7 +20669,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หย่าเสร็จแต่งต่อไม่รอช้า</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ข้าคืออนุภรรยาซู.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40fc61d35">
@@ -20682,7 +20682,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ข้าคืออนุภรรยาซู</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ฉันไม่มีวันรีเทิร์น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c412c30b88">
@@ -20695,7 +20695,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ฉันไม่มีวันรีเทิร์น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เงาจันทร์พานพบรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4135da340">
@@ -20708,7 +20708,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เงาจันทร์พานพบรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ฟื้นคืน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4135da340">
@@ -20721,7 +20721,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ฟื้นคืน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณชายคงกระพัน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4135da340">
@@ -20734,7 +20734,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณชายคงกระพัน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณฮั่วขาอย่าทำร้ายอีกเลย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4152b1c8d">
@@ -20747,7 +20747,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณฮั่วขาอย่าทำร้ายอีกเลย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักซัดใจเจ้าพ่อสุดเย็นชา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c415c56159">
@@ -20760,7 +20760,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักซัดใจเจ้าพ่อสุดเย็นชา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ราตรีลุกโชน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4165d261c">
@@ -20773,7 +20773,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ราตรีลุกโชน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ลุกขึ้นทวงคืนความยิ่งใหญ่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c416f94837">
@@ -20786,7 +20786,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ลุกขึ้นทวงคืนความยิ่งใหญ่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พรหมลิขิตส่งเขามารักฉัน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c416f94837">
@@ -20799,7 +20799,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พรหมลิขิตส่งเขามารักฉัน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หย่าครั้งนี้สะใภ้ขอเอาคืน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c416f94837">
@@ -20812,7 +20812,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หย่าครั้งนี้สะใภ้ขอเอาคืน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ข้าปลูกข้าวที่ตําหนักเย็น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c418c83210">
@@ -20825,7 +20825,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ข้าปลูกข้าวที่ตําหนักเย็น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ยั่วยวนให้ลักหลับ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c419654d68">
@@ -20838,7 +20838,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ยั่วยวนให้ลักหลับ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักคุณอา...ที่ทำให้ใจหวั่น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41a095146">
@@ -20851,7 +20851,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักคุณอา...ที่ทำให้ใจหวั่น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/จังหวะรักห้ามสัมผัส.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41a9449c6">
@@ -20864,7 +20864,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">จังหวะรักห้ามสัมผัส</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รีเทิร์นรักกันนะ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41b2d9d76">
@@ -20877,7 +20877,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รีเทิร์นรักกันนะ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คืนนี้ของเรา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41bca3ca1">
@@ -20890,7 +20890,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คืนนี้ของเรา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/อภิมหาเศรษฐีพบรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41c624617">
@@ -20903,7 +20903,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">อภิมหาเศรษฐีพบรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักป่วนๆ กับเจ้าชายจอมซน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41cfb5744">
@@ -20916,7 +20916,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักป่วนๆ กับเจ้าชายจอมซน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ความรักภายใต้เงื่อนไข.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41d95efe3">
@@ -20929,7 +20929,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ความรักภายใต้เงื่อนไข</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักร้าย กับดักหัวใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41e30b4e2">
@@ -20942,7 +20942,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักร้าย กับดักหัวใจ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คำวอนจากพี่สาวทั้งสี่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41ecc6013">
@@ -20955,7 +20955,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คำวอนจากพี่สาวทั้งสี่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เล่ห์รักไม่รู้จบ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c41f73e97b">
@@ -20968,7 +20968,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เล่ห์รักไม่รู้จบ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พ่อคะ ขอรักอีกครั้ง.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42010f4d5">
@@ -20981,7 +20981,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พ่อคะ ขอรักอีกครั้ง</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ปริศนารักจากฟากฟ้า.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c420aa498e">
@@ -20994,7 +20994,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ปริศนารักจากฟากฟ้า</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/บัลลังก์ทรัพย์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42144551f">
@@ -21007,7 +21007,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">บัลลังก์ทรัพย์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แผนจีบภรรยา ฉบับน่ารัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c421dda59a">
@@ -21020,7 +21020,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แผนจีบภรรยา ฉบับน่ารัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ฟ้าลิขิตรัก ให้เธอหวนคืน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4228bcf90">
@@ -21033,7 +21033,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ฟ้าลิขิตรัก ให้เธอหวนคืน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/กลับบ้านพร้อมรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c423345ca0">
@@ -21046,7 +21046,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">กลับบ้านพร้อมรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักนี้ เขาอยู่ในกำมือ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c423ce8c5a">
@@ -21059,7 +21059,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักนี้ เขาอยู่ในกำมือ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักนี้ปุบปับ แต่สามีขอเปย์ไม่อั้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c424675207">
@@ -21072,7 +21072,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักนี้ปุบปับ แต่สามีขอเปย์ไม่อั้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ฮีโร่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c425022003">
@@ -21085,7 +21085,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ฮีโร่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ปาฏิหาริย์ แห่ง ความรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4259b5325">
@@ -21098,7 +21098,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ปาฏิหาริย์ แห่ง ความรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พระเจ้าช่วย! ได้สามีที่ถูกใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42636e6bd">
@@ -21111,7 +21111,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พระเจ้าช่วย! ได้สามีที่ถูกใจ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ชีวิตนี้เพื่อเธอ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c426d11e8b">
@@ -21124,7 +21124,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ชีวิตนี้เพื่อเธอ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ชีวิตใหม่ ในฐานะลูน่า.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4276a5d3c">
@@ -21137,7 +21137,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ชีวิตใหม่ ในฐานะลูน่า</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/วันแต่งงาน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4280640f6">
@@ -21150,7 +21150,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">วันแต่งงาน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ความลับ ใน ความมืด.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c428a11136">
@@ -21163,7 +21163,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ความลับ ใน ความมืด</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หัวใจที่ไร้คนเห็นค่า.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42952926c">
@@ -21176,7 +21176,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หัวใจที่ไร้คนเห็นค่า</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หัวใจฝ่าพายุ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c429d43186">
@@ -21189,7 +21189,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หัวใจฝ่าพายุ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/วิวาห์ลับกับบอสจำเป็น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42a7aa786">
@@ -21202,7 +21202,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">วิวาห์ลับกับบอสจำเป็น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เลขาสาวสุดหล่อ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42b149c03">
@@ -21215,7 +21215,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เลขาสาวสุดหล่อ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักในเงาจันทร์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42bb49889">
@@ -21228,7 +21228,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักในเงาจันทร์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เลขาคนนี้ของบอส.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42c47bf13">
@@ -21241,7 +21241,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เลขาคนนี้ของบอส</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แสบซ่าส์ตามหามาม๊า ป๊ารักนะรู้ยัง.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42ce2d6a7">
@@ -21254,7 +21254,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แสบซ่าส์ตามหามาม๊า ป๊ารักนะรู้ยัง</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สัญญารัก CEO เจ้าเสน่ห์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42d7bec2d">
@@ -21267,7 +21267,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สัญญารัก CEO เจ้าเสน่ห์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/มนตร์มายา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42e167ada">
@@ -21280,7 +21280,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">มนตร์มายา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เขาเดียวดาย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42eb0ab12">
@@ -21293,7 +21293,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เขาเดียวดาย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สามแฝดจอมอัจฉริยะ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42f4db89e">
@@ -21306,7 +21306,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สามแฝดจอมอัจฉริยะ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักมัดใจยัยสตรอว์เบอร์รี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c42fe52c2b">
@@ -21319,7 +21319,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักมัดใจยัยสตรอว์เบอร์รี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พี่ ๆ รุมโอ๋หลังสลัดผู้ชายเฮงซวย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4308420de">
@@ -21332,7 +21332,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พี่ ๆ รุมโอ๋หลังสลัดผู้ชายเฮงซวย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักมอดก่อนอรุณรุ่ง（ยั่วรัก）.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c431206f96">
@@ -21345,7 +21345,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักมอดก่อนอรุณรุ่ง（ยั่วรัก）</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/นัดบอดกับบอสใหญ่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c431bdbd33">
@@ -21358,7 +21358,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">นัดบอดกับบอสใหญ่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักรันทดของภรรยาคุณคิมหันต์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4326a60e5">
@@ -21371,7 +21371,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักรันทดของภรรยาคุณคิมหันต์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สัมผัสลวงรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c432fdfea4">
@@ -21384,7 +21384,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สัมผัสลวงรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ความลับรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43397d127">
@@ -21397,7 +21397,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ความลับรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ไฟนอล คอล ฟอร์ เลิฟ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c434328149">
@@ -21410,7 +21410,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ไฟนอล คอล ฟอร์ เลิฟ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พิษรัก คุณหมอแนนซี่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c434cbced6">
@@ -21423,7 +21423,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พิษรัก คุณหมอแนนซี่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เจ้าสาวของซาตาน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4356b58ed">
@@ -21436,7 +21436,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เจ้าสาวของซาตาน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ศิลปะแห่งการแก้แค้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c436053e27">
@@ -21449,7 +21449,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ศิลปะแห่งการแก้แค้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แสงจันทร์บนปลายนิ้ว.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4369e641c">
@@ -21462,7 +21462,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แสงจันทร์บนปลายนิ้ว</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แพทย์สาวทะลุมิติ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c437396ad3">
@@ -21475,7 +21475,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แพทย์สาวทะลุมิติ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คำว่ารัก มีให้แค่คุณ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c437d854a9">
@@ -21488,7 +21488,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คำว่ารัก มีให้แค่คุณ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ความลับของสามีไฮโซ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43894b025">
@@ -21501,7 +21501,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ความลับของสามีไฮโซ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เปล่งประกาย หลังหย่ากับนาย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c439082f2f">
@@ -21514,7 +21514,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เปล่งประกาย หลังหย่ากับนาย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เพื่อนร่วมชั้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c439a2539b">
@@ -21527,7 +21527,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เพื่อนร่วมชั้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณหนูพันล้านคลั่งไคล้ ความรักหลังเกิดใหม่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43a3cd4bc">
@@ -21540,7 +21540,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณหนูพันล้านคลั่งไคล้ ความรักหลังเกิดใหม่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ลูกน้อยน่ารัก คุณพ่อประธาน จีบภรรยา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43ad5b98a">
@@ -21553,7 +21553,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ลูกน้อยน่ารัก คุณพ่อประธาน จีบภรรยา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ขอให้โลกใบนี้ใจดีกับเธอ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43b701023">
@@ -21566,7 +21566,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ขอให้โลกใบนี้ใจดีกับเธอ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/อุบัติรัก ความจำเสื่อม.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43c09c705">
@@ -21579,7 +21579,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">อุบัติรัก ความจำเสื่อม</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ข้ามเวลารัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43ca29962">
@@ -21592,7 +21592,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ข้ามเวลารัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณแม่พาลูกลุย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43d3a34e7">
@@ -21605,7 +21605,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณแม่พาลูกลุย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ทาสรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43dd4103f">
@@ -21618,7 +21618,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ทาสรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หัวใจดวงนี้เป็นของคุณ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43e6d56c9">
@@ -21631,7 +21631,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หัวใจดวงนี้เป็นของคุณ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ยอดดวงใจของพี่ชายทั้งสาม.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43f075413">
@@ -21644,7 +21644,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ยอดดวงใจของพี่ชายทั้งสาม</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แด๊ดดี๊สุดหล่อ สี่แสบซ่าพายุรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c43f9ef74c">
@@ -21657,7 +21657,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แด๊ดดี๊สุดหล่อ สี่แสบซ่าพายุรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สวยสะบัดรัก ภรรยาตามสัญญา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c440406a50">
@@ -21670,7 +21670,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สวยสะบัดรัก ภรรยาตามสัญญา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักที่ถูกลืม.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c440d95dc4">
@@ -21683,7 +21683,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักที่ถูกลืม</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หม่ามี๊ที่รัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4416b802a">
@@ -21696,7 +21696,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หม่ามี๊ที่รัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักล้นใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4420b39b7">
@@ -21709,7 +21709,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักล้นใจ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สาวขี้เหร่ไร้เทียมทาน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c442a470d9">
@@ -21722,7 +21722,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สาวขี้เหร่ไร้เทียมทาน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เจ้าสาวสลับตัว.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c443d0b94c">
@@ -21735,7 +21735,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เจ้าสาวสลับตัว</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ครอบครัวเนรคุณ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44469fff2">
@@ -21748,7 +21748,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ครอบครัวเนรคุณ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พลิกชะตา ล้างแค้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44502b5ed">
@@ -21761,7 +21761,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พลิกชะตา ล้างแค้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ทายาทเศรษฐี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4459b93a5">
@@ -21774,7 +21774,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ทายาทเศรษฐี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ถอนหมั้นกับเศรษฐี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44634edb5">
@@ -21787,7 +21787,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ถอนหมั้นกับเศรษฐี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักครั้งนี้ไม่มีทางรักษา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c446d466d0">
@@ -21800,7 +21800,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักครั้งนี้ไม่มีทางรักษา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เธอเท่านั้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4477b8924">
@@ -21813,7 +21813,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เธอเท่านั้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เสือมังกร.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44800e4bd">
@@ -21826,7 +21826,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เสือมังกร</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รัตติกาลร้อนรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4489aeaf4">
@@ -21839,7 +21839,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รัตติกาลร้อนรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สามีฉันเป็นเศรษฐี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44933505a">
@@ -21852,7 +21852,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สามีฉันเป็นเศรษฐี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ร่างมังกร.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c449ccdd99">
@@ -21865,7 +21865,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ร่างมังกร</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักสายฟ้าแลบ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44a663445">
@@ -21878,7 +21878,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักสายฟ้าแลบ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รอการหย่าของคุณ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44afef531">
@@ -21891,7 +21891,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รอการหย่าของคุณ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แดดดี๊ทำตัวไม่น่ารัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44b989bc8">
@@ -21904,7 +21904,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แดดดี๊ทำตัวไม่น่ารัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/โทษไม่ถึงตาย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44c31ba05">
@@ -21917,7 +21917,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">โทษไม่ถึงตาย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักแรกพบ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44ccb976a">
@@ -21930,7 +21930,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักแรกพบ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แสงนำทาง.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44d650a7b">
@@ -21943,7 +21943,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แสงนำทาง</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เหนือมนุษย์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44dfd894f">
@@ -21956,7 +21956,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เหนือมนุษย์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ไม่เป็นสองรองใคร.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44e95f743">
@@ -21969,7 +21969,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ไม่เป็นสองรองใคร</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/จอมเวทย์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44f31d3e1">
@@ -21982,7 +21982,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">จอมเวทย์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ราชาคนใหม่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c44fc95f56">
@@ -21995,7 +21995,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ราชาคนใหม่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณซีอีโอ ประกาศรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c450639c06">
@@ -22008,7 +22008,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณซีอีโอ ประกาศรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ฤดูใบไม้ผลิ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c450fc9809">
@@ -22021,7 +22021,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ฤดูใบไม้ผลิ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/นางฟ้าทั้งเก้า.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45194895a">
@@ -22034,7 +22034,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">นางฟ้าทั้งเก้า</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ราชามังกร.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4522c9def">
@@ -22047,7 +22047,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ราชามังกร</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คนเจ้าเล่ห์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c452c5e4e2">
@@ -22060,7 +22060,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คนเจ้าเล่ห์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ซีอีโอถูกบล็อคอีกแล้ว.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4535f148f">
@@ -22073,7 +22073,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ซีอีโอถูกบล็อคอีกแล้ว</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ยุคแห่งดอกไม้บาน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c453fbe1dd">
@@ -22086,7 +22086,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ยุคแห่งดอกไม้บาน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ไม่มีความรักอีกต่อไป.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c454949923">
@@ -22099,7 +22099,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ไม่มีความรักอีกต่อไป</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ให้โอกาสฉันอีกครั้ง.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4552a3351">
@@ -22112,7 +22112,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ให้โอกาสฉันอีกครั้ง</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สลับร่างกับสามี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c455c44acf">
@@ -22125,7 +22125,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สลับร่างกับสามี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ราชาแห่งอีสปอร์ต.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4567ee49c">
@@ -22138,7 +22138,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ราชาแห่งอีสปอร์ต</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ล่ามังกร.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c456fe657a">
@@ -22151,7 +22151,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ล่ามังกร</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ข่าวลือเรื่องรักใคร่.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45799c696">
@@ -22164,7 +22164,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ข่าวลือเรื่องรักใคร่</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ความผูกพันระหว่างพ่อกับลูก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4582bcd82">
@@ -22177,7 +22177,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ความผูกพันระหว่างพ่อกับลูก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/มหาสมุทรแห่งความรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c458c5cf3e">
@@ -22190,7 +22190,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">มหาสมุทรแห่งความรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักล่อใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45972a499">
@@ -22203,7 +22203,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักล่อใจ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/กุหลาบไหม้.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45a00032d">
@@ -22216,7 +22216,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">กุหลาบไหม้</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณแม่เลี้ยงเดี่ยว.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45acf1289">
@@ -22229,7 +22229,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณแม่เลี้ยงเดี่ยว</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รอยแค้น.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45b2a33cc">
@@ -22242,7 +22242,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รอยแค้น</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ประธานคลั่งรัก.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45bc9d028">
@@ -22255,7 +22255,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ประธานคลั่งรัก</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เธอสวยแซ่บ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45c5afbaf">
@@ -22268,7 +22268,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เธอสวยแซ่บ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ดุจดั่งดวงใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45cf4f6e0">
@@ -22281,7 +22281,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ดุจดั่งดวงใจ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ภรรยาที่ตายแล้วเธอกลับมา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45d8d7e8a">
@@ -22294,7 +22294,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ภรรยาที่ตายแล้วเธอกลับมา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/พี่ชายของฉันคือบิ๊กบอส.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45e25e37e">
@@ -22307,7 +22307,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">พี่ชายของฉันคือบิ๊กบอส</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/สุดยอดลูกน้อยแห่งโชคชะตา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45ec12d91">
@@ -22320,7 +22320,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">สุดยอดลูกน้อยแห่งโชคชะตา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หรือเรียกอีกชื่อหนึ่งว่า...พี่ชาย4.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45f58e2d1">
@@ -22333,7 +22333,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หรือเรียกอีกชื่อหนึ่งว่า...พี่ชาย4</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/แม่เลี้ยงเดี่ยวกลายเป็นลูกสาวมหาเศรษฐี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c45ff1e4ba">
@@ -22346,7 +22346,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">แม่เลี้ยงเดี่ยวกลายเป็นลูกสาวมหาเศรษฐี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ซีอีโอแด๊ดดี้กับลูกแฝดน่ารักของเขา.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c460aa0f86">
@@ -22359,7 +22359,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ซีอีโอแด๊ดดี้กับลูกแฝดน่ารักของเขา</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักแท้กับสามสุดเลิฟ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4612a5ccc">
@@ -22372,7 +22372,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักแท้กับสามสุดเลิฟ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ครูฝึกสุดหล่อและการแก้แค้นของสาวน้อย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c461c33638">
@@ -22385,7 +22385,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ครูฝึกสุดหล่อและการแก้แค้นของสาวน้อย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักครั้งใหม่กับภรรยาคนเดิม.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c46257161b">
@@ -22398,7 +22398,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักครั้งใหม่กับภรรยาคนเดิม</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/วิมานวิวาห์.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c462f0ae3d">
@@ -22411,7 +22411,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">วิมานวิวาห์</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/ข้าคือหงส์พันปี.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4639174e4">
@@ -22424,7 +22424,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">ข้าคือหงส์พันปี</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/หลังจากแต่งงานสายฟ้าแลบพบว่าสามีของฉันเป็นท่านประธาน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c464216cad">
@@ -22437,7 +22437,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">หลังจากแต่งงานสายฟ้าแลบพบว่าสามีของฉันเป็นท่านประธาน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เส้นใยรักล่อลวง.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c464bcab1e">
@@ -22450,7 +22450,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เส้นใยรักล่อลวง</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณหนูไฮโซ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4659b7dc7">
@@ -22463,7 +22463,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณหนูไฮโซ</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักนี้...สุดเอื้อม.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c465e059d5">
@@ -22476,7 +22476,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักนี้...สุดเอื้อม</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/เกมรักอันตราย.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c466848a42">
@@ -22489,7 +22489,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">เกมรักอันตราย</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/คุณชายเธอแต่งงานแล้ว.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4671c6bcd">
@@ -22502,7 +22502,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">คุณชายเธอแต่งงานแล้ว</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักหมดใจภรรยาของฉัน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c467b77bf2">
@@ -22515,7 +22515,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักหมดใจภรรยาของฉัน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/รักเธอไม่มีวันหวนคืน.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4685033d1">
@@ -22528,7 +22528,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">รักเธอไม่มีวันหวนคืน</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
@@ -22543,7 +22543,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">當街受辱我無雙國士身份曝光了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/總裁萌孫是紅娘.mp4" data-commission="https://short.kalostv.com/api/short/jump/675be520bec6d">
@@ -22556,7 +22556,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">總裁萌孫是紅娘</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後，神女大人她覺醒了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bb073ced43">
@@ -22569,7 +22569,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後，神女大人她覺醒了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/予我萬丈光芒.mp4" data-commission="https://short.kalostv.com/api/short/jump/67585b16c9459">
@@ -22582,7 +22582,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">予我萬丈光芒</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/茉莉花開正當時.mp4" data-commission="https://short.kalostv.com/api/short/jump/67582cc8aa611">
@@ -22595,7 +22595,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">茉莉花開正當時</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/繼承千億遺產後小姐殺瘋了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c46bec5d36">
@@ -22608,7 +22608,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">繼承千億遺產後小姐殺瘋了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我靠養豬打臉前夫壹家.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2aa801576">
@@ -22621,7 +22621,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我靠養豬打臉前夫壹家</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/戚總今天追到夫人了嗎.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c2b09be985">
@@ -22634,7 +22634,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">戚總今天追到夫人了嗎</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/隱婚天價老公.mp4" data-commission="https://short.kalostv.com/api/short/jump/675be7c0b4740">
@@ -22647,7 +22647,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">隱婚天價老公</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/千金神算，盛爺嬌寵喊祖宗.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c46e582b96">
@@ -22660,7 +22660,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">千金神算，盛爺嬌寵喊祖宗</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/訣別當天，高冷女神後悔慘了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c46ee920e2">
@@ -22673,7 +22673,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">訣別當天，高冷女神後悔慘了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/再世芳華.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c46f827d55">
@@ -22686,7 +22686,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">再世芳華</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/火線救援，她葬送了親生骨肉的生路.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4701c3f45">
@@ -22699,7 +22699,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">火線救援，她葬送了親生骨肉的生路</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/斷親後戀愛腦兒子慌了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c470b5d814">
@@ -22712,7 +22712,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">斷親後戀愛腦兒子慌了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/雖是獸醫，但我醫術無雙.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4714f41db">
@@ -22725,7 +22725,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">雖是獸醫，但我醫術無雙</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/冷面機長的好孕甜妻.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c471e777f1">
@@ -22738,7 +22738,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">冷面機長的好孕甜妻</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/辭職後，上司和我閃婚了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675bf08f6add2">
@@ -22751,7 +22751,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">辭職後，上司和我閃婚了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/隱婚後沈爺鎮不住少奶奶了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4731b6e25">
@@ -22764,7 +22764,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">隱婚後沈爺鎮不住少奶奶了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/退休後，兒子逼我和前夫復婚.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c473b428e0">
@@ -22777,7 +22777,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">退休後，兒子逼我和前夫復婚</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/悔不當初：我不追了妳們哭什麽.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4745a9464">
@@ -22790,7 +22790,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">悔不當初：我不追了妳們哭什麽</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/懷孕後！哭紅眼！沈小姐不回頭了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c474e4af4c">
@@ -22803,7 +22803,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">懷孕後！哭紅眼！沈小姐不回頭了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/協議離婚後，夫人轉頭改嫁了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4757ecc5b">
@@ -22816,7 +22816,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">協議離婚後，夫人轉頭改嫁了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/顧總妳的保鏢是夫人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4761823b6">
@@ -22829,7 +22829,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">顧總妳的保鏢是夫人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/斷親後，小叔寵我入骨.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c476b0f22e">
@@ -22842,7 +22842,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">斷親後，小叔寵我入骨</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/傷朕母後者殺無赦.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4774b6eb8">
@@ -22855,7 +22855,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">傷朕母後者殺無赦</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夫人難哄.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c477e471f4">
@@ -22868,7 +22868,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夫人難哄</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我侄子的白細胞只有我能救.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4787d5159">
@@ -22881,7 +22881,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我侄子的白細胞只有我能救</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/禁欲大佬淪陷了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c479175bf0">
@@ -22894,7 +22894,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">禁欲大佬淪陷了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/廢材掘起震風雲.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c479b19a42">
@@ -22907,7 +22907,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">廢材掘起震風雲</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/妳與深情皆錯過.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47a4cc835">
@@ -22920,7 +22920,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">妳與深情皆錯過</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/庶妻扶搖路.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47ae5053b">
@@ -22933,7 +22933,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">庶妻扶搖路</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/回國後褚總心尖寵殺瘋了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47bb6e129">
@@ -22946,7 +22946,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">回國後褚總心尖寵殺瘋了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/青梅竹馬之愛有天意.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47c55bc00">
@@ -22959,7 +22959,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">青梅竹馬之愛有天意</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/歸來榮光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47cf13cdd">
@@ -22972,7 +22972,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">歸來榮光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/父子拳王.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47d88e12e">
@@ -22985,7 +22985,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">父子拳王</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/全能神婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c47e216475">
@@ -22998,7 +22998,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">全能神婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/吳家有女撼乾坤.mp4" data-commission="https://short.kalostv.com/api/short/jump/674289629a0f5">
@@ -23011,7 +23011,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">吳家有女撼乾坤</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/庶子無敵.mp4" data-commission="https://short.kalostv.com/api/short/jump/6742897b77d2a">
@@ -23024,7 +23024,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">庶子無敵</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/收留落魄總裁的第N天.mp4" data-commission="https://short.kalostv.com/api/short/jump/67428989eead5">
@@ -23037,7 +23037,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">收留落魄總裁的第N天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霍爺別虐了，池小姐已有新歡.mp4" data-commission="https://short.kalostv.com/api/short/jump/6742899ce4256">
@@ -23050,7 +23050,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霍爺別虐了，池小姐已有新歡</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天大地大，娘親最大.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4812d3251">
@@ -23063,7 +23063,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天大地大，娘親最大</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/蘇醒.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c481d2f082">
@@ -23076,7 +23076,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">蘇醒</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/貴妃心計.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4826defdb">
@@ -23089,7 +23089,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">貴妃心計</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/今夕清影何處尋.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48307be75">
@@ -23102,7 +23102,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">今夕清影何處尋</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/今朝有妳.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c483da46f8">
@@ -23115,7 +23115,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">今朝有妳</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/大佬爸比妳寵錯崽啦.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c484450a7f">
@@ -23128,7 +23128,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">大佬爸比妳寵錯崽啦</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/被趕出家門後，三個哥哥後悔了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c484df0a33">
@@ -23141,7 +23141,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">被趕出家門後，三個哥哥後悔了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/崽崽心聲助我在末世殺瘋了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48576c42e">
@@ -23154,7 +23154,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">崽崽心聲助我在末世殺瘋了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/誘妳偷香.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48611afe8">
@@ -23167,7 +23167,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">誘妳偷香</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重拾舊愛在今生.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c486a9a221">
@@ -23180,7 +23180,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重拾舊愛在今生</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/九龍劍尊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48743ef44">
@@ -23193,7 +23193,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">九龍劍尊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/退休返聘之壹鳴驚人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c487e85449">
@@ -23206,7 +23206,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">退休返聘之壹鳴驚人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我在冷宮忙種田.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4887cba60">
@@ -23219,7 +23219,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我在冷宮忙種田</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/極品保鏢之神域龍尊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4891bf224">
@@ -23232,7 +23232,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">極品保鏢之神域龍尊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/初次相愛的我們.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c489bb74be">
@@ -23245,7 +23245,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">初次相愛的我們</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/幸運商店.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48a7cde17">
@@ -23258,7 +23258,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">幸運商店</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/女兒死後，媽媽她後悔了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48af849a4">
@@ -23271,7 +23271,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">女兒死後，媽媽她後悔了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛妳像心跳難觸摸.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48b9d9a64">
@@ -23284,7 +23284,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛妳像心跳難觸摸</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/熾夜.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48c3cd6c6">
@@ -23297,7 +23297,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">熾夜</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重生後被渣男舅舅寵上天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48cd1c925">
@@ -23310,7 +23310,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重生後被渣男舅舅寵上天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/他是我兒子.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48d6ee601">
@@ -23323,7 +23323,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">他是我兒子</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/白首不分離.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48e0e4f13">
@@ -23336,7 +23336,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">白首不分離</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/釣龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48eb23fb7">
@@ -23349,7 +23349,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">釣龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/如果愛記得.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48f504eea">
@@ -23362,7 +23362,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">如果愛記得</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/斷親後四個姐姐跪求我回家.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48fef3df3">
@@ -23375,7 +23375,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">斷親後四個姐姐跪求我回家</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/結婚當天我成了豪門繼承人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c490872aa4">
@@ -23388,7 +23388,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">結婚當天我成了豪門繼承人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後老公婆婆悔上天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49121f258">
@@ -23401,7 +23401,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後老公婆婆悔上天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/消失的他.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c491bdc9c5">
@@ -23414,7 +23414,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">消失的他</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/誤撩大佬，京圈太子爺成了我的金絲雀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4925d9153">
@@ -23427,7 +23427,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">誤撩大佬，京圈太子爺成了我的金絲雀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我真不是神仙啊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49311b0bf">
@@ -23440,7 +23440,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我真不是神仙啊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/頂級豪門總裁成了我的金絲雀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4938b5300">
@@ -23453,7 +23453,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">頂級豪門總裁成了我的金絲雀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三拜九叩祈重來.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49425884a">
@@ -23466,7 +23466,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三拜九叩祈重來</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/漫漫回家路.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c494c4563b">
@@ -23479,7 +23479,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">漫漫回家路</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/死後才知，我竟是京圈太子白月光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c495657ebc">
@@ -23492,7 +23492,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">死後才知，我竟是京圈太子白月光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/守寡半生才發現夫君他沒死.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c495fc9e99">
@@ -23505,7 +23505,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">守寡半生才發現夫君他沒死</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/榮耀之下.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49696efba">
@@ -23518,7 +23518,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">榮耀之下</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/葉總夫人今天打臉了嗎.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4973eb09d">
@@ -23531,7 +23531,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">葉總夫人今天打臉了嗎</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/鎮國主宰.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c497db6844">
@@ -23544,7 +23544,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">鎮國主宰</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/進錯豪門嫁對郎.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4987a2591">
@@ -23557,7 +23557,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">進錯豪門嫁對郎</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/你是我的心心念念.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49915d0c2">
@@ -23570,7 +23570,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">你是我的心心念念</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/暗燈未明.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c499c30e3c">
@@ -23583,7 +23583,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">暗燈未明</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/一片苦心付東流.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49a6802c7">
@@ -23596,7 +23596,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">一片苦心付東流</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/閃婚後年下總裁狠狠愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49b0c2b3a">
@@ -23609,7 +23609,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">閃婚後年下總裁狠狠愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/不再說從前.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49bba6c6f">
@@ -23622,7 +23622,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">不再說從前</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/黑色月光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49c57d515">
@@ -23635,7 +23635,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">黑色月光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/良辰多相宜.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49cf2d9c1">
@@ -23648,7 +23648,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">良辰多相宜</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/守得雲開見月明.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49d8e1596">
@@ -23661,7 +23661,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">守得雲開見月明</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/豪門萌寶綁個爹地寵媽咪.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49e27d3d1">
@@ -23674,7 +23674,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">豪門萌寶綁個爹地寵媽咪</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/九爺請自重.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49ec4e607">
@@ -23687,7 +23687,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">九爺請自重</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/灼灼新婚.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49f6582fb">
@@ -23700,7 +23700,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">灼灼新婚</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/絕世王者.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c49ffabb0e">
@@ -23713,7 +23713,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">絕世王者</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霸王.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a09548b8">
@@ -23726,7 +23726,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霸王</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/物價貶值花掉一塊錢真的好難.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a137e1b8">
@@ -23739,7 +23739,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">物價貶值花掉一塊錢真的好難</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/不靈不靈.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a1d053e1">
@@ -23752,7 +23752,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">不靈不靈</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/獨尊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a282d9db">
@@ -23765,7 +23765,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">獨尊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/太子妃駕到，總裁你別跑.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a3092c61">
@@ -23778,7 +23778,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">太子妃駕到，總裁你別跑</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/封總今天掛男科沒.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a3a29bfd">
@@ -23791,7 +23791,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">封總今天掛男科沒</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後嫁給前夫他上司.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a43e3e8f">
@@ -23804,7 +23804,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後嫁給前夫他上司</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/鳳掌九天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a4da2ef2">
@@ -23817,7 +23817,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">鳳掌九天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/影后老婆離婚後，我火遍全網.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a58015b8">
@@ -23830,7 +23830,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">影后老婆離婚後，我火遍全網</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/璀璨繁星不如你.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a61aebed">
@@ -23843,7 +23843,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">璀璨繁星不如你</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夫人，紀總他又失控了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a6c1420b">
@@ -23856,7 +23856,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夫人，紀總他又失控了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/啞女的復仇.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a75bd501">
@@ -23869,7 +23869,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">啞女的復仇</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/爲了救哥哥，爸媽生了我.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a8064a7c">
@@ -23882,7 +23882,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">爲了救哥哥，爸媽生了我</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/媽媽出車禍後，我重生了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a8ad959d">
@@ -23895,7 +23895,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">媽媽出車禍後，我重生了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/八0肥妻火辣辣.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a9513a92">
@@ -23908,7 +23908,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">八0肥妻火辣辣</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚三十天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4a9f107ff">
@@ -23921,7 +23921,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚三十天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/梟爺，葉小姐又來求婚了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4aa8d7e28">
@@ -23934,7 +23934,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">梟爺，葉小姐又來求婚了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/蓄謀已久乖兮兮奶狗瘋纏.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ab282575">
@@ -23947,7 +23947,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">蓄謀已久乖兮兮奶狗瘋纏</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/總裁爸爸你跪下，寶寶求你點事.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4abc58b48">
@@ -23960,7 +23960,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">總裁爸爸你跪下，寶寶求你點事</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/銀河裏的時光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ac67b780">
@@ -23973,7 +23973,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">銀河裏的時光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霍總，新來的實習生好像是您夫人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ad02e01a">
@@ -23986,7 +23986,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霍總，新來的實習生好像是您夫人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/閃婚總裁都很窮.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ad9c8686">
@@ -23999,7 +23999,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">閃婚總裁都很窮</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重生80發家致富養崽崽.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ae3956a9">
@@ -24012,7 +24012,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重生80發家致富養崽崽</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/韓少別哭夫人她有三個大佬哥哥.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4aed56a64">
@@ -24025,7 +24025,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">韓少別哭夫人她有三個大佬哥哥</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三子敬母.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4af703211">
@@ -24038,7 +24038,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三子敬母</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/斗門無雙.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b00b9422">
@@ -24051,7 +24051,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">斗門無雙</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/千金大小姐爲愛殺瘋了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b0c08e2b">
@@ -24064,7 +24064,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">千金大小姐爲愛殺瘋了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萌寶歸來，總裁爹地追妻忙.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b1640c97">
@@ -24077,7 +24077,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萌寶歸來，總裁爹地追妻忙</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我被盲眼老公寵上天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b20c85e2">
@@ -24090,7 +24090,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我被盲眼老公寵上天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/她如夜色初亮.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b29959fb">
@@ -24103,7 +24103,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">她如夜色初亮</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/純情丫頭休想逃.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b33a7aa8">
@@ -24116,7 +24116,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">純情丫頭休想逃</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/指尖上的月光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b3d9d7ed">
@@ -24129,7 +24129,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">指尖上的月光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/讀心總裁的替嫁新娘.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b486fe8d">
@@ -24142,7 +24142,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">讀心總裁的替嫁新娘</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/福寶六歲半.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b52d4e9f">
@@ -24155,7 +24155,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">福寶六歲半</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/新婚夜，冰山總裁要吻我.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b5d6b366">
@@ -24168,7 +24168,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">新婚夜，冰山總裁要吻我</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛你不能言.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b6765298">
@@ -24181,7 +24181,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛你不能言</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後，萌寶和三個大佬哥哥寵翻我.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b7087368">
@@ -24194,7 +24194,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後，萌寶和三個大佬哥哥寵翻我</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/顧總的二婚嬌妻.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b7a27afc">
@@ -24207,7 +24207,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">顧總的二婚嬌妻</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我媽偷聽我的心聲，帶着三娃嫁給首富.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b83c4a84">
@@ -24220,7 +24220,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我媽偷聽我的心聲，帶着三娃嫁給首富</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後再說一次我愛你.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b8d50439">
@@ -24233,7 +24233,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後再說一次我愛你</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萌寶神助攻，媽咪別想逃.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4b96e4828">
@@ -24246,7 +24246,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萌寶神助攻，媽咪別想逃</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/同學！你認錯人了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ba07be60">
@@ -24259,7 +24259,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">同學！你認錯人了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/相親當天我成了豪門闊太.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4baa18906">
@@ -24272,7 +24272,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">相親當天我成了豪門闊太</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後我強得可怕.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bb3994ff">
@@ -24285,7 +24285,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後我強得可怕</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我有五個大佬崽崽.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bbd568fd">
@@ -24298,7 +24298,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我有五個大佬崽崽</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/總裁夫人來打工.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bc6e6429">
@@ -24311,7 +24311,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">總裁夫人來打工</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後我帶娃虐翻前夫家.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bd0de1bb">
@@ -24324,7 +24324,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後我帶娃虐翻前夫家</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/將軍夫人不好惹.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bdac5e14">
@@ -24337,7 +24337,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">將軍夫人不好惹</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/皇子兇猛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4be4d14f0">
@@ -24350,7 +24350,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">皇子兇猛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/顧氏夫人馬甲滿天下.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bee77dc2">
@@ -24363,7 +24363,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">顧氏夫人馬甲滿天下</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/盛夏的約定.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4bf83f829">
@@ -24376,7 +24376,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">盛夏的約定</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/溫柔淪陷.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c009c2a9">
@@ -24389,7 +24389,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">溫柔淪陷</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/親愛的宋小姐.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c0a82859">
@@ -24402,7 +24402,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">親愛的宋小姐</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/烏龍孕事.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c163cc3a">
@@ -24415,7 +24415,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">烏龍孕事</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/紅毯女士.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c1d7f7a4">
@@ -24428,7 +24428,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">紅毯女士</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/啥基因啊！三胞胎都是大佬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c2710393">
@@ -24441,7 +24441,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">啥基因啊！三胞胎都是大佬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霹靂雙娃，爹地快追，媽咪又跑了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c30a3f73">
@@ -24454,7 +24454,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霹靂雙娃，爹地快追，媽咪又跑了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天降五寶：千億爹地快投降.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c3a95fb0">
@@ -24467,7 +24467,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天降五寶：千億爹地快投降</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/城南花正開.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c43da167">
@@ -24480,7 +24480,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">城南花正開</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/世界因你溫柔.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c4d785e5">
@@ -24493,7 +24493,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">世界因你溫柔</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/恰似一道暖陽光.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c576af58">
@@ -24506,7 +24506,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">恰似一道暖陽光</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/尋子追兇.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c60a60ef">
@@ -24519,7 +24519,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">尋子追兇</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/千金小姐的反擊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c6a53ede">
@@ -24532,7 +24532,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">千金小姐的反擊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/新婚夜：植物人老公突然睜開眼.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c73dd511">
@@ -24545,7 +24545,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">新婚夜：植物人老公突然睜開眼</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/一胎二寶：總裁爹地超兇猛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c7d7bc0b">
@@ -24558,7 +24558,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">一胎二寶：總裁爹地超兇猛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/首富夫人她不裝了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c872ff37">
@@ -24571,7 +24571,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">首富夫人她不裝了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/熾愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c90b6023">
@@ -24584,7 +24584,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">熾愛</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/總裁夫人爲何那樣.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4c9a50326">
@@ -24597,7 +24597,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">總裁夫人爲何那樣</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/盲嫁.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ca3e3e7f">
@@ -24610,7 +24610,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">盲嫁</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/絕望主婦的霸氣逆襲.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cadc545c">
@@ -24623,7 +24623,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">絕望主婦的霸氣逆襲</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/是風動了我的心.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cb71dcad">
@@ -24636,7 +24636,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">是風動了我的心</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/聲色犬馬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cc0bd3d9">
@@ -24649,7 +24649,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">聲色犬馬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/雷霆四寶爹地舉起手來.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cca66692">
@@ -24662,7 +24662,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">雷霆四寶爹地舉起手來</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/南總這次玩大了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cd409360">
@@ -24675,7 +24675,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">南總這次玩大了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/破產老媽竟是世界首富.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cdd97e0c">
@@ -24688,7 +24688,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">破產老媽竟是世界首富</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我三個狼心狗肺的東西.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ce7249cb">
@@ -24701,7 +24701,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我三個狼心狗肺的東西</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/環衛老媽竟是世界首富.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cf0a9597">
@@ -24714,7 +24714,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">環衛老媽竟是世界首富</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/權寵天下.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4cfa560b9">
@@ -24727,7 +24727,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">權寵天下</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/護國利劍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d04f100f">
@@ -24740,7 +24740,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">護國利劍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/絕頂.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d0d76c1a">
@@ -24753,7 +24753,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">絕頂</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/熱辣滾燙之醜女無敵.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d1721206">
@@ -24766,7 +24766,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">熱辣滾燙之醜女無敵</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/棄婦翻身，竟是首富千金.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d20abb95">
@@ -24779,7 +24779,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">棄婦翻身，竟是首富千金</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後前夫秒變粘人精.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d2a4b820">
@@ -24792,7 +24792,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後前夫秒變粘人精</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/傅先生寵妻無度.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d33e9090">
@@ -24805,7 +24805,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">傅先生寵妻無度</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天行醫尊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d3d7f9c8">
@@ -24818,7 +24818,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天行醫尊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/墜龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d4728268">
@@ -24831,7 +24831,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">墜龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天策醫皇.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d50b769d">
@@ -24844,7 +24844,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天策醫皇</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/傲世帝尊.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d5a56e9c">
@@ -24857,7 +24857,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">傲世帝尊</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/北王刀.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d63e0dc6">
@@ -24870,7 +24870,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">北王刀</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/在逃契妻美又颯.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d6d7554b">
@@ -24883,7 +24883,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">在逃契妻美又颯</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/我在現代養女帝.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d7721742">
@@ -24896,7 +24896,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">我在現代養女帝</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/暴躁二當家.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d80aafd5">
@@ -24909,7 +24909,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">暴躁二當家</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/律師女王.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d8a5a327">
@@ -24922,7 +24922,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">律師女王</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/野蠻女友拳拳到肉.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d93e86db">
@@ -24935,7 +24935,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">野蠻女友拳拳到肉</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夫人快救駕，總有刁民想害朕.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d9d8166d">
@@ -24948,7 +24948,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夫人快救駕，總有刁民想害朕</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/涅槃.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4da733c3f">
@@ -24961,7 +24961,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">涅槃</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重返1984.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4db0a947a">
@@ -24974,7 +24974,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重返1984</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/極品家丁.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dba55a3d">
@@ -24987,7 +24987,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">極品家丁</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/囚愛成癮.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dc40eda0">
@@ -25000,7 +25000,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">囚愛成癮</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/團寵媽咪真千金.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dcd90653">
@@ -25013,7 +25013,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">團寵媽咪真千金</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/南風知晚意.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dd72d951">
@@ -25026,7 +25026,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">南風知晚意</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天才醫聖.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4de0d08a8">
@@ -25039,7 +25039,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天才醫聖</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/破天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dea745c6">
@@ -25052,7 +25052,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">破天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/黜龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4df6139d0">
@@ -25065,7 +25065,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">黜龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夫妻馬甲雙雙掉完把家還.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dfde05a2">
@@ -25078,7 +25078,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夫妻馬甲雙雙掉完把家還</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/閃婚難離.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e071c71f">
@@ -25091,7 +25091,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">閃婚難離</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萌寶來襲，爹地追妻我助攻.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e10b0cff">
@@ -25104,7 +25104,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萌寶來襲，爹地追妻我助攻</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/白月光死後，江總他瘋了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e1ac5c76">
@@ -25117,7 +25117,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">白月光死後，江總他瘋了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重生後我嫁給了前任他叔.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e23ef42e">
@@ -25130,7 +25130,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重生後我嫁給了前任他叔</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/退婚後錯撩千億大佬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e2dedf78">
@@ -25143,7 +25143,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">退婚後錯撩千億大佬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/世上只有媽媽好.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e3735bbd">
@@ -25156,7 +25156,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">世上只有媽媽好</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/虐愛成寵：陸總的新婚啞妻.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e40b9c89">
@@ -25169,7 +25169,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">虐愛成寵：陸總的新婚啞妻</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/龍虎兄弟.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e4a6b88c">
@@ -25182,7 +25182,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">龍虎兄弟</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/替嫁當晚，植物人老公睜眼了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e5497b7a">
@@ -25195,7 +25195,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">替嫁當晚，植物人老公睜眼了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/退婚豪門後，假千金馬甲藏不住了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e5dad03a">
@@ -25208,7 +25208,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">退婚豪門後，假千金馬甲藏不住了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/霸情惡少的小逃妻.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e674bac2">
@@ -25221,7 +25221,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">霸情惡少的小逃妻</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/浪漫閃婚進行時.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e70cc326">
@@ -25234,7 +25234,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">浪漫閃婚進行時</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/豪門老公偏要寵我.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e7a675af">
@@ -25247,7 +25247,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">豪門老公偏要寵我</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萌寶找上門：媽咪，請簽收.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e840c902">
@@ -25260,7 +25260,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萌寶找上門：媽咪，請簽收</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/逾情不候.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e8d8b1b3">
@@ -25273,7 +25273,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">逾情不候</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/夫人全球都在等你離婚.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4e97856bb">
@@ -25286,7 +25286,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">夫人全球都在等你離婚</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/一胎兩寶：爹地媽咪又懷了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ea18a3cb">
@@ -25299,7 +25299,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">一胎兩寶：爹地媽咪又懷了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/離婚後夫人她驚豔全球.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4eaa80d80">
@@ -25312,7 +25312,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">離婚後夫人她驚豔全球</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/許你光芒萬丈.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4eb3e6d8f">
@@ -25325,7 +25325,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">許你光芒萬丈</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/陸總，夫人她罪不至死.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ebf127e8">
@@ -25338,7 +25338,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">陸總，夫人她罪不至死</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/顧總，太太又把你拉黑了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ec72bae8">
@@ -25351,7 +25351,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">顧總，太太又把你拉黑了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/你是人間四月天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ed0b0b24">
@@ -25364,7 +25364,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">你是人間四月天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/妻子再原諒我一次.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4eda6c29a">
@@ -25377,7 +25377,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">妻子再原諒我一次</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/互換身體後，首富老公每天替我受虐.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ee4f325b">
@@ -25390,7 +25390,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">互換身體後，首富老公每天替我受虐</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/繁花之大時代.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4eedb61d2">
@@ -25403,7 +25403,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">繁花之大時代</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/万古龍皇.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ef7acb1f">
@@ -25416,7 +25416,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">万古龍皇</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/開局九個仙女師傅.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f00e6437">
@@ -25429,7 +25429,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">開局九個仙女師傅</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/燃燒的玫瑰.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f0a713ff">
@@ -25442,7 +25442,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">燃燒的玫瑰</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/馮先生，你終於上鉤了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f1416a57">
@@ -25455,7 +25455,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">馮先生，你終於上鉤了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/天降三寶，大佬媽咪拽又颯.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f1e9a24e">
@@ -25468,7 +25468,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">天降三寶，大佬媽咪拽又颯</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/憤怒的她.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f298f6cf">
@@ -25481,7 +25481,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">憤怒的她</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/電競之我和世界冠軍五五開.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f320e0b5">
@@ -25494,7 +25494,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">電競之我和世界冠軍五五開</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/追龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f3c31a3f">
@@ -25507,7 +25507,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">追龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/緋聞計劃.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f45c351a">
@@ -25520,7 +25520,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">緋聞計劃</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/千金歸來之真千金她又美又颯.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f4f55ec3">
@@ -25533,7 +25533,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">千金歸來之真千金她又美又颯</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萬人之上.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f593d758">
@@ -25546,7 +25546,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萬人之上</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/化龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f62bcea7">
@@ -25559,7 +25559,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">化龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/亡妻歸來.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f6d235de">
@@ -25572,7 +25572,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">亡妻歸來</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/周總每天都想官宣.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f76448c3">
@@ -25585,7 +25585,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">周總每天都想官宣</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/無雙.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f7f76117">
@@ -25598,7 +25598,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">無雙</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/團寵千金美又颯.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f8ab19b5">
@@ -25611,7 +25611,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">團寵千金美又颯</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/攤牌了，我的四個哥哥是頂級大佬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f940cec7">
@@ -25624,7 +25624,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">攤牌了，我的四個哥哥是頂級大佬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/超級萌寶之吉星高照.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4f9cb3ef2">
@@ -25637,7 +25637,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">超級萌寶之吉星高照</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/三個大佬哥哥竟是寵妹狂魔.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fa60c47e">
@@ -25650,7 +25650,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">三個大佬哥哥竟是寵妹狂魔</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/帶崽離婚，首富千金的身份藏不住了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fb30d40d">
@@ -25663,7 +25663,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">帶崽離婚，首富千金的身份藏不住了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/許你情深深似海.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fbd54cfb">
@@ -25676,7 +25676,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">許你情深深似海</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/誰懂啊，霍總是個戀愛腦.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fc6eea3e">
@@ -25689,7 +25689,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">誰懂啊，霍總是個戀愛腦</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/女兒與我同歸於盡.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fd0879df">
@@ -25702,7 +25702,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">女兒與我同歸於盡</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/腰間指痕.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fde67939">
@@ -25715,7 +25715,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">腰間指痕</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/玄門之主.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fe67ec6c">
@@ -25728,7 +25728,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">玄門之主</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/從今天開始做藩王.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4fee00abc">
@@ -25741,7 +25741,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">從今天開始做藩王</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/沈千金她在線打臉.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4ff76c259">
@@ -25754,7 +25754,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">沈千金她在線打臉</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/你是我的遙不可及.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5000ea659">
@@ -25767,7 +25767,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">你是我的遙不可及</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/萌寶來襲，爹地是大佬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c500a8c21a">
@@ -25780,7 +25780,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">萌寶來襲，爹地是大佬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/試用夫人是大佬.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50163e9e2">
@@ -25793,7 +25793,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">試用夫人是大佬</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/步步深陷.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5021af5cd">
@@ -25806,7 +25806,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">步步深陷</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/一眼萬年，絕美老公寵上天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c502c2c62d">
@@ -25819,7 +25819,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">一眼萬年，絕美老公寵上天</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/報復渣男，我轉身嫁給他小叔.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50334daff">
@@ -25832,7 +25832,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">報復渣男，我轉身嫁給他小叔</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/女明星的貼身陰陽師.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c503ec3cee">
@@ -25845,7 +25845,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">女明星的貼身陰陽師</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/前夫每天都在想復婚.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5049a2a3b">
@@ -25858,7 +25858,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">前夫每天都在想復婚</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/亂世婚寵.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5052b696f">
@@ -25871,7 +25871,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">亂世婚寵</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/千秋我爲凰.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c505ddd026">
@@ -25884,7 +25884,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">千秋我爲凰</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/都市巔峯王者.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c506919b05">
@@ -25897,7 +25897,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">都市巔峯王者</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/權寵.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c506fd9e08">
@@ -25910,7 +25910,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">權寵</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛你不問歸期.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c507df1dfb">
@@ -25923,7 +25923,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛你不問歸期</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重生女團，豪門總裁跪求原諒.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5084cca45">
@@ -25936,7 +25936,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重生女團，豪門總裁跪求原諒</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/教官心上歡，小妖精緻命又兇殘.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c508fde2c1">
@@ -25949,7 +25949,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">教官心上歡，小妖精緻命又兇殘</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/閃婚後，傅先生馬甲藏不住了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5097c1af3">
@@ -25962,7 +25962,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">閃婚後，傅先生馬甲藏不住了</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/一鳴驚人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50a36d2ab">
@@ -25975,7 +25975,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">一鳴驚人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/恰似寒冰遇驕陽.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50c119ffa">
@@ -25988,7 +25988,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">恰似寒冰遇驕陽</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/醫武帝婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50c99015c">
@@ -26001,7 +26001,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">醫武帝婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/絕地孤狼.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50d3153d8">
@@ -26014,7 +26014,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">絕地孤狼</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/師孃饒命啊！.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50dc9e945">
@@ -26027,7 +26027,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">師孃饒命啊！</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/重返90年代.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50e9812e5">
@@ -26040,7 +26040,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">重返90年代</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/至尊狂龍.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50f1231f3">
@@ -26053,7 +26053,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">至尊狂龍</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/你是天堂也是地獄.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c50fab865f">
@@ -26066,7 +26066,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">你是天堂也是地獄</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/龍王狂婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c510465a58">
@@ -26079,7 +26079,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">龍王狂婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/虐完我，季總悔不當初.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c510e04af5">
@@ -26092,7 +26092,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">虐完我，季總悔不當初</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/季總別虐了,舒小姐已嫁人.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51179a92e">
@@ -26105,7 +26105,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">季總別虐了,舒小姐已嫁人</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/女神的上門贅婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c512128130">
@@ -26118,7 +26118,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">女神的上門贅婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/醫武神婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c512acb799">
@@ -26131,7 +26131,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">醫武神婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/女神的上門醫婿.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5134ab9ca">
@@ -26144,7 +26144,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">女神的上門醫婿</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/財神轉世：狂賺600億.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c513def8b4">
@@ -26157,7 +26157,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">財神轉世：狂賺600億</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/大婚當日.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c51477eed6">
@@ -26170,7 +26170,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">大婚當日</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
     `<div class="thumbnail" data-video="https://cdn.cocomovie.top/愛已無可救藥.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5151286e3">
@@ -26183,7 +26183,7 @@ const thumbnailsData = {
     <!-- 剧集名称，点击跳转佣金链接 -->
     <span class="episode-title">愛已無可救藥</span>
     <!-- “点击预览”按钮，点击后播放视频 -->
-    <button class="preview-btn">点击预览</button>
+    <button class="preview-btn">Preview</button>
   </div>
 </div>`,
   ],
