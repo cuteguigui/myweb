@@ -198,12 +198,15 @@
 		}
 
 		.modal-content {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
+			position: fixed !important;   /* 关键：覆盖默认的 absolute */
+            top: 50% !important;         /* 保持在屏幕中央 */
+            left: 50% !important;
+            transform: translate(-50%, -50%) !important;
+            width: 95% !important;
+            max-width: none !important;
+            max-height: 80vh;
+            padding: 10px;
 			background: #fff;
-			padding: 20px;
 			border-radius: 8px;
 		}
 
@@ -442,17 +445,6 @@
 		}
 	</script>
 
-	<!-- 改进后的语言切换函数 -->
-	<script>
-		function changeTab(selectedValue) {
-			currentTab = selectedValue;
-			const container = document.getElementById("thumbnailContainer");
-			container.innerHTML = "";
-			loadedCounts[selectedValue] = 0;
-			loadThumbnails(selectedValue);
-		}
-	</script>
-
 	<script>
 		document.addEventListener("DOMContentLoaded", function () {
 			// 加载默认语言的第一批剧集数据
@@ -515,6 +507,55 @@
 			speed: 1000,
 		});
 	</script>
+<script>
+	function filterThumbnails() {
+		// 1. 获取当前用户输入的搜索词，并转小写用于匹配
+		const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
+
+		// 2. 获取当前选中的语言 tab（你在 changeTab 中使用了 currentTab 作标记）
+		//    确保你的全局变量 `currentTab` 已声明并存储了当前选项卡值
+		const tab = currentTab;
+
+		// 3. 先清空容器
+		const container = document.getElementById("thumbnailContainer");
+		container.innerHTML = "";
+
+		// 4. 如果当前 tab 无数据，或者 thumbnailsData[tab] 不存在，直接返回
+		if (!thumbnailsData[tab]) {
+			return;
+		}
+
+		// 5. 如果搜索词为空，则“恢复”原始全部结果
+		if (searchTerm === "") {
+			// 重置已加载计数
+			loadedCounts[tab] = 0;
+			// 重新调用原先的加载逻辑
+			loadThumbnails(tab);
+			// 显示“Load More”按钮
+			document.getElementById("loadMoreBtn").style.display = "block";
+			return;
+		}
+
+		// 6. 如果有搜索词，则在当前 tab 里做过滤
+		//    这里简单处理：只要 HTML 片段中包含搜索词(不区分大小写)，就算匹配
+		const allItems = thumbnailsData[tab];   // 所有HTML片段数组
+		let filteredItems = allItems.filter(item => {
+			// 转小写，与 searchTerm 作 includes 判断
+			const lowerItem = item.toLowerCase();
+			return lowerItem.includes(searchTerm);
+		});
+
+		// 7. 将搜索结果一次性加载到容器
+		filteredItems.forEach(htmlSnippet => {
+			let tempDiv = document.createElement("div");
+			tempDiv.innerHTML = htmlSnippet;
+			container.appendChild(tempDiv.firstElementChild);
+		});
+
+		// 8. 隐藏“Load More”按钮（因为此时是一次性显示所有匹配内容）
+		document.getElementById("loadMoreBtn").style.display = "none";
+	}
+</script>
 </body>
 
 </html>
