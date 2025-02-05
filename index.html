@@ -261,6 +261,32 @@
 </head>
 
 <body>
+	<div style="position:absolute; top:10px; right:10px;">
+		<select id="langSelect">
+			<!-- 点击这里跳到英文站 -->
+			<option value="https://cocomovie.top" data-lang="en">English</option>
+			<!-- 当前语言 -->
+			<option value="https://es.cocomovie.top" data-lang="es">Español</option>
+		</select>
+	</div>
+	
+	<script>
+		// 页面加载时，根据当前域名设置默认选项
+		const currentHost = location.hostname; // e.g. "es.cocomovie.top"
+		const langSelect = document.getElementById("langSelect");
+
+		for (let i = 0; i < langSelect.options.length; i++) {
+			if (langSelect.options[i].value.includes(currentHost)) {
+				langSelect.selectedIndex = i;
+				break;
+			}
+		}
+
+		// 切换语言时跳转
+		langSelect.addEventListener("change", function () {
+			window.location.href = this.value;
+		});
+	</script>
 	<!-- Google Tag Manager (noscript) -->
 	<script>
 		window.addEventListener('load', function () {
