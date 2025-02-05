@@ -271,6 +271,32 @@
 		});
 	</script>
 	<!-- End Google Tag Manager (noscript) -->
+	 !-- 示例：在右上角放一个 select 下拉 -->
+	<div style="position:absolute; top:10px; right:10px;">
+		<select id="langSelect">
+			<option value="https://cocomovie.top" data-lang="en">English</option>
+			<option value="https://es.cocomovie.top" data-lang="es">Español</option>
+			<!-- 未来可加更多语言 -->
+		</select>
+	</div>
+	
+	<script>
+		// 页面载入时，根据当前域名预选中下拉项
+		const currentHost = location.hostname; // e.g. "cocomovie.top"
+		const langSelect = document.getElementById("langSelect");
+
+		for (let i = 0; i < langSelect.options.length; i++) {
+			if (langSelect.options[i].value.includes(currentHost)) {
+				langSelect.selectedIndex = i;
+				break;
+			}
+		}
+
+		// 切换事件：跳转到对应子域名
+		langSelect.addEventListener("change", function () {
+			window.location.href = this.value;
+		});
+	</script>
 	<div class="container">
 		<div class="title">
 			<img alt="Icon" src="hot.webp" />
