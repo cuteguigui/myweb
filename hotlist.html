@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Hot Drama Chart | Cocomovie.top</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入 Swiper 样式（如果需要） -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <style>
+        /* 基本样式 */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background: #fefefe;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 10px 60px;
+            /* 下边距，避免底部导航遮挡 */
+            text-align: left;
+        }
+
+        /* 返回首页按钮 */
+        header {
+            padding: 10px;
+            text-align: left;
+        }
+
+        header a {
+            text-decoration: none;
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* 周分组模块 */
+        .week-section {
+            margin: 20px 0;
+        }
+
+        .week-title {
+            font-size: 20px;
+            color: #e21111;
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+
+        /* 单个剧集条目 */
+        .episode-item {
+            border-bottom: 1px solid #eee;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        /* 头部：序号和剧集名称（加粗），分行显示 */
+        .episode-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+
+        .episode-index {
+            font-size: 16px;
+            margin-right: 5px;
+            flex-shrink: 0;
+        }
+
+        .episode-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* 正文：封面图、预览按钮、热度图标 */
+        .episode-body {
+            margin-left: 25px;
+        }
+
+        .episode-thumbnail {
+            cursor: pointer;
+            margin-bottom: 5px;
+        }
+
+        .episode-thumbnail img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 4px;
+        }
+
+        .episode-controls {
+            margin-bottom: 5px;
+        }
+
+        .preview-btn {
+            padding: 5px 10px;
+            font-size: 14px;
+            background: #ff7e5f;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .episode-hot {
+            margin-top: 5px;
+        }
+
+        .episode-hot img {
+            width: 14px;
+            height: auto;
+            margin-right: 2px;
+        }
+
+        /* 底部导航栏 */
+        #bottomNav {
+            width: 100%;
+            background: #fff;
+            border-top: 1px solid #ddd;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px 0;
+        }
+
+        @media (max-width: 768px) {
+            #bottomNav {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                z-index: 9999;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <script>
+        window.addEventListener('load', function () {
+            var gtm = document.createElement('script');
+            gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF';
+            gtm.async = true;
+            document.body.appendChild(gtm);
+        });
+    </script>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="container">
+        <header>
+            <a href="index.html">← 返回首页</a>
+        </header>
+
+        <!-- 热播榜分组展示区域 -->
+        <div id="hotListContainer"></div>
+    </div>
+
+    <!-- 底部导航栏 -->
+    <nav id="bottomNav"
+        style="position:fixed; bottom:0; left:0; width:100%; background:#fff; border-top:1px solid #ddd; display:flex; justify-content:space-around; padding:10px 0; z-index:9999;">
+        <a href="index.html" style="text-decoration:none; color:#333; font-weight:bold;">首页</a>
+        <a href="hotList.html" style="position: relative; text-decoration:none; color:#333; font-weight:bold;">
+            热播榜
+            <span
+                style="position: absolute; top: -5px; right: -10px; width: 10px; height: 10px; background: red; border-radius: 50%;"></span>
+        </a>
+    </nav>
+
+    <!-- 引入预处理数据文件 hotlistdata.js -->
+    <script src="js/hotlistdata.js"></script>
+    <!-- 引入 hotlist.js -->
+    <script src="js/hotlist.js"></script>
+</body>
+
+</html>

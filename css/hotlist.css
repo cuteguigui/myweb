@@ -1,0 +1,28 @@
+/* 例如在 custom.css 中添加 */
+#bottomNav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    z-index: 9999;
+}
+
+#bottomNav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+@media (min-width: 768px) {
+
+    /* 可针对平板及桌面做调整 */
+    #bottomNav {
+        width: 600px;
+        margin: 0 auto;
+    }
+}

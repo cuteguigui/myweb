@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8" />
 	<title>Latest Hot Global Drama | Watch Full Movie Online | Asia CJK Drama|Cocomovie.top</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you." name="description" />
-    <!-- 引入 Swiper 样式 -->
+	<meta
+		content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you."
+		name="description" />
+	<!-- 引入 Swiper 样式 -->
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 	<!-- 异步加载广告脚本 -->
 	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
@@ -36,6 +39,10 @@
 		.container {
 			text-align: center;
 			padding: 0 10px;
+		}
+
+		.container {
+			padding-bottom: 60px; /* 或根据实际导航栏高度调整 */
 		}
 
 		.title {
@@ -256,6 +263,30 @@
 				margin: 5px;
 			}
 		}
+
+		/* 默认不固定，避免在桌面端遮挡内容 */
+		#bottomNav {
+			width: 100%;
+			background: #fff;
+			border-top: 1px solid #ddd;
+			display: flex;
+			justify-content: space-around;
+			padding: 10px 0;
+		}
+
+		/* 移动端：固定在底部 */
+		@media (max-width: 768px) {
+			#bottomNav {
+				position: fixed;
+				bottom: 0;
+				left: 0;
+				z-index: 9999;
+			}
+			/* 同时，为主要内容区域增加下边距 */
+			.container {
+				padding-bottom: 60px; /* 确保内容不被覆盖 */
+			}
+		}
 	</style>
 </head>
 
@@ -278,7 +309,7 @@
 			<!-- 未来可加更多语言 -->
 		</select>
 	</div>
-	
+
 	<script>
 		// 页面载入时，根据当前域名预选中下拉项
 		const currentHost = location.hostname; // e.g. "cocomovie.top"
@@ -485,19 +516,36 @@
 			document.getElementById("loadMoreBtn").style.display = "none";
 		}
 	</script>
-<!-- 页面加载后延时加载剧集数据 -->
-<script>
-	document.addEventListener("DOMContentLoaded", function () {
-		setTimeout(function () {
-			loadThumbnails(currentTab);
-		}, 100);
+	<!-- 页面加载后延时加载剧集数据 -->
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			setTimeout(function () {
+				loadThumbnails(currentTab);
+			}, 100);
 
-		// 为 "Load More" 按钮绑定点击事件
-		document.getElementById("loadMoreBtn").addEventListener("click", function () {
-			loadThumbnails(currentTab);
+			// 为 "Load More" 按钮绑定点击事件
+			document.getElementById("loadMoreBtn").addEventListener("click", function () {
+				loadThumbnails(currentTab);
+			});
 		});
-	});
-</script>
+	</script>
+<!-- 底部导航栏 -->
+<nav id="bottomNav"
+	style="position:fixed; bottom:0; left:0; width:100%; background:#fff; border-top:1px solid #ddd; display:flex; justify-content:space-around; padding:10px 0; z-index:9999;">
+	<a href="index.html" style="text-decoration:none; color:#333; font-weight:bold;">首页</a>
+	<a href="hotList.html" style="position: relative; text-decoration:none; color:#333; font-weight:bold;">
+		热播榜
+		<span style="
+            position: absolute;
+            top: -5px;
+            right: -10px;
+            width: 10px;
+            height: 10px;
+            background: red;
+            border-radius: 50%;
+            "></span>
+	</a>
+</nav>
 </body>
 
 </html>
