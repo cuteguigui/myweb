@@ -8,7 +8,7 @@
         content="Discover the top trending dramas on Cocomovie.top. Stay updated with hot picks from Asia to Hollywood. Watch free HD previews and find your next binge-worthy show here.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- 引入 Swiper 样式（如果需要） -->
-    <link rel="stylesheet" href="css/hotlist.css">
+    <link rel="stylesheet" href="../css/hotlist.css">
     <style>
         /* 基本样式 */
         body {
@@ -153,7 +153,7 @@
 
     <div class="container">
         <header>
-            <a href="index.html">← Back to home page</a>
+            <a href="../index.html">← Back to home page</a>
         </header>
 
         <!-- 热播榜分组展示区域 -->
@@ -163,7 +163,7 @@
     <!-- 底部导航栏 -->
     <nav id="bottomNav"
         style="position:fixed; bottom:0; left:0; width:100%; background:#fff; border-top:1px solid #ddd; display:flex; justify-content:space-around; padding:10px 0; z-index:9999;">
-        <a href="index.html" style="text-decoration:none; color:#333; font-weight:bold;">Home page</a>
+        <a href="../index.html" style="text-decoration:none; color:#333; font-weight:bold;">Home page</a>
         <a href="javascript:window.location.reload()" style="position: relative; text-decoration:none; color:#333; font-weight:bold;">
             Hot broadcast
             <span
@@ -171,9 +171,9 @@
         </a>
     </nav>
 
-    <!-- 引入数据和脚本 (同在根目录下) -->
-    <script src="js/hotlistdata.js"></script>
-    <script src="js/hotlist.js"></script>
+    <!-- 引入数据和脚本：同样返回上一层 ../js/... -->
+    <script src="../js/hotlistdata.js"></script>
+    <script src="../js/hotlist.js"></script>
 </body>
 
 </html>

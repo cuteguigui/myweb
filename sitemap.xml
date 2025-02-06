@@ -11,7 +11,7 @@
 
   <!-- 热播榜页面 -->
   <url>
-    <loc>https://cocomovie.top/hotlist.html/</loc>
+    <loc>https://cocomovie.top/hotlist/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

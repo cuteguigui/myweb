@@ -82,7 +82,7 @@ function generateHotList() {
       previewBtn.innerText = 'preview';
       previewBtn.onclick = function (e) {
         e.stopPropagation();
-        window.location.href = 'videoPlayer.html?videoUrl=' + encodeURIComponent(episode.video);
+        window.location.href = '../videoPlayer.html?videoUrl=' + encodeURIComponent(episode.video);
       };
       controlsDiv.appendChild(previewBtn);
       body.appendChild(controlsDiv);
@@ -92,7 +92,7 @@ function generateHotList() {
       hotDiv.className = 'episode-hot';
       for (let i = 0; i < episode.heat; i++) {
         const hotImg = document.createElement('img');
-        hotImg.src = 'hot.webp';
+        hotImg.src = '../hot.webp';
         hotImg.alt = 'hot';
         hotDiv.appendChild(hotImg);
       }
