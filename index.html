@@ -5,7 +5,6 @@
 	<meta charset="utf-8" />
 	<title>Latest Hot Global Drama | Watch Full Movie Online | Asia CJK Drama|Cocomovie.top</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta
 		content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you."
 		name="description" />
@@ -40,10 +39,8 @@
 		.container {
 			text-align: center;
 			padding: 0 10px;
-		}
-
-		.container {
-			padding-bottom: 60px; /* 或根据实际导航栏高度调整 */
+			/* 为防止固定导航栏遮挡，预留底部空间 */
+			padding-bottom: 60px;
 		}
 
 		.title {
@@ -181,10 +178,6 @@
 			display: none;
 		}
 
-		html, body {
-		min-height: 100vh;
-		}
-
 		/* ----------------------- 缩略图及新结构样式 ----------------------- */
 		.thumbnail {
 			border: 1px solid #ddd;
@@ -269,30 +262,28 @@
 			}
 		}
 
-		/* 默认不固定，避免在桌面端遮挡内容 */
+		/* ----------------------- 底部固定导航栏 ----------------------- */
 		#bottomNav {
+			position: fixed;
+			bottom: 0;
+			left: 0;
 			width: 100%;
 			background: #fff;
 			border-top: 1px solid #ddd;
 			display: flex;
 			justify-content: space-around;
+			align-items: center;
 			padding: 10px 0;
-		}
-
-		/* 底部导航栏：移动端固定 */
-		@media (max-width: 768px) {
-		  #bottomNav {
-			position: fixed;
-			bottom: 0;
-			left: 0;
-			width: 100%;
 			z-index: 9999;
-		  }
 		}
 
-		/* 主要内容区域增加足够的下边距，确保固定导航栏不遮挡内容 */
-		.container {
-		  padding-bottom: 100px; /* 调整到 100px 或根据实际导航栏高度设置 */
+		/* 手机端导航栏文字加大，保证点击区域足够 */
+		@media (max-width: 600px) {
+			#bottomNav a {
+				font-size: 18px;
+				flex: 1;
+				text-align: center;
+			}
 		}
 	</style>
 </head>
@@ -536,13 +527,12 @@
 			});
 		});
 	</script>
-<!-- 底部导航栏 -->
-<nav id="bottomNav"
-	style="position:fixed; bottom:0; left:0; width:100%; background:#fff; border-top:1px solid #ddd; display:flex; justify-content:space-around; padding:10px 0; z-index:9999;">
-	<a href="index.html" style="text-decoration:none; color:#333; font-weight:bold;">首页</a>
-	<a href="hotlist.html" style="position: relative; text-decoration:none; color:#333; font-weight:bold;">
-		热播榜
-		<span style="
+	<!-- 底部导航栏 -->
+	<nav id="bottomNav">
+		<a href="index.html" style="text-decoration:none; color:#333; font-weight:bold;">首页</a>
+		<a href="hotlist.html" style="position: relative; text-decoration:none; color:#333; font-weight:bold;">
+			热播榜
+			<span style="
             position: absolute;
             top: -5px;
             right: -10px;
@@ -551,8 +541,8 @@
             background: red;
             border-radius: 50%;
             "></span>
-	</a>
-</nav>
+		</a>
+	</nav>
 </body>
 
 </html>
