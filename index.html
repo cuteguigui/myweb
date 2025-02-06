@@ -146,10 +146,6 @@
 			line-height: 1.5;
 		}
 
-		.header {
-			margin: 20px 0;
-		}
-
 		.search-bar {
 			display: flex;
 			justify-content: center;
@@ -257,7 +253,7 @@
 		@media (max-width: 1024px) {
 			.thumbnail {
 				width: calc(33.33% - 20px);
-				/* 减点以防万一 */
+				/* 减一些以防万一 */
 				margin: 10px;
 			}
 		}
@@ -301,7 +297,6 @@
 			box-sizing: border-box;
 		}
 
-		/* 手机端导航栏文字加大，保证点击区域足够 */
 		#bottomNav a {
 			text-decoration: none;
 			color: #333;
@@ -314,6 +309,35 @@
 		@media (max-width: 600px) {
 			#bottomNav a {
 				font-size: 18px;
+			}
+		}
+
+		/* 小红点 + 动画 */
+		.red-dot {
+			position: absolute;
+			top: -5px;
+			right: -10px;
+			width: 10px;
+			height: 10px;
+			background: red;
+			border-radius: 50%;
+			animation: pulse 1s infinite;
+		}
+
+		@keyframes pulse {
+			0% {
+				transform: scale(1);
+				opacity: 1;
+			}
+
+			50% {
+				transform: scale(1.5);
+				opacity: 0.4;
+			}
+
+			100% {
+				transform: scale(1);
+				opacity: 1;
 			}
 		}
 	</style>
@@ -339,6 +363,7 @@
 			<!-- 可加更多语言 -->
 		</select>
 	</div>
+
 	<script>
 		// 页面载入时，根据当前域名预选中下拉项
 		const currentHost = location.hostname; // e.g. "cocomovie.top"
@@ -446,7 +471,7 @@
 		</div>
 	</div>
 
-	<!-- 引入剧集数据 -->
+	<!-- 引入剧集数据 (你需确保 thumbnailsData.js 同目录并内容符合需求) -->
 	<script src="thumbnailsData.js"></script>
 
 	<!-- 全局变量定义 -->
@@ -576,31 +601,12 @@
 	</script>
 
 	<!-- 底部导航栏 -->
-	<nav id="bottomNav" style="
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      background: #fff;
-      border-top: 1px solid #ddd;
-      display: flex;
-      justify-content: space-around;
-      padding: 10px 0;
-      z-index: 9999;
-      box-sizing: border-box;
-    ">
+	<nav id="bottomNav">
 		<a href="index.html">首页</a>
 		<a href="hotlist.html" style="position: relative;">
 			热播榜
-			<span style="
-          position: absolute;
-          top: -5px;
-          right: -10px;
-          width: 10px;
-          height: 10px;
-          background: red;
-          border-radius: 50%;
-        "></span>
+			<!-- 动态小红点带脉冲动画 -->
+			<span class="red-dot"></span>
 		</a>
 	</nav>
 </body>
