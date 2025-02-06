@@ -234,6 +234,9 @@
 			background: #feb47b;
 		}
 
+		body {
+			min-height: 100vh;
+		}
 		/* ----------------------- 响应式调整 ----------------------- */
 		@media (max-width: 1024px) {
 			.thumbnail {
@@ -280,13 +283,14 @@
 				position: fixed;
 				bottom: 0;
 				left: 0;
+				width: 100%;
 				z-index: 9999;
 			}
-			/* 同时，为主要内容区域增加下边距 */
 			.container {
-				padding-bottom: 60px; /* 确保内容不被覆盖 */
+				padding-bottom: 80px; /* 可以适当增大，例如 80px 或 100px */
 			}
 		}
+
 	</style>
 </head>
 
