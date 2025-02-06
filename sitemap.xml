@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- sitemap.xml 放在 https://cocomovie.top/sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 网站首页 -->
+  <url>
+    <loc>https://cocomovie.top/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 热播榜页面 -->
+  <url>
+    <loc>https://cocomovie.top/hotlist/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 如果还有其它重要页面，也可依此添加 -->
+  <!--
+  <url>
+    <loc>https://cocomovie.top/some-other-page/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  -->
+</urlset>

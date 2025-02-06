@@ -1,79 +1,3 @@
-// hotlist.js
-
-// 使用测试数据生成热播榜内容
-// 数据按分组存放，这里构造两组测试数据
-const testGroups = {
-  "1.13-1.19": [
-    {
-      title: "Love Beyond Doubt",
-      video: "https://cdn.cocomovie.top/Love Beyond Doubt.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675c1310295dd",
-      thumb: "0/G1.webp"
-    },
-    {
-      title: "The Hero Uncovered",
-      video: "https://cdn.cocomovie.top/The Hero Uncovered.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675bf06832bf5",
-      thumb: "0/G2.webp"
-    },
-    {
-      title: "CEO's Cupid Kid",
-      video: "https://cdn.cocomovie.top/CEO's Cupid Kid.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675be88f7b775",
-      thumb: "0/G3.webp"
-    },
-    {
-      title: "Vampire's Remedy",
-      video: "https://cdn.cocomovie.top/Vampire's Remedy.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675ba42f7d5b9",
-      thumb: "0/G4.webp"
-    },
-    {
-      title: "CEO's Love Chase",
-      video: "https://cdn.cocomovie.top/CEO's Love Chase.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675b9b100d503",
-      thumb: "0/G6.webp"
-    },
-    {
-      title: "Family Rescue Gone Wrong",
-      video: "https://cdn.cocomovie.top/Family Rescue Gone Wrong.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675b9b28293a7",
-      thumb: "0/G7.webp"
-    },
-    {
-      title: "Secretly Wed To a Tycoon",
-      video: "https://cdn.cocomovie.top/Secretly Wed To a Tycoon.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675b9b3da493a",
-      thumb: "0/G8.webp"
-    }
-  ],
-  "12.9-12.15": [
-    {
-      title: "When Jasmines Bloom",
-      video: "https://cdn.cocomovie.top/When Jasmines Bloom.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675b9b4febf96",
-      thumb: "0/G9.webp"
-    },
-    {
-      title: "Quit Job, Married Boss",
-      video: "https://cdn.cocomovie.top/Quit Job, Married Boss.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675bbfbcee66f",
-      thumb: "0/G10.webp"
-    },
-    {
-      title: "Divorce Does Me Good",
-      video: "https://cdn.cocomovie.top/Divorce Does Me Good.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675bbfd65e185",
-      thumb: "0/G11.webp"
-    },
-    {
-      title: "Swap Life With The Tycoon",
-      video: "https://cdn.cocomovie.top/Swap Life With The Tycoon.mp4",
-      commission: "https://short.kalostv.com/api/short/jump/675bc00b37985",
-      thumb: "0/G12.webp"
-    }
-  ]
-};
 
 // 生成热播榜页面内容，每个剧集条目按以下结构生成：
 //
@@ -158,7 +82,7 @@ function generateHotList() {
       previewBtn.innerText = 'preview';
       previewBtn.onclick = function (e) {
         e.stopPropagation();
-        window.location.href = 'videoPlayer.html?videoUrl=' + encodeURIComponent(episode.video);
+        window.location.href = '../videoPlayer.html?videoUrl=' + encodeURIComponent(episode.video);
       };
       controlsDiv.appendChild(previewBtn);
       body.appendChild(controlsDiv);
@@ -168,7 +92,7 @@ function generateHotList() {
       hotDiv.className = 'episode-hot';
       for (let i = 0; i < episode.heat; i++) {
         const hotImg = document.createElement('img');
-        hotImg.src = 'hot.webp';
+        hotImg.src = '../hot.webp';
         hotImg.alt = 'hot';
         hotDiv.appendChild(hotImg);
       }
