@@ -22,36 +22,52 @@
 				j = d.createElement(s),
 				dl = l != 'dataLayer' ? '&l=' + l : '';
 			j.async = true;
-			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
 			f.parentNode.insertBefore(j, f);
 		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
 	</script>
 	<!-- End Google Tag Manager -->
+
 	<style>
-		/* ----------------------- 基本样式 ----------------------- */
+		/* 让页面不出现水平方向滚动 */
+		html,
 		body {
-			font-family: Arial, sans-serif;
 			margin: 0;
 			padding: 0;
+			max-width: 100%;
+			overflow-x: hidden;
+			font-family: Arial, sans-serif;
 			text-align: center;
 		}
 
+		/* ----------------------- 容器与标题 ----------------------- */
 		.container {
 			text-align: center;
 			padding: 0 10px;
 			/* 为防止固定导航栏遮挡，预留底部空间 */
 			padding-bottom: 60px;
+			box-sizing: border-box;
 		}
 
 		.title {
 			color: red;
 			padding: 10px;
 			border-radius: 4px;
+			/* 如果屏幕过小，54px 字体可能过大；可用响应式或换算单位 */
 			font-size: 54px;
 			margin-bottom: 5px;
 			display: flex;
 			align-items: center;
 			justify-content: center;
+		}
+
+		@media (max-width: 600px) {
+
+			/* 小屏时，让标题更小一点，避免撑宽 */
+			.title {
+				font-size: 32px;
+			}
 		}
 
 		.title img {
@@ -72,9 +88,10 @@
 			max-width: 800px;
 			position: relative;
 			margin: 0 auto 20px auto;
-			/* 16:9 纵横比 */
+			/* 16:9 纵横比，通过 padding-bottom 来维持高度 */
 			height: 0;
 			padding-bottom: 56.25%;
+			box-sizing: border-box;
 		}
 
 		.swiper-wrapper {
@@ -96,6 +113,7 @@
 			width: 100%;
 			height: 100%;
 			object-fit: cover;
+			display: block;
 		}
 
 		.swiper-button-prev,
@@ -116,6 +134,7 @@
 			margin: 20px 0;
 			text-align: left;
 			padding: 0 15px;
+			box-sizing: border-box;
 		}
 
 		.content-section h2 {
@@ -149,13 +168,7 @@
 			max-width: 180px;
 			font-size: 16px;
 			border-radius: 20px;
-		}
-
-		.thumbnail-container {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-			gap: 10px;
+			box-sizing: border-box;
 		}
 
 		.subtitle {
@@ -179,6 +192,13 @@
 		}
 
 		/* ----------------------- 缩略图及新结构样式 ----------------------- */
+		.thumbnail-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 10px;
+		}
+
 		.thumbnail {
 			border: 1px solid #ddd;
 			border-radius: 8px;
@@ -188,6 +208,7 @@
 			flex-direction: column;
 			background: #fff;
 			width: 30%;
+			box-sizing: border-box;
 		}
 
 		.thumb-image {
@@ -235,14 +256,16 @@
 		/* ----------------------- 响应式调整 ----------------------- */
 		@media (max-width: 1024px) {
 			.thumbnail {
-				width: calc(33.33% - 10px);
+				width: calc(33.33% - 20px);
+				/* 减点以防万一 */
+				margin: 10px;
 			}
 		}
 
 		@media (max-width: 600px) {
 			.thumbnail {
-				width: calc(50% - 10px);
-				margin: 5px;
+				width: calc(50% - 20px);
+				margin: 10px;
 			}
 
 			.episode-info .episode-title {
@@ -257,8 +280,8 @@
 
 		@media (max-width: 400px) {
 			.thumbnail {
-				width: calc(100% - 10px);
-				margin: 5px;
+				width: calc(100% - 20px);
+				margin: 10px auto;
 			}
 		}
 
@@ -275,14 +298,22 @@
 			align-items: center;
 			padding: 10px 0;
 			z-index: 9999;
+			box-sizing: border-box;
 		}
 
 		/* 手机端导航栏文字加大，保证点击区域足够 */
+		#bottomNav a {
+			text-decoration: none;
+			color: #333;
+			font-weight: bold;
+			/* 给链接均分空间，增加点击热区 */
+			flex: 1;
+			text-align: center;
+		}
+
 		@media (max-width: 600px) {
 			#bottomNav a {
 				font-size: 18px;
-				flex: 1;
-				text-align: center;
 			}
 		}
 	</style>
@@ -299,15 +330,15 @@
 		});
 	</script>
 	<!-- End Google Tag Manager (noscript) -->
-	<!-- 示例：在右上角放一个 select 下拉 -->
-	<div style="position:absolute; top:10px; right:10px;">
+
+	<!-- 示例：右上角放一个语言切换的 select 下拉 -->
+	<div style="position: absolute; top: 10px; right: 10px;">
 		<select id="langSelect">
 			<option value="https://cocomovie.top" data-lang="en">English</option>
 			<option value="https://es.cocomovie.top" data-lang="es">Español</option>
-			<!-- 未来可加更多语言 -->
+			<!-- 可加更多语言 -->
 		</select>
 	</div>
-
 	<script>
 		// 页面载入时，根据当前域名预选中下拉项
 		const currentHost = location.hostname; // e.g. "cocomovie.top"
@@ -319,7 +350,6 @@
 				break;
 			}
 		}
-
 		// 切换事件：跳转到对应子域名
 		langSelect.addEventListener("change", function () {
 			window.location.href = this.value;
@@ -332,6 +362,7 @@
 			Hot Drama
 		</div>
 		<div class="gradient-box"></div>
+
 		<!-- 轮播图 -->
 		<div class="swiper-container">
 			<div class="swiper-wrapper">
@@ -372,12 +403,14 @@
 			<!-- 分页器 -->
 			<div class="swiper-pagination"></div>
 		</div>
+
 		<!-- 新内容区域 -->
 		<div class="subtitle">
 			<img alt="Icon" src="search.webp" />
 			Search More Drama
 		</div>
 		<div class="gradient-box"></div>
+
 		<div class="content-section">
 			<div class="search-bar">
 				<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
@@ -394,10 +427,13 @@
 				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
 					type="text" />
 			</div>
+
 			<div class="thumbnail-container" id="thumbnailContainer"></div>
-			<div style="text-align:center; margin: 20px;">
+
+			<div style="text-align: center; margin: 20px;">
 				<button id="loadMoreBtn">Load More</button>
 			</div>
+
 			<script>
 				function changeTab(selectedValue) {
 					currentTab = selectedValue;
@@ -409,15 +445,17 @@
 			</script>
 		</div>
 	</div>
+
 	<!-- 引入剧集数据 -->
 	<script src="thumbnailsData.js"></script>
+
 	<!-- 全局变量定义 -->
 	<script>
-		// 全局变量定义
 		let currentTab = "0"; // 默认英语类别
 		const batchSize = 50;
 		const loadedCounts = {};
-		// 按批次加载函数（保持原有逻辑）
+
+		// 按批次加载函数
 		function loadThumbnails(tab) {
 			const container = document.getElementById("thumbnailContainer");
 			if (!loadedCounts[tab]) {
@@ -426,30 +464,35 @@
 			const startIndex = loadedCounts[tab];
 			const thumbnailsArray = thumbnailsData[tab] || [];
 			const endIndex = Math.min(startIndex + batchSize, thumbnailsArray.length);
+
 			for (let i = startIndex; i < endIndex; i++) {
 				const tempDiv = document.createElement("div");
 				tempDiv.innerHTML = thumbnailsArray[i];
 				container.appendChild(tempDiv.firstElementChild);
 			}
 			loadedCounts[tab] = endIndex;
+
 			const loadMoreBtn = document.getElementById("loadMoreBtn");
-			loadMoreBtn.style.display = loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
+			loadMoreBtn.style.display =
+				loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
 		}
-		// 绑定点击事件，确保只响应用户操作
+
+		// 点击事件：预览/跳转
 		document.getElementById("thumbnailContainer").addEventListener("click", function (event) {
 			if (!event.isTrusted) return;
-			// 点击“点击预览”按钮时，跳转到新页面播放视频
+
+			// 点击“点击预览”按钮
 			if (event.target.closest(".preview-btn")) {
 				const thumbnailEl = event.target.closest(".thumbnail");
 				const videoUrl = thumbnailEl.getAttribute("data-video");
 				if (videoUrl) {
-					// 跳转到 videoPlayer.html 页面，并传递视频链接参数
 					window.location.href = 'videoPlayer.html?videoUrl=' + encodeURIComponent(videoUrl);
 				}
 				event.stopPropagation();
 				return;
 			}
-			// 点击缩略图区域或剧集标题跳转佣金链接
+
+			// 点击缩略图区域或剧集标题
 			if (event.target.closest(".thumb-image") || event.target.closest(".episode-title")) {
 				const thumbnailEl = event.target.closest(".thumbnail");
 				const commissionUrl = thumbnailEl.getAttribute("data-commission");
@@ -460,14 +503,16 @@
 				return;
 			}
 		});
-		// 页面加载后延时加载剧集数据，确保页面渲染稳定
+
+		// 页面加载后延时加载剧集数据
 		document.addEventListener("DOMContentLoaded", function () {
 			setTimeout(function () {
 				loadThumbnails(currentTab);
 			}, 100);
 		});
 	</script>
-	<!-- 引入 Swiper 脚本（只引入一次） -->
+
+	<!-- 引入 Swiper 脚本 -->
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script>
 		var mySwiper = new Swiper('.swiper-container', {
@@ -487,25 +532,29 @@
 			speed: 1000,
 		});
 	</script>
+
 	<script>
+		// 搜索过滤
 		function filterThumbnails() {
 			const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
 			const tab = currentTab;
 			const container = document.getElementById("thumbnailContainer");
 			container.innerHTML = "";
-			if (!thumbnailsData[tab]) {
-				return;
-			}
+
+			if (!thumbnailsData[tab]) return;
+
 			if (searchTerm === "") {
 				loadedCounts[tab] = 0;
 				loadThumbnails(tab);
 				document.getElementById("loadMoreBtn").style.display = "block";
 				return;
 			}
+
 			const allItems = thumbnailsData[tab];
 			let filteredItems = allItems.filter(item => {
 				return item.toLowerCase().includes(searchTerm);
 			});
+
 			filteredItems.forEach(htmlSnippet => {
 				let tempDiv = document.createElement("div");
 				tempDiv.innerHTML = htmlSnippet;
@@ -513,32 +562,47 @@
 			});
 			document.getElementById("loadMoreBtn").style.display = "none";
 		}
-	</script>
-	<!-- 页面加载后延时加载剧集数据 -->
-	<script>
+
+		// “Load More”按钮
 		document.addEventListener("DOMContentLoaded", function () {
 			setTimeout(function () {
 				loadThumbnails(currentTab);
 			}, 100);
 
-			// 为 "Load More" 按钮绑定点击事件
 			document.getElementById("loadMoreBtn").addEventListener("click", function () {
 				loadThumbnails(currentTab);
 			});
 		});
 	</script>
+
 	<!-- 底部导航栏 -->
-<!-- 底部导航栏 -->
-<nav id="bottomNav"
-	style="position: fixed; bottom: 0; left: 0; width: 100%; background: #fff; border-top: 1px solid #ddd; display: flex; justify-content: space-around; padding: 10px 0; z-index: 9999;">
-	<a href="index.html" style="text-decoration: none; color: #333; font-weight: bold;">首页</a>
-	<a href="hotlist.html"
-		style="position: relative; text-decoration: none; color: #333; font-weight: bold;">
-		热播榜
-		<span
-			style="position: absolute; top: -5px; right: -10px; width: 10px; height: 10px; background: red; border-radius: 50%;"></span>
-	</a>
-</nav>
+	<nav id="bottomNav" style="
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: #fff;
+      border-top: 1px solid #ddd;
+      display: flex;
+      justify-content: space-around;
+      padding: 10px 0;
+      z-index: 9999;
+      box-sizing: border-box;
+    ">
+		<a href="index.html">首页</a>
+		<a href="hotlist.html" style="position: relative;">
+			热播榜
+			<span style="
+          position: absolute;
+          top: -5px;
+          right: -10px;
+          width: 10px;
+          height: 10px;
+          background: red;
+          border-radius: 50%;
+        "></span>
+		</a>
+	</nav>
 </body>
 
 </html>
