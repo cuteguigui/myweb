@@ -5,6 +5,7 @@
 	<meta charset="utf-8" />
 	<title>Latest Hot Global Drama | Watch Full Movie Online | Asia CJK Drama|Cocomovie.top</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta
 		content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you."
 		name="description" />
@@ -180,6 +181,10 @@
 			display: none;
 		}
 
+		html, body {
+		min-height: 100vh;
+		}
+
 		/* ----------------------- 缩略图及新结构样式 ----------------------- */
 		.thumbnail {
 			border: 1px solid #ddd;
@@ -274,18 +279,20 @@
 			padding: 10px 0;
 		}
 
-		/* 移动端：固定在底部 */
+		/* 底部导航栏：移动端固定 */
 		@media (max-width: 768px) {
-			#bottomNav {
-				position: fixed;
-				bottom: 0;
-				left: 0;
-				z-index: 9999;
-			}
-			/* 同时，为主要内容区域增加下边距 */
-			.container {
-				padding-bottom: 60px; /* 确保内容不被覆盖 */
-			}
+		  #bottomNav {
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+			z-index: 9999;
+		  }
+		}
+
+		/* 主要内容区域增加足够的下边距，确保固定导航栏不遮挡内容 */
+		.container {
+		  padding-bottom: 100px; /* 调整到 100px 或根据实际导航栏高度设置 */
 		}
 	</style>
 </head>
