@@ -102,7 +102,7 @@ function generateHotList() {
     // 分组标题
     const weekTitle = document.createElement('h2');
     weekTitle.className = 'week-title';
-    weekTitle.innerText = `周热门榜单 ${weekRange}`;
+    weekTitle.innerText = `Weekly hot list ${weekRange}`;
     weekSection.appendChild(weekTitle);
 
     // 创建剧集列表容器
