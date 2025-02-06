@@ -10,9 +10,11 @@
 		name="description" />
 	<!-- 引入 Swiper 样式 -->
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
 	<!-- 异步加载广告脚本 -->
 	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
 		async></script>
+
 	<!-- Google Tag Manager -->
 	<script>
 		(function (w, d, s, l, i) {
@@ -253,7 +255,6 @@
 		@media (max-width: 1024px) {
 			.thumbnail {
 				width: calc(33.33% - 20px);
-				/* 减一些以防万一 */
 				margin: 10px;
 			}
 		}
@@ -301,9 +302,10 @@
 			text-decoration: none;
 			color: #333;
 			font-weight: bold;
-			/* 给链接均分空间，增加点击热区 */
 			flex: 1;
 			text-align: center;
+			position: relative;
+			/* 为放置小红点做准备 */
 		}
 
 		@media (max-width: 600px) {
@@ -312,7 +314,7 @@
 			}
 		}
 
-		/* 小红点 + 动画 */
+		/* 小红点 + 简单脉冲动画 */
 		.red-dot {
 			position: absolute;
 			top: -5px;
@@ -321,7 +323,7 @@
 			height: 10px;
 			background: red;
 			border-radius: 50%;
-			animation: pulse 1s infinite;
+			animation: pulse 1.2s infinite;
 		}
 
 		@keyframes pulse {
@@ -363,7 +365,6 @@
 			<!-- 可加更多语言 -->
 		</select>
 	</div>
-
 	<script>
 		// 页面载入时，根据当前域名预选中下拉项
 		const currentHost = location.hostname; // e.g. "cocomovie.top"
@@ -471,7 +472,7 @@
 		</div>
 	</div>
 
-	<!-- 引入剧集数据 (你需确保 thumbnailsData.js 同目录并内容符合需求) -->
+	<!-- 引入剧集数据(需确保 thumbnailsData.js 存在且路径正确) -->
 	<script src="thumbnailsData.js"></script>
 
 	<!-- 全局变量定义 -->
@@ -600,12 +601,14 @@
 		});
 	</script>
 
-	<!-- 底部导航栏 -->
+	<!-- 底部导航栏：带小红点 (含动画) -->
 	<nav id="bottomNav">
-		<a href="index.html">首页</a>
+		<!-- 首页 -->
+		<a href="index.html">Home page</a>
+
+		<!-- 热播榜 带小红点 -->
 		<a href="hotlist.html" style="position: relative;">
-			热播榜
-			<!-- 动态小红点带脉冲动画 -->
+			Hot broadcast
 			<span class="red-dot"></span>
 		</a>
 	</nav>
