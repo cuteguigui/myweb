@@ -252,24 +252,56 @@
 			background: #feb47b;
 		}
 
-		#site-announcement {
-		  background: #fffbe8;         /* 柔和的米黄色背景 */
-		  color: #333;                /* 深色文字保证对比度 */
-		  border: 1px solid #ffd700;  /* 金色边框，提升视觉质感 */
-		  padding: 15px;
-		  font-size: 16px;
-		  margin: 10px auto;
-		  max-width: 800px;           /* 限制宽度，使内容更集中 */
-		  border-radius: 5px;
-		  text-align: center;
+		/* 自定义变量，便于后续调整 */
+		:root {
+		  --scroll-speed: 25s;             /* 文字滚动一轮所需时间 */
+		  --font-size: 1.125rem;           /* 公告文字大小 */
+		  --font-family: "Arial, sans-serif";  /* 公告字体 */
 		}
 
-		/* 手机端优化 */
-		@media (max-width: 600px) {
+		/* 公告容器（PC 端全宽显示，手机端则可适当收窄边距） */
+		#site-announcement {
+		  overflow: hidden;               /* 隐藏超出部分 */
+		  background-color: #fffbe8;       /* 柔和背景 */
+		  color: #333;                    /* 文字颜色 */
+		  border: 1px solid #ffd700;      /* 边框 */
+		  padding: 1rem 0;                /* 垂直内边距 */
+		  margin: 0;                      /* PC端全宽显示 */
+		  width: 100vw;                   /* 占满视口宽度 */
+		  box-sizing: border-box;
+		  border-radius: 0;               /* PC端全宽时可去掉圆角 */
+		}
+
+		/* 滚动文字 */
+		#site-announcement .ticker {
+		  display: inline-block;
+		  white-space: nowrap;            /* 保持一行显示 */
+		  font-size: var(--font-size);
+		  font-family: var(--font-family);
+		  /* 初始10%保持静止，后续滚动 */
+		  animation: scroll var(--scroll-speed) linear infinite;
+		}
+
+		/* 关键帧动画：0%～10%时文字保持原位，随后开始从右向左滚动 */
+		@keyframes scroll {
+		  0%, 10% {
+			transform: translateX(0);
+		  }
+		  100% {
+			transform: translateX(-100%);
+		  }
+		}
+
+		/* 手机和平板端优化（增加左右内边距） */
+		@media (max-width: 768px) {
 		  #site-announcement {
-			font-size: 14px;
-			padding: 10px;
-			margin: 5px;
+		    padding: 1rem;
+			width: 90%;             /* 手机端可适当缩窄 */
+			margin: 1rem auto;      /* 居中显示 */
+			border-radius: 0.5rem;  /* 增加圆角效果 */
+		  }
+		  #site-announcement .ticker {
+			font-size: calc(var(--font-size) * 0.9);
 		  }
 		}
 
@@ -380,15 +412,6 @@
 			Hot Drama
 		</div>
 		<div class="gradient-box"></div>
-		<div id="site-announcement">
-			All episodes on this site are the latest and hottest short dramas from around the world, licensed, click on the image to
-			watch the full episode.
-			(A small number of advertised episodes have not been uploaded on this site, click on any of the images to go to the main
-			site to watch the whole episode.)
-			
-			If you don't know what to watch, click on HOT BROADCAST!
-		</div>
-
 
 		<!-- 轮播图 -->
 		<div class="swiper-container">
@@ -429,6 +452,16 @@
 			<div class="swiper-button-next"></div>
 			<!-- 分页器 -->
 			<div class="swiper-pagination"></div>
+		</div>
+		<div id="site-announcement">
+			<div class="ticker">
+				All episodes on this site are the latest and hottest short dramas from around the world, licensed, click on the image to
+				watch the full episode.
+				(A small number of advertised episodes have not been uploaded on this site, click on any of the images to go to the main
+				site to watch the whole episode.)
+				
+				If you don't know what to watch, click on HOT BROADCAST!
+			</div>
 		</div>
 
 		<!-- 新内容区域 -->
