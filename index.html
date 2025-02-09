@@ -252,6 +252,27 @@
 			background: #feb47b;
 		}
 
+		#site-announcement {
+		  background: #fffbe8;         /* 柔和的米黄色背景 */
+		  color: #333;                /* 深色文字保证对比度 */
+		  border: 1px solid #ffd700;  /* 金色边框，提升视觉质感 */
+		  padding: 15px;
+		  font-size: 16px;
+		  margin: 10px auto;
+		  max-width: 800px;           /* 限制宽度，使内容更集中 */
+		  border-radius: 5px;
+		  text-align: center;
+		}
+
+		/* 手机端优化 */
+		@media (max-width: 600px) {
+		  #site-announcement {
+			font-size: 14px;
+			padding: 10px;
+			margin: 5px;
+		  }
+		}
+
 		/* ----------------------- 响应式调整 ----------------------- */
 		@media (max-width: 1024px) {
 			.thumbnail {
@@ -359,6 +380,15 @@
 			Hot Drama
 		</div>
 		<div class="gradient-box"></div>
+		<div id="site-announcement">
+			All episodes on this site are the latest and hottest short dramas from around the world, licensed, click on the image to
+			watch the full episode.
+			(A small number of advertised episodes have not been uploaded on this site, click on any of the images to go to the main
+			site to watch the whole episode.)
+			
+			If you don't know what to watch, click on HOT BROADCAST!
+		</div>
+
 
 		<!-- 轮播图 -->
 		<div class="swiper-container">
