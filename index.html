@@ -16,21 +16,7 @@
 	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
 		async></script>
 
-	<!-- Google Tag Manager -->
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-TS48XJVF');
-	</script>
-	<!-- End Google Tag Manager -->
+	<!-- Google Tag Manager 脚本已移至底部延迟加载 -->
 
 	<style>
 		/* 让页面不出现水平方向滚动 */
@@ -370,17 +356,7 @@
 </head>
 
 <body>
-	<!-- Google Tag Manager (noscript) -->
-	<script>
-		window.addEventListener('load', function () {
-			var gtm = document.createElement('script');
-			gtm.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF';
-			gtm.async = true;
-			document.body.appendChild(gtm);
-		});
-	</script>
-	<!-- End Google Tag Manager (noscript) -->
-
+	<!-- Google Tag Manager (noscript) 部分已移除，使用底部延迟加载方式 -->
 	<!-- 示例：右上角放一个语言切换的 select 下拉 -->
 	<div style="position: absolute; top: 10px; right: 10px;">
 		<select id="langSelect">
@@ -636,7 +612,33 @@
 	</script>
 
 	<!-- 底部导航栏 -->
-	<!-- 底部导航栏 -->
+	<!-- 延迟加载非关键脚本 -->
+	<script>
+		function loadScript(url, callback) {
+			var script = document.createElement('script');
+			script.src = url;
+			script.async = true;
+			script.onload = callback;
+			document.body.appendChild(script);
+		}
+
+		window.addEventListener('load', function () {
+			// 延迟 3000 毫秒加载 Google Tag Manager
+			setTimeout(function () {
+				loadScript('https://www.googletagmanager.com/gtm.js?id=GTM-TS48XJVF', function () {
+					console.log('GTM 脚本已加载');
+				});
+			}, 3000);
+
+			// 延迟 5000 毫秒加载广告脚本（根据需要）
+			setTimeout(function () {
+				loadScript('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572', function () {
+					console.log('广告脚本已加载');
+				});
+			}, 5000);
+		});
+	</script>
+
 	<nav id="bottomNav">
 		<a href="index.html">Home page</a>
 		<a href="hotlist/">
