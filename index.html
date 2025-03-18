@@ -4,24 +4,20 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Latest Hot Global Drama | Watch Full Movie Online | Asia CJK Drama|Cocomovie.top</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta
-		content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you."
-		name="description" />
-
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description"
+		content="Cocomovie.top focuses on popular global short dramas, daily updating Europe and the United States, Southeast Asia and Southeast Asia, Japan and South Korea, sweet favourite and other explosive micro short dramas! Watch free previews in Genuine HD, one-click to catch up with the high popularity of subjects such as rebellion, revenge, and mansion, and find a list of short dramas that belongs to you.">
 	<!-- 异步加载 Swiper 样式 -->
-	<link rel="preload" href="https://unpkg.com/swiper/swiper-bundle.min.css" as="style"
-		onload="this.onload=null;this.rel='stylesheet'">
+	<link rel="preload" as="style" href="https://unpkg.com/swiper/swiper-bundle.min.css"
+		onload="this.onload=null;this.rel='stylesheet'" />
 	<noscript>
-		<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+		<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 	</noscript>
-
 	<!-- 异步加载广告脚本 -->
-	<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"
-		async></script>
+	<script async
+		src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976057848601572"></script>
 
 	<!-- Google Tag Manager 脚本已移至底部延迟加载 -->
-
 	<style>
 		/* 让页面不出现水平方向滚动 */
 		html,
@@ -47,7 +43,6 @@
 			color: red;
 			padding: 10px;
 			border-radius: 4px;
-			/* 如果屏幕过小，54px 字体可能过大；可用响应式或换算单位 */
 			font-size: 54px;
 			margin-bottom: 5px;
 			display: flex;
@@ -198,18 +193,35 @@
 			background: #fff;
 			width: 30%;
 			box-sizing: border-box;
+			position: relative;
+			/* 为了定位热度值标签 */
 		}
 
 		.thumb-image {
 			cursor: pointer;
 			width: 100%;
 			overflow: hidden;
+			position: relative;
+			/* 让热度值定位于内部 */
 		}
 
 		.thumb-image img {
 			width: 100%;
 			height: auto;
 			display: block;
+		}
+
+		/* 新增：左上角热度值标签样式 */
+		.hot-value-label {
+			position: absolute;
+			top: 0;
+			left: 0;
+			background-color: red;
+			color: #fff;
+			padding: 4px 8px;
+			font-size: 12px;
+			font-weight: bold;
+			border-bottom-right-radius: 6px;
 		}
 
 		.episode-info {
@@ -244,55 +256,74 @@
 
 		/* 自定义变量，便于后续调整 */
 		:root {
-		  --scroll-speed: 25s;             /* 文字滚动一轮所需时间 */
-		  --font-size: 1.125rem;           /* 公告文字大小 */
-		  --font-family: "Arial, sans-serif";  /* 公告字体 */
+			--scroll-speed: 25s;
+			/* 文字滚动一轮所需时间 */
+			--font-size: 1.125rem;
+			/* 公告文字大小 */
+			--font-family: "Arial, sans-serif";
+			/* 公告字体 */
 		}
 
 		/* 公告容器（PC 端全宽显示，手机端则可适当收窄边距） */
 		#site-announcement {
-		  overflow: hidden;               /* 隐藏超出部分 */
-		  background-color: #fffbe8;       /* 柔和背景 */
-		  color: #333;                    /* 文字颜色 */
-		  border: 1px solid #ffd700;      /* 边框 */
-		  padding: 1rem 0;                /* 垂直内边距 */
-		  margin: 0;                      /* PC端全宽显示 */
-		  width: 100vw;                   /* 占满视口宽度 */
-		  box-sizing: border-box;
-		  border-radius: 0;               /* PC端全宽时可去掉圆角 */
+			overflow: hidden;
+			/* 隐藏超出部分 */
+			background-color: #fffbe8;
+			/* 柔和背景 */
+			color: #333;
+			/* 文字颜色 */
+			border: 1px solid #ffd700;
+			/* 边框 */
+			padding: 1rem 0;
+			/* 垂直内边距 */
+			margin: 0;
+			/* PC端全宽显示 */
+			width: 100vw;
+			/* 占满视口宽度 */
+			box-sizing: border-box;
+			border-radius: 0;
+			/* PC端全宽时可去掉圆角 */
 		}
 
 		/* 滚动文字 */
 		#site-announcement .ticker {
-		  display: inline-block;
-		  white-space: nowrap;            /* 保持一行显示 */
-		  font-size: var(--font-size);
-		  font-family: var(--font-family);
-		  /* 初始10%保持静止，后续滚动 */
-		  animation: scroll var(--scroll-speed) linear infinite;
+			display: inline-block;
+			white-space: nowrap;
+			/* 保持一行显示 */
+			font-size: var(--font-size);
+			font-family: var(--font-family);
+			/* 初始10%保持静止，后续滚动 */
+			animation: scroll var(--scroll-speed) linear infinite;
 		}
 
 		/* 关键帧动画：0%～10%时文字保持原位，随后开始从右向左滚动 */
 		@keyframes scroll {
-		  0%, 10% {
-			transform: translateX(0);
-		  }
-		  100% {
-			transform: translateX(-100%);
-		  }
+
+			0%,
+			10% {
+				transform: translateX(0);
+			}
+
+			100% {
+				transform: translateX(-100%);
+			}
 		}
 
 		/* 手机和平板端优化（增加左右内边距） */
 		@media (max-width: 768px) {
-		  #site-announcement {
-		    padding: 1rem;
-			width: 90%;             /* 手机端可适当缩窄 */
-			margin: 1rem auto;      /* 居中显示 */
-			border-radius: 0.5rem;  /* 增加圆角效果 */
-		  }
-		  #site-announcement .ticker {
-			font-size: calc(var(--font-size) * 0.9);
-		  }
+			#site-announcement {
+				padding: 1rem;
+				width: 90%;
+				/* 手机端可适当缩窄 */
+				margin: 1rem auto;
+				/* 居中显示 */
+				border-radius: 0.5rem;
+				/* 增加圆角效果 */
+			}
+
+			#site-announcement .ticker {
+				font-size: calc(var(--font-size) * 0.9);
+			}
 		}
 
 		/* ----------------------- 响应式调整 ----------------------- */
@@ -361,6 +392,7 @@
 
 <body>
 	<!-- Google Tag Manager (noscript) 部分已移除，使用底部延迟加载方式 -->
+
 	<!-- 示例：右上角放一个语言切换的 select 下拉 -->
 	<div style="position: absolute; top: 10px; right: 10px;">
 		<select id="langSelect">
@@ -388,7 +420,7 @@
 
 	<div class="container">
 		<div class="title">
-			<img alt="Icon" src="hot.webp" />
+			<img src="hot.webp" alt="Icon" />
 			Hot Drama
 		</div>
 		<div class="gradient-box"></div>
@@ -398,32 +430,32 @@
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
-						<img alt="Image 1" src="ii1.webp" width="800" height="450" />
+						<img src="ii1.webp" alt="Image 1" width="800" height="450" />
 					</a>
 				</div>
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c534ac599d" target="_blank">
-						<img alt="Image 2" src="ii2.webp" width="800" height="450" />
+						<img src="ii2.webp" alt="Image 2" width="800" height="450" />
 					</a>
 				</div>
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c531156f4f" target="_blank">
-						<img alt="Image 3" src="ii3.webp" width="800" height="450" />
+						<img src="ii3.webp" alt="Image 3" width="800" height="450" />
 					</a>
 				</div>
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c53f73a3c9" target="_blank">
-						<img alt="Image 4" src="ii4.webp" width="800" height="450" />
+						<img src="ii4.webp" alt="Image 4" width="800" height="450" />
 					</a>
 				</div>
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c8297121ed" target="_blank">
-						<img alt="Image 5" src="ii5.webp" width="800" height="450" />
+						<img src="ii5.webp" alt="Image 5" width="800" height="450" />
 					</a>
 				</div>
 				<div class="swiper-slide">
 					<a href="https://short.kalostv.com/api/short/jump/675c52b1b2dd8" target="_blank">
-						<img alt="Image 6" src="ii6.webp" width="800" height="450" />
+						<img src="ii6.webp" alt="Image 6" width="800" height="450" />
 					</a>
 				</div>
 			</div>
@@ -433,26 +465,28 @@
 			<!-- 分页器 -->
 			<div class="swiper-pagination"></div>
 		</div>
+
 		<div id="site-announcement">
 			<div class="ticker">
-				All episodes on this site are the latest and hottest short dramas from around the world, licensed, click on the image to
-				watch the full episode.
-				(A small number of advertised episodes have not been uploaded on this site, click on any of the images to go to the main
-				site to watch the whole episode.)
-				
+				All episodes on this site are the latest and hottest short dramas from around the world, licensed,
+				click on the image to watch the full episode.
+				(A small number of advertised episodes have not been uploaded on this site, click on any of the images
+				to go to the main site to watch the whole episode.)
+
 				If you don't know what to watch, click on HOT BROADCAST!
 			</div>
 		</div>
 
 		<!-- 新内容区域 -->
 		<div class="subtitle">
-			<img alt="Icon" src="search.webp" />
+			<img src="search.webp" alt="Icon" />
 			Search More Drama
 		</div>
 		<div class="gradient-box"></div>
 
 		<div class="content-section">
 			<div class="search-bar">
+				<!-- 1. 语言下拉，多补充几个映射示例 -->
 				<select class="tab-select" id="tabSelect" onchange="changeTab(this.value)">
 					<option value="0">English</option>
 					<option value="1">Indonesian</option>
@@ -463,9 +497,12 @@
 					<option value="6">German</option>
 					<option value="7">Thai</option>
 					<option value="8">Traditional Chinese</option>
+					<!-- 新增示例语言 -->
+					<option value="9">Portuguese</option>
+					<option value="10">Arabic</option>
 				</select>
-				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
-					type="text" />
+				<input class="search-input" id="searchInput" type="text" placeholder="Search Drama"
+					onkeyup="filterThumbnails()" />
 			</div>
 
 			<div class="thumbnail-container" id="thumbnailContainer"></div>
@@ -473,16 +510,6 @@
 			<div style="text-align: center; margin: 20px;">
 				<button id="loadMoreBtn">Load More</button>
 			</div>
-
-			<script>
-				function changeTab(selectedValue) {
-					currentTab = selectedValue;
-					const container = document.getElementById("thumbnailContainer");
-					container.innerHTML = "";
-					loadedCounts[selectedValue] = 0;
-					loadThumbnails(selectedValue);
-				}
-			</script>
 		</div>
 	</div>
 
@@ -508,13 +535,78 @@
 			for (let i = startIndex; i < endIndex; i++) {
 				const tempDiv = document.createElement("div");
 				tempDiv.innerHTML = thumbnailsArray[i];
-				container.appendChild(tempDiv.firstElementChild);
+				const newThumbnail = tempDiv.firstElementChild;
+				container.appendChild(newThumbnail);
+
+				// 1) 将 data-hotvalue 写入左上角红色标签
+				const hotValue = newThumbnail.getAttribute('data-hotvalue');
+				if (hotValue) {
+					// 在 .thumb-image 内插入一个标签显示热度值
+					const thumbImageDiv = newThumbnail.querySelector('.thumb-image');
+					if (thumbImageDiv) {
+						const labelDiv = document.createElement('div');
+						labelDiv.className = 'hot-value-label';
+						labelDiv.textContent = hotValue;
+						thumbImageDiv.appendChild(labelDiv);
+					}
+				}
 			}
 			loadedCounts[tab] = endIndex;
 
 			const loadMoreBtn = document.getElementById("loadMoreBtn");
 			loadMoreBtn.style.display =
 				loadedCounts[tab] >= thumbnailsArray.length ? "none" : "block";
+		}
+
+		function changeTab(selectedValue) {
+			currentTab = selectedValue;
+			const container = document.getElementById("thumbnailContainer");
+			container.innerHTML = "";
+			loadedCounts[selectedValue] = 0;
+			loadThumbnails(selectedValue);
+		}
+
+		// 搜索过滤
+		function filterThumbnails() {
+			const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
+			const tab = currentTab;
+			const container = document.getElementById("thumbnailContainer");
+			container.innerHTML = "";
+
+			if (!thumbnailsData[tab]) return;
+
+			if (searchTerm === "") {
+				loadedCounts[tab] = 0;
+				loadThumbnails(tab);
+				document.getElementById("loadMoreBtn").style.display = "block";
+				return;
+			}
+
+			const allItems = thumbnailsData[tab];
+			let filteredItems = allItems.filter(item => {
+				return item.toLowerCase().includes(searchTerm);
+			});
+
+			filteredItems.forEach(htmlSnippet => {
+				let tempDiv = document.createElement("div");
+				tempDiv.innerHTML = htmlSnippet;
+				const newThumbnail = tempDiv.firstElementChild;
+
+				// 同样处理热度值标签
+				const hotValue = newThumbnail.getAttribute('data-hotvalue');
+				if (hotValue) {
+					const thumbImageDiv = newThumbnail.querySelector('.thumb-image');
+					if (thumbImageDiv) {
+						const labelDiv = document.createElement('div');
+						labelDiv.className = 'hot-value-label';
+						labelDiv.textContent = hotValue;
+						thumbImageDiv.appendChild(labelDiv);
+					}
+				}
+
+				container.appendChild(newThumbnail);
+			});
+			document.getElementById("loadMoreBtn").style.display = "none";
 		}
 
 		// 点击事件：预览/跳转
@@ -573,37 +665,8 @@
 		});
 	</script>
 
+	<!-- “Load More”按钮逻辑 -->
 	<script>
-		// 搜索过滤
-		function filterThumbnails() {
-			const searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
-			const tab = currentTab;
-			const container = document.getElementById("thumbnailContainer");
-			container.innerHTML = "";
-
-			if (!thumbnailsData[tab]) return;
-
-			if (searchTerm === "") {
-				loadedCounts[tab] = 0;
-				loadThumbnails(tab);
-				document.getElementById("loadMoreBtn").style.display = "block";
-				return;
-			}
-
-			const allItems = thumbnailsData[tab];
-			let filteredItems = allItems.filter(item => {
-				return item.toLowerCase().includes(searchTerm);
-			});
-
-			filteredItems.forEach(htmlSnippet => {
-				let tempDiv = document.createElement("div");
-				tempDiv.innerHTML = htmlSnippet;
-				container.appendChild(tempDiv.firstElementChild);
-			});
-			document.getElementById("loadMoreBtn").style.display = "none";
-		}
-
-		// “Load More”按钮
 		document.addEventListener("DOMContentLoaded", function () {
 			setTimeout(function () {
 				loadThumbnails(currentTab);
@@ -616,6 +679,14 @@
 	</script>
 
 	<!-- 底部导航栏 -->
+	<nav id="bottomNav">
+		<a href="index.html">Home page</a>
+		<a href="hotlist/">
+			<img src="hot.webp" alt="HOT" style="height:16px; vertical-align:middle; margin-right:4px;" />
+			Hot broadcast
+		</a>
+	</nav>
+
 	<!-- 延迟加载非关键脚本 -->
 	<script>
 		function loadScript(url, callback) {
@@ -642,14 +713,6 @@
 			}, 5000);
 		});
 	</script>
-
-	<nav id="bottomNav">
-		<a href="index.html">Home page</a>
-		<a href="hotlist/">
-			<img src="hot.webp" alt="HOT" style="height:16px; vertical-align:middle; margin-right:4px;">
-			Hot broadcast
-		</a>
-	</nav>
 </body>
 
 </html>
