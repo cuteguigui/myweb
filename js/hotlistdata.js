@@ -1,6 +1,22 @@
 const hotlistData = {
   "03.03-03.09": [
     {
+      "id": "It's Meant To Be",
+      "week": "03.03-03.09",
+      "heat": 8,
+      "thumb": "../0/G363.webp",
+      "video": "https://cdn.cocomovie.top/It's Meant To Be.mp4",
+      "commission": "https://short.kalostv.com/api/short/jump/675c551a49928"
+    },
+    {
+      "id": "How to Train an Alpha",
+      "week": "03.03-03.09",
+      "heat": 8,
+      "thumb": "../0/G1094.webp",
+      "video": "https://cdn.cocomovie.top/How to Train an Alpha.mp4",
+      "commission": "https://short.kalostv.com/api/short/jump/675c96ddd1621"
+    },
+    {
       "id": "Desires Die Hard",
       "week": "03.03-03.09",
       "heat": 8,
