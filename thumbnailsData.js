@@ -52,19 +52,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mengapa Anda Menangis?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc1e9fe623b" data-hotvalue="955">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A5.webp" alt="Mengapa Anda Menangis?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mengapa Anda Menangis?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lima Tahun, Cinta yang Hilang.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc1eb49cbf4" data-hotvalue="609">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -256,19 +243,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Memenangkan Istri yang Sedang Hamil dan Cerewet</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Setelah Perceraian: Penderitaan yang Manis.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc26eaf3891" data-hotvalue="241">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A21.webp" alt="Setelah Perceraian: Penderitaan yang Manis" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Setelah Perceraian: Penderitaan yang Manis</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -702,19 +676,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Kesempatan Kedua dalam Cinta: Dari Keponakan Menjadi Kekasih.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28d07edf9" data-hotvalue="722">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A55.webp" alt="Kesempatan Kedua dalam Cinta: Dari Keponakan Menjadi Kekasih" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Kesempatan Kedua dalam Cinta: Dari Keponakan Menjadi Kekasih</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Saudari-saudariku Memohon Aku Kembali.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28d346ae7" data-hotvalue="220">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -793,19 +754,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Abyss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28e056c77" data-hotvalue="809">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A61.webp" alt="Love's Abyss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love's Abyss</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Kematianku Membawa Api.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28e2de16a" data-hotvalue="177">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -871,19 +819,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Perceraian: Dewi Bangkit.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28f080bf7" data-hotvalue="821">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A67.webp" alt="Perceraian: Dewi Bangkit" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Perceraian: Dewi Bangkit</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Dimanjakan oleh Tiga Bersaudara.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28f345985" data-hotvalue="751">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -906,19 +841,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Hari Besar Kakak, Waktunya Pertunjukanku</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Cepat Cinta: Penyesalan Sang Taipan.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc28f8715d1" data-hotvalue="478">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A70.webp" alt="Cepat Cinta: Penyesalan Sang Taipan" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Cepat Cinta: Penyesalan Sang Taipan</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -1015,19 +937,6 @@ const thumbnailsData = {
       </div>
     </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El héroe al descubierto.mp4" data-commission="https://short.kalostv.com/api/short/jump/677243a156d5e" data-hotvalue="941">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A78.webp" alt="El héroe al descubierto" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El héroe al descubierto</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El héroe al descubierto.mp4" data-commission="https://short.kalostv.com/api/short/jump/677243a156d5e" data-hotvalue="653">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
         <img src="1/A78.webp" alt="El héroe al descubierto" loading="lazy" />
@@ -1270,32 +1179,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Pembalasan Dendam Seorang Gadis Bisu</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Hidupku, Obatnya Saudara?.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c332b45297" data-hotvalue="645">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A97.webp" alt="Hidupku, Obatnya Saudara?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Hidupku, Obatnya Saudara?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pernikahan Kilat di 40: Kesempatan Kedua Saya.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c332e00e52" data-hotvalue="693">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="1/A98.webp" alt="Pernikahan Kilat di 40: Kesempatan Kedua Saya" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pernikahan Kilat di 40: Kesempatan Kedua Saya</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -1705,19 +1588,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Warum weinst du?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc2997d08cd" data-hotvalue="238">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="6/B8.webp" alt="Warum weinst du?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Warum weinst du?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Er ist zurück.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc299a070cc" data-hotvalue="144">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -2017,19 +1887,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Nach der Scheidung: Süßes Leid.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc29d5cec06" data-hotvalue="744">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="6/B32.webp" alt="Nach der Scheidung: Süßes Leid" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Nach der Scheidung: Süßes Leid</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Der tollste Koch der Welt.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc29d8410df" data-hotvalue="910">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -2225,19 +2082,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Scheidung: Die aufsteigende Göttin.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc2a00618db" data-hotvalue="157">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="6/B48.webp" alt="Scheidung: Die aufsteigende Göttin" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Scheidung: Die aufsteigende Göttin</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mit Schweinehaltung aufsteigen.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc2a021d57b" data-hotvalue="328">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -2286,19 +2130,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Miss Sherar's Kampf</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jenna Wilder: Die Welt erschüttern.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc2a0c51911" data-hotvalue="174">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="6/B53.webp" alt="Jenna Wilder: Die Welt erschüttern" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jenna Wilder: Die Welt erschüttern</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -2650,19 +2481,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Die Kunst der Rache</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Geschwängert vom Milliardärsonkel meines Ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c33a80e1f4" data-hotvalue="673">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="6/B81.webp" alt="Geschwängert vom Milliardärsonkel meines Ex" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Geschwängert vom Milliardärsonkel meines Ex</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -3735,19 +3553,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/幸運商店.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c34139a613" data-hotvalue="336">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="5/C82.webp" alt="幸運商店" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">幸運商店</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/触れ難い愛.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c341756a6b" data-hotvalue="537">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -3853,19 +3658,6 @@ const thumbnailsData = {
       </div>
     </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/破天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3436dd61c" data-hotvalue="407">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="5/C91.webp" alt="破天" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">破天</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/破天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3436dd61c" data-hotvalue="342">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
         <img src="5/C91.webp" alt="破天" loading="lazy" />
@@ -4855,32 +4647,6 @@ const thumbnailsData = {
     </div>`,
   ],
   "3": [
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pourquoi pleures-tu?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc383270a4f" data-hotvalue="584">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D1.webp" alt="Pourquoi pleures-tu?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pourquoi pleures-tu?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pourquoi pleures-tu?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc383270a4f" data-hotvalue="384">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D1.webp" alt="Pourquoi pleures-tu?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pourquoi pleures-tu?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Princess Phénix.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc383c44259" data-hotvalue="382">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -4998,32 +4764,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pourquoi pleures-tu?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3893854bd" data-hotvalue="584">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D11.webp" alt="Pourquoi pleures-tu?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pourquoi pleures-tu?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pourquoi pleures-tu?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3893854bd" data-hotvalue="384">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D11.webp" alt="Pourquoi pleures-tu?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pourquoi pleures-tu?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Malade d'amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc389d5de7e" data-hotvalue="141">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -5046,19 +4786,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Quelle bonne fille</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Coup de cœur: Le regret du tycoon.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc38b0b641a" data-hotvalue="568">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D14.webp" alt="Coup de cœur: Le regret du tycoon" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Coup de cœur: Le regret du tycoon</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -5241,19 +4968,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">La souffrance après le divorce</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorce: La déesse se réveille.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc39437670d" data-hotvalue="264">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D29.webp" alt="Divorce: La déesse se réveille" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Divorce: La déesse se réveille</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -5635,19 +5349,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Justice impériale : Pas de pitié.mp4" data-commission="https://short.kalostv.com/api/short/jump/67724e46a698f" data-hotvalue="164">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D59.webp" alt="Justice impériale : Pas de pitié" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Justice impériale : Pas de pitié</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Monsieur, votre garde du corps, c'est Madame.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c24b38cc8c" data-hotvalue="586">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -5765,19 +5466,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mariage flash à 40 ans : ma seconde chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d72a8c58" data-hotvalue="596">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D69.webp" alt="Mariage flash à 40 ans : ma seconde chance" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mariage flash à 40 ans : ma seconde chance</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Le magnat obstiné tombe amoureux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d7c9712d" data-hotvalue="975">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -5813,19 +5501,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Là où l’amour s’est égaré</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jour N: Abriter le PDG déchu.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3d98b5676" data-hotvalue="201">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D73.webp" alt="Jour N: Abriter le PDG déchu" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jour N: Abriter le PDG déchu</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -5943,19 +5618,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Après sa disparition</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Seconde chance en amour: de Neveu à Oncle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3df94a110" data-hotvalue="655">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D83.webp" alt="Seconde chance en amour: de Neveu à Oncle" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Seconde chance en amour: de Neveu à Oncle</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -6116,19 +5778,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Après le divorce: je deviens la Luna de l’Alpha hybride.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e7f97bc3" data-hotvalue="940">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D96.webp" alt="Après le divorce: je deviens la Luna de l’Alpha hybride" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Après le divorce: je deviens la Luna de l’Alpha hybride</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Un voyage d'amour pour un père de jumeaux.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3e892ea95" data-hotvalue="409">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -6190,19 +5839,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Mes trois bébés géniaux</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Gros bonnets: mes trois frères.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3eb919368" data-hotvalue="739">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D102.webp" alt="Gros bonnets: mes trois frères" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Gros bonnets: mes trois frères</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -6493,19 +6129,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Regard éternel: mon mari bien aimé.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fc56f6e6" data-hotvalue="469">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D125.webp" alt="Regard éternel: mon mari bien aimé" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Regard éternel: mon mari bien aimé</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mains en l’air, papa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fd8939cc" data-hotvalue="452">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -6623,32 +6246,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/L’invincible Cendrillon : chaude et époustouflante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c407fdfd71" data-hotvalue="421">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D135.webp" alt="L’invincible Cendrillon : chaude et époustouflante" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">L’invincible Cendrillon : chaude et époustouflante</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/En fuite: belle épouse sous contrat.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c408a46b6a" data-hotvalue="871">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D136.webp" alt="En fuite: belle épouse sous contrat" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">En fuite: belle épouse sous contrat</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La rédemption d’une mère.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c409c0fbc6" data-hotvalue="213">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -6749,110 +6346,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">L'art de la vengeance</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Une mère célibataire dévoile son identité d’héritière.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c3fe237827" data-hotvalue="201">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D145.webp" alt="Une mère célibataire dévoile son identité d’héritière" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Une mère célibataire dévoile son identité d’héritière</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ma maman est très riche.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4014e4917" data-hotvalue="146">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D146.webp" alt="Ma maman est très riche" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ma maman est très riche</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Brise dans mon cœur.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4032abebc" data-hotvalue="880">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D147.webp" alt="Brise dans mon cœur" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Brise dans mon cœur</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Tu es mon rayon de soleil.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c403b4bdf6" data-hotvalue="852">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D148.webp" alt="Tu es mon rayon de soleil" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Tu es mon rayon de soleil</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La fin du crépuscule.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40450114c" data-hotvalue="607">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D149.webp" alt="La fin du crépuscule" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La fin du crépuscule</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ne pas surestimer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c404e8c396" data-hotvalue="721">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D150.webp" alt="Ne pas surestimer" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ne pas surestimer</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Destiné à l’amour.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c40583cfb2" data-hotvalue="746">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D151.webp" alt="Destiné à l’amour" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Destiné à l’amour</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Quand l’amour arrive.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c406c03b23" data-hotvalue="271">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="3/D152.webp" alt="Quand l’amour arrive" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Quand l’amour arrive</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -9290,58 +8783,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/หย่าแล้วไง ใจยังเป็นของเธอ.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3dda83b57" data-hotvalue="165">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="7/E188.webp" alt="หย่าแล้วไง ใจยังเป็นของเธอ" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">หย่าแล้วไง ใจยังเป็นของเธอ</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/คืนชีพเทพธิดา หลังวันหย่า.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3de412bdd" data-hotvalue="715">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="7/E189.webp" alt="คืนชีพเทพธิดา หลังวันหย่า" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">คืนชีพเทพธิดา หลังวันหย่า</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/เจ้าหญิงน้อย ในหัวใจพี่ชาย.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3dedb03bf" data-hotvalue="769">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="7/E190.webp" alt="เจ้าหญิงน้อย ในหัวใจพี่ชาย" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">เจ้าหญิงน้อย ในหัวใจพี่ชาย</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/เชฟหมีอบอุ่น ปรุงด้วยใจ.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc3df836730" data-hotvalue="275">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="7/E191.webp" alt="เชฟหมีอบอุ่น ปรุงด้วยใจ" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">เชฟหมีอบอุ่น ปรุงด้วยใจ</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
   ],
   "8": [
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/福氣新娘娶進門.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc42f19159f" data-hotvalue="441">
@@ -11372,19 +10813,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/幸運商店.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48a7cde17" data-hotvalue="336">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="8/F156.webp" alt="幸運商店" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">幸運商店</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/女兒死後，媽媽她後悔了.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c48af849a4" data-hotvalue="428">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -12958,19 +12386,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/破天.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dea745c6" data-hotvalue="342">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="8/F277.webp" alt="破天" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">破天</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/夫妻馬甲雙雙掉完把家還.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4dfde05a2" data-hotvalue="850">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -13686,45 +13101,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/外賣員竟是萬億大佬，前妻悔不當初.mp4" data-commission="https://short.kalostv.com/api/short/jump/6772562241366" data-hotvalue="689">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="8/F333.webp" alt="外賣員竟是萬億大佬，前妻悔不當初" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">外賣員竟是萬億大佬，前妻悔不當初</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/天策醫皇.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c4d50b769d" data-hotvalue="779">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="8/F334.webp" alt="天策醫皇" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">天策醫皇</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/女明星的貼身陰陽師.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c503ec3cee" data-hotvalue="486">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="8/F335.webp" alt="女明星的貼身陰陽師" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">女明星的貼身陰陽師</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
   ],
   "0": [
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Amazing Butcher.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc4d59a8e0d" data-hotvalue="282">
@@ -13831,33 +13207,7 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc4d9c25884" data-hotvalue="193">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G8.webp" alt="Secret Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Secret Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Nash's Playing With Fire.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc4da5f1d09" data-hotvalue="681">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G9.webp" alt="Miss Nash's Playing With Fire" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Miss Nash's Playing With Fire</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Nash's Playing With Fire.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc4da5f1d09" data-hotvalue="513">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
         <img src="0/G9.webp" alt="Miss Nash's Playing With Fire" loading="lazy" />
@@ -14013,19 +13363,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rural Rose: The Factory Madam.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc4e1af33f3" data-hotvalue="403">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G21.webp" alt="Rural Rose: The Factory Madam" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rural Rose: The Factory Madam</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Thank God, Sister Saved the Day.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc82ecc13b4" data-hotvalue="901">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -14130,19 +13467,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8345873c1" data-hotvalue="300">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G29.webp" alt="Forsaking Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Forsaking Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Matriarch's Rise to Power.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83543f9af" data-hotvalue="213">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -14217,19 +13541,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">My Fate Lover</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Never Too Late to Love You.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83a0a8a4d" data-hotvalue="657">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G36.webp" alt="Never Too Late to Love You" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Never Too Late to Love You</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -14477,19 +13788,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Lady from the Mountain</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Why Are You Crying?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84a0ba541" data-hotvalue="318">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G56.webp" alt="Why Are You Crying?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Why Are You Crying?</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -15183,19 +14481,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom Boss: Breaking Chains.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc874f794d2" data-hotvalue="713">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G110.webp" alt="Mom Boss: Breaking Chains" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mom Boss: Breaking Chains</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Throne's Havoc.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc875bc7b63" data-hotvalue="138">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -15391,32 +14676,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Scorned Elite: The Kind Medic.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc881cc75c6" data-hotvalue="980">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G126.webp" alt="Scorned Elite: The Kind Medic" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Scorned Elite: The Kind Medic</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rewind: Another Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc882928150" data-hotvalue="286">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G127.webp" alt="Rewind: Another Life" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rewind: Another Life</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Unexpected Gift.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88361c562" data-hotvalue="225">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -15426,19 +14685,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Unexpected Gift</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Double Win: The Mason Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88429689a" data-hotvalue="885">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G129.webp" alt="Double Win: The Mason Boss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Double Win: The Mason Boss</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -16171,19 +15417,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Giants Rise: My Bro Tycoons.mp4" data-commission="https://short.kalostv.com/api/short/jump/67725efda7699" data-hotvalue="784">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G186.webp" alt="Giants Rise: My Bro Tycoons" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Giants Rise: My Bro Tycoons</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Never Falling for You.mp4" data-commission="https://short.kalostv.com/api/short/jump/67725f055e822" data-hotvalue="258">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -16341,19 +15574,6 @@ const thumbnailsData = {
       </div>
     </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Abyss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67725f5f69c2c" data-hotvalue="600">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G199.webp" alt="Love's Abyss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love's Abyss</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Abyss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67725f5f69c2c" data-hotvalue="809">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
         <img src="0/G199.webp" alt="Love's Abyss" loading="lazy" />
@@ -16847,19 +16067,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Quick Love: Tycoon's Regret.mp4" data-commission="https://short.kalostv.com/api/short/jump/6772607ec3779" data-hotvalue="185">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G237.webp" alt="Quick Love: Tycoon's Regret" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Quick Love: Tycoon's Regret</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Laura's Palace Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/6772608619825" data-hotvalue="299">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -16869,19 +16076,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Laura's Palace Secret</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/After Divorce: Sweet Suffering.mp4" data-commission="https://short.kalostv.com/api/short/jump/6772608d88ebf" data-hotvalue="631">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G239.webp" alt="After Divorce: Sweet Suffering" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">After Divorce: Sweet Suffering</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -17246,19 +16440,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Vampire's Remedy</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorce: Goddess Rising.mp4" data-commission="https://short.kalostv.com/api/short/jump/675b9ab84e397" data-hotvalue="657">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G268.webp" alt="Divorce: Goddess Rising" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Divorce: Goddess Rising</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -17783,19 +16964,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love at 30000 Feet.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c531156f4f" data-hotvalue="360">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G309.webp" alt="Secret Love at 30000 Feet" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Secret Love at 30000 Feet</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Betrayed by Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c531b52c54" data-hotvalue="432">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -17935,19 +17103,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">My Senior Sisters</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Imperial Justice: No Mercy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5384480f9" data-hotvalue="527">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G321.webp" alt="Imperial Justice: No Mercy" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Imperial Justice: No Mercy</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -18208,19 +17363,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Love Strikes the Stoic Mogul</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Flash Marriage At 40: My Second Chance.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c544d7caa4" data-hotvalue="191">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G342.webp" alt="Flash Marriage At 40: My Second Chance" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Flash Marriage At 40: My Second Chance</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -18628,32 +17770,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jenna Wilder: Shaking the World.mp4" data-commission="https://short.kalostv.com/api/short/jump/674286e76f20b" data-hotvalue="915">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G374.webp" alt="Jenna Wilder: Shaking the World" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jenna Wilder: Shaking the World</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Supremacy: The Rise of a Commoner.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c558cd483d" data-hotvalue="583">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G375.webp" alt="Supremacy: The Rise of a Commoner" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Supremacy: The Rise of a Commoner</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Sir, Madam has a New Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c55966433f" data-hotvalue="483">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -18663,19 +17779,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Sir, Madam has a New Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Day N: Sheltering the Fallen CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c559fec76d" data-hotvalue="149">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G377.webp" alt="Day N: Sheltering the Fallen CEO" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Day N: Sheltering the Fallen CEO</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -18949,19 +18052,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Boss Daddy, You Spoiled the Wrong Girl</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Winter Rescue: Guided by My Daughter.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c56729aac8" data-hotvalue="583">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G399.webp" alt="Winter Rescue: Guided by My Daughter" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Winter Rescue: Guided by My Daughter</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -19547,19 +18637,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">The Pulse of Our Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Second Chance at Love: From Nephew to Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c582e07e50" data-hotvalue="816">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G445.webp" alt="Second Chance at Love: From Nephew to Lover" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Second Chance at Love: From Nephew to Lover</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -20370,19 +19447,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Pearl and Her Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a8688f85" data-hotvalue="937">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G507.webp" alt="Mrs. Pearl and Her Beloved" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mrs. Pearl and Her Beloved</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Sparks of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c5a8fd57fd" data-hotvalue="661">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -20938,19 +20002,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Behind the Glory</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Pride Games: Mrs. Yeaton.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c82111263a" data-hotvalue="994">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G551.webp" alt="Pride Games: Mrs. Yeaton" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Pride Games: Mrs. Yeaton</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -23243,19 +22294,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Destined Hearts Misadventures of Love and Secrets.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88d4e13a2" data-hotvalue="882">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G728.webp" alt="Destined Hearts Misadventures of Love and Secrets" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Destined Hearts Misadventures of Love and Secrets</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Truth's Ordeal.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c88de788d7" data-hotvalue="866">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -23330,32 +22368,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Rose in Blood</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Nash's Playing With Fire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c891963a83" data-hotvalue="681">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G735.webp" alt="Miss Nash's Playing With Fire" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Miss Nash's Playing With Fire</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Nash's Playing With Fire.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c891963a83" data-hotvalue="513">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G735.webp" alt="Miss Nash's Playing With Fire" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Miss Nash's Playing With Fire</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -23776,19 +22788,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/After Divorce: I Become Hybrid Alpha's Luna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a54d5f2e" data-hotvalue="467">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G768.webp" alt="After Divorce: I Become Hybrid Alpha's Luna" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">After Divorce: I Become Hybrid Alpha's Luna</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Millionaire Princess Returns.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a5e79190" data-hotvalue="543">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -23854,19 +22853,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Life, Brother's Medicine?.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a8e7201a" data-hotvalue="128">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G774.webp" alt="My Life, Brother's Medicine?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Life, Brother's Medicine?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/June's World.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8a980f3bb" data-hotvalue="641">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -23915,32 +22901,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Love Is in the Air</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8abe8d400" data-hotvalue="693">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G779.webp" alt="Forsaking Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Forsaking Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8abe8d400" data-hotvalue="300">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G779.webp" alt="Forsaking Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Forsaking Love</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -24725,19 +23685,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rich Girl Reborn: Going Crazy For Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d06b7987" data-hotvalue="419">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G840.webp" alt="Rich Girl Reborn: Going Crazy For Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rich Girl Reborn: Going Crazy For Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/His Luna.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d1049783" data-hotvalue="579">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -24760,19 +23707,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Date with Wealth</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Cute Baby Helps Out: CEO Dad's Wild Chase for Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d236fdc8" data-hotvalue="565">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G843.webp" alt="Cute Baby Helps Out: CEO Dad's Wild Chase for Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Cute Baby Helps Out: CEO Dad's Wild Chase for Wife</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -24812,19 +23746,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Unspoken Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Cajoled by the Marshal: A Wedding Night Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d49946e2" data-hotvalue="705">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G847.webp" alt="Cajoled by the Marshal: A Wedding Night Story" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Cajoled by the Marshal: A Wedding Night Story</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -25869,32 +24790,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Pearl and Her Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9063148ad" data-hotvalue="955">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G928.webp" alt="Mrs. Pearl and Her Beloved" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mrs. Pearl and Her Beloved</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Pearl and Her Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9063148ad" data-hotvalue="937">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G928.webp" alt="Mrs. Pearl and Her Beloved" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mrs. Pearl and Her Beloved</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Sunshine.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c906ca4111" data-hotvalue="683">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -26346,19 +25241,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">True Love Behind Thick Fogs</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Scents and Sensibility: Two Fated Mates.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c91bb8f36f" data-hotvalue="948">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G964.webp" alt="Scents and Sensibility: Two Fated Mates" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Scents and Sensibility: Two Fated Mates</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -27052,19 +25934,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Taming Wolves: A Mother's Redemption.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93d466f19" data-hotvalue="978">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1018.webp" alt="Taming Wolves: A Mother's Redemption" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Taming Wolves: A Mother's Redemption</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/She Cleans, She's Rich.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c93de0665d" data-hotvalue="483">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -27126,19 +25995,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">CEO Married the True Miss Billionaire</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Baby Girl: Mommy, Daddy Loves You.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c940dee8e8" data-hotvalue="884">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1024.webp" alt="Baby Girl: Mommy, Daddy Loves You" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Baby Girl: Mommy, Daddy Loves You</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -27243,19 +26099,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">A Wife's Mask</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Legend Emerges: Azure Dragonlord.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c946465b00" data-hotvalue="948">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1033.webp" alt="The Legend Emerges: Azure Dragonlord" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Legend Emerges: Azure Dragonlord</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -27494,19 +26337,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Bride: My No. 1 Rich Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95378508c" data-hotvalue="144">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1052.webp" alt="Lucky Bride: My No. 1 Rich Husband" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Lucky Bride: My No. 1 Rich Husband</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Godsend Husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c95427e805" data-hotvalue="913">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -27529,19 +26359,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Guardians of the Secret Jewel</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible Cinderella: Hot & Sassy.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c955ddcbd4" data-hotvalue="267">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1055.webp" alt="The Invincible Cinderella: Hot & Sassy" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Invincible Cinderella: Hot & Sassy</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -27607,19 +26424,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Lost in Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Reversal: From Outcast to Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c959785d1d" data-hotvalue="179">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1061.webp" alt="Reversal: From Outcast to Heiress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Reversal: From Outcast to Heiress</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -27767,19 +26571,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Abandoned Billionaire Ex-wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c961426227" data-hotvalue="158">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1073.webp" alt="Revenge of the Abandoned Billionaire Ex-wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Revenge of the Abandoned Billionaire Ex-wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. Ash is Daughter of The Richest Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c961dcae2a" data-hotvalue="120">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -27897,19 +26688,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Second Chances: Echoes of the Past.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9674245b4" data-hotvalue="189">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1083.webp" alt="Second Chances: Echoes of the Past" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Second Chances: Echoes of the Past</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lucky Unlucky Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c967dc75b5" data-hotvalue="166">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -28023,19 +26801,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Melody of Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Marriage Games: Mama's Rules.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c96d43533a" data-hotvalue="907">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1093.webp" alt="Marriage Games: Mama's Rules" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Marriage Games: Mama's Rules</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -28391,19 +27156,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Dear CEO: Don't Run Away.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97e9efff8" data-hotvalue="377">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1121.webp" alt="Dear CEO: Don't Run Away" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Dear CEO: Don't Run Away</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/From Revenge to Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97f387813" data-hotvalue="615">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -28413,32 +27165,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">From Revenge to Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97fd26ccf" data-hotvalue="750">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1123.webp" alt="Secret Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Secret Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secret Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c97fd26ccf" data-hotvalue="193">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1123.webp" alt="Secret Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Secret Love</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -28716,19 +27442,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Blessed with Twins: Heavenly Spoils from a Mysterious Dad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98e2f2d07" data-hotvalue="655">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1145.webp" alt="Blessed with Twins: Heavenly Spoils from a Mysterious Dad" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Blessed with Twins: Heavenly Spoils from a Mysterious Dad</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn of a Noble Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c98ec7e461" data-hotvalue="907">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -28751,19 +27464,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">The Alpha’s Innocent Bride</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Passionate Love to Him.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99092ee94" data-hotvalue="813">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1148.webp" alt="Passionate Love to Him" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Passionate Love to Him</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -28924,19 +27624,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Two-Faced Lovers: A Heartfelt Reunion.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9998ec246" data-hotvalue="897">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1161.webp" alt="Two-Faced Lovers: A Heartfelt Reunion" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Two-Faced Lovers: A Heartfelt Reunion</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Perfect Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99a26d1d0" data-hotvalue="900">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -28946,19 +27633,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Perfect Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Pampered Princess: Five Uncles' Treasure.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99ac2b751" data-hotvalue="745">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1163.webp" alt="The Pampered Princess: Five Uncles' Treasure" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Pampered Princess: Five Uncles' Treasure</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29011,19 +27685,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">She Becomes a Vision after Divorce</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Enigmatic Marriage: 99 Days of Mr. CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c99dbf3442" data-hotvalue="262">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1168.webp" alt="The Enigmatic Marriage: 99 Days of Mr. CEO" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Enigmatic Marriage: 99 Days of Mr. CEO</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29093,19 +27754,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Twist: Daddy Grovels for His Cub.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a155a5dc" data-hotvalue="255">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1174.webp" alt="Love's Twist: Daddy Grovels for His Cub" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love's Twist: Daddy Grovels for His Cub</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/With Boy-Girl Twins, Rich Girl Clara Is So Cool.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a1f0145a" data-hotvalue="381">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -29115,19 +27763,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">With Boy-Girl Twins, Rich Girl Clara Is So Cool</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Exiled but Enriched: My Inheritance Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9a2888b3a" data-hotvalue="120">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1176.webp" alt="Exiled but Enriched: My Inheritance Story" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Exiled but Enriched: My Inheritance Story</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29327,19 +27962,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Revenge of the Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ad4d44ce" data-hotvalue="873">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1192.webp" alt="Revenge of the Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Revenge of the Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Husband Is from the Outer Space.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9adfcde28" data-hotvalue="983">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -29392,19 +28014,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/What's Behind Secretary Locke?.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b0e736af" data-hotvalue="689">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1197.webp" alt="What's Behind Secretary Locke?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">What's Behind Secretary Locke?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Pretty Boys.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b18135f2" data-hotvalue="258">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -29414,19 +28023,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">My Pretty Boys</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Marriage by Chance: The Actor Who Came Knocking.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b21878ae" data-hotvalue="327">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1199.webp" alt="Marriage by Chance: The Actor Who Came Knocking" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Marriage by Chance: The Actor Who Came Knocking</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29466,19 +28062,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Riding into Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Sweet Escape: Hunted by the Ruthless Romeo.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b51772cf" data-hotvalue="703">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1203.webp" alt="Sweet Escape: Hunted by the Ruthless Romeo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Sweet Escape: Hunted by the Ruthless Romeo</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29548,32 +28131,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Loving Tycoon: Spoiling His Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b8ae6430" data-hotvalue="848">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1209.webp" alt="Loving Tycoon: Spoiling His Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Loving Tycoon: Spoiling His Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ding-Dong: Mommy, Your Cutie Has Arrived.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b9489758" data-hotvalue="773">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1210.webp" alt="Ding-Dong: Mommy, Your Cutie Has Arrived" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ding-Dong: Mommy, Your Cutie Has Arrived</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Oops! I Mate With My Forbidden Alpha.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9b9e25ddb" data-hotvalue="209">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -29609,19 +28166,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">The Charming Ms. Reed</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Phoenix's Redemption: Righting Past Wrongs.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9bbac3195" data-hotvalue="905">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1214.webp" alt="Phoenix's Redemption: Righting Past Wrongs" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Phoenix's Redemption: Righting Past Wrongs</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -29899,19 +28443,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Life Trade-Off: My Rich Husband's Torments.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9cda19e0c" data-hotvalue="523">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1236.webp" alt="Life Trade-Off: My Rich Husband's Torments" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Life Trade-Off: My Rich Husband's Torments</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Mother's Sacrifice.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ce3a7f9d" data-hotvalue="689">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -29921,19 +28452,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">A Mother's Sacrifice</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Reborn: Love Regained, Justice Served.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ced2a3da" data-hotvalue="842">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1238.webp" alt="Reborn: Love Regained, Justice Served" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Reborn: Love Regained, Justice Served</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -30120,19 +28638,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fall For You Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d7ccb2c0" data-hotvalue="282">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1253.webp" alt="Fall For You Again" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fall For You Again</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rose Aflame.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9d8675b40" data-hotvalue="702">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30276,19 +28781,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/E-Sports: Team up with the World Champ.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e0cd4479" data-hotvalue="613">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1265.webp" alt="E-Sports: Team up with the World Champ" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">E-Sports: Team up with the World Champ</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Dragon Chase.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e166fb03" data-hotvalue="434">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30393,19 +28885,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Locking Down Marriage: No Chance to Escape, Arrogant CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9e9dd8645" data-hotvalue="687">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1274.webp" alt="Locking Down Marriage: No Chance to Escape, Arrogant CEO" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Locking Down Marriage: No Chance to Escape, Arrogant CEO</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Madam, the CEO Is Doing Odd Jobs Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ea631062" data-hotvalue="974">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30458,19 +28937,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Triple Threat: Sibling Love Overload.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ef2e5185" data-hotvalue="531">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1279.webp" alt="Triple Threat: Sibling Love Overload" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Triple Threat: Sibling Love Overload</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Single Mom Unveils Heiress Identity.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9efc606c1" data-hotvalue="441">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30519,19 +28985,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Destined to Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/（English-dubbed）Cajoled by the Marshal: A Wedding Night Story.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f2c2c0a7" data-hotvalue="792">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1284.webp" alt="（English-dubbed）Cajoled by the Marshal: A Wedding Night Story" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">（English-dubbed）Cajoled by the Marshal: A Wedding Night Story</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -30601,32 +29054,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Inflation Down, Fortunes Up: A Charismatic Man's Rise.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f65b19a8" data-hotvalue="978">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1290.webp" alt="Inflation Down, Fortunes Up: A Charismatic Man's Rise" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Inflation Down, Fortunes Up: A Charismatic Man's Rise</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Chasing Love: The Untouched Dream.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f79124dd" data-hotvalue="973">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1291.webp" alt="Chasing Love: The Untouched Dream" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Chasing Love: The Untouched Dream</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Tycoon Delivery.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f8cd9bea" data-hotvalue="544">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30649,19 +29076,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">My Ex is a Secret Billionaire</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Taming Scum: A Female General's Modern Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9f9f1a01b" data-hotvalue="730">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1294.webp" alt="Taming Scum: A Female General's Modern Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Taming Scum: A Female General's Modern Love</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -30731,32 +29145,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Doted Love: First Priority.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9feb8e5b4" data-hotvalue="390">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1300.webp" alt="Doted Love: First Priority" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Doted Love: First Priority</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Battle for Love: Mommy’s Heart.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ff522306" data-hotvalue="286">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1301.webp" alt="Battle for Love: Mommy’s Heart" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Battle for Love: Mommy’s Heart</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Year We Loved Most.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c9ffebfa1f" data-hotvalue="729">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30770,19 +29158,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/（English-dubbed）Chasing Love: The Untouched Dream.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0084f3fe" data-hotvalue="989">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1303.webp" alt="（English-dubbed）Chasing Love: The Untouched Dream" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">（English-dubbed）Chasing Love: The Untouched Dream</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Born From A Contract.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca011c784a" data-hotvalue="481">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30792,32 +29167,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Love Born From A Contract</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Everlasting Gaze: My Beautiful Beloved.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca01b6ae6f" data-hotvalue="573">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1305.webp" alt="Everlasting Gaze: My Beautiful Beloved" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Everlasting Gaze: My Beautiful Beloved</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Twist of Fate: My Husband, His Uncle.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca02507ab5" data-hotvalue="755">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1306.webp" alt="Twist of Fate: My Husband, His Uncle" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Twist of Fate: My Husband, His Uncle</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -30952,32 +29301,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise of the Fallen Heiress: A Revenge Tale.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca08e3e1d3" data-hotvalue="267">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1317.webp" alt="Rise of the Fallen Heiress: A Revenge Tale" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rise of the Fallen Heiress: A Revenge Tale</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/When Love Strikes Back.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca097c55cf" data-hotvalue="812">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1318.webp" alt="When Love Strikes Back" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">When Love Strikes Back</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Unyielding Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0a147a64" data-hotvalue="443">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -30987,19 +29310,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Unyielding Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Choosing Love: The Lady's Daring Escape.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca0ab064c7" data-hotvalue="250">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1320.webp" alt="Choosing Love: The Lady's Daring Escape" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Choosing Love: The Lady's Daring Escape</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -31108,19 +29418,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/City Risen: Favored by My Femme Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca100e5dfa" data-hotvalue="447">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1329.webp" alt="City Risen: Favored by My Femme Boss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">City Risen: Favored by My Femme Boss</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Bad Lady.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca10a87dac" data-hotvalue="254">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -31169,19 +29466,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">My Way to Queen</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/City Heights: A Triumphant Return.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca130d1841" data-hotvalue="296">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1334.webp" alt="City Heights: A Triumphant Return" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">City Heights: A Triumphant Return</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -31407,2151 +29691,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Thank God, Sister Saved the Day.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc82ecc13b4" data-hotvalue="901">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1352.webp" alt="Thank God, Sister Saved the Day" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Thank God, Sister Saved the Day</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Valentine Proposal.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc82fa18f1a" data-hotvalue="589">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1353.webp" alt="Her Valentine Proposal" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Her Valentine Proposal</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/She Loves Me Most.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8305e98c4" data-hotvalue="259">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1354.webp" alt="She Loves Me Most" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">She Loves Me Most</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Abstinent CEO's Pregnant Sweetheart.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83133aa02" data-hotvalue="563">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1355.webp" alt="Abstinent CEO's Pregnant Sweetheart" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Abstinent CEO's Pregnant Sweetheart</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Has Its Own Way.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8320275ab" data-hotvalue="590">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1356.webp" alt="Love Has Its Own Way" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love Has Its Own Way</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Vest-ed Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc832c52c30" data-hotvalue="400">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1357.webp" alt="Vest-ed Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Vest-ed Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Palace Chaos.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8338dc30b" data-hotvalue="348">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1358.webp" alt="Palace Chaos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Palace Chaos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8345873c1" data-hotvalue="693">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1359.webp" alt="Forsaking Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Forsaking Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Forsaking Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8345873c1" data-hotvalue="300">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1359.webp" alt="Forsaking Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Forsaking Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Matriarch's Rise to Power.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83543f9af" data-hotvalue="213">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1360.webp" alt="A Matriarch's Rise to Power" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Matriarch's Rise to Power</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Todd's Secret Babies.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8360aa094" data-hotvalue="372">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1361.webp" alt="Mr. Todd's Secret Babies" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Todd's Secret Babies</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Second Chance Stage.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc836d6df2f" data-hotvalue="981">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1362.webp" alt="The Second Chance Stage" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Second Chance Stage</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Light Within the Dark.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8379d078c" data-hotvalue="583">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1363.webp" alt="My Light Within the Dark" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Light Within the Dark</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Spoil My Adorable Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8386d6e56" data-hotvalue="324">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1364.webp" alt="Spoil My Adorable Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Spoil My Adorable Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Fate Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83939ae2b" data-hotvalue="251">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1365.webp" alt="My Fate Lover" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Fate Lover</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Never Too Late to Love You.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83a0a8a4d" data-hotvalue="657">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1366.webp" alt="Never Too Late to Love You" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Never Too Late to Love You</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Spring Night's Embrace.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83ad91249" data-hotvalue="375">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1367.webp" alt="Spring Night's Embrace" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Spring Night's Embrace</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Legend of Godslayer.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83ba48705" data-hotvalue="308">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1368.webp" alt="The Legend of Godslayer" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Legend of Godslayer</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Daughter From the Future.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83c6c8a20" data-hotvalue="241">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1369.webp" alt="Daughter From the Future" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Daughter From the Future</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Slacking Expert and Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83d476b69" data-hotvalue="488">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1370.webp" alt="Slacking Expert and Heiress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Slacking Expert and Heiress</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Beggar and the Empress.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83e170be1" data-hotvalue="720">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1371.webp" alt="The Beggar and the Empress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Beggar and the Empress</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Husband's Rebellion.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83ee62377" data-hotvalue="149">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1372.webp" alt="The Husband's Rebellion" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Husband's Rebellion</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Spoiled Heir's Rebellion.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc83fb2d102" data-hotvalue="484">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1373.webp" alt="The Spoiled Heir's Rebellion" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Spoiled Heir's Rebellion</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Hot CEO Begs Me to Work.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8407b5530" data-hotvalue="715">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1374.webp" alt="Hot CEO Begs Me to Work" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Hot CEO Begs Me to Work</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Marrying My Boss by Mistake.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84143e205" data-hotvalue="373">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1375.webp" alt="Marrying My Boss by Mistake" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Marrying My Boss by Mistake</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Invincible Treasure Bowl.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84218d440" data-hotvalue="786">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1376.webp" alt="The Invincible Treasure Bowl" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Invincible Treasure Bowl</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Wife is an Empress.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc842e4a718" data-hotvalue="479">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1377.webp" alt="My Wife is an Empress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Wife is an Empress</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Playing It Real.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc843b145e5" data-hotvalue="199">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1378.webp" alt="Playing It Real" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Playing It Real</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Happiness Chase.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8447c77ba" data-hotvalue="124">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1379.webp" alt="Happiness Chase" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Happiness Chase</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ebb and Flow of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84542fba8" data-hotvalue="345">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1380.webp" alt="Ebb and Flow of Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ebb and Flow of Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Five Years, Love Lost.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8461a054b" data-hotvalue="575">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1381.webp" alt="Five Years, Love Lost" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Five Years, Love Lost</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Time and Tide.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc846de1114" data-hotvalue="494">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1382.webp" alt="Time and Tide" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Time and Tide</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rise of the Phoenix.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc847ade07e" data-hotvalue="268">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1383.webp" alt="Rise of the Phoenix" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rise of the Phoenix</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm the Mrs. President.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc848759631" data-hotvalue="228">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1384.webp" alt="I'm the Mrs. President" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">I'm the Mrs. President</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lady from the Mountain.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc849400b34" data-hotvalue="234">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1385.webp" alt="Lady from the Mountain" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Lady from the Mountain</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Why Are You Crying?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84a0ba541" data-hotvalue="318">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1386.webp" alt="Why Are You Crying?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Why Are You Crying?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Husband 's Two-Faced Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84ad92bd6" data-hotvalue="298">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1387.webp" alt="Husband 's Two-Faced Life" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Husband 's Two-Faced Life</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Sorry, I'm the Lead.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84bb22060" data-hotvalue="364">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1388.webp" alt="Sorry, I'm the Lead" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Sorry, I'm the Lead</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Stand By Her.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84c75f3eb" data-hotvalue="485">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1389.webp" alt="Stand By Her" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Stand By Her</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Cleaner with a Billion-Dollar Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84d476544" data-hotvalue="497">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1390.webp" alt="The Cleaner with a Billion-Dollar Secret" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Cleaner with a Billion-Dollar Secret</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Timeless Love, Timely Met.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84e14ab97" data-hotvalue="929">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1391.webp" alt="Timeless Love, Timely Met" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Timeless Love, Timely Met</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/I Helped Myself from the Future.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84ee27630" data-hotvalue="965">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1392.webp" alt="I Helped Myself from the Future" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">I Helped Myself from the Future</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Once a Thief, Always a Thief.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc84fa930f3" data-hotvalue="481">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1393.webp" alt="Once a Thief, Always a Thief" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Once a Thief, Always a Thief</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Lord of the Night.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8507733f4" data-hotvalue="105">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1394.webp" alt="The Lord of the Night" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Lord of the Night</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Master Treasure Appraiser.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8513d7739" data-hotvalue="447">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1395.webp" alt="Master Treasure Appraiser" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Master Treasure Appraiser</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rhapsody of Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc852060241" data-hotvalue="205">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1396.webp" alt="Rhapsody of Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rhapsody of Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Outcast's Return.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc852d7ff10" data-hotvalue="542">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1397.webp" alt="The Outcast's Return" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Outcast's Return</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Shopping at Alien Supermarket.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc853a1d6cb" data-hotvalue="552">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1398.webp" alt="Shopping at Alien Supermarket" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Shopping at Alien Supermarket</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Dumped at the Altar, Crowned as the Heir.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8547f23c2" data-hotvalue="713">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1399.webp" alt="Dumped at the Altar, Crowned as the Heir" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Dumped at the Altar, Crowned as the Heir</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Fox Monster Gives Me Piercing Eyes.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85542fa89" data-hotvalue="831">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1400.webp" alt="The Fox Monster Gives Me Piercing Eyes" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Fox Monster Gives Me Piercing Eyes</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Liana's Urban Journey.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8560bee7e" data-hotvalue="828">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1401.webp" alt="Liana's Urban Journey" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Liana's Urban Journey</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Baby Girl.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc856d6aa06" data-hotvalue="878">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1402.webp" alt="My Baby Girl" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Baby Girl</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Oscar Winner Is My Ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc857a1f458" data-hotvalue="504">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1403.webp" alt="The Oscar Winner Is My Ex" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Oscar Winner Is My Ex</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Serving the Mistress.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc859066ed4" data-hotvalue="616">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1404.webp" alt="Serving the Mistress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Serving the Mistress</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jade's Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc859d7d3f5" data-hotvalue="811">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1405.webp" alt="Jade's Revenge" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jade's Revenge</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO’s Dramatic and Scheming Fiancée.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85a9e9efb" data-hotvalue="410">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1406.webp" alt="CEO’s Dramatic and Scheming Fiancée" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">CEO’s Dramatic and Scheming Fiancée</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/From Lost Heiress to Royal Highness.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85b7002b9" data-hotvalue="358">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1407.webp" alt="From Lost Heiress to Royal Highness" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">From Lost Heiress to Royal Highness</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Return of The Trillionaire Heir.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85d7cf4c2" data-hotvalue="316">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1408.webp" alt="Return of The Trillionaire Heir" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Return of The Trillionaire Heir</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Your Kinship Request, Sir.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85d123867" data-hotvalue="975">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1409.webp" alt="Your Kinship Request, Sir" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Your Kinship Request, Sir</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Longing Hearts.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85dd5b91c" data-hotvalue="828">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1410.webp" alt="Longing Hearts" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Longing Hearts</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Wild for My Boy Toy.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85ea4b04b" data-hotvalue="314">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1411.webp" alt="Wild for My Boy Toy" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Wild for My Boy Toy</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Invincible Asura Returns.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc85f75c521" data-hotvalue="990">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1412.webp" alt="Invincible Asura Returns" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Invincible Asura Returns</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Blossoming Rose.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc860405626" data-hotvalue="501">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1413.webp" alt="Blossoming Rose" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Blossoming Rose</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Married by Mistake.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8610f3e73" data-hotvalue="716">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1414.webp" alt="Married by Mistake" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Married by Mistake</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Destined for More.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc861daa3d2" data-hotvalue="854">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1415.webp" alt="Destined for More" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Destined for More</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Night That Tied Us Together.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86299f420" data-hotvalue="913">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1416.webp" alt="The Night That Tied Us Together" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Night That Tied Us Together</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Drunken Master.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8636a0057" data-hotvalue="148">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1417.webp" alt="The Drunken Master" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Drunken Master</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Harris's Frenzied Chase of Julia.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86436e452" data-hotvalue="387">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1418.webp" alt="Harris's Frenzied Chase of Julia" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Harris's Frenzied Chase of Julia</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Unexpected Love in the 70s.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86508da8e" data-hotvalue="894">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1419.webp" alt="Unexpected Love in the 70s" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Unexpected Love in the 70s</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Unreachable Yearns for My Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc865dc505e" data-hotvalue="410">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1420.webp" alt="Mr. Unreachable Yearns for My Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Unreachable Yearns for My Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Her Savior.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8669e954a" data-hotvalue="570">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1421.webp" alt="Her Savior" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Her Savior</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Romantic Kisses.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8677114fb" data-hotvalue="465">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1422.webp" alt="Romantic Kisses" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Romantic Kisses</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Grant Is Flaunting Himself Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc868321011" data-hotvalue="734">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1423.webp" alt="Mr. Grant Is Flaunting Himself Again" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Grant Is Flaunting Himself Again</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Tough Guy Boyfriend Is CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc869095335" data-hotvalue="939">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1424.webp" alt="My Tough Guy Boyfriend Is CEO" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Tough Guy Boyfriend Is CEO</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Boss's Sweet Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc869d88af7" data-hotvalue="848">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1425.webp" alt="The Boss's Sweet Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Boss's Sweet Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/From Guard to Heir.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86a9dc8ba" data-hotvalue="350">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1426.webp" alt="From Guard to Heir" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">From Guard to Heir</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The King of Entertainment.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86b6d4251" data-hotvalue="252">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1427.webp" alt="The King of Entertainment" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The King of Entertainment</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Bound by Love's Scars.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86c2c2375" data-hotvalue="415">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1428.webp" alt="Bound by Love's Scars" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Bound by Love's Scars</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Strucker Regrets the Divorce.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86cf9a540" data-hotvalue="544">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1429.webp" alt="Mr. Strucker Regrets the Divorce" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Strucker Regrets the Divorce</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Sibling's Tearful Plea.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86dcd3501" data-hotvalue="682">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1430.webp" alt="Sibling's Tearful Plea" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Sibling's Tearful Plea</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Moonlit Past Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86ea1833b" data-hotvalue="379">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1431.webp" alt="Moonlit Past Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Moonlit Past Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secrets of the Ginseng King.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc86f6d4ec6" data-hotvalue="858">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1432.webp" alt="Secrets of the Ginseng King" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Secrets of the Ginseng King</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Fatal Layoff.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc870393eac" data-hotvalue="314">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1433.webp" alt="A Fatal Layoff" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Fatal Layoff</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Security Guard Dad Turns Out to Be the World's Richest Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8710a2af6" data-hotvalue="568">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1434.webp" alt="Security Guard Dad Turns Out to Be the World's Richest Man" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Security Guard Dad Turns Out to Be the World's Richest Man</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fusion of Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc871c7837b" data-hotvalue="142">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1435.webp" alt="Fusion of Fate" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fusion of Fate</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/He Came Out of the Ruins.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87295e215" data-hotvalue="897">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1436.webp" alt="He Came Out of the Ruins" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">He Came Out of the Ruins</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Not the Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc873642090" data-hotvalue="512">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1437.webp" alt="I'm Not the Bride" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">I'm Not the Bride</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Billionaire's Baby.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8742638f2" data-hotvalue="704">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1438.webp" alt="Billionaire's Baby" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Billionaire's Baby</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mom Boss: Breaking Chains.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc874f794d2" data-hotvalue="713">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1439.webp" alt="Mom Boss: Breaking Chains" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mom Boss: Breaking Chains</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Throne's Havoc.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc875bc7b63" data-hotvalue="138">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1440.webp" alt="Throne's Havoc" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Throne's Havoc</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Never Ever Yours Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87692c3bc" data-hotvalue="988">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1441.webp" alt="Never Ever Yours Again" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Never Ever Yours Again</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Met You in the Winds.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8775a7d66" data-hotvalue="694">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1442.webp" alt="Met You in the Winds" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Met You in the Winds</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/(English-dubbed) My Death Brings Flames.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87829913e" data-hotvalue="398">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1443.webp" alt="(English-dubbed) My Death Brings Flames" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">(English-dubbed) My Death Brings Flames</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/PIck up a billionaire husband.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc878fb43b8" data-hotvalue="254">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1444.webp" alt="PIck up a billionaire husband" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">PIck up a billionaire husband</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Mom, the Surgical Prodigy.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc879c587b4" data-hotvalue="543">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1445.webp" alt="My Mom, the Surgical Prodigy" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Mom, the Surgical Prodigy</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Winning Over My Fussy Pregnant Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87a95f32c" data-hotvalue="895">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1446.webp" alt="Winning Over My Fussy Pregnant Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Winning Over My Fussy Pregnant Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Eat You Up, Mr.Ryan.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87b5a7fd7" data-hotvalue="936">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1447.webp" alt="Eat You Up, Mr.Ryan" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Eat You Up, Mr.Ryan</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Hermit Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87c26a131" data-hotvalue="831">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1448.webp" alt="Hermit Lord" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Hermit Lord</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Twisted Fate.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87cf1490c" data-hotvalue="725">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1449.webp" alt="Twisted Fate" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Twisted Fate</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A female CEO in Ancient Time.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87dc9c7fb" data-hotvalue="847">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1450.webp" alt="A female CEO in Ancient Time" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A female CEO in Ancient Time</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Tempted By Mafia Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87e9165e2" data-hotvalue="485">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1451.webp" alt="Tempted By Mafia Boss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Tempted By Mafia Boss</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ten Dates.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc87f5d80ab" data-hotvalue="498">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1452.webp" alt="Ten Dates" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ten Dates</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Love Protection Strategy.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8802da186" data-hotvalue="607">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1453.webp" alt="The Love Protection Strategy" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Love Protection Strategy</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ex's Bankruptcy Blues.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc880ff24e0" data-hotvalue="911">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1454.webp" alt="Ex's Bankruptcy Blues" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ex's Bankruptcy Blues</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Scorned Elite: The Kind Medic.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc881cc75c6" data-hotvalue="980">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1455.webp" alt="Scorned Elite: The Kind Medic" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Scorned Elite: The Kind Medic</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rewind: Another Life.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc882928150" data-hotvalue="286">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1456.webp" alt="Rewind: Another Life" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rewind: Another Life</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Unexpected Gift.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88361c562" data-hotvalue="225">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1457.webp" alt="Unexpected Gift" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Unexpected Gift</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Double Win: The Mason Boss.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88429689a" data-hotvalue="885">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1458.webp" alt="Double Win: The Mason Boss" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Double Win: The Mason Boss</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/In-womb Warrior.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88501af81" data-hotvalue="841">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1459.webp" alt="In-womb Warrior" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">In-womb Warrior</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Stop Daydreaming, Darling.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc885cb71ed" data-hotvalue="194">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1460.webp" alt="Stop Daydreaming, Darling" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Stop Daydreaming, Darling</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Marvelous Mrs. Moore.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc886892a13" data-hotvalue="671">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1461.webp" alt="The Marvelous Mrs. Moore" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Marvelous Mrs. Moore</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Heart's Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88759e8f3" data-hotvalue="437">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1462.webp" alt="The Heart's Secret" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Heart's Secret</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost Twin Sister.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88831b45d" data-hotvalue="802">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1463.webp" alt="Lost Twin Sister" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Lost Twin Sister</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Dad, Someone's Posing as Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88901b3c4" data-hotvalue="980">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1464.webp" alt="Dad, Someone's Posing as Me" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Dad, Someone's Posing as Me</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Phoenix Rising.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc889cbd759" data-hotvalue="908">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1465.webp" alt="Phoenix Rising" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Phoenix Rising</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/You're My Only.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88a9a8ca2" data-hotvalue="958">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1466.webp" alt="You're My Only" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">You're My Only</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Demon Sovereign, Time to Face Your Family.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88b684d16" data-hotvalue="870">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1467.webp" alt="Demon Sovereign, Time to Face Your Family" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Demon Sovereign, Time to Face Your Family</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm the Real Heiress.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88c31951e" data-hotvalue="177">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1468.webp" alt="I'm the Real Heiress" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">I'm the Real Heiress</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Time's Secret.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88d041ee5" data-hotvalue="950">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1469.webp" alt="Time's Secret" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Time's Secret</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Boss Lady's Level Up.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88dc9ce84" data-hotvalue="191">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1470.webp" alt="Boss Lady's Level Up" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Boss Lady's Level Up</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Amidst Disarray.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88e9065df" data-hotvalue="867">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1471.webp" alt="Love Amidst Disarray" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love Amidst Disarray</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Return to Stardom.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc88f5c68ef" data-hotvalue="387">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1472.webp" alt="Return to Stardom" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Return to Stardom</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Drowning in Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc890323709" data-hotvalue="697">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1473.webp" alt="Drowning in Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Drowning in Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Desires Die Hard.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc890fc4d92" data-hotvalue="126">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1474.webp" alt="Desires Die Hard" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Desires Die Hard</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love Found Again.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc891ca73c7" data-hotvalue="833">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1475.webp" alt="Love Found Again" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love Found Again</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Goodbye, Unrequited Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc892985d71" data-hotvalue="103">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1476.webp" alt="Goodbye, Unrequited Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Goodbye, Unrequited Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Doak's Untamed Rose.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8936c8ddc" data-hotvalue="458">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1477.webp" alt="Mr. Doak's Untamed Rose" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Doak's Untamed Rose</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Chasing Fame, Finding Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8942c8215" data-hotvalue="268">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1478.webp" alt="Chasing Fame, Finding Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Chasing Fame, Finding Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Irresistible Crush Loses Control.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc894f8873c" data-hotvalue="720">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1479.webp" alt="Irresistible Crush Loses Control" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Irresistible Crush Loses Control</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Second Chance at Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc895c85614" data-hotvalue="612">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1480.webp" alt="Second Chance at Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Second Chance at Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Gentle Pursuer.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8969512a1" data-hotvalue="367">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1481.webp" alt="The Gentle Pursuer" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Gentle Pursuer</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Liar Sweetheart Clemente's Pursuit of True Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89765ec7a" data-hotvalue="315">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1482.webp" alt="Liar Sweetheart Clemente's Pursuit of True Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Liar Sweetheart Clemente's Pursuit of True Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Wild Love of a Reserved Prince.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc898371839" data-hotvalue="468">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1483.webp" alt="Wild Love of a Reserved Prince" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Wild Love of a Reserved Prince</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Godness of War.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8990369fb" data-hotvalue="939">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1484.webp" alt="Godness of War" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Godness of War</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love From Crisis.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc899d40ca2" data-hotvalue="593">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1485.webp" alt="Love From Crisis" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love From Crisis</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Empress and Her Guardian.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89aa0a661" data-hotvalue="639">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1486.webp" alt="Empress and Her Guardian" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Empress and Her Guardian</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love’s Clandestine Waltz.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89b6acbc8" data-hotvalue="702">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1487.webp" alt="Love’s Clandestine Waltz" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love’s Clandestine Waltz</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Dance of Day and Night.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89c3e4ab0" data-hotvalue="304">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1488.webp" alt="The Dance of Day and Night" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Dance of Day and Night</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Dangerous Lover.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89d03b5e4" data-hotvalue="476">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1489.webp" alt="The Dangerous Lover" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Dangerous Lover</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Daily Wish to Remarry.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89dd4fadf" data-hotvalue="115">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1490.webp" alt="Daily Wish to Remarry" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Daily Wish to Remarry</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Father, A Hero Beyond Compare.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89e9cabe1" data-hotvalue="328">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1491.webp" alt="My Father, A Hero Beyond Compare" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Father, A Hero Beyond Compare</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Master, Let Me Go.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc89f6f1f67" data-hotvalue="979">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1492.webp" alt="Master, Let Me Go" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Master, Let Me Go</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Love's Sweet Revenge.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a031e2bb" data-hotvalue="312">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1493.webp" alt="Love's Sweet Revenge" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Love's Sweet Revenge</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Silent Retaliation.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a101c14e" data-hotvalue="135">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1494.webp" alt="Silent Retaliation" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Silent Retaliation</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/When the Wind Rises.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a1cf0330" data-hotvalue="814">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1495.webp" alt="When the Wind Rises" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">When the Wind Rises</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Falling for My Ex-Wife.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a2a6cea0" data-hotvalue="607">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1496.webp" alt="Falling for My Ex-Wife" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Falling for My Ex-Wife</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Return of Dragon Lord.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a372960f" data-hotvalue="675">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1497.webp" alt="The Return of Dragon Lord" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Return of Dragon Lord</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fury Unleashed.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a43cf39c" data-hotvalue="451">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1498.webp" alt="Fury Unleashed" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fury Unleashed</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The CEO's Only.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a50dc2a2" data-hotvalue="146">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1499.webp" alt="The CEO's Only" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The CEO's Only</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Family Binds, Unleashed Wrath.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a5d261a0" data-hotvalue="981">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1500.webp" alt="Family Binds, Unleashed Wrath" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Family Binds, Unleashed Wrath</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/CEO's Desperate Plea for Love.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a7376168" data-hotvalue="763">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1501.webp" alt="CEO's Desperate Plea for Love" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">CEO's Desperate Plea for Love</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fate Brought You to Me.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a802f115" data-hotvalue="770">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1502.webp" alt="Fate Brought You to Me" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fate Brought You to Me</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Rule-Breaking Bride.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a8ce964d" data-hotvalue="599">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1503.webp" alt="Rule-Breaking Bride" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Rule-Breaking Bride</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Flipped.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8a9a2355f" data-hotvalue="614">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1504.webp" alt="Flipped" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Flipped</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mr. Bowin Wanna Be Her Man.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8aa76ec55" data-hotvalue="424">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1505.webp" alt="Mr. Bowin Wanna Be Her Man" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mr. Bowin Wanna Be Her Man</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Meeting My Crush on a Blind Date.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8ab4d6a86" data-hotvalue="508">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1506.webp" alt="Meeting My Crush on a Blind Date" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Meeting My Crush on a Blind Date</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Deep Affections of the Untamed.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8ac092e25" data-hotvalue="737">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1507.webp" alt="Deep Affections of the Untamed" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Deep Affections of the Untamed</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/My Love From 700 Years Ago.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8acd6a204" data-hotvalue="500">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1508.webp" alt="My Love From 700 Years Ago" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">My Love From 700 Years Ago</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fatal Attraction.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8ada85573" data-hotvalue="858">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1509.webp" alt="Fatal Attraction" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fatal Attraction</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/I'm Done Pretending, My Sister Is the Richest.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8ae6c42f4" data-hotvalue="691">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1510.webp" alt="I'm Done Pretending, My Sister Is the Richest" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">I'm Done Pretending, My Sister Is the Richest</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lost Love, Buried Fortune.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8af380f62" data-hotvalue="982">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1511.webp" alt="Lost Love, Buried Fortune" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Lost Love, Buried Fortune</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Whispers of the Past.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8b009bfb6" data-hotvalue="768">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1512.webp" alt="Whispers of the Past" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Whispers of the Past</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/The Abandoned Poor Heiress Married a CEO.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bc8bac874c1" data-hotvalue="129">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1513.webp" alt="The Abandoned Poor Heiress Married a CEO" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">The Abandoned Poor Heiress Married a CEO</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Miss Most-favored's Counterattack.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c86c677b9b" data-hotvalue="747">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1514.webp" alt="Miss Most-favored's Counterattack" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Miss Most-favored's Counterattack</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mrs. President Comes to Work.mp4" data-commission="https://short.kalostv.com/api/short/jump/675c8d9628489" data-hotvalue="433">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="0/G1515.webp" alt="Mrs. President Comes to Work" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mrs. President Comes to Work</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
   ],
   "9": [
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Guardião Supremo do Dragão.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb7e3441d3" data-hotvalue="379">
@@ -33641,19 +29780,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Armadilha de amor para o pai bilionário das gémeas</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Porque está a chorar?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb83b9e7a2" data-hotvalue="757">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H8.webp" alt="Porque está a chorar?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Porque está a chorar?</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -33970,19 +30096,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Depois do divórcio: O doce sofrimento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9794a01a" data-hotvalue="743">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H33.webp" alt="Depois do divórcio: O doce sofrimento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Depois do divórcio: O doce sofrimento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O Chef Número Um do Mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9861bb4a" data-hotvalue="333">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -34178,19 +30291,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Divórcio: A deusa em ascensão.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba44e62c9" data-hotvalue="402">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H49.webp" alt="Divórcio: A deusa em ascensão" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Divórcio: A deusa em ascensão</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Avançar com a suinicultura.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba51d1ff9" data-hotvalue="200">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -34239,19 +30339,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">O Kampf de Miss Sherar</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jenna Wilder: A abanar o mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba84b6718" data-hotvalue="118">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H54.webp" alt="Jenna Wilder: A abanar o mundo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jenna Wilder: A abanar o mundo</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -34412,864 +30499,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Guardião Supremo do Dragão.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb7e3441d3" data-hotvalue="379">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H67.webp" alt="Guardião Supremo do Dragão" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Guardião Supremo do Dragão</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/As minhas irmãs pedem-me para voltar.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb7ef9fb38" data-hotvalue="626">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H68.webp" alt="As minhas irmãs pedem-me para voltar" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">As minhas irmãs pedem-me para voltar</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mestre da Espada.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb7fcb7d74" data-hotvalue="967">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H69.webp" alt="Mestre da Espada" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mestre da Espada</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Loja da Sorte.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8094d4d6" data-hotvalue="374">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H70.webp" alt="Loja da Sorte" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Loja da Sorte</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Ascensão da Fénix.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb815d141c" data-hotvalue="287">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H71.webp" alt="A Ascensão da Fénix" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Ascensão da Fénix</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Ele está de volta.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb82264a9c" data-hotvalue="464">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H72.webp" alt="Ele está de volta" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Ele está de volta</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Armadilha de amor para o pai bilionário das gémeas.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb82ebb8d3" data-hotvalue="319">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H73.webp" alt="Armadilha de amor para o pai bilionário das gémeas" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Armadilha de amor para o pai bilionário das gémeas</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Porque está a chorar?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb83b9e7a2" data-hotvalue="757">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H74.webp" alt="Porque está a chorar?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Porque está a chorar?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O Fim do Crepúsculo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8488dee2" data-hotvalue="134">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H75.webp" alt="O Fim do Crepúsculo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O Fim do Crepúsculo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Destinado ao Amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb855ed195" data-hotvalue="845">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H76.webp" alt="Destinado ao Amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Destinado ao Amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Glória Caída, Vingança Ascendente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb861ce99f" data-hotvalue="105">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H77.webp" alt="Glória Caída, Vingança Ascendente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Glória Caída, Vingança Ascendente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Encontro de aposentados.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb86eda28d" data-hotvalue="857">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H78.webp" alt="Encontro de aposentados" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Encontro de aposentados</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Cinco Anos, Amor Perdido.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb87bbb834" data-hotvalue="759">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H79.webp" alt="Cinco Anos, Amor Perdido" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Cinco Anos, Amor Perdido</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Desculpe, eu sou o líder.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb887f29f8" data-hotvalue="667">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H80.webp" alt="Desculpe, eu sou o líder" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Desculpe, eu sou o líder</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Fique ao lado dela.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb894d4e21" data-hotvalue="817">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H81.webp" alt="Fique ao lado dela" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Fique ao lado dela</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O Vencedor do Óscar é o Meu Ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8a13f436" data-hotvalue="122">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H82.webp" alt="O Vencedor do Óscar é o Meu Ex" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O Vencedor do Óscar é o Meu Ex</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A viagem urbana de Liana.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8addc283" data-hotvalue="440">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H83.webp" alt="A viagem urbana de Liana" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A viagem urbana de Liana</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Senhora Sorte e o seu pretendente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8baccd92" data-hotvalue="250">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H84.webp" alt="A Senhora Sorte e o seu pretendente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Senhora Sorte e o seu pretendente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A família une-se, a ira desencadeia-se.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8c7df87f" data-hotvalue="337">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H85.webp" alt="A família une-se, a ira desencadeia-se" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A família une-se, a ira desencadeia-se</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Corações saudosos.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8d4bb8c4" data-hotvalue="869">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H86.webp" alt="Corações saudosos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Corações saudosos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Minha Bebé.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8e08cf79" data-hotvalue="766">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H87.webp" alt="A Minha Bebé" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Minha Bebé</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O bebé do bilionário.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8ee1036d" data-hotvalue="824">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H88.webp" alt="O bebé do bilionário" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O bebé do bilionário</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Alfa, ela não era a tal.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb8fa37bb2" data-hotvalue="777">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H89.webp" alt="Alfa, ela não era a tal" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Alfa, ela não era a tal</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Eu te conheci no vento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9074c78f" data-hotvalue="895">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H90.webp" alt="Eu te conheci no vento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Eu te conheci no vento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Tentada pelo chefe da máfia.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9142257b" data-hotvalue="452">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H91.webp" alt="Tentada pelo chefe da máfia" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Tentada pelo chefe da máfia</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor fadado com o tio do meu noivo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb920c1320" data-hotvalue="556">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H92.webp" alt="Amor fadado com o tio do meu noivo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor fadado com o tio do meu noivo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/No dia do nosso casamento, a noiva não era eu.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb92d155af" data-hotvalue="274">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H93.webp" alt="No dia do nosso casamento, a noiva não era eu" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">No dia do nosso casamento, a noiva não era eu</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Conquistar a minha mulher grávida exigente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb93a1f92c" data-hotvalue="467">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H94.webp" alt="Conquistar a minha mulher grávida exigente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Conquistar a minha mulher grávida exigente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Senhora, o seu jovem mestre está a fazê-lo novamente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb946cd0c9" data-hotvalue="794">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H95.webp" alt="Senhora, o seu jovem mestre está a fazê-lo novamente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Senhora, o seu jovem mestre está a fazê-lo novamente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A Única do Diretor Executivo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9536b132" data-hotvalue="190">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H96.webp" alt="A Única do Diretor Executivo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A Única do Diretor Executivo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A raiva da herdeira.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9609a56a" data-hotvalue="567">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H97.webp" alt="A raiva da herdeira" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A raiva da herdeira</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O pedido desesperado de um diretor executivo por amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb96d84268" data-hotvalue="955">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H98.webp" alt="O pedido desesperado de um diretor executivo por amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O pedido desesperado de um diretor executivo por amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Depois do divórcio: O doce sofrimento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9794a01a" data-hotvalue="743">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H99.webp" alt="Depois do divórcio: O doce sofrimento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Depois do divórcio: O doce sofrimento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O Chef Número Um do Mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9861bb4a" data-hotvalue="333">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H100.webp" alt="O Chef Número Um do Mundo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O Chef Número Um do Mundo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A fênix dos homens.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb992c8c10" data-hotvalue="575">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H101.webp" alt="A fênix dos homens" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A fênix dos homens</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Papá, ele não me tem na sua vida.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9a03eace" data-hotvalue="920">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H102.webp" alt="Papá, ele não me tem na sua vida" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Papá, ele não me tem na sua vida</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor para além da divisão, Frenesi do filho.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9ac68977" data-hotvalue="886">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H103.webp" alt="Amor para além da divisão, Frenesi do filho" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor para além da divisão, Frenesi do filho</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Novo amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9b9d96d0" data-hotvalue="685">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H104.webp" alt="Novo amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Novo amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Quando os jasmins florescem.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9c5eec49" data-hotvalue="923">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H105.webp" alt="Quando os jasmins florescem" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Quando os jasmins florescem</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Nunca me apaixonei por ti.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9d2e007f" data-hotvalue="520">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H106.webp" alt="Nunca me apaixonei por ti" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Nunca me apaixonei por ti</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor perdido, felicidade enterrada.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9df5b9a4" data-hotvalue="362">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H107.webp" alt="Amor perdido, felicidade enterrada" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor perdido, felicidade enterrada</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A noiva a quebrar as regras.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9ec05c4f" data-hotvalue="442">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H108.webp" alt="A noiva a quebrar as regras" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A noiva a quebrar as regras</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Madame aus Village Abanando os ricos.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcb9f87dda9" data-hotvalue="887">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H109.webp" alt="Madame aus Village Abanando os ricos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Madame aus Village Abanando os ricos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Doces despojos de amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba0553ea9" data-hotvalue="662">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H110.webp" alt="Doces despojos de amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Doces despojos de amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O abismo do amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba126496e" data-hotvalue="179">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H111.webp" alt="O abismo do amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O abismo do amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jovens heróis.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba1e7a7d5" data-hotvalue="807">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H112.webp" alt="Jovens heróis" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jovens heróis</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/30 dias até ao divórcio.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba2b7f907" data-hotvalue="959">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H113.webp" alt="30 dias até ao divórcio" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">30 dias até ao divórcio</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Raiva e nascimento do dragão.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba381c0e3" data-hotvalue="330">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H114.webp" alt="Raiva e nascimento do dragão" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Raiva e nascimento do dragão</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Divórcio: A deusa em ascensão.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba44e62c9" data-hotvalue="402">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H115.webp" alt="Divórcio: A deusa em ascensão" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Divórcio: A deusa em ascensão</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Avançar com a suinicultura.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba51d1ff9" data-hotvalue="200">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H116.webp" alt="Avançar com a suinicultura" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Avançar com a suinicultura</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Piloto estoico, esposa calorosa.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba5e263a8" data-hotvalue="603">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H117.webp" alt="Piloto estoico, esposa calorosa" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Piloto estoico, esposa calorosa</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O seu amante regressa.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba6b28e3b" data-hotvalue="198">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H118.webp" alt="O seu amante regressa" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O seu amante regressa</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O Kampf de Miss Sherar.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba77b5afb" data-hotvalue="408">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H119.webp" alt="O Kampf de Miss Sherar" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O Kampf de Miss Sherar</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jenna Wilder: A abanar o mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba84b6718" data-hotvalue="118">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H120.webp" alt="Jenna Wilder: A abanar o mundo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jenna Wilder: A abanar o mundo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Senhor, a senhora tem um novo amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba9141f94" data-hotvalue="595">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H121.webp" alt="Senhor, a senhora tem um novo amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Senhor, a senhora tem um novo amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Os arrependimentos da Rainha do Gelo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcba9e22d28" data-hotvalue="183">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H122.webp" alt="Os arrependimentos da Rainha do Gelo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Os arrependimentos da Rainha do Gelo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mais uma vez em flor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbaab136e9" data-hotvalue="319">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H123.webp" alt="Mais uma vez em flor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mais uma vez em flor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O amor vence o estoico magnata.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbab786ee8" data-hotvalue="738">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H124.webp" alt="O amor vence o estoico magnata" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O amor vence o estoico magnata</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O amor de três noras.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbac47949a" data-hotvalue="771">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H125.webp" alt="O amor de três noras" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O amor de três noras</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Voltar ao início.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbad13e8b3" data-hotvalue="461">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H126.webp" alt="Voltar ao início" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Voltar ao início</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/A minha morte traz consigo as chamas.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbadd8bd7c" data-hotvalue="587">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H127.webp" alt="A minha morte traz consigo as chamas" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">A minha morte traz consigo as chamas</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Só eu posso salvar o vosso filho.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbaea9ce0d" data-hotvalue="269">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H128.webp" alt="Só eu posso salvar o vosso filho" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Só eu posso salvar o vosso filho</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/O amor infinito do tio.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbaf72c59d" data-hotvalue="314">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H129.webp" alt="O amor infinito do tio" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">O amor infinito do tio</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Depois do divórcio vem o amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb03c1dba" data-hotvalue="950">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H130.webp" alt="Depois do divórcio vem o amor" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Depois do divórcio vem o amor</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor para além de qualquer dúvida.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb10b5324" data-hotvalue="860">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H131.webp" alt="Amor para além de qualquer dúvida" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor para além de qualquer dúvida</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mimado por três irmãos.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb1d91b3b" data-hotvalue="206">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="9/H132.webp" alt="Mimado por três irmãos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mimado por três irmãos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
   ],
   "2": [
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Soy la esposa del Presidente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb2b44e51" data-hotvalue="797">
@@ -35294,19 +30523,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Te devoraré, Señor Rubén</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/¿Por qué estás llorando?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb44d4d72" data-hotvalue="333">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I3.webp" alt="¿Por qué estás llorando?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">¿Por qué estás llorando?</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -35532,19 +30748,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Después del divorcio: Dulce sufrimiento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc2a80ad4" data-hotvalue="167">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I21.webp" alt="Después del divorcio: Dulce sufrimiento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Después del divorcio: Dulce sufrimiento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El alborotador es el joven amo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc36e8d54" data-hotvalue="692">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -35727,19 +30930,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El héroe al descubierto.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcdcb4f01" data-hotvalue="653">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I35.webp" alt="El héroe al descubierto" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El héroe al descubierto</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor inmenso.mp4" data-commission="https://short.kalostv.com/api/short/jump/6772826bc971b" data-hotvalue="707">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -35788,19 +30978,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Remedio del vampiro</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Divorcio: La Diosa en Ascenso.mp4" data-commission="https://short.kalostv.com/api/short/jump/67728289c8a29" data-hotvalue="543">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I40.webp" alt="Divorcio: La Diosa en Ascenso" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Divorcio: La Diosa en Ascenso</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -35905,19 +31082,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">El amor siempre está aquí</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor rápido: El arrepentimiento del magnate.mp4" data-commission="https://short.kalostv.com/api/short/jump/677282cd6cf8a" data-hotvalue="262">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I49.webp" alt="Amor rápido: El arrepentimiento del magnate" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor rápido: El arrepentimiento del magnate</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -36104,19 +31268,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Justicia imperial: Sin piedad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca24091aae" data-hotvalue="885">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I64.webp" alt="Justicia imperial: Sin piedad" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Justicia imperial: Sin piedad</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El camino ascendente de una esposa.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca24a2fe03" data-hotvalue="621">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -36165,19 +31316,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Sólo yo puedo salvar a tu hijo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Matrimonio a los 40: mi segunda oportunidad.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2709c7e7" data-hotvalue="655">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I69.webp" alt="Matrimonio a los 40: mi segunda oportunidad" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Matrimonio a los 40: mi segunda oportunidad</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -36334,19 +31472,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Su magnate, mi mascota</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Segunda oportunidad en el amor: De sobrina a amante.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca2ed5a78a" data-hotvalue="904">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I82.webp" alt="Segunda oportunidad en el amor: De sobrina a amante" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Segunda oportunidad en el amor: De sobrina a amante</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -36542,19 +31667,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Trampa de amor de gemelos para papá millonario</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Después del divorcio: Me convierto en Luna del Alfa Híbrido.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca3870d6d6" data-hotvalue="671">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I98.webp" alt="Después del divorcio: Me convierto en Luna del Alfa Híbrido" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Después del divorcio: Me convierto en Luna del Alfa Híbrido</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -36832,19 +31944,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Magnate enamorado: Mimando a su mujer.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca45a2b3fc" data-hotvalue="218">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I120.webp" alt="Magnate enamorado: Mimando a su mujer" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Magnate enamorado: Mimando a su mujer</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Milagro en la noche de bodas.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca463bc720" data-hotvalue="842">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37118,19 +32217,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Transmigración Rápida: El Prota loco Celoso.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca5865f24c" data-hotvalue="998">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I142.webp" alt="Transmigración Rápida: El Prota loco Celoso" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Transmigración Rápida: El Prota loco Celoso</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mi esposo pobre revela su verdadera identidad..mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca58fdeb9a" data-hotvalue="260">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37287,19 +32373,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/¿Por qué mi rico marido me ama tanto?.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca602e18f8" data-hotvalue="662">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I155.webp" alt="¿Por qué mi rico marido me ama tanto?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">¿Por qué mi rico marido me ama tanto?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La cruel esposa pecadora.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca60c9116f" data-hotvalue="545">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37378,19 +32451,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Caliente y Picante: Transformación.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca645f2ff3" data-hotvalue="576">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I162.webp" alt="Caliente y Picante: Transformación" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Caliente y Picante: Transformación</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Los secretos del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca64f838fe" data-hotvalue="370">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37413,32 +32473,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Cinco tíos y yo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Domando lobos: La redención de una madre.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca662b7c5d" data-hotvalue="189">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I165.webp" alt="Domando lobos: La redención de una madre" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Domando lobos: La redención de una madre</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La Cenicienta Invencible: Sexy y atrevida.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca66c4cfa2" data-hotvalue="634">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I166.webp" alt="La Cenicienta Invencible: Sexy y atrevida" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La Cenicienta Invencible: Sexy y atrevida</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -37534,19 +32568,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Reversión: De paria a heredera.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6d5a1790" data-hotvalue="569">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I174.webp" alt="Reversión: De paria a heredera" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Reversión: De paria a heredera</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El último recurso del amor.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca6df38112" data-hotvalue="531">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37586,32 +32607,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El intercambio de la vida: los tormentos de mi marido rico.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca718c4fc0" data-hotvalue="926">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I178.webp" alt="El intercambio de la vida: los tormentos de mi marido rico" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El intercambio de la vida: los tormentos de mi marido rico</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Mirada Eterna: Mi bella amada.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca722521e1" data-hotvalue="753">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I179.webp" alt="Mirada Eterna: Mi bella amada" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Mirada Eterna: Mi bella amada</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Secretos bajo mi flash Matrimonio.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca72bee1da" data-hotvalue="765">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37647,19 +32642,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Dragón Monarca Intemporal</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Giro del destino: Mi marido, su tío.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca75241ddb" data-hotvalue="687">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I183.webp" alt="Giro del destino: Mi marido, su tío" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Giro del destino: Mi marido, su tío</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -37833,19 +32815,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Triple amenaza: Exceso de amor entre hermanos.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca81b333e8" data-hotvalue="257">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I197.webp" alt="Triple amenaza: Exceso de amor entre hermanos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Triple amenaza: Exceso de amor entre hermanos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La madre soltera revela su imagen de heredera.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca824d87ef" data-hotvalue="828">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -37855,19 +32824,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">La madre soltera revela su imagen de heredera</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Persiguiendo el amor: El sueño intacto.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca8417dccf" data-hotvalue="665">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I199.webp" alt="Persiguiendo el amor: El sueño intacto" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Persiguiendo el amor: El sueño intacto</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -37985,474 +32941,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">Déjame ir Sr. CEO</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Soy la esposa del Presidente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb2b44e51" data-hotvalue="797">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I209.webp" alt="Soy la esposa del Presidente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Soy la esposa del Presidente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Te devoraré, Señor Rubén.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb37cbb53" data-hotvalue="388">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I210.webp" alt="Te devoraré, Señor Rubén" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Te devoraré, Señor Rubén</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/¿Por qué estás llorando?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb44d4d72" data-hotvalue="333">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I211.webp" alt="¿Por qué estás llorando?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">¿Por qué estás llorando?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El ascenso de Fénix.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb516a9fc" data-hotvalue="767">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I212.webp" alt="El ascenso de Fénix" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El ascenso de Fénix</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Guía de autoayuda para la mediana edad.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb5deef40" data-hotvalue="129">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I213.webp" alt="Guía de autoayuda para la mediana edad" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Guía de autoayuda para la mediana edad</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Cinco años de amor perdido.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb6ad1d9d" data-hotvalue="671">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I214.webp" alt="Cinco años de amor perdido" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Cinco años de amor perdido</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Disculpa, pero yo soy la protagonista.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb77a3331" data-hotvalue="525">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I215.webp" alt="Disculpa, pero yo soy la protagonista" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Disculpa, pero yo soy la protagonista</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Permaneciendo a su lado.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb84153de" data-hotvalue="869">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I216.webp" alt="Permaneciendo a su lado" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Permaneciendo a su lado</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El viaje a la ciudad de Liliana.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb90acc77" data-hotvalue="530">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I217.webp" alt="El viaje a la ciudad de Liliana" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El viaje a la ciudad de Liliana</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La experta y su cariñoso pretendiente.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbb9d6ee61" data-hotvalue="510">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I218.webp" alt="La experta y su cariñoso pretendiente" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La experta y su cariñoso pretendiente</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El ganador del Oscar es mi ex.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbaa60fd9" data-hotvalue="751">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I219.webp" alt="El ganador del Oscar es mi ex" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El ganador del Oscar es mi ex</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Te echo de menos.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbb7a3ef7" data-hotvalue="975">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I220.webp" alt="Te echo de menos" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Te echo de menos</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/¡Qué chica tan obediente!.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbc413b59" data-hotvalue="473">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I221.webp" alt="¡Qué chica tan obediente!" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">¡Qué chica tan obediente!</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Te encontré entre el viento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbd0ceb57" data-hotvalue="886">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I222.webp" alt="Te encontré entre el viento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Te encontré entre el viento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El bebé del multimillonario.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbdd84f29" data-hotvalue="900">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I223.webp" alt="El bebé del multimillonario" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El bebé del multimillonario</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/No soy la novia.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbeae3626" data-hotvalue="356">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I224.webp" alt="No soy la novia" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">No soy la novia</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Alfa, ella no era la Elegida.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbbf7475ef" data-hotvalue="155">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I225.webp" alt="Alfa, ella no era la Elegida" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Alfa, ella no era la Elegida</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor predestinado con el tío de mi novio.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc03b9a7a" data-hotvalue="274">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I226.webp" alt="Amor predestinado con el tío de mi novio" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor predestinado con el tío de mi novio</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Tentado por el Jefe de la Mafia.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc10db9a9" data-hotvalue="266">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I227.webp" alt="Tentado por el Jefe de la Mafia" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Tentado por el Jefe de la Mafia</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Embarazada de gemelos, ¡qué difícil de calmar!.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc1d898a1" data-hotvalue="862">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I228.webp" alt="Embarazada de gemelos, ¡qué difícil de calmar!" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Embarazada de gemelos, ¡qué difícil de calmar!</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Después del divorcio: Dulce sufrimiento.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc2a80ad4" data-hotvalue="167">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I229.webp" alt="Después del divorcio: Dulce sufrimiento" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Después del divorcio: Dulce sufrimiento</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El alborotador es el joven amo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc36e8d54" data-hotvalue="692">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I230.webp" alt="El alborotador es el joven amo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El alborotador es el joven amo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Camino de ascenso.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc4368171" data-hotvalue="316">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I231.webp" alt="Camino de ascenso" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Camino de ascenso</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Nunca me enamoraré de ti.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc5043665" data-hotvalue="174">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I232.webp" alt="Nunca me enamoraré de ti" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Nunca me enamoraré de ti</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Papá me echa de menos en su vida.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc5d44a6a" data-hotvalue="764">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I233.webp" alt="Papá me echa de menos en su vida" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Papá me echa de menos en su vida</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Amor en tiempos de crisis.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc6a0b9ab" data-hotvalue="170">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I234.webp" alt="Amor en tiempos de crisis" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Amor en tiempos de crisis</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La única del jefe.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc76d08c8" data-hotvalue="630">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I235.webp" alt="La única del jefe" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La única del jefe</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El mejor chef del mundo.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc836307d" data-hotvalue="496">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I236.webp" alt="El mejor chef del mundo" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El mejor chef del mundo</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Lazos familiares, ira desatada.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc9022b61" data-hotvalue="549">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I237.webp" alt="Lazos familiares, ira desatada" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Lazos familiares, ira desatada</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El arrepentimiento tardío de mis amadas.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbc9d6f0ce" data-hotvalue="774">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I238.webp" alt="El arrepentimiento tardío de mis amadas" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El arrepentimiento tardío de mis amadas</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La señora de la aldea sacude al rico.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcaa04a2c" data-hotvalue="123">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I239.webp" alt="La señora de la aldea sacude al rico" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La señora de la aldea sacude al rico</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/La novia rebelde.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcb67b109" data-hotvalue="396">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I240.webp" alt="La novia rebelde" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">La novia rebelde</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/¡Hola, he vuelto!.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcc34a102" data-hotvalue="229">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I241.webp" alt="¡Hola, he vuelto!" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">¡Hola, he vuelto!</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/Jóvenes héroes.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcd025241" data-hotvalue="851">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I242.webp" alt="Jóvenes héroes" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">Jóvenes héroes</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El héroe al descubierto.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcdcb4f01" data-hotvalue="941">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I243.webp" alt="El héroe al descubierto" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El héroe al descubierto</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/El héroe al descubierto.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcbcdcb4f01" data-hotvalue="653">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="2/I243.webp" alt="El héroe al descubierto" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">El héroe al descubierto</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -39018,565 +33506,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/لماذا تبكي؟.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc371e87be" data-hotvalue="742">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J44.webp" alt="لماذا تبكي؟" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">لماذا تبكي؟</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/صعود العنقاء.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc37eea957" data-hotvalue="127">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J45.webp" alt="صعود العنقاء" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">صعود العنقاء</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/متجر لاكي ستور.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc38be4374" data-hotvalue="244">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J46.webp" alt="متجر لاكي ستور" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">متجر لاكي ستور</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/أنا السيدة الرئيسة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc398a58b7" data-hotvalue="116">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J47.webp" alt="أنا السيدة الرئيسة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">أنا السيدة الرئيسة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/مدللة من قبل ثلاثة أشقاء.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3a569207" data-hotvalue="842">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J48.webp" alt="مدللة من قبل ثلاثة أشقاء" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">مدللة من قبل ثلاثة أشقاء</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/لقد عاد.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3b22ca0a" data-hotvalue="474">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J49.webp" alt="لقد عاد" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">لقد عاد</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/نهاية الشفق.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3bea7671" data-hotvalue="279">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J50.webp" alt="نهاية الشفق" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">نهاية الشفق</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/تقاعد المتقاعد مرة أخرى.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3cb5346d" data-hotvalue="300">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J51.webp" alt="تقاعد المتقاعد مرة أخرى" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">تقاعد المتقاعد مرة أخرى</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/خمس سنوات، حب ضائع.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3d8493db" data-hotvalue="146">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J52.webp" alt="خمس سنوات، حب ضائع" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">خمس سنوات، حب ضائع</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/معلم السيف.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3e4ab2b3" data-hotvalue="605">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J53.webp" alt="معلم السيف" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">معلم السيف</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/التفوق صعود العامية.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3f157dfa" data-hotvalue="201">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J54.webp" alt="التفوق صعود العامية" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">التفوق صعود العامية</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/لا تقع في حبك أبدًا.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc3fe0f1fb" data-hotvalue="408">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J55.webp" alt="لا تقع في حبك أبدًا" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">لا تقع في حبك أبدًا</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/سيدة من قرية تهز الأغنياء.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc40a8a109" data-hotvalue="501">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J56.webp" alt="سيدة من قرية تهز الأغنياء" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">سيدة من قرية تهز الأغنياء</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/حارس التنين السامي.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4184a1da" data-hotvalue="479">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J57.webp" alt="حارس التنين السامي" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">حارس التنين السامي</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/أخواتي يتوسلن إليّ بالعودة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4249afa5" data-hotvalue="781">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J58.webp" alt="أخواتي يتوسلن إليّ بالعودة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">أخواتي يتوسلن إليّ بالعودة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/آسفة، أنا الرائدة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc430e4fda" data-hotvalue="997">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J59.webp" alt="آسفة، أنا الرائدة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">آسفة، أنا الرائدة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/قف بجانبها.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc43db9ae3" data-hotvalue="446">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J60.webp" alt="قف بجانبها" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">قف بجانبها</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/رحلة ليانا الحضرية.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc44ad4812" data-hotvalue="318">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J61.webp" alt="رحلة ليانا الحضرية" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">رحلة ليانا الحضرية</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/موتي يجلب اللهب.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc45781580" data-hotvalue="835">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J62.webp" alt="موتي يجلب اللهب" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">موتي يجلب اللهب</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/سيدة الحظ وعشيقها العاشق.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc46458c41" data-hotvalue="908">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J63.webp" alt="سيدة الحظ وعشيقها العاشق" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">سيدة الحظ وعشيقها العاشق</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/الروابط العائلية، غضب بلا حدود.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4712bbcd" data-hotvalue="703">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J64.webp" alt="الروابط العائلية، غضب بلا حدود" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">الروابط العائلية، غضب بلا حدود</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/شوق القلوب.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc47de1ff5" data-hotvalue="903">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J65.webp" alt="شوق القلوب" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">شوق القلوب</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/طفلتي الصغيرة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc48a6cd1d" data-hotvalue="879">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J66.webp" alt="طفلتي الصغيرة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">طفلتي الصغيرة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/منذ العصور القديمة، وُلد الأبطال صغارًا.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4977f46f" data-hotvalue="556">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J67.webp" alt="منذ العصور القديمة، وُلد الأبطال صغارًا" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">منذ العصور القديمة، وُلد الأبطال صغارًا</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/طفل الملياردير.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4a416ab9" data-hotvalue="522">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J68.webp" alt="طفل الملياردير" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">طفل الملياردير</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/قابلتك في مهب الريح.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4b115542" data-hotvalue="203">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J69.webp" alt="قابلتك في مهب الريح" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">قابلتك في مهب الريح</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/يوم الزفاف ، العروس ليست لي.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4bda5b88" data-hotvalue="579">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J70.webp" alt="يوم الزفاف ، العروس ليست لي" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">يوم الزفاف ، العروس ليست لي</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/التغلب على زوجتي الحامل صعبة الإرضاء.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4ca0be7c" data-hotvalue="998">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J71.webp" alt="التغلب على زوجتي الحامل صعبة الإرضاء" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">التغلب على زوجتي الحامل صعبة الإرضاء</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/سيدتي، سيدك الشاب يفعل ذلك مرة أخرى.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4d73a64b" data-hotvalue="120">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J72.webp" alt="سيدتي، سيدك الشاب يفعل ذلك مرة أخرى" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">سيدتي، سيدك الشاب يفعل ذلك مرة أخرى</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/الحب من الأزمة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4e3e5fb2" data-hotvalue="133">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J73.webp" alt="الحب من الأزمة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">الحب من الأزمة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/المدير التنفيذي فقط.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4f02bf52" data-hotvalue="526">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J74.webp" alt="المدير التنفيذي فقط" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">المدير التنفيذي فقط</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/غضب الوريثات.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc4fd0b1a4" data-hotvalue="775">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J75.webp" alt="غضب الوريثات" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">غضب الوريثات</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/التماس المدير التنفيذي اليائس للحب.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc50a4b141" data-hotvalue="927">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J76.webp" alt="التماس المدير التنفيذي اليائس للحب" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">التماس المدير التنفيذي اليائس للحب</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/بعد الطلاق المعاناة الحلوة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5171071e" data-hotvalue="413">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J77.webp" alt="بعد الطلاق المعاناة الحلوة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">بعد الطلاق المعاناة الحلوة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/الياسمين في حالة ازدهار.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc52346da2" data-hotvalue="960">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J78.webp" alt="الياسمين في حالة ازدهار" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">الياسمين في حالة ازدهار</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/ثلاثون يومًا للعد التنازلي لفترة التهدئة.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5308b619" data-hotvalue="343">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J79.webp" alt="ثلاثون يومًا للعد التنازلي لفترة التهدئة" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">ثلاثون يومًا للعد التنازلي لفترة التهدئة</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/ندم ملكة الثلج.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc53d0c998" data-hotvalue="754">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J80.webp" alt="ندم ملكة الثلج" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">ندم ملكة الثلج</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/مرة أخرى، في إزهار مرة أخرى.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc54967c54" data-hotvalue="615">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J81.webp" alt="مرة أخرى، في إزهار مرة أخرى" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">مرة أخرى، في إزهار مرة أخرى</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/الحب يضرب المغول الرزين.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc55679d11" data-hotvalue="394">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J82.webp" alt="الحب يضرب المغول الرزين" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">الحب يضرب المغول الرزين</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/حب ثلاث ضرائر.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc563dd4b7" data-hotvalue="788">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J83.webp" alt="حب ثلاث ضرائر" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">حب ثلاث ضرائر</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/أعظم طباخ في العالم.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc570ae589" data-hotvalue="237">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J84.webp" alt="أعظم طباخ في العالم" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">أعظم طباخ في العالم</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/أعظم موهبة في العالم.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc57c2353f" data-hotvalue="761">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J85.webp" alt="أعظم موهبة في العالم" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">أعظم موهبة في العالم</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/أبي، إنه يفتقدني في حياته.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc588d55db" data-hotvalue="196">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="10/J86.webp" alt="أبي، إنه يفتقدني في حياته" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">أبي، إنه يفتقدني في حياته</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
   ],
   "4": [
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/봉황의 굴기.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc59654f39" data-hotvalue="576">
@@ -39670,19 +33599,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/왜 우는 거야?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5ef6c0ba" data-hotvalue="668">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K8.webp" alt="왜 우는 거야?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">왜 우는 거야?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/5년, 잃어버린 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5fbee4f1" data-hotvalue="902">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -39770,32 +33686,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">우리 엄마, 외과의 천재다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/후퇴: 또 다른 삶.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc65538e13" data-hotvalue="569">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K16.webp" alt="후퇴: 또 다른 삶" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">후퇴: 또 다른 삶</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/명의 엄마: 족쇄를 깨다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6626caae" data-hotvalue="173">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K17.webp" alt="명의 엄마: 족쇄를 깨다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">명의 엄마: 족쇄를 깨다</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -39900,19 +33790,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">고대 시대의 여 사장님</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 후: 달콤한 고통.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6d4d1740" data-hotvalue="112">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K26.webp" alt="이혼 후: 달콤한 고통" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">이혼 후: 달콤한 고통</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -40342,19 +34219,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">양돈업과 함께 궐기해라</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼후: 여신의 굴기.mp4" data-commission="https://short.kalostv.com/api/short/jump/67728858b7f7b" data-hotvalue="428">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K60.webp" alt="이혼후: 여신의 굴기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">이혼후: 여신의 굴기</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -40801,19 +34665,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/황제의 정의: 자비가 없다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca94d92e2e" data-hotvalue="206">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K95.webp" alt="황제의 정의: 자비가 없다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">황제의 정의: 자비가 없다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/그의 애인이 돌아왔다.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca957367bd" data-hotvalue="930">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -40849,19 +34700,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">권투 챔피언</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/N일: 초라한 CEO 보호하기.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca973d295b" data-hotvalue="621">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K99.webp" alt="N일: 초라한 CEO 보호하기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">N일: 초라한 CEO 보호하기</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -40914,19 +34752,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">금욕 도련님이 빤진다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/패권:평민의 궐기.mp4" data-commission="https://short.kalostv.com/api/short/jump/675ca9a3b8342" data-hotvalue="224">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K104.webp" alt="패권:평민의 궐기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">패권:평민의 궐기</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -41070,32 +34895,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">궁전에서의 농업</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/겨울 구원:딸의 지도하에.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa16c1277" data-hotvalue="990">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K116.webp" alt="겨울 구원:딸의 지도하에" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">겨울 구원:딸의 지도하에</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑의 두 번째 기회: 조카에서 애인으로.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa205dd5e" data-hotvalue="751">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K117.webp" alt="사랑의 두 번째 기회: 조카에서 애인으로" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">사랑의 두 번째 기회: 조카에서 애인으로</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -42660,32 +36459,6 @@ const thumbnailsData = {
         <button class=" preview-btn"> preview</button>
       </div>
     </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/무적: 섹시하고 당당한 신데렐라.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caf027b1d4" data-hotvalue="110">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K238.webp" alt="무적: 섹시하고 당당한 신데렐라" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">무적: 섹시하고 당당한 신데렐라</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/늑대 길들이기: 어머니의 구원.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caf0e6f2d6" data-hotvalue="921">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K239.webp" alt="늑대 길들이기: 어머니의 구원" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">늑대 길들이기: 어머니의 구원</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
     `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/비밀스러운 남편.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caf18cdbaf" data-hotvalue="167">
       <!-- 缩略图区域，点击跳转佣金链接 -->
       <div class="thumb-image">
@@ -42734,19 +36507,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">몰락의 영광, 시작된 복수</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/반전: 상속녀로 변신한 추방자.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caf47d2c79" data-hotvalue="222">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K244.webp" alt="반전: 상속녀로 변신한 추방자" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">반전: 상속녀로 변신한 추방자</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
@@ -42877,734 +36637,6 @@ const thumbnailsData = {
       <div class="episode-info">
         <!-- 剧集名称，点击跳转佣金链接 -->
         <span class="episode-title">싱글 엄마의 숨길 수 없는 정체</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/봉황의 굴기.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc59654f39" data-hotvalue="576">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K255.webp" alt="봉황의 굴기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">봉황의 굴기</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑의 밀물과 썰물.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5a2cbbf5" data-hotvalue="455">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K256.webp" alt="사랑의 밀물과 썰물" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">사랑의 밀물과 썰물</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/안주인을 모시다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5afcee78" data-hotvalue="448">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K257.webp" alt="안주인을 모시다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">안주인을 모시다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/저는 사장부인다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5bc744e6" data-hotvalue="320">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K258.webp" alt="저는 사장부인다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">저는 사장부인다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/라이언 너 내거야.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5c93caf1" data-hotvalue="373">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K259.webp" alt="라이언 너 내거야" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">라이언 너 내거야</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/쌍둥이의 사랑 함정.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5d612d60" data-hotvalue="595">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K260.webp" alt="쌍둥이의 사랑 함정" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">쌍둥이의 사랑 함정</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/그녀는 나를 가장 사랑한다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5e23276f" data-hotvalue="539">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K261.webp" alt="그녀는 나를 가장 사랑한다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">그녀는 나를 가장 사랑한다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/왜 우는 거야?.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5ef6c0ba" data-hotvalue="668">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K262.webp" alt="왜 우는 거야?" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">왜 우는 거야?</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/5년, 잃어버린 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc5fbee4f1" data-hotvalue="902">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K263.webp" alt="5년, 잃어버린 사랑" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">5년, 잃어버린 사랑</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/중년 자활지침서.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc608c9532" data-hotvalue="509">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K264.webp" alt="중년 자활지침서" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">중년 자활지침서</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/미안, 내가 주인공이야.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc615629d6" data-hotvalue="486">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K265.webp" alt="미안, 내가 주인공이야" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">미안, 내가 주인공이야</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/며느리를 지켜준다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc62314b3b" data-hotvalue="529">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K266.webp" alt="며느리를 지켜준다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">며느리를 지켜준다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/홍잔디의 도시 여행.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc62e5802c" data-hotvalue="443">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K267.webp" alt="홍잔디의 도시 여행" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">홍잔디의 도시 여행</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/마이 베이비 걸.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc63b8ab32" data-hotvalue="255">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K268.webp" alt="마이 베이비 걸" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">마이 베이비 걸</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/우리 엄마, 외과의 천재다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6487d9af" data-hotvalue="132">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K269.webp" alt="우리 엄마, 외과의 천재다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">우리 엄마, 외과의 천재다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/후퇴: 또 다른 삶.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc65538e13" data-hotvalue="569">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K270.webp" alt="후퇴: 또 다른 삶" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">후퇴: 또 다른 삶</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/명의 엄마: 족쇄를 깨다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6626caae" data-hotvalue="173">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K271.webp" alt="명의 엄마: 족쇄를 깨다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">명의 엄마: 족쇄를 깨다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/갈망하는 마음.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc66e7252e" data-hotvalue="630">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K272.webp" alt="갈망하는 마음" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">갈망하는 마음</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/활짝 핀 장미.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc67b0c9e4" data-hotvalue="480">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K273.webp" alt="활짝 핀 장미" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">활짝 핀 장미</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/바람 속에서 당신을 만나다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc68857811" data-hotvalue="150">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K274.webp" alt="바람 속에서 당신을 만나다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">바람 속에서 당신을 만나다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/억만장자의 아기.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc694882dd" data-hotvalue="241">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K275.webp" alt="억만장자의 아기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">억만장자의 아기</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/난 신부가 아니야.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6a199a70" data-hotvalue="586">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K276.webp" alt="난 신부가 아니야" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">난 신부가 아니야</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/쌍둥이 임신부는 달래기가 매우 어렵다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6aee844b" data-hotvalue="607">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K277.webp" alt="쌍둥이 임신부는 달래기가 매우 어렵다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">쌍둥이 임신부는 달래기가 매우 어렵다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/행운의 여신.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6c65777a" data-hotvalue="305">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K278.webp" alt="행운의 여신" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">행운의 여신</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/고대 시대의 여 사장님.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6c73164b" data-hotvalue="628">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K279.webp" alt="고대 시대의 여 사장님" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">고대 시대의 여 사장님</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 후: 달콤한 고통.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6d4d1740" data-hotvalue="112">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K280.webp" alt="이혼 후: 달콤한 고통" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">이혼 후: 달콤한 고통</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/이혼 후 전남편은 또 파산했다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6e1af1b5" data-hotvalue="850">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K281.webp" alt="이혼 후 전남편은 또 파산했다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">이혼 후 전남편은 또 파산했다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/혼란 속의 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6ee50394" data-hotvalue="694">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K282.webp" alt="혼란 속의 사랑" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">혼란 속의 사랑</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/시간의 비밀.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc6fb42998" data-hotvalue="895">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K283.webp" alt="시간의 비밀" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">시간의 비밀</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/가족의 이름으로.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc707b705e" data-hotvalue="420">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K284.webp" alt="가족의 이름으로" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">가족의 이름으로</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/당신은 나의 유일.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc714de8d3" data-hotvalue="580">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K285.webp" alt="당신은 나의 유일" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">당신은 나의 유일</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/사랑 보호 전략.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7214576b" data-hotvalue="369">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K286.webp" alt="사랑 보호 전략" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">사랑 보호 전략</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/관계를 끊은 후 아들의 당황해.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc72df160f" data-hotvalue="283">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K287.webp" alt="관계를 끊은 후 아들의 당황해" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">관계를 끊은 후 아들의 당황해</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/명문가에 어리석은 아내.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc73acd238" data-hotvalue="623">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K288.webp" alt="명문가에 어리석은 아내" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">명문가에 어리석은 아내</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/춤 하나로 도시를 사로잡다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc747c3956" data-hotvalue="685">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K289.webp" alt="춤 하나로 도시를 사로잡다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">춤 하나로 도시를 사로잡다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/황자의 거침없는 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc753d07a4" data-hotvalue="627">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K290.webp" alt="황자의 거침없는 사랑" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">황자의 거침없는 사랑</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/상속자의 분노.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc760c86b3" data-hotvalue="578">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K291.webp" alt="상속자의 분노" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">상속자의 분노</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/인재 중의 봉황.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc76db11ab" data-hotvalue="686">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K292.webp" alt="인재 중의 봉황" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">인재 중의 봉황</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/전쟁의 여신.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc77a38a87" data-hotvalue="394">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K293.webp" alt="전쟁의 여신" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">전쟁의 여신</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/중독성 있는 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc786acdac" data-hotvalue="949">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K294.webp" alt="중독성 있는 사랑" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">중독성 있는 사랑</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/트러블 메이커는 도련님다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7943cfbe" data-hotvalue="266">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K295.webp" alt="트러블 메이커는 도련님다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">트러블 메이커는 도련님다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/위기에서 사랑하기.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7a07deb5" data-hotvalue="861">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K296.webp" alt="위기에서 사랑하기" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">위기에서 사랑하기</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/분노에 찬 반격.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7ad9cf4b" data-hotvalue="334">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K297.webp" alt="분노에 찬 반격" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">분노에 찬 반격</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/너여야만 해.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7ba2daed" data-hotvalue="440">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K298.webp" alt="너여야만 해" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">너여야만 해</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/세계 최고의 요리사.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7c6944c5" data-hotvalue="318">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K299.webp" alt="세계 최고의 요리사" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">세계 최고의 요리사</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/아빠가 놓친 운명.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7d3bde08" data-hotvalue="761">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K300.webp" alt="아빠가 놓친 운명" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">아빠가 놓친 운명</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/달콤한 사랑.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7e092545" data-hotvalue="180">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K301.webp" alt="달콤한 사랑" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">달콤한 사랑</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/풀려난 분노.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7ed3fb98" data-hotvalue="705">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K302.webp" alt="풀려난 분노" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">풀려난 분노</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/세 큰인물은 우리 오빠이다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc7f9a0e91" data-hotvalue="150">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K303.webp" alt="세 큰인물은 우리 오빠이다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">세 큰인물은 우리 오빠이다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/잃어버린 사랑, 묻혀버린 행운.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc8069cb52" data-hotvalue="861">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K304.webp" alt="잃어버린 사랑, 묻혀버린 행운" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">잃어버린 사랑, 묻혀버린 행운</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/여대생 부잣집에 시집간다.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc8133270f" data-hotvalue="514">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K305.webp" alt="여대생 부잣집에 시집간다" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">여대생 부잣집에 시집간다</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/규칙을 깬 신부.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc820364f0" data-hotvalue="338">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K306.webp" alt="규칙을 깬 신부" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">규칙을 깬 신부</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/여대생의 반전 인생.mp4" data-commission="https://short.kalostv.com/api/short/jump/67bcc82cdc891" data-hotvalue="661">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K307.webp" alt="여대생의 반전 인생" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">여대생의 반전 인생</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/분노와 룡의 탄생.mp4" data-commission="https://short.kalostv.com/api/short/jump/67728885c1915" data-hotvalue="731">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K308.webp" alt="분노와 룡의 탄생" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">분노와 룡의 탄생</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/버림받은 후의 반격.mp4" data-commission="https://short.kalostv.com/api/short/jump/675caa03b3c35" data-hotvalue="546">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K309.webp" alt="버림받은 후의 반격" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">버림받은 후의 반격</span>
-        <!-- “点击预览”按钮，点击后播放视频 -->
-        <button class=" preview-btn"> preview</button>
-      </div>
-    </div>`,
-    `    <div class="thumbnail" data-video="https://cdn.cocomovie.top/도련님의 침묵의 기다림.mp4" data-commission="https://short.kalostv.com/api/short/jump/675cab2c67a5f" data-hotvalue="273">
-      <!-- 缩略图区域，点击跳转佣金链接 -->
-      <div class="thumb-image">
-        <img src="4/K310.webp" alt="도련님의 침묵의 기다림" loading="lazy" />
-      </div>
-      <!-- 剧集信息区域 -->
-      <div class="episode-info">
-        <!-- 剧集名称，点击跳转佣金链接 -->
-        <span class="episode-title">도련님의 침묵의 기다림</span>
         <!-- “点击预览”按钮，点击后播放视频 -->
         <button class=" preview-btn"> preview</button>
       </div>
