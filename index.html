@@ -195,19 +195,40 @@
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
-			gap: 10px;
+			gap: 18px;
 		}
 
 		.thumbnail {
+			/* 保持原先的属性，只在这里加 position: relative 以便伪元素定位 */
+			position: relative;
 			border: 1px solid #ddd;
-			border-radius: 8px;
+			border-radius: 15px;
 			overflow: hidden;
-			margin: 10px;
+			margin: 18px;
 			display: flex;
 			flex-direction: column;
 			background: #fff;
 			width: 30%;
 			box-sizing: border-box;
+		}
+
+		/* 使用伪元素显示火焰图标 + 热度值 */
+		.thumbnail::before {
+			/* 用 Emoji 表示火焰图标，后面拼接 data-hotvalue 数字 */
+			content: "🔥 " attr(data-hotvalue);
+			position: absolute;
+			top: 5px;
+			left: 5px;
+			/* 红底白字 */
+			background-color: red;
+			color: #fff;
+			/* 字体调大一些 */
+			font-size: 16px;
+			font-weight: bold;
+			/* 设置一些内边距和圆角，让徽标更好看 */
+			padding: 4px 8px;
+			border-radius: 4px;
+			z-index: 10;
 		}
 
 		.thumb-image {
@@ -483,6 +504,8 @@
 					<option value="6">German</option>
 					<option value="7">Thai</option>
 					<option value="8">Traditional Chinese</option>
+					<option value="9">Portuguese</option>
+					<option value="10">Arabic</option>
 				</select>
 				<input class="search-input" id="searchInput" onkeyup="filterThumbnails()" placeholder="Search Drama"
 					type="text" />
